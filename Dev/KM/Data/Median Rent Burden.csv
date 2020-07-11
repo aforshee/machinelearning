@@ -1,0 +1,916 @@
+"Name","Median Rent Burden"
+"Description","Median rent as a percentage of household income in the past year for renter occupied households.&nbsp;"
+"Source Notes","<span style=""font-size: 19px; font-family: GestaCond-Regular, GestaCond-Regular, Tahoma, Arial, sans-serif; color: #333333;""></span>U.S. Census Bureau, American Community Survey 1-Year Estimates, Table B25071&nbsp;(2005-2018); retrieved from&nbsp;<a href=""https://data.census.gov/"" target=""_blank"">https://data.census.gov/</a>."
+"Notes",""
+
+Location,TimeFrame,DataFormat,Data,Fips
+Riverdale,2017,Percent,0.34,208
+Williamsbridge,2017,Percent,0.347,212
+Throgs Neck,2017,Percent,0.289,210
+Pelham Parkway,2017,Percent,0.376,211
+Morrisania,2017,Percent,0.348,203
+East Tremont,2017,Percent,0.348,206
+Bedford Park,2017,Percent,0.41,207
+University Heights,2017,Percent,0.417,205
+Concourse/Highbridge,2017,Percent,0.389,204
+Unionport/Soundview,2017,Percent,0.341,209
+Mott Haven,2017,Percent,0.38,201
+Hunts Point,2017,Percent,0.38,202
+Washington Heights,2017,Percent,0.3,112
+Manhattanville,2017,Percent,0.326,109
+Central Harlem,2017,Percent,0.287,110
+East Harlem,2017,Percent,0.295,111
+Upper East Side,2017,Percent,0.248,108
+Upper West Side,2017,Percent,0.222,107
+Chelsea/Clinton,2017,Percent,0.255,104
+Midtown Business District,2017,Percent,0.255,105
+Murray Hill/Stuyvesant,2017,Percent,0.267,106
+Lower East Side,2017,Percent,0.313,103
+Battery Park/Tribeca,2017,Percent,0.23,101
+Greenwich Village,2017,Percent,0.23,102
+Tottenville,2017,Percent,0.329,503
+South Beach,2017,Percent,0.292,502
+St. George,2017,Percent,0.366,501
+Williamsburg/Greenpoint,2017,Percent,0.298,301
+Bushwick,2017,Percent,0.33,304
+Bedford Stuyvesant,2017,Percent,0.306,303
+Fort Greene/Brooklyn Hts,2017,Percent,0.259,302
+Park Slope,2017,Percent,0.235,306
+Crown Heights North,2017,Percent,0.303,308
+Brownsville,2017,Percent,0.477,316
+East New York,2017,Percent,0.367,305
+Canarsie,2017,Percent,0.297,318
+East Flatbush,2017,Percent,0.364,317
+Crown Heights South,2017,Percent,0.338,309
+Sunset Park,2017,Percent,0.319,307
+Bay Ridge,2017,Percent,0.31,310
+Borough Park,2017,Percent,0.439,312
+Flatbush/Midwood,2017,Percent,0.344,314
+Sheepshead Bay,2017,Percent,0.337,315
+Bensonhurst,2017,Percent,0.363,311
+Coney Island,2017,Percent,0.346,313
+Astoria,2017,Percent,0.275,401
+Jackson Heights,2017,Percent,0.367,403
+Flushing,2017,Percent,0.418,407
+Bayside,2017,Percent,0.39,411
+Queens Village,2017,Percent,0.29,413
+Fresh Meadows/Briarwood,2017,Percent,0.333,408
+Elmhurst/Corona,2017,Percent,0.338,404
+Rego Park/Forest Hills,2017,Percent,0.296,406
+Sunnyside/Woodside,2017,Percent,0.31,402
+Ridgewood/Glendale,2017,Percent,0.285,405
+Woodhaven,2017,Percent,0.308,409
+Jamaica/St. Albans,2017,Percent,0.341,412
+Howard Beach,2017,Percent,0.333,410
+The Rockaways,2017,Percent,0.298,414
+Bronx,2017,Percent,0.368,36005
+Brooklyn,2017,Percent,0.327,36047
+Manhattan,2017,Percent,0.273,36061
+Queens,2017,Percent,0.322,36081
+Staten Island,2017,Percent,0.334,36085
+New York City,2017,Percent,0.317,3651000
+Riverdale,2016,Percent,0.349,208
+Williamsbridge,2016,Percent,0.348,212
+Throgs Neck,2016,Percent,0.296,210
+Pelham Parkway,2016,Percent,0.326,211
+Morrisania,2016,Percent,0.356,203
+East Tremont,2016,Percent,0.356,206
+Bedford Park,2016,Percent,0.373,207
+University Heights,2016,Percent,0.392,205
+Concourse/Highbridge,2016,Percent,0.357,204
+Unionport/Soundview,2016,Percent,0.34,209
+Mott Haven,2016,Percent,0.348,201
+Hunts Point,2016,Percent,0.348,202
+Washington Heights,2016,Percent,0.301,112
+Manhattanville,2016,Percent,0.326,109
+Central Harlem,2016,Percent,0.295,110
+East Harlem,2016,Percent,0.287,111
+Upper East Side,2016,Percent,0.271,108
+Upper West Side,2016,Percent,0.26,107
+Chelsea/Clinton,2016,Percent,0.261,104
+Midtown Business District,2016,Percent,0.261,105
+Murray Hill/Stuyvesant,2016,Percent,0.277,106
+Lower East Side,2016,Percent,0.303,103
+Battery Park/Tribeca,2016,Percent,0.236,101
+Greenwich Village,2016,Percent,0.236,102
+Tottenville,2016,Percent,0.25,503
+South Beach,2016,Percent,0.337,502
+St. George,2016,Percent,0.365,501
+Williamsburg/Greenpoint,2016,Percent,0.301,301
+Bushwick,2016,Percent,0.337,304
+Bedford Stuyvesant,2016,Percent,0.32,303
+Fort Greene/Brooklyn Hts,2016,Percent,0.262,302
+Park Slope,2016,Percent,0.248,306
+Crown Heights North,2016,Percent,0.317,308
+Brownsville,2016,Percent,0.381,316
+East New York,2016,Percent,0.331,305
+Canarsie,2016,Percent,0.3,318
+East Flatbush,2016,Percent,0.334,317
+Crown Heights South,2016,Percent,0.319,309
+Sunset Park,2016,Percent,0.333,307
+Bay Ridge,2016,Percent,0.315,310
+Borough Park,2016,Percent,0.48,312
+Flatbush/Midwood,2016,Percent,0.352,314
+Sheepshead Bay,2016,Percent,0.332,315
+Bensonhurst,2016,Percent,0.354,311
+Coney Island,2016,Percent,0.33,313
+Astoria,2016,Percent,0.286,401
+Jackson Heights,2016,Percent,0.387,403
+Flushing,2016,Percent,0.435,407
+Bayside,2016,Percent,0.318,411
+Queens Village,2016,Percent,0.316,413
+Fresh Meadows/Briarwood,2016,Percent,0.333,408
+Elmhurst/Corona,2016,Percent,0.402,404
+Rego Park/Forest Hills,2016,Percent,0.324,406
+Sunnyside/Woodside,2016,Percent,0.312,402
+Ridgewood/Glendale,2016,Percent,0.272,405
+Woodhaven,2016,Percent,0.351,409
+Jamaica/St. Albans,2016,Percent,0.327,412
+Howard Beach,2016,Percent,0.371,410
+The Rockaways,2016,Percent,0.328,414
+Bronx,2016,Percent,0.349,36005
+Brooklyn,2016,Percent,0.323,36047
+Manhattan,2016,Percent,0.281,36061
+Queens,2016,Percent,0.332,36081
+Staten Island,2016,Percent,0.338,36085
+New York City,2016,Percent,0.319,3651000
+Riverdale,2015,Percent,0.295,208
+Williamsbridge,2015,Percent,0.35,212
+Throgs Neck,2015,Percent,0.319,210
+Pelham Parkway,2015,Percent,0.357,211
+Morrisania,2015,Percent,0.358,203
+East Tremont,2015,Percent,0.358,206
+Bedford Park,2015,Percent,0.391,207
+University Heights,2015,Percent,0.42,205
+Concourse/Highbridge,2015,Percent,0.399,204
+Unionport/Soundview,2015,Percent,0.35,209
+Mott Haven,2015,Percent,0.333,201
+Hunts Point,2015,Percent,0.333,202
+Washington Heights,2015,Percent,0.325,112
+Manhattanville,2015,Percent,0.338,109
+Central Harlem,2015,Percent,0.282,110
+East Harlem,2015,Percent,0.295,111
+Upper East Side,2015,Percent,0.287,108
+Upper West Side,2015,Percent,0.25,107
+Chelsea/Clinton,2015,Percent,0.257,104
+Midtown Business District,2015,Percent,0.257,105
+Murray Hill/Stuyvesant,2015,Percent,0.289,106
+Lower East Side,2015,Percent,0.311,103
+Battery Park/Tribeca,2015,Percent,0.252,101
+Greenwich Village,2015,Percent,0.252,102
+Tottenville,2015,Percent,0.262,503
+South Beach,2015,Percent,0.324,502
+St. George,2015,Percent,0.344,501
+Williamsburg/Greenpoint,2015,Percent,0.285,301
+Bushwick,2015,Percent,0.334,304
+Bedford Stuyvesant,2015,Percent,0.325,303
+Fort Greene/Brooklyn Hts,2015,Percent,0.263,302
+Park Slope,2015,Percent,0.249,306
+Crown Heights North,2015,Percent,0.312,308
+Brownsville,2015,Percent,0.344,316
+East New York,2015,Percent,0.34,305
+Canarsie,2015,Percent,0.311,318
+East Flatbush,2015,Percent,0.327,317
+Crown Heights South,2015,Percent,0.346,309
+Sunset Park,2015,Percent,0.368,307
+Bay Ridge,2015,Percent,0.289,310
+Borough Park,2015,Percent,0.439,312
+Flatbush/Midwood,2015,Percent,0.349,314
+Sheepshead Bay,2015,Percent,0.33,315
+Bensonhurst,2015,Percent,0.331,311
+Coney Island,2015,Percent,0.327,313
+Astoria,2015,Percent,0.295,401
+Jackson Heights,2015,Percent,0.363,403
+Flushing,2015,Percent,0.427,407
+Bayside,2015,Percent,0.281,411
+Queens Village,2015,Percent,0.296,413
+Fresh Meadows/Briarwood,2015,Percent,0.298,408
+Elmhurst/Corona,2015,Percent,0.406,404
+Rego Park/Forest Hills,2015,Percent,0.31,406
+Sunnyside/Woodside,2015,Percent,0.315,402
+Ridgewood/Glendale,2015,Percent,0.31,405
+Woodhaven,2015,Percent,0.354,409
+Jamaica/St. Albans,2015,Percent,0.324,412
+Howard Beach,2015,Percent,0.306,410
+The Rockaways,2015,Percent,0.315,414
+Bronx,2015,Percent,0.356,36005
+Brooklyn,2015,Percent,0.321,36047
+Manhattan,2015,Percent,0.289,36061
+Queens,2015,Percent,0.33,36081
+Staten Island,2015,Percent,0.326,36085
+New York City,2015,Percent,0.32,3651000
+Riverdale,2014,Percent,0.335,208
+Williamsbridge,2014,Percent,0.399,212
+Throgs Neck,2014,Percent,0.274,210
+Pelham Parkway,2014,Percent,0.332,211
+Morrisania,2014,Percent,0.372,203
+East Tremont,2014,Percent,0.372,206
+Bedford Park,2014,Percent,0.367,207
+University Heights,2014,Percent,0.456,205
+Concourse/Highbridge,2014,Percent,0.397,204
+Unionport/Soundview,2014,Percent,0.359,209
+Mott Haven,2014,Percent,0.349,201
+Hunts Point,2014,Percent,0.349,202
+Washington Heights,2014,Percent,0.328,112
+Manhattanville,2014,Percent,0.32,109
+Central Harlem,2014,Percent,0.298,110
+East Harlem,2014,Percent,0.309,111
+Upper East Side,2014,Percent,0.254,108
+Upper West Side,2014,Percent,0.274,107
+Chelsea/Clinton,2014,Percent,0.259,104
+Midtown Business District,2014,Percent,0.259,105
+Murray Hill/Stuyvesant,2014,Percent,0.276,106
+Lower East Side,2014,Percent,0.29,103
+Battery Park/Tribeca,2014,Percent,0.26,101
+Greenwich Village,2014,Percent,0.26,102
+Tottenville,2014,Percent,0.352,503
+South Beach,2014,Percent,0.329,502
+St. George,2014,Percent,0.367,501
+Williamsburg/Greenpoint,2014,Percent,0.319,301
+Bushwick,2014,Percent,0.344,304
+Bedford Stuyvesant,2014,Percent,0.337,303
+Fort Greene/Brooklyn Hts,2014,Percent,0.263,302
+Park Slope,2014,Percent,0.242,306
+Crown Heights North,2014,Percent,0.319,308
+Brownsville,2014,Percent,0.399,316
+East New York,2014,Percent,0.366,305
+Canarsie,2014,Percent,0.333,318
+East Flatbush,2014,Percent,0.364,317
+Crown Heights South,2014,Percent,0.377,309
+Sunset Park,2014,Percent,0.382,307
+Bay Ridge,2014,Percent,0.322,310
+Borough Park,2014,Percent,0.435,312
+Flatbush/Midwood,2014,Percent,0.34,314
+Sheepshead Bay,2014,Percent,0.357,315
+Bensonhurst,2014,Percent,0.356,311
+Coney Island,2014,Percent,0.342,313
+Astoria,2014,Percent,0.306,401
+Jackson Heights,2014,Percent,0.371,403
+Flushing,2014,Percent,0.394,407
+Bayside,2014,Percent,0.291,411
+Queens Village,2014,Percent,0.335,413
+Fresh Meadows/Briarwood,2014,Percent,0.355,408
+Elmhurst/Corona,2014,Percent,0.395,404
+Rego Park/Forest Hills,2014,Percent,0.317,406
+Sunnyside/Woodside,2014,Percent,0.344,402
+Ridgewood/Glendale,2014,Percent,0.29,405
+Woodhaven,2014,Percent,0.337,409
+Jamaica/St. Albans,2014,Percent,0.374,412
+Howard Beach,2014,Percent,0.412,410
+The Rockaways,2014,Percent,0.333,414
+Bronx,2014,Percent,0.363,36005
+Brooklyn,2014,Percent,0.338,36047
+Manhattan,2014,Percent,0.284,36061
+Queens,2014,Percent,0.344,36081
+Staten Island,2014,Percent,0.347,36085
+New York City,2014,Percent,0.327,3651000
+Riverdale,2013,Percent,0.299,208
+Williamsbridge,2013,Percent,0.345,212
+Throgs Neck,2013,Percent,0.288,210
+Pelham Parkway,2013,Percent,0.32,211
+Morrisania,2013,Percent,0.344,203
+East Tremont,2013,Percent,0.344,206
+Bedford Park,2013,Percent,0.4,207
+University Heights,2013,Percent,0.425,205
+Concourse/Highbridge,2013,Percent,0.422,204
+Unionport/Soundview,2013,Percent,0.327,209
+Mott Haven,2013,Percent,0.333,201
+Hunts Point,2013,Percent,0.333,202
+Washington Heights,2013,Percent,0.348,112
+Manhattanville,2013,Percent,0.315,109
+Central Harlem,2013,Percent,0.319,110
+East Harlem,2013,Percent,0.311,111
+Upper East Side,2013,Percent,0.28,108
+Upper West Side,2013,Percent,0.255,107
+Chelsea/Clinton,2013,Percent,0.273,104
+Midtown Business District,2013,Percent,0.273,105
+Murray Hill/Stuyvesant,2013,Percent,0.251,106
+Lower East Side,2013,Percent,0.296,103
+Battery Park/Tribeca,2013,Percent,0.241,101
+Greenwich Village,2013,Percent,0.241,102
+Tottenville,2013,Percent,0.307,503
+South Beach,2013,Percent,0.343,502
+St. George,2013,Percent,0.322,501
+Williamsburg/Greenpoint,2013,Percent,0.294,301
+Bushwick,2013,Percent,0.327,304
+Bedford Stuyvesant,2013,Percent,0.343,303
+Fort Greene/Brooklyn Hts,2013,Percent,0.264,302
+Park Slope,2013,Percent,0.252,306
+Crown Heights North,2013,Percent,0.335,308
+Brownsville,2013,Percent,0.348,316
+East New York,2013,Percent,0.327,305
+Canarsie,2013,Percent,0.308,318
+East Flatbush,2013,Percent,0.382,317
+Crown Heights South,2013,Percent,0.318,309
+Sunset Park,2013,Percent,0.358,307
+Bay Ridge,2013,Percent,0.297,310
+Borough Park,2013,Percent,0.467,312
+Flatbush/Midwood,2013,Percent,0.359,314
+Sheepshead Bay,2013,Percent,0.353,315
+Bensonhurst,2013,Percent,0.331,311
+Coney Island,2013,Percent,0.339,313
+Astoria,2013,Percent,0.298,401
+Jackson Heights,2013,Percent,0.371,403
+Flushing,2013,Percent,0.373,407
+Bayside,2013,Percent,0.313,411
+Queens Village,2013,Percent,0.313,413
+Fresh Meadows/Briarwood,2013,Percent,0.372,408
+Elmhurst/Corona,2013,Percent,0.369,404
+Rego Park/Forest Hills,2013,Percent,0.332,406
+Sunnyside/Woodside,2013,Percent,0.296,402
+Ridgewood/Glendale,2013,Percent,0.314,405
+Woodhaven,2013,Percent,0.317,409
+Jamaica/St. Albans,2013,Percent,0.348,412
+Howard Beach,2013,Percent,0.351,410
+The Rockaways,2013,Percent,0.349,414
+Bronx,2013,Percent,0.349,36005
+Brooklyn,2013,Percent,0.327,36047
+Manhattan,2013,Percent,0.287,36061
+Queens,2013,Percent,0.336,36081
+Staten Island,2013,Percent,0.33,36085
+New York City,2013,Percent,0.322,3651000
+Riverdale,2012,Percent,0.319,208
+Williamsbridge,2012,Percent,0.34,212
+Throgs Neck,2012,Percent,0.306,210
+Pelham Parkway,2012,Percent,0.344,211
+Morrisania,2012,Percent,0.392,203
+East Tremont,2012,Percent,0.392,206
+Bedford Park,2012,Percent,0.402,207
+University Heights,2012,Percent,0.452,205
+Concourse/Highbridge,2012,Percent,0.346,204
+Unionport/Soundview,2012,Percent,0.342,209
+Mott Haven,2012,Percent,0.377,201
+Hunts Point,2012,Percent,0.377,202
+Washington Heights,2012,Percent,0.337,112
+Manhattanville,2012,Percent,0.315,109
+Central Harlem,2012,Percent,0.309,110
+East Harlem,2012,Percent,0.301,111
+Upper East Side,2012,Percent,0.25,108
+Upper West Side,2012,Percent,0.271,107
+Chelsea/Clinton,2012,Percent,0.276,104
+Midtown Business District,2012,Percent,0.276,105
+Murray Hill/Stuyvesant,2012,Percent,0.265,106
+Lower East Side,2012,Percent,0.309,103
+Battery Park/Tribeca,2012,Percent,0.266,101
+Greenwich Village,2012,Percent,0.266,102
+Tottenville,2012,Percent,0.246,503
+South Beach,2012,Percent,0.344,502
+St. George,2012,Percent,0.352,501
+Williamsburg/Greenpoint,2012,Percent,0.296,301
+Bushwick,2012,Percent,0.351,304
+Bedford Stuyvesant,2012,Percent,0.325,303
+Fort Greene/Brooklyn Hts,2012,Percent,0.272,302
+Park Slope,2012,Percent,0.262,306
+Crown Heights North,2012,Percent,0.307,308
+Brownsville,2012,Percent,0.376,316
+East New York,2012,Percent,0.331,305
+Canarsie,2012,Percent,0.326,318
+East Flatbush,2012,Percent,0.331,317
+Crown Heights South,2012,Percent,0.371,309
+Sunset Park,2012,Percent,0.376,307
+Bay Ridge,2012,Percent,0.322,310
+Borough Park,2012,Percent,0.422,312
+Flatbush/Midwood,2012,Percent,0.353,314
+Sheepshead Bay,2012,Percent,0.327,315
+Bensonhurst,2012,Percent,0.3,311
+Coney Island,2012,Percent,0.327,313
+Astoria,2012,Percent,0.296,401
+Jackson Heights,2012,Percent,0.375,403
+Flushing,2012,Percent,0.36,407
+Bayside,2012,Percent,0.365,411
+Queens Village,2012,Percent,0.325,413
+Fresh Meadows/Briarwood,2012,Percent,0.319,408
+Elmhurst/Corona,2012,Percent,0.383,404
+Rego Park/Forest Hills,2012,Percent,0.319,406
+Sunnyside/Woodside,2012,Percent,0.342,402
+Ridgewood/Glendale,2012,Percent,0.325,405
+Woodhaven,2012,Percent,0.344,409
+Jamaica/St. Albans,2012,Percent,0.377,412
+Howard Beach,2012,Percent,0.362,410
+The Rockaways,2012,Percent,0.313,414
+Bronx,2012,Percent,0.36,36005
+Brooklyn,2012,Percent,0.327,36047
+Manhattan,2012,Percent,0.286,36061
+Queens,2012,Percent,0.338,36081
+Staten Island,2012,Percent,0.324,36085
+New York City,2012,Percent,0.322,3651000
+Riverdale,2011,Percent,0.315,208
+Williamsbridge,2011,Percent,0.38,212
+Throgs Neck,2011,Percent,0.312,210
+Pelham Parkway,2011,Percent,0.356,211
+Morrisania,2011,Percent,0.377,203
+East Tremont,2011,Percent,0.377,206
+Bedford Park,2011,Percent,0.399,207
+University Heights,2011,Percent,0.376,205
+Concourse/Highbridge,2011,Percent,0.435,204
+Unionport/Soundview,2011,Percent,0.334,209
+Mott Haven,2011,Percent,0.346,201
+Hunts Point,2011,Percent,0.346,202
+Washington Heights,2011,Percent,0.325,112
+Manhattanville,2011,Percent,0.321,109
+Central Harlem,2011,Percent,0.295,110
+East Harlem,2011,Percent,0.302,111
+Upper East Side,2011,Percent,0.267,108
+Upper West Side,2011,Percent,0.27,107
+Chelsea/Clinton,2011,Percent,0.284,104
+Midtown Business District,2011,Percent,0.284,105
+Murray Hill/Stuyvesant,2011,Percent,0.267,106
+Lower East Side,2011,Percent,0.298,103
+Battery Park/Tribeca,2011,Percent,0.244,101
+Greenwich Village,2011,Percent,0.244,102
+Tottenville,2011,Percent,0.244,503
+South Beach,2011,Percent,0.284,502
+St. George,2011,Percent,0.324,501
+Williamsburg/Greenpoint,2011,Percent,0.305,301
+Bushwick,2011,Percent,0.363,304
+Bedford Stuyvesant,2011,Percent,0.344,303
+Fort Greene/Brooklyn Hts,2011,Percent,0.29,302
+Park Slope,2011,Percent,0.264,306
+Crown Heights North,2011,Percent,0.327,308
+Brownsville,2011,Percent,0.339,316
+East New York,2011,Percent,0.344,305
+Canarsie,2011,Percent,0.335,318
+East Flatbush,2011,Percent,0.354,317
+Crown Heights South,2011,Percent,0.351,309
+Sunset Park,2011,Percent,0.333,307
+Bay Ridge,2011,Percent,0.313,310
+Borough Park,2011,Percent,0.5,312
+Flatbush/Midwood,2011,Percent,0.359,314
+Sheepshead Bay,2011,Percent,0.362,315
+Bensonhurst,2011,Percent,0.339,311
+Coney Island,2011,Percent,0.363,313
+Astoria,2011,Percent,0.315,401
+Jackson Heights,2011,Percent,0.376,403
+Flushing,2011,Percent,0.388,407
+Bayside,2011,Percent,0.34,411
+Queens Village,2011,Percent,0.325,413
+Fresh Meadows/Briarwood,2011,Percent,0.323,408
+Elmhurst/Corona,2011,Percent,0.359,404
+Rego Park/Forest Hills,2011,Percent,0.288,406
+Sunnyside/Woodside,2011,Percent,0.341,402
+Ridgewood/Glendale,2011,Percent,0.329,405
+Woodhaven,2011,Percent,0.349,409
+Jamaica/St. Albans,2011,Percent,0.373,412
+Howard Beach,2011,Percent,0.378,410
+The Rockaways,2011,Percent,0.303,414
+Bronx,2011,Percent,0.358,36005
+Brooklyn,2011,Percent,0.336,36047
+Manhattan,2011,Percent,0.285,36061
+Queens,2011,Percent,0.34,36081
+Staten Island,2011,Percent,0.297,36085
+New York City,2011,Percent,0.325,3651000
+Riverdale,2010,Percent,0.303,208
+Williamsbridge,2010,Percent,0.338,212
+Throgs Neck,2010,Percent,0.272,210
+Pelham Parkway,2010,Percent,0.315,211
+Morrisania,2010,Percent,0.354,203
+East Tremont,2010,Percent,0.354,206
+Bedford Park,2010,Percent,0.417,207
+University Heights,2010,Percent,0.38,205
+Concourse/Highbridge,2010,Percent,0.377,204
+Unionport/Soundview,2010,Percent,0.312,209
+Mott Haven,2010,Percent,0.343,201
+Hunts Point,2010,Percent,0.343,202
+Washington Heights,2010,Percent,0.301,112
+Manhattanville,2010,Percent,0.333,109
+Central Harlem,2010,Percent,0.295,110
+East Harlem,2010,Percent,0.307,111
+Upper East Side,2010,Percent,0.27,108
+Upper West Side,2010,Percent,0.266,107
+Chelsea/Clinton,2010,Percent,0.259,104
+Midtown Business District,2010,Percent,0.259,105
+Murray Hill/Stuyvesant,2010,Percent,0.273,106
+Lower East Side,2010,Percent,0.3,103
+Battery Park/Tribeca,2010,Percent,0.249,101
+Greenwich Village,2010,Percent,0.249,102
+Tottenville,2010,Percent,0.328,503
+South Beach,2010,Percent,0.309,502
+St. George,2010,Percent,0.362,501
+Williamsburg/Greenpoint,2010,Percent,0.312,301
+Bushwick,2010,Percent,0.333,304
+Bedford Stuyvesant,2010,Percent,0.338,303
+Fort Greene/Brooklyn Hts,2010,Percent,0.265,302
+Park Slope,2010,Percent,0.279,306
+Crown Heights North,2010,Percent,0.321,308
+Brownsville,2010,Percent,0.337,316
+East New York,2010,Percent,0.333,305
+Canarsie,2010,Percent,0.274,318
+East Flatbush,2010,Percent,0.346,317
+Crown Heights South,2010,Percent,0.346,309
+Sunset Park,2010,Percent,0.336,307
+Bay Ridge,2010,Percent,0.325,310
+Borough Park,2010,Percent,0.446,312
+Flatbush/Midwood,2010,Percent,0.339,314
+Sheepshead Bay,2010,Percent,0.318,315
+Bensonhurst,2010,Percent,0.364,311
+Coney Island,2010,Percent,0.352,313
+Astoria,2010,Percent,0.315,401
+Jackson Heights,2010,Percent,0.369,403
+Flushing,2010,Percent,0.343,407
+Bayside,2010,Percent,0.3,411
+Queens Village,2010,Percent,0.353,413
+Fresh Meadows/Briarwood,2010,Percent,0.298,408
+Elmhurst/Corona,2010,Percent,0.399,404
+Rego Park/Forest Hills,2010,Percent,0.362,406
+Sunnyside/Woodside,2010,Percent,0.335,402
+Ridgewood/Glendale,2010,Percent,0.322,405
+Woodhaven,2010,Percent,0.319,409
+Jamaica/St. Albans,2010,Percent,0.348,412
+Howard Beach,2010,Percent,0.414,410
+The Rockaways,2010,Percent,0.325,414
+Bronx,2010,Percent,0.342,36005
+Brooklyn,2010,Percent,0.328,36047
+Manhattan,2010,Percent,0.282,36061
+Queens,2010,Percent,0.336,36081
+Staten Island,2010,Percent,0.335,36085
+New York City,2010,Percent,0.319,3651000
+Riverdale,2009,Percent,0.278,208
+Williamsbridge,2009,Percent,0.318,212
+Throgs Neck,2009,Percent,0.286,210
+Pelham Parkway,2009,Percent,0.29,211
+Morrisania,2009,Percent,0.371,203
+East Tremont,2009,Percent,0.371,206
+Bedford Park,2009,Percent,0.361,207
+University Heights,2009,Percent,0.388,205
+Concourse/Highbridge,2009,Percent,0.329,204
+Unionport/Soundview,2009,Percent,0.315,209
+Mott Haven,2009,Percent,0.326,201
+Hunts Point,2009,Percent,0.326,202
+Washington Heights,2009,Percent,0.327,112
+Manhattanville,2009,Percent,0.311,109
+Central Harlem,2009,Percent,0.295,110
+East Harlem,2009,Percent,0.287,111
+Upper East Side,2009,Percent,0.26,108
+Upper West Side,2009,Percent,0.236,107
+Chelsea/Clinton,2009,Percent,0.258,104
+Midtown Business District,2009,Percent,0.258,105
+Murray Hill/Stuyvesant,2009,Percent,0.255,106
+Lower East Side,2009,Percent,0.306,103
+Battery Park/Tribeca,2009,Percent,0.256,101
+Greenwich Village,2009,Percent,0.256,102
+Tottenville,2009,Percent,0.272,503
+South Beach,2009,Percent,0.371,502
+St. George,2009,Percent,0.357,501
+Williamsburg/Greenpoint,2009,Percent,0.319,301
+Bushwick,2009,Percent,0.349,304
+Bedford Stuyvesant,2009,Percent,0.336,303
+Fort Greene/Brooklyn Hts,2009,Percent,0.255,302
+Park Slope,2009,Percent,0.255,306
+Crown Heights North,2009,Percent,0.292,308
+Brownsville,2009,Percent,0.363,316
+East New York,2009,Percent,0.349,305
+Canarsie,2009,Percent,0.29,318
+East Flatbush,2009,Percent,0.331,317
+Crown Heights South,2009,Percent,0.334,309
+Sunset Park,2009,Percent,0.362,307
+Bay Ridge,2009,Percent,0.318,310
+Borough Park,2009,Percent,0.383,312
+Flatbush/Midwood,2009,Percent,0.332,314
+Sheepshead Bay,2009,Percent,0.314,315
+Bensonhurst,2009,Percent,0.319,311
+Coney Island,2009,Percent,0.321,313
+Astoria,2009,Percent,0.295,401
+Jackson Heights,2009,Percent,0.319,403
+Flushing,2009,Percent,0.337,407
+Bayside,2009,Percent,0.321,411
+Queens Village,2009,Percent,0.29,413
+Fresh Meadows/Briarwood,2009,Percent,0.286,408
+Elmhurst/Corona,2009,Percent,0.353,404
+Rego Park/Forest Hills,2009,Percent,0.299,406
+Sunnyside/Woodside,2009,Percent,0.28,402
+Ridgewood/Glendale,2009,Percent,0.315,405
+Woodhaven,2009,Percent,0.323,409
+Jamaica/St. Albans,2009,Percent,0.314,412
+Howard Beach,2009,Percent,0.302,410
+The Rockaways,2009,Percent,0.302,414
+Bronx,2009,Percent,0.33,36005
+Brooklyn,2009,Percent,0.32,36047
+Manhattan,2009,Percent,0.274,36061
+Queens,2009,Percent,0.309,36081
+Staten Island,2009,Percent,0.344,36085
+New York City,2009,Percent,0.306,3651000
+Riverdale,2008,Percent,0.262,208
+Williamsbridge,2008,Percent,0.305,212
+Throgs Neck,2008,Percent,0.262,210
+Pelham Parkway,2008,Percent,0.303,211
+Morrisania,2008,Percent,0.349,203
+East Tremont,2008,Percent,0.349,206
+Bedford Park,2008,Percent,0.375,207
+University Heights,2008,Percent,0.363,205
+Concourse/Highbridge,2008,Percent,0.377,204
+Unionport/Soundview,2008,Percent,0.291,209
+Mott Haven,2008,Percent,0.333,201
+Hunts Point,2008,Percent,0.333,202
+Washington Heights,2008,Percent,0.311,112
+Manhattanville,2008,Percent,0.325,109
+Central Harlem,2008,Percent,0.296,110
+East Harlem,2008,Percent,0.27,111
+Upper East Side,2008,Percent,0.244,108
+Upper West Side,2008,Percent,0.234,107
+Chelsea/Clinton,2008,Percent,0.259,104
+Midtown Business District,2008,Percent,0.259,105
+Murray Hill/Stuyvesant,2008,Percent,0.255,106
+Lower East Side,2008,Percent,0.301,103
+Battery Park/Tribeca,2008,Percent,0.246,101
+Greenwich Village,2008,Percent,0.246,102
+Tottenville,2008,Percent,0.26,503
+South Beach,2008,Percent,0.315,502
+St. George,2008,Percent,0.335,501
+Williamsburg/Greenpoint,2008,Percent,0.303,301
+Bushwick,2008,Percent,0.347,304
+Bedford Stuyvesant,2008,Percent,0.314,303
+Fort Greene/Brooklyn Hts,2008,Percent,0.255,302
+Park Slope,2008,Percent,0.272,306
+Crown Heights North,2008,Percent,0.333,308
+Brownsville,2008,Percent,0.335,316
+East New York,2008,Percent,0.336,305
+Canarsie,2008,Percent,0.289,318
+East Flatbush,2008,Percent,0.335,317
+Crown Heights South,2008,Percent,0.368,309
+Sunset Park,2008,Percent,0.319,307
+Bay Ridge,2008,Percent,0.286,310
+Borough Park,2008,Percent,0.395,312
+Flatbush/Midwood,2008,Percent,0.328,314
+Sheepshead Bay,2008,Percent,0.322,315
+Bensonhurst,2008,Percent,0.336,311
+Coney Island,2008,Percent,0.312,313
+Astoria,2008,Percent,0.278,401
+Jackson Heights,2008,Percent,0.342,403
+Flushing,2008,Percent,0.349,407
+Bayside,2008,Percent,0.324,411
+Queens Village,2008,Percent,0.282,413
+Fresh Meadows/Briarwood,2008,Percent,0.293,408
+Elmhurst/Corona,2008,Percent,0.346,404
+Rego Park/Forest Hills,2008,Percent,0.277,406
+Sunnyside/Woodside,2008,Percent,0.286,402
+Ridgewood/Glendale,2008,Percent,0.285,405
+Woodhaven,2008,Percent,0.335,409
+Jamaica/St. Albans,2008,Percent,0.299,412
+Howard Beach,2008,Percent,0.301,410
+The Rockaways,2008,Percent,0.29,414
+Bronx,2008,Percent,0.327,36005
+Brooklyn,2008,Percent,0.318,36047
+Manhattan,2008,Percent,0.271,36061
+Queens,2008,Percent,0.303,36081
+Staten Island,2008,Percent,0.32,36085
+New York City,2008,Percent,0.301,3651000
+Riverdale,2007,Percent,0.277,208
+Williamsbridge,2007,Percent,0.282,212
+Throgs Neck,2007,Percent,0.237,210
+Pelham Parkway,2007,Percent,0.301,211
+Morrisania,2007,Percent,0.339,203
+East Tremont,2007,Percent,0.339,206
+Bedford Park,2007,Percent,0.369,207
+University Heights,2007,Percent,0.373,205
+Concourse/Highbridge,2007,Percent,0.355,204
+Unionport/Soundview,2007,Percent,0.312,209
+Mott Haven,2007,Percent,0.325,201
+Hunts Point,2007,Percent,0.325,202
+Washington Heights,2007,Percent,0.31,112
+Manhattanville,2007,Percent,0.28,109
+Central Harlem,2007,Percent,0.297,110
+East Harlem,2007,Percent,0.263,111
+Upper East Side,2007,Percent,0.236,108
+Upper West Side,2007,Percent,0.244,107
+Chelsea/Clinton,2007,Percent,0.252,104
+Midtown Business District,2007,Percent,0.252,105
+Murray Hill/Stuyvesant,2007,Percent,0.24,106
+Lower East Side,2007,Percent,0.289,103
+Battery Park/Tribeca,2007,Percent,0.254,101
+Greenwich Village,2007,Percent,0.254,102
+Tottenville,2007,Percent,0.331,503
+South Beach,2007,Percent,0.323,502
+St. George,2007,Percent,0.315,501
+Williamsburg/Greenpoint,2007,Percent,0.307,301
+Bushwick,2007,Percent,0.324,304
+Bedford Stuyvesant,2007,Percent,0.316,303
+Fort Greene/Brooklyn Hts,2007,Percent,0.249,302
+Park Slope,2007,Percent,0.261,306
+Crown Heights North,2007,Percent,0.324,308
+Brownsville,2007,Percent,0.319,316
+East New York,2007,Percent,0.34,305
+Canarsie,2007,Percent,0.295,318
+East Flatbush,2007,Percent,0.328,317
+Crown Heights South,2007,Percent,0.296,309
+Sunset Park,2007,Percent,0.352,307
+Bay Ridge,2007,Percent,0.299,310
+Borough Park,2007,Percent,0.37,312
+Flatbush/Midwood,2007,Percent,0.331,314
+Sheepshead Bay,2007,Percent,0.344,315
+Bensonhurst,2007,Percent,0.349,311
+Coney Island,2007,Percent,0.315,313
+Astoria,2007,Percent,0.288,401
+Jackson Heights,2007,Percent,0.347,403
+Flushing,2007,Percent,0.333,407
+Bayside,2007,Percent,0.27,411
+Queens Village,2007,Percent,0.271,413
+Fresh Meadows/Briarwood,2007,Percent,0.29,408
+Elmhurst/Corona,2007,Percent,0.33,404
+Rego Park/Forest Hills,2007,Percent,0.297,406
+Sunnyside/Woodside,2007,Percent,0.283,402
+Ridgewood/Glendale,2007,Percent,0.304,405
+Woodhaven,2007,Percent,0.318,409
+Jamaica/St. Albans,2007,Percent,0.341,412
+Howard Beach,2007,Percent,0.345,410
+The Rockaways,2007,Percent,0.315,414
+Bronx,2007,Percent,0.319,36005
+Brooklyn,2007,Percent,0.316,36047
+Manhattan,2007,Percent,0.264,36061
+Queens,2007,Percent,0.311,36081
+Staten Island,2007,Percent,0.321,36085
+New York City,2007,Percent,0.299,3651000
+Riverdale,2006,Percent,0.289,208
+Williamsbridge,2006,Percent,0.298,212
+Throgs Neck,2006,Percent,0.244,210
+Pelham Parkway,2006,Percent,0.284,211
+Morrisania,2006,Percent,0.366,203
+East Tremont,2006,Percent,0.366,206
+Bedford Park,2006,Percent,0.373,207
+University Heights,2006,Percent,0.396,205
+Concourse/Highbridge,2006,Percent,0.358,204
+Unionport/Soundview,2006,Percent,0.3,209
+Mott Haven,2006,Percent,0.328,201
+Hunts Point,2006,Percent,0.328,202
+Washington Heights,2006,Percent,0.324,112
+Manhattanville,2006,Percent,0.32,109
+Central Harlem,2006,Percent,0.301,110
+East Harlem,2006,Percent,0.271,111
+Upper East Side,2006,Percent,0.251,108
+Upper West Side,2006,Percent,0.246,107
+Chelsea/Clinton,2006,Percent,0.253,104
+Midtown Business District,2006,Percent,0.253,105
+Murray Hill/Stuyvesant,2006,Percent,0.254,106
+Lower East Side,2006,Percent,0.285,103
+Battery Park/Tribeca,2006,Percent,0.264,101
+Greenwich Village,2006,Percent,0.264,102
+Tottenville,2006,Percent,0.3,503
+South Beach,2006,Percent,0.325,502
+St. George,2006,Percent,0.303,501
+Williamsburg/Greenpoint,2006,Percent,0.313,301
+Bushwick,2006,Percent,0.394,304
+Bedford Stuyvesant,2006,Percent,0.353,303
+Fort Greene/Brooklyn Hts,2006,Percent,0.275,302
+Park Slope,2006,Percent,0.244,306
+Crown Heights North,2006,Percent,0.304,308
+Brownsville,2006,Percent,0.334,316
+East New York,2006,Percent,0.34,305
+Canarsie,2006,Percent,0.288,318
+East Flatbush,2006,Percent,0.331,317
+Crown Heights South,2006,Percent,0.322,309
+Sunset Park,2006,Percent,0.286,307
+Bay Ridge,2006,Percent,0.285,310
+Borough Park,2006,Percent,0.341,312
+Flatbush/Midwood,2006,Percent,0.317,314
+Sheepshead Bay,2006,Percent,0.359,315
+Bensonhurst,2006,Percent,0.376,311
+Coney Island,2006,Percent,0.321,313
+Astoria,2006,Percent,0.296,401
+Jackson Heights,2006,Percent,0.321,403
+Flushing,2006,Percent,0.341,407
+Bayside,2006,Percent,0.285,411
+Queens Village,2006,Percent,0.298,413
+Fresh Meadows/Briarwood,2006,Percent,0.288,408
+Elmhurst/Corona,2006,Percent,0.346,404
+Rego Park/Forest Hills,2006,Percent,0.289,406
+Sunnyside/Woodside,2006,Percent,0.301,402
+Ridgewood/Glendale,2006,Percent,0.302,405
+Woodhaven,2006,Percent,0.368,409
+Jamaica/St. Albans,2006,Percent,0.33,412
+Howard Beach,2006,Percent,0.356,410
+The Rockaways,2006,Percent,0.297,414
+Bronx,2006,Percent,0.328,36005
+Brooklyn,2006,Percent,0.318,36047
+Manhattan,2006,Percent,0.275,36061
+Queens,2006,Percent,0.312,36081
+Staten Island,2006,Percent,0.311,36085
+New York City,2006,Percent,0.305,3651000
+Riverdale,2005,Percent,0.282,208
+Williamsbridge,2005,Percent,0.334,212
+Throgs Neck,2005,Percent,0.3,210
+Pelham Parkway,2005,Percent,0.305,211
+Morrisania,2005,Percent,0.354,203
+East Tremont,2005,Percent,0.354,206
+Bedford Park,2005,Percent,0.334,207
+University Heights,2005,Percent,0.392,205
+Concourse/Highbridge,2005,Percent,0.372,204
+Unionport/Soundview,2005,Percent,0.309,209
+Mott Haven,2005,Percent,0.349,201
+Hunts Point,2005,Percent,0.349,202
+Washington Heights,2005,Percent,0.314,112
+Manhattanville,2005,Percent,0.302,109
+Central Harlem,2005,Percent,0.307,110
+East Harlem,2005,Percent,0.302,111
+Upper East Side,2005,Percent,0.282,108
+Upper West Side,2005,Percent,0.244,107
+Chelsea/Clinton,2005,Percent,0.265,104
+Midtown Business District,2005,Percent,0.265,105
+Murray Hill/Stuyvesant,2005,Percent,0.251,106
+Lower East Side,2005,Percent,0.285,103
+Battery Park/Tribeca,2005,Percent,0.254,101
+Greenwich Village,2005,Percent,0.254,102
+Tottenville,2005,Percent,0.353,503
+South Beach,2005,Percent,0.319,502
+St. George,2005,Percent,0.372,501
+Williamsburg/Greenpoint,2005,Percent,0.326,301
+Bushwick,2005,Percent,0.333,304
+Bedford Stuyvesant,2005,Percent,0.307,303
+Fort Greene/Brooklyn Hts,2005,Percent,0.272,302
+Park Slope,2005,Percent,0.272,306
+Crown Heights North,2005,Percent,0.341,308
+Brownsville,2005,Percent,0.35,316
+East New York,2005,Percent,0.295,305
+Canarsie,2005,Percent,0.292,318
+East Flatbush,2005,Percent,0.304,317
+Crown Heights South,2005,Percent,0.295,309
+Sunset Park,2005,Percent,0.353,307
+Bay Ridge,2005,Percent,0.275,310
+Borough Park,2005,Percent,0.369,312
+Flatbush/Midwood,2005,Percent,0.348,314
+Sheepshead Bay,2005,Percent,0.35,315
+Bensonhurst,2005,Percent,0.32,311
+Coney Island,2005,Percent,0.298,313
+Astoria,2005,Percent,0.323,401
+Jackson Heights,2005,Percent,0.34,403
+Flushing,2005,Percent,0.35,407
+Bayside,2005,Percent,0.331,411
+Queens Village,2005,Percent,0.282,413
+Fresh Meadows/Briarwood,2005,Percent,0.306,408
+Elmhurst/Corona,2005,Percent,0.337,404
+Rego Park/Forest Hills,2005,Percent,0.322,406
+Sunnyside/Woodside,2005,Percent,0.306,402
+Ridgewood/Glendale,2005,Percent,0.322,405
+Woodhaven,2005,Percent,0.333,409
+Jamaica/St. Albans,2005,Percent,0.309,412
+Howard Beach,2005,Percent,0.367,410
+The Rockaways,2005,Percent,0.287,414
+Bronx,2005,Percent,0.336,36005
+Brooklyn,2005,Percent,0.314,36047
+Manhattan,2005,Percent,0.28,36061
+Queens,2005,Percent,0.323,36081
+Staten Island,2005,Percent,0.353,36085
+New York City,2005,Percent,0.31,3651000
+Battery Park/Tribeca,2018,Percent,0.207,101
+Greenwich Village,2018,Percent,0.207,102
+Lower East Side,2018,Percent,0.306,103
+Chelsea/Clinton,2018,Percent,0.258,104
+Midtown Business District,2018,Percent,0.258,105
+Murray Hill/Stuyvesant,2018,Percent,0.257,106
+Upper West Side,2018,Percent,0.234,107
+Upper East Side,2018,Percent,0.26,108
+Manhattanville,2018,Percent,0.32,109
+Central Harlem,2018,Percent,0.298,110
+East Harlem,2018,Percent,0.322,111
+Washington Heights,2018,Percent,0.31,112
+Mott Haven,2018,Percent,0.379,201
+Hunts Point,2018,Percent,0.379,202
+Morrisania,2018,Percent,0.374,203
+Concourse/Highbridge,2018,Percent,0.365,204
+University Heights,2018,Percent,0.382,205
+East Tremont,2018,Percent,0.374,206
+Bedford Park,2018,Percent,0.379,207
+Riverdale,2018,Percent,0.353,208
+Unionport/Soundview,2018,Percent,0.343,209
+Throgs Neck,2018,Percent,0.291,210
+Pelham Parkway,2018,Percent,0.321,211
+Williamsbridge,2018,Percent,0.374,212
+Williamsburg/Greenpoint,2018,Percent,0.282,301
+Fort Greene/Brooklyn Hts,2018,Percent,0.274,302
+Bedford Stuyvesant,2018,Percent,0.329,303
+Bushwick,2018,Percent,0.33,304
+East New York,2018,Percent,0.357,305
+Park Slope,2018,Percent,0.259,306
+Sunset Park,2018,Percent,0.319,307
+Crown Heights North,2018,Percent,0.304,308
+Crown Heights South,2018,Percent,0.29,309
+Bay Ridge,2018,Percent,0.299,310
+Bensonhurst,2018,Percent,0.359,311
+Borough Park,2018,Percent,0.422,312
+Coney Island,2018,Percent,0.324,313
+Flatbush/Midwood,2018,Percent,0.311,314
+Sheepshead Bay,2018,Percent,0.333,315
+Brownsville,2018,Percent,0.366,316
+East Flatbush,2018,Percent,0.319,317
+Canarsie,2018,Percent,0.297,318
+Astoria,2018,Percent,0.283,401
+Sunnyside/Woodside,2018,Percent,0.301,402
+Jackson Heights,2018,Percent,0.354,403
+Elmhurst/Corona,2018,Percent,0.371,404
+Ridgewood/Glendale,2018,Percent,0.293,405
+Rego Park/Forest Hills,2018,Percent,0.293,406
+Flushing,2018,Percent,0.426,407
+Fresh Meadows/Briarwood,2018,Percent,0.34,408
+Woodhaven,2018,Percent,0.337,409
+Howard Beach,2018,Percent,0.325,410
+Bayside,2018,Percent,0.32,411
+Jamaica/St. Albans,2018,Percent,0.328,412
+Queens Village,2018,Percent,0.288,413
+The Rockaways,2018,Percent,0.276,414
+St. George,2018,Percent,0.323,501
+South Beach,2018,Percent,0.285,502
+Tottenville,2018,Percent,0.271,503
+Bronx,2018,Percent,0.358,36005
+Brooklyn,2018,Percent,0.317,36047
+Manhattan,2018,Percent,0.277,36061
+Queens,2018,Percent,0.321,36081
+Staten Island,2018,Percent,0.299,36085
+New York City,2018,Percent,0.314,3651000
