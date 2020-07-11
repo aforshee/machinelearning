@@ -1,0 +1,2737 @@
+"Name","Public Assistance by Program Type"
+"Description","Recipients of public assistance, also called cash assistance, by program type.&nbsp;<span>Family Assistance (FA) is cash assistance available for families with children under the age of 18 who meet income and other eligibility requirements. It is funded through the federal Temporary Assistance for Needy Families (TANF) block grant and follows federal eligibility guidelines. Eligible adults are limited to receiving FA benefits for 60 months in their lifetime. Safety Net Assistance (SNA) is available childless adults and others who do not qualify for FA, as well as families who have exceeded 60 months of FA benefits. Safety Net Converted refers to individuals receiving SNA because they have exceeded their 60 months of FA benefits.&nbsp;SNA is funded by the city and state.</span>"
+"Source Notes","New York City Human Resources Administration,&nbsp;<em>District Resource Statement Fiscal and Service Reports</em>&nbsp;(for Fiscal Years: 2002 and 2003; 2005 and 2006;&nbsp;2006 and 2007;&nbsp;2007 and 2008;&nbsp;2009 and 2010; 2011 and 2012;&nbsp;2016 and 2017; 2017 and 2018); retrieved from&nbsp;<a href=""http://www.nyc.gov/html/hra/html/statistics/statistics.shtml"">http://www.nyc.gov/html/hra/html/statistics/statistics.shtml</a>.&nbsp;"
+"Notes","Figures represent data as of October for the given year.&nbsp;Percentages presented by program type refer to <g class=""gr_ gr_4 gr-alert gr_gramm gr_inline_cards gr_run_anim Grammar only-ins replaceWithoutSep"" id=""4"" data-gr-id=""4"">percent</g> of all public assistance recipients.<br />
+*CCC is in the process of filling in data for missing years.&nbsp;"
+
+Location,Program Type,TimeFrame,DataFormat,Data,Fips
+Battery Park/Tribeca,Family Assistance,2005,Number,138,101
+Greenwich Village,Family Assistance,2005,Number,73,102
+Lower East Side,Family Assistance,2005,Number,2431,103
+Chelsea/Clinton,Family Assistance,2005,Number,942,104
+Midtown Business District,Family Assistance,2005,Number,258,105
+Murray Hill/Stuyvesant,Family Assistance,2005,Number,128,106
+Upper West Side,Family Assistance,2005,Number,1619,107
+Upper East Side,Family Assistance,2005,Number,254,108
+Manhattanville,Family Assistance,2005,Number,4433,109
+Central Harlem,Family Assistance,2005,Number,4678,110
+East Harlem,Family Assistance,2005,Number,5904,111
+Washington Heights,Family Assistance,2005,Number,6436,112
+Mott Haven,Family Assistance,2005,Number,7181,201
+Hunts Point,Family Assistance,2005,Number,3772,202
+Morrisania,Family Assistance,2005,Number,5561,203
+Concourse/Highbridge,Family Assistance,2005,Number,10392,204
+University Heights,Family Assistance,2005,Number,10331,205
+East Tremont,Family Assistance,2005,Number,6972,206
+Bedford Park,Family Assistance,2005,Number,7971,207
+Riverdale,Family Assistance,2005,Number,2047,208
+Unionport/Soundview,Family Assistance,2005,Number,8190,209
+Throgs Neck,Family Assistance,2005,Number,1687,210
+Pelham Parkway,Family Assistance,2005,Number,2767,211
+Williamsbridge,Family Assistance,2005,Number,5696,212
+Williamsburg/Greenpoint,Family Assistance,2005,Number,3010,301
+Fort Greene/Brooklyn Hts,Family Assistance,2005,Number,1574,302
+Bedford Stuyvesant,Family Assistance,2005,Number,7928,303
+Bushwick,Family Assistance,2005,Number,6692,304
+East New York,Family Assistance,2005,Number,8943,305
+Park Slope,Family Assistance,2005,Number,1412,306
+Sunset Park,Family Assistance,2005,Number,2830,307
+Crown Heights North,Family Assistance,2005,Number,4495,308
+Crown Heights South,Family Assistance,2005,Number,2848,309
+Bay Ridge,Family Assistance,2005,Number,850,310
+Bensonhurst,Family Assistance,2005,Number,1427,311
+Borough Park,Family Assistance,2005,Number,2293,312
+Coney Island,Family Assistance,2005,Number,2519,313
+Flatbush/Midwood,Family Assistance,2005,Number,4615,314
+Sheepshead Bay,Family Assistance,2005,Number,1431,315
+Brownsville,Family Assistance,2005,Number,6124,316
+East Flatbush,Family Assistance,2005,Number,4577,317
+Canarsie,Family Assistance,2005,Number,2706,318
+Astoria,Family Assistance,2005,Number,2494,401
+Sunnyside/Woodside,Family Assistance,2005,Number,850,402
+Jackson Heights,Family Assistance,2005,Number,2283,403
+Elmhurst/Corona,Family Assistance,2005,Number,2061,404
+Ridgewood/Glendale,Family Assistance,2005,Number,1722,405
+Rego Park/Forest Hills,Family Assistance,2005,Number,474,406
+Flushing,Family Assistance,2005,Number,952,407
+Fresh Meadows/Briarwood,Family Assistance,2005,Number,1135,408
+Woodhaven,Family Assistance,2005,Number,1630,409
+Howard Beach,Family Assistance,2005,Number,1160,410
+Bayside,Family Assistance,2005,Number,106,411
+Jamaica/St. Albans,Family Assistance,2005,Number,5178,412
+Queens Village,Family Assistance,2005,Number,1968,413
+The Rockaways,Family Assistance,2005,Number,3138,414
+St. George,Family Assistance,2005,Number,5314,501
+South Beach,Family Assistance,2005,Number,834,502
+Tottenville,Family Assistance,2005,Number,391,503
+Bronx,Family Assistance,2005,Number,72614,36005
+Brooklyn,Family Assistance,2005,Number,66074,36047
+Manhattan,Family Assistance,2005,Number,27233,36061
+Queens,Family Assistance,2005,Number,25095,36081
+Staten Island,Family Assistance,2005,Number,6537,36085
+New York City,Family Assistance,2005,Number,198107,3651000
+Battery Park/Tribeca,Family Assistance,2006,Number,284,101
+Greenwich Village,Family Assistance,2006,Number,209,102
+Lower East Side,Family Assistance,2006,Number,2252,103
+Chelsea/Clinton,Family Assistance,2006,Number,1907,104
+Midtown Business District,Family Assistance,2006,Number,643,105
+Murray Hill/Stuyvesant,Family Assistance,2006,Number,307,106
+Upper West Side,Family Assistance,2006,Number,1730,107
+Upper East Side,Family Assistance,2006,Number,297,108
+Manhattanville,Family Assistance,2006,Number,3343,109
+Central Harlem,Family Assistance,2006,Number,38998,110
+East Harlem,Family Assistance,2006,Number,4953,111
+Washington Heights,Family Assistance,2006,Number,4046,112
+Mott Haven,Family Assistance,2006,Number,6870,201
+Hunts Point,Family Assistance,2006,Number,3193,202
+Morrisania,Family Assistance,2006,Number,5152,203
+Concourse/Highbridge,Family Assistance,2006,Number,9763,204
+University Heights,Family Assistance,2006,Number,9259,205
+East Tremont,Family Assistance,2006,Number,6310,206
+Bedford Park,Family Assistance,2006,Number,7017,207
+Riverdale,Family Assistance,2006,Number,1720,208
+Unionport/Soundview,Family Assistance,2006,Number,6991,209
+Throgs Neck,Family Assistance,2006,Number,1398,210
+Pelham Parkway,Family Assistance,2006,Number,2603,211
+Williamsbridge,Family Assistance,2006,Number,5129,212
+Williamsburg/Greenpoint,Family Assistance,2006,Number,2710,301
+Fort Greene/Brooklyn Hts,Family Assistance,2006,Number,2901,302
+Bedford Stuyvesant,Family Assistance,2006,Number,8335,303
+Bushwick,Family Assistance,2006,Number,5217,304
+East New York,Family Assistance,2006,Number,8124,305
+Park Slope,Family Assistance,2006,Number,1335,306
+Sunset Park,Family Assistance,2006,Number,1749,307
+Crown Heights North,Family Assistance,2006,Number,4227,308
+Crown Heights South,Family Assistance,2006,Number,2353,309
+Bay Ridge,Family Assistance,2006,Number,781,310
+Bensonhurst,Family Assistance,2006,Number,1414,311
+Borough Park,Family Assistance,2006,Number,1502,312
+Coney Island,Family Assistance,2006,Number,2187,313
+Flatbush/Midwood,Family Assistance,2006,Number,3307,314
+Sheepshead Bay,Family Assistance,2006,Number,1332,315
+Brownsville,Family Assistance,2006,Number,5619,316
+East Flatbush,Family Assistance,2006,Number,3508,317
+Canarsie,Family Assistance,2006,Number,2253,318
+Astoria,Family Assistance,2006,Number,1974,401
+Sunnyside/Woodside,Family Assistance,2006,Number,743,402
+Jackson Heights,Family Assistance,2006,Number,1633,403
+Elmhurst/Corona,Family Assistance,2006,Number,1479,404
+Ridgewood/Glendale,Family Assistance,2006,Number,1492,405
+Rego Park/Forest Hills,Family Assistance,2006,Number,562,406
+Flushing,Family Assistance,2006,Number,1122,407
+Fresh Meadows/Briarwood,Family Assistance,2006,Number,1669,408
+Woodhaven,Family Assistance,2006,Number,1539,409
+Howard Beach,Family Assistance,2006,Number,1007,410
+Bayside,Family Assistance,2006,Number,244,411
+Jamaica/St. Albans,Family Assistance,2006,Number,4462,412
+Queens Village,Family Assistance,2006,Number,1844,413
+The Rockaways,Family Assistance,2006,Number,3253,414
+St. George,Family Assistance,2006,Number,4825,501
+South Beach,Family Assistance,2006,Number,974,502
+Tottenville,Family Assistance,2006,Number,464,503
+Bronx,Family Assistance,2006,Number,65405,36005
+Brooklyn,Family Assistance,2006,Number,58854,36047
+Manhattan,Family Assistance,2006,Number,23869,36061
+Queens,Family Assistance,2006,Number,23023,36081
+Staten Island,Family Assistance,2006,Number,6263,36085
+New York City,Family Assistance,2006,Number,177414,3651000
+Battery Park/Tribeca,Family Assistance,2007,Number,148,101
+Greenwich Village,Family Assistance,2007,Number,46,102
+Lower East Side,Family Assistance,2007,Number,2053,103
+Chelsea/Clinton,Family Assistance,2007,Number,771,104
+Midtown Business District,Family Assistance,2007,Number,191,105
+Murray Hill/Stuyvesant,Family Assistance,2007,Number,95,106
+Upper West Side,Family Assistance,2007,Number,1183,107
+Upper East Side,Family Assistance,2007,Number,180,108
+Manhattanville,Family Assistance,2007,Number,3356,109
+Central Harlem,Family Assistance,2007,Number,3916,110
+East Harlem,Family Assistance,2007,Number,4802,111
+Washington Heights,Family Assistance,2007,Number,3940,112
+Mott Haven,Family Assistance,2007,Number,6095,201
+Hunts Point,Family Assistance,2007,Number,3484,202
+Morrisania,Family Assistance,2007,Number,4630,203
+Concourse/Highbridge,Family Assistance,2007,Number,8799,204
+University Heights,Family Assistance,2007,Number,8450,205
+East Tremont,Family Assistance,2007,Number,6154,206
+Bedford Park,Family Assistance,2007,Number,6808,207
+Riverdale,Family Assistance,2007,Number,1512,208
+Unionport/Soundview,Family Assistance,2007,Number,6364,209
+Throgs Neck,Family Assistance,2007,Number,1454,210
+Pelham Parkway,Family Assistance,2007,Number,2462,211
+Williamsbridge,Family Assistance,2007,Number,5102,212
+Williamsburg/Greenpoint,Family Assistance,2007,Number,2023,301
+Fort Greene/Brooklyn Hts,Family Assistance,2007,Number,1782,302
+Bedford Stuyvesant,Family Assistance,2007,Number,6451,303
+Bushwick,Family Assistance,2007,Number,5155,304
+East New York,Family Assistance,2007,Number,7453,305
+Park Slope,Family Assistance,2007,Number,1107,306
+Sunset Park,Family Assistance,2007,Number,1803,307
+Crown Heights North,Family Assistance,2007,Number,3276,308
+Crown Heights South,Family Assistance,2007,Number,1998,309
+Bay Ridge,Family Assistance,2007,Number,671,310
+Bensonhurst,Family Assistance,2007,Number,1160,311
+Borough Park,Family Assistance,2007,Number,1558,312
+Coney Island,Family Assistance,2007,Number,1930,313
+Flatbush/Midwood,Family Assistance,2007,Number,3183,314
+Sheepshead Bay,Family Assistance,2007,Number,1129,315
+Brownsville,Family Assistance,2007,Number,5334,316
+East Flatbush,Family Assistance,2007,Number,3588,317
+Canarsie,Family Assistance,2007,Number,2349,318
+Astoria,Family Assistance,2007,Number,1705,401
+Sunnyside/Woodside,Family Assistance,2007,Number,636,402
+Jackson Heights,Family Assistance,2007,Number,1653,403
+Elmhurst/Corona,Family Assistance,2007,Number,1360,404
+Ridgewood/Glendale,Family Assistance,2007,Number,1338,405
+Rego Park/Forest Hills,Family Assistance,2007,Number,321,406
+Flushing,Family Assistance,2007,Number,716,407
+Fresh Meadows/Briarwood,Family Assistance,2007,Number,949,408
+Woodhaven,Family Assistance,2007,Number,1482,409
+Howard Beach,Family Assistance,2007,Number,952,410
+Bayside,Family Assistance,2007,Number,78,411
+Jamaica/St. Albans,Family Assistance,2007,Number,4454,412
+Queens Village,Family Assistance,2007,Number,1764,413
+The Rockaways,Family Assistance,2007,Number,3213,414
+St. George,Family Assistance,2007,Number,4960,501
+South Beach,Family Assistance,2007,Number,797,502
+Tottenville,Family Assistance,2007,Number,408,503
+Bronx,Family Assistance,2007,Number,61315,36005
+Brooklyn,Family Assistance,2007,Number,51951,36047
+Manhattan,Family Assistance,2007,Number,20679,36061
+Queens,Family Assistance,2007,Number,20621,36081
+Staten Island,Family Assistance,2007,Number,6165,36085
+New York City,Family Assistance,2007,Number,161209,3651000
+Battery Park/Tribeca,Family Assistance,2009,Number,53,101
+Greenwich Village,Family Assistance,2009,Number,32,102
+Lower East Side,Family Assistance,2009,Number,1714,103
+Chelsea/Clinton,Family Assistance,2009,Number,653,104
+Midtown Business District,Family Assistance,2009,Number,242,105
+Murray Hill/Stuyvesant,Family Assistance,2009,Number,92,106
+Upper West Side,Family Assistance,2009,Number,1171,107
+Upper East Side,Family Assistance,2009,Number,160,108
+Manhattanville,Family Assistance,2009,Number,2892,109
+Central Harlem,Family Assistance,2009,Number,3380,110
+East Harlem,Family Assistance,2009,Number,4264,111
+Washington Heights,Family Assistance,2009,Number,3669,112
+Mott Haven,Family Assistance,2009,Number,5631,201
+Hunts Point,Family Assistance,2009,Number,3391,202
+Morrisania,Family Assistance,2009,Number,4508,203
+Concourse/Highbridge,Family Assistance,2009,Number,8797,204
+University Heights,Family Assistance,2009,Number,7906,205
+East Tremont,Family Assistance,2009,Number,6177,206
+Bedford Park,Family Assistance,2009,Number,6689,207
+Riverdale,Family Assistance,2009,Number,1440,208
+Unionport/Soundview,Family Assistance,2009,Number,6335,209
+Throgs Neck,Family Assistance,2009,Number,1483,210
+Pelham Parkway,Family Assistance,2009,Number,2475,211
+Williamsbridge,Family Assistance,2009,Number,5395,212
+Williamsburg/Greenpoint,Family Assistance,2009,Number,2479,301
+Fort Greene/Brooklyn Hts,Family Assistance,2009,Number,1363,302
+Bedford Stuyvesant,Family Assistance,2009,Number,5870,303
+Bushwick,Family Assistance,2009,Number,4470,304
+East New York,Family Assistance,2009,Number,7025,305
+Park Slope,Family Assistance,2009,Number,783,306
+Sunset Park,Family Assistance,2009,Number,1785,307
+Crown Heights North,Family Assistance,2009,Number,2774,308
+Crown Heights South,Family Assistance,2009,Number,1877,309
+Bay Ridge,Family Assistance,2009,Number,706,310
+Bensonhurst,Family Assistance,2009,Number,1194,311
+Borough Park,Family Assistance,2009,Number,1921,312
+Coney Island,Family Assistance,2009,Number,1716,313
+Flatbush/Midwood,Family Assistance,2009,Number,3192,314
+Sheepshead Bay,Family Assistance,2009,Number,1224,315
+Brownsville,Family Assistance,2009,Number,5471,316
+East Flatbush,Family Assistance,2009,Number,3698,317
+Canarsie,Family Assistance,2009,Number,2274,318
+Astoria,Family Assistance,2009,Number,1838,401
+Sunnyside/Woodside,Family Assistance,2009,Number,696,402
+Jackson Heights,Family Assistance,2009,Number,2004,403
+Elmhurst/Corona,Family Assistance,2009,Number,1632,404
+Ridgewood/Glendale,Family Assistance,2009,Number,1312,405
+Rego Park/Forest Hills,Family Assistance,2009,Number,228,406
+Flushing,Family Assistance,2009,Number,665,407
+Fresh Meadows/Briarwood,Family Assistance,2009,Number,1002,408
+Woodhaven,Family Assistance,2009,Number,1745,409
+Howard Beach,Family Assistance,2009,Number,1172,410
+Bayside,Family Assistance,2009,Number,85,411
+Jamaica/St. Albans,Family Assistance,2009,Number,4983,412
+Queens Village,Family Assistance,2009,Number,2136,413
+The Rockaways,Family Assistance,2009,Number,3267,414
+St. George,Family Assistance,2009,Number,5334,501
+South Beach,Family Assistance,2009,Number,919,502
+Tottenville,Family Assistance,2009,Number,408,503
+Bronx,Family Assistance,2009,Number,60227,36005
+Brooklyn,Family Assistance,2009,Number,49822,36047
+Manhattan,Family Assistance,2009,Number,18322,36061
+Queens,Family Assistance,2009,Number,22765,36081
+Staten Island,Family Assistance,2009,Number,6661,36085
+New York City,Family Assistance,2009,Number,158225,3651000
+Battery Park/Tribeca,Family Assistance,2011,Number,75,101
+Greenwich Village,Family Assistance,2011,Number,34,102
+Lower East Side,Family Assistance,2011,Number,1783,103
+Chelsea/Clinton,Family Assistance,2011,Number,458,104
+Midtown Business District,Family Assistance,2011,Number,230,105
+Murray Hill/Stuyvesant,Family Assistance,2011,Number,93,106
+Upper West Side,Family Assistance,2011,Number,968,107
+Upper East Side,Family Assistance,2011,Number,170,108
+Manhattanville,Family Assistance,2011,Number,2343,109
+Central Harlem,Family Assistance,2011,Number,3456,110
+East Harlem,Family Assistance,2011,Number,4269,111
+Washington Heights,Family Assistance,2011,Number,3813,112
+Mott Haven,Family Assistance,2011,Number,5387,201
+Hunts Point,Family Assistance,2011,Number,3195,202
+Morrisania,Family Assistance,2011,Number,4510,203
+Concourse/Highbridge,Family Assistance,2011,Number,7708,204
+University Heights,Family Assistance,2011,Number,7354,205
+East Tremont,Family Assistance,2011,Number,5987,206
+Bedford Park,Family Assistance,2011,Number,6066,207
+Riverdale,Family Assistance,2011,Number,1480,208
+Unionport/Soundview,Family Assistance,2011,Number,5950,209
+Throgs Neck,Family Assistance,2011,Number,1378,210
+Pelham Parkway,Family Assistance,2011,Number,2278,211
+Williamsbridge,Family Assistance,2011,Number,4823,212
+Williamsburg/Greenpoint,Family Assistance,2011,Number,2358,301
+Fort Greene/Brooklyn Hts,Family Assistance,2011,Number,1088,302
+Bedford Stuyvesant,Family Assistance,2011,Number,5191,303
+Bushwick,Family Assistance,2011,Number,4018,304
+East New York,Family Assistance,2011,Number,6331,305
+Park Slope,Family Assistance,2011,Number,695,306
+Sunset Park,Family Assistance,2011,Number,1791,307
+Crown Heights North,Family Assistance,2011,Number,2487,308
+Crown Heights South,Family Assistance,2011,Number,1865,309
+Bay Ridge,Family Assistance,2011,Number,690,310
+Bensonhurst,Family Assistance,2011,Number,1167,311
+Borough Park,Family Assistance,2011,Number,3914,312
+Coney Island,Family Assistance,2011,Number,1744,313
+Flatbush/Midwood,Family Assistance,2011,Number,3089,314
+Sheepshead Bay,Family Assistance,2011,Number,1125,315
+Brownsville,Family Assistance,2011,Number,4734,316
+East Flatbush,Family Assistance,2011,Number,3509,317
+Canarsie,Family Assistance,2011,Number,1984,318
+Astoria,Family Assistance,2011,Number,1541,401
+Sunnyside/Woodside,Family Assistance,2011,Number,738,402
+Jackson Heights,Family Assistance,2011,Number,2077,403
+Elmhurst/Corona,Family Assistance,2011,Number,1619,404
+Ridgewood/Glendale,Family Assistance,2011,Number,1280,405
+Rego Park/Forest Hills,Family Assistance,2011,Number,256,406
+Flushing,Family Assistance,2011,Number,638,407
+Fresh Meadows/Briarwood,Family Assistance,2011,Number,906,408
+Woodhaven,Family Assistance,2011,Number,1648,409
+Howard Beach,Family Assistance,2011,Number,876,410
+Bayside,Family Assistance,2011,Number,98,411
+Jamaica/St. Albans,Family Assistance,2011,Number,4849,412
+Queens Village,Family Assistance,2011,Number,2163,413
+The Rockaways,Family Assistance,2011,Number,2874,414
+St. George,Family Assistance,2011,Number,5462,501
+South Beach,Family Assistance,2011,Number,918,502
+Tottenville,Family Assistance,2011,Number,334,503
+Bronx,Family Assistance,2011,Number,56116,36005
+Brooklyn,Family Assistance,2011,Number,47780,36047
+Manhattan,Family Assistance,2011,Number,17692,36061
+Queens,Family Assistance,2011,Number,21563,36081
+Staten Island,Family Assistance,2011,Number,6714,36085
+New York City,Family Assistance,2011,Number,150164,3651000
+Battery Park/Tribeca,Safety Net Assistance,2005,Number,193,101
+Greenwich Village,Safety Net Assistance,2005,Number,375,102
+Lower East Side,Safety Net Assistance,2005,Number,2601,103
+Chelsea/Clinton,Safety Net Assistance,2005,Number,2176,104
+Midtown Business District,Safety Net Assistance,2005,Number,546,105
+Murray Hill/Stuyvesant,Safety Net Assistance,2005,Number,655,106
+Upper West Side,Safety Net Assistance,2005,Number,1803,107
+Upper East Side,Safety Net Assistance,2005,Number,459,108
+Manhattanville,Safety Net Assistance,2005,Number,2288,109
+Central Harlem,Safety Net Assistance,2005,Number,3624,110
+East Harlem,Safety Net Assistance,2005,Number,4099,111
+Washington Heights,Safety Net Assistance,2005,Number,2980,112
+Mott Haven,Safety Net Assistance,2005,Number,3913,201
+Hunts Point,Safety Net Assistance,2005,Number,1771,202
+Morrisania,Safety Net Assistance,2005,Number,3063,203
+Concourse/Highbridge,Safety Net Assistance,2005,Number,4970,204
+University Heights,Safety Net Assistance,2005,Number,4967,205
+East Tremont,Safety Net Assistance,2005,Number,3267,206
+Bedford Park,Safety Net Assistance,2005,Number,3463,207
+Riverdale,Safety Net Assistance,2005,Number,911,208
+Unionport/Soundview,Safety Net Assistance,2005,Number,4203,209
+Throgs Neck,Safety Net Assistance,2005,Number,843,210
+Pelham Parkway,Safety Net Assistance,2005,Number,1515,211
+Williamsbridge,Safety Net Assistance,2005,Number,2377,212
+Williamsburg/Greenpoint,Safety Net Assistance,2005,Number,1925,301
+Fort Greene/Brooklyn Hts,Safety Net Assistance,2005,Number,1845,302
+Bedford Stuyvesant,Safety Net Assistance,2005,Number,5036,303
+Bushwick,Safety Net Assistance,2005,Number,2821,304
+East New York,Safety Net Assistance,2005,Number,4280,305
+Park Slope,Safety Net Assistance,2005,Number,870,306
+Sunset Park,Safety Net Assistance,2005,Number,1191,307
+Crown Heights North,Safety Net Assistance,2005,Number,2646,308
+Crown Heights South,Safety Net Assistance,2005,Number,1535,309
+Bay Ridge,Safety Net Assistance,2005,Number,778,310
+Bensonhurst,Safety Net Assistance,2005,Number,1442,311
+Borough Park,Safety Net Assistance,2005,Number,1313,312
+Coney Island,Safety Net Assistance,2005,Number,1478,313
+Flatbush/Midwood,Safety Net Assistance,2005,Number,1984,314
+Sheepshead Bay,Safety Net Assistance,2005,Number,1089,315
+Brownsville,Safety Net Assistance,2005,Number,2871,316
+East Flatbush,Safety Net Assistance,2005,Number,1822,317
+Canarsie,Safety Net Assistance,2005,Number,1167,318
+Astoria,Safety Net Assistance,2005,Number,1296,401
+Sunnyside/Woodside,Safety Net Assistance,2005,Number,653,402
+Jackson Heights,Safety Net Assistance,2005,Number,989,403
+Elmhurst/Corona,Safety Net Assistance,2005,Number,1019,404
+Ridgewood/Glendale,Safety Net Assistance,2005,Number,915,405
+Rego Park/Forest Hills,Safety Net Assistance,2005,Number,614,406
+Flushing,Safety Net Assistance,2005,Number,1204,407
+Fresh Meadows/Briarwood,Safety Net Assistance,2005,Number,826,408
+Woodhaven,Safety Net Assistance,2005,Number,1077,409
+Howard Beach,Safety Net Assistance,2005,Number,637,410
+Bayside,Safety Net Assistance,2005,Number,336,411
+Jamaica/St. Albans,Safety Net Assistance,2005,Number,2548,412
+Queens Village,Safety Net Assistance,2005,Number,958,413
+The Rockaways,Safety Net Assistance,2005,Number,1482,414
+St. George,Safety Net Assistance,2005,Number,1994,501
+South Beach,Safety Net Assistance,2005,Number,522,502
+Tottenville,Safety Net Assistance,2005,Number,300,503
+Bronx,Safety Net Assistance,2005,Number,35305,36005
+Brooklyn,Safety Net Assistance,2005,Number,36210,36047
+Manhattan,Safety Net Assistance,2005,Number,21989,36061
+Queens,Safety Net Assistance,2005,Number,14512,36081
+Staten Island,Safety Net Assistance,2005,Number,2821,36085
+New York City,Safety Net Assistance,2005,Number,111833,3651000
+Battery Park/Tribeca,Safety Net Assistance,2006,Number,202,101
+Greenwich Village,Safety Net Assistance,2006,Number,157,102
+Lower East Side,Safety Net Assistance,2006,Number,2122,103
+Chelsea/Clinton,Safety Net Assistance,2006,Number,1493,104
+Midtown Business District,Safety Net Assistance,2006,Number,472,105
+Murray Hill/Stuyvesant,Safety Net Assistance,2006,Number,238,106
+Upper West Side,Safety Net Assistance,2006,Number,1434,107
+Upper East Side,Safety Net Assistance,2006,Number,249,108
+Manhattanville,Safety Net Assistance,2006,Number,3212,109
+Central Harlem,Safety Net Assistance,2006,Number,3666,110
+East Harlem,Safety Net Assistance,2006,Number,4653,111
+Washington Heights,Safety Net Assistance,2006,Number,3951,112
+Mott Haven,Safety Net Assistance,2006,Number,3851,201
+Hunts Point,Safety Net Assistance,2006,Number,1912,202
+Morrisania,Safety Net Assistance,2006,Number,3022,203
+Concourse/Highbridge,Safety Net Assistance,2006,Number,5604,204
+University Heights,Safety Net Assistance,2006,Number,5350,205
+East Tremont,Safety Net Assistance,2006,Number,3730,206
+Bedford Park,Safety Net Assistance,2006,Number,4058,207
+Riverdale,Safety Net Assistance,2006,Number,955,208
+Unionport/Soundview,Safety Net Assistance,2006,Number,4091,209
+Throgs Neck,Safety Net Assistance,2006,Number,747,210
+Pelham Parkway,Safety Net Assistance,2006,Number,1468,211
+Williamsbridge,Safety Net Assistance,2006,Number,3045,212
+Williamsburg/Greenpoint,Safety Net Assistance,2006,Number,2053,301
+Fort Greene/Brooklyn Hts,Safety Net Assistance,2006,Number,1632,302
+Bedford Stuyvesant,Safety Net Assistance,2006,Number,5437,303
+Bushwick,Safety Net Assistance,2006,Number,3704,304
+East New York,Safety Net Assistance,2006,Number,5608,305
+Park Slope,Safety Net Assistance,2006,Number,867,306
+Sunset Park,Safety Net Assistance,2006,Number,1235,307
+Crown Heights North,Safety Net Assistance,2006,Number,2713,308
+Crown Heights South,Safety Net Assistance,2006,Number,1494,309
+Bay Ridge,Safety Net Assistance,2006,Number,511,310
+Bensonhurst,Safety Net Assistance,2006,Number,903,311
+Borough Park,Safety Net Assistance,2006,Number,1284,312
+Coney Island,Safety Net Assistance,2006,Number,1536,313
+Flatbush/Midwood,Safety Net Assistance,2006,Number,2236,314
+Sheepshead Bay,Safety Net Assistance,2006,Number,901,315
+Brownsville,Safety Net Assistance,2006,Number,3960,316
+East Flatbush,Safety Net Assistance,2006,Number,2279,317
+Canarsie,Safety Net Assistance,2006,Number,1505,318
+Astoria,Safety Net Assistance,2006,Number,1362,401
+Sunnyside/Woodside,Safety Net Assistance,2006,Number,486,402
+Jackson Heights,Safety Net Assistance,2006,Number,1138,403
+Elmhurst/Corona,Safety Net Assistance,2006,Number,1079,404
+Ridgewood/Glendale,Safety Net Assistance,2006,Number,1053,405
+Rego Park/Forest Hills,Safety Net Assistance,2006,Number,370,406
+Flushing,Safety Net Assistance,2006,Number,777,407
+Fresh Meadows/Briarwood,Safety Net Assistance,2006,Number,1038,408
+Woodhaven,Safety Net Assistance,2006,Number,1114,409
+Howard Beach,Safety Net Assistance,2006,Number,697,410
+Bayside,Safety Net Assistance,2006,Number,154,411
+Jamaica/St. Albans,Safety Net Assistance,2006,Number,3089,412
+Queens Village,Safety Net Assistance,2006,Number,1201,413
+The Rockaways,Safety Net Assistance,2006,Number,2458,414
+St. George,Safety Net Assistance,2006,Number,2595,501
+South Beach,Safety Net Assistance,2006,Number,490,502
+Tottenville,Safety Net Assistance,2006,Number,217,503
+Bronx,Safety Net Assistance,2006,Number,37833,36005
+Brooklyn,Safety Net Assistance,2006,Number,39858,36047
+Manhattan,Safety Net Assistance,2006,Number,21849,36061
+Queens,Safety Net Assistance,2006,Number,16016,36081
+Staten Island,Safety Net Assistance,2006,Number,3302,36085
+New York City,Safety Net Assistance,2006,Number,118858,3651000
+Battery Park/Tribeca,Safety Net Assistance,2007,Number,64,101
+Greenwich Village,Safety Net Assistance,2007,Number,249,102
+Lower East Side,Safety Net Assistance,2007,Number,2449,103
+Chelsea/Clinton,Safety Net Assistance,2007,Number,1667,104
+Midtown Business District,Safety Net Assistance,2007,Number,371,105
+Murray Hill/Stuyvesant,Safety Net Assistance,2007,Number,367,106
+Upper West Side,Safety Net Assistance,2007,Number,1136,107
+Upper East Side,Safety Net Assistance,2007,Number,274,108
+Manhattanville,Safety Net Assistance,2007,Number,2298,109
+Central Harlem,Safety Net Assistance,2007,Number,3554,110
+East Harlem,Safety Net Assistance,2007,Number,3495,111
+Washington Heights,Safety Net Assistance,2007,Number,2922,112
+Mott Haven,Safety Net Assistance,2007,Number,2964,201
+Hunts Point,Safety Net Assistance,2007,Number,1516,202
+Morrisania,Safety Net Assistance,2007,Number,2374,203
+Concourse/Highbridge,Safety Net Assistance,2007,Number,4139,204
+University Heights,Safety Net Assistance,2007,Number,3980,205
+East Tremont,Safety Net Assistance,2007,Number,2882,206
+Bedford Park,Safety Net Assistance,2007,Number,2973,207
+Riverdale,Safety Net Assistance,2007,Number,602,208
+Unionport/Soundview,Safety Net Assistance,2007,Number,3500,209
+Throgs Neck,Safety Net Assistance,2007,Number,578,210
+Pelham Parkway,Safety Net Assistance,2007,Number,1330,211
+Williamsbridge,Safety Net Assistance,2007,Number,2345,212
+Williamsburg/Greenpoint,Safety Net Assistance,2007,Number,1792,301
+Fort Greene/Brooklyn Hts,Safety Net Assistance,2007,Number,1304,302
+Bedford Stuyvesant,Safety Net Assistance,2007,Number,4563,303
+Bushwick,Safety Net Assistance,2007,Number,2718,304
+East New York,Safety Net Assistance,2007,Number,5115,305
+Park Slope,Safety Net Assistance,2007,Number,667,306
+Sunset Park,Safety Net Assistance,2007,Number,884,307
+Crown Heights North,Safety Net Assistance,2007,Number,2233,308
+Crown Heights South,Safety Net Assistance,2007,Number,1407,309
+Bay Ridge,Safety Net Assistance,2007,Number,635,310
+Bensonhurst,Safety Net Assistance,2007,Number,1073,311
+Borough Park,Safety Net Assistance,2007,Number,1395,312
+Coney Island,Safety Net Assistance,2007,Number,1276,313
+Flatbush/Midwood,Safety Net Assistance,2007,Number,1853,314
+Sheepshead Bay,Safety Net Assistance,2007,Number,819,315
+Brownsville,Safety Net Assistance,2007,Number,3392,316
+East Flatbush,Safety Net Assistance,2007,Number,1958,317
+Canarsie,Safety Net Assistance,2007,Number,1441,318
+Astoria,Safety Net Assistance,2007,Number,1084,401
+Sunnyside/Woodside,Safety Net Assistance,2007,Number,448,402
+Jackson Heights,Safety Net Assistance,2007,Number,864,403
+Elmhurst/Corona,Safety Net Assistance,2007,Number,747,404
+Ridgewood/Glendale,Safety Net Assistance,2007,Number,969,405
+Rego Park/Forest Hills,Safety Net Assistance,2007,Number,383,406
+Flushing,Safety Net Assistance,2007,Number,1035,407
+Fresh Meadows/Briarwood,Safety Net Assistance,2007,Number,966,408
+Woodhaven,Safety Net Assistance,2007,Number,1119,409
+Howard Beach,Safety Net Assistance,2007,Number,658,410
+Bayside,Safety Net Assistance,2007,Number,249,411
+Jamaica/St. Albans,Safety Net Assistance,2007,Number,3097,412
+Queens Village,Safety Net Assistance,2007,Number,1051,413
+The Rockaways,Safety Net Assistance,2007,Number,2204,414
+St. George,Safety Net Assistance,2007,Number,2253,501
+South Beach,Safety Net Assistance,2007,Number,552,502
+Tottenville,Safety Net Assistance,2007,Number,249,503
+Bronx,Safety Net Assistance,2007,Number,29183,36005
+Brooklyn,Safety Net Assistance,2007,Number,34526,36047
+Manhattan,Safety Net Assistance,2007,Number,18845,36061
+Queens,Safety Net Assistance,2007,Number,14875,36081
+Staten Island,Safety Net Assistance,2007,Number,3054,36085
+New York City,Safety Net Assistance,2007,Number,101114,3651000
+Battery Park/Tribeca,Safety Net Assistance,2009,Number,90,101
+Greenwich Village,Safety Net Assistance,2009,Number,381,102
+Lower East Side,Safety Net Assistance,2009,Number,2516,103
+Chelsea/Clinton,Safety Net Assistance,2009,Number,3154,104
+Midtown Business District,Safety Net Assistance,2009,Number,565,105
+Murray Hill/Stuyvesant,Safety Net Assistance,2009,Number,554,106
+Upper West Side,Safety Net Assistance,2009,Number,1371,107
+Upper East Side,Safety Net Assistance,2009,Number,391,108
+Manhattanville,Safety Net Assistance,2009,Number,1887,109
+Central Harlem,Safety Net Assistance,2009,Number,2794,110
+East Harlem,Safety Net Assistance,2009,Number,2844,111
+Washington Heights,Safety Net Assistance,2009,Number,2375,112
+Mott Haven,Safety Net Assistance,2009,Number,3026,201
+Hunts Point,Safety Net Assistance,2009,Number,1622,202
+Morrisania,Safety Net Assistance,2009,Number,2510,203
+Concourse/Highbridge,Safety Net Assistance,2009,Number,4067,204
+University Heights,Safety Net Assistance,2009,Number,3926,205
+East Tremont,Safety Net Assistance,2009,Number,2521,206
+Bedford Park,Safety Net Assistance,2009,Number,2821,207
+Riverdale,Safety Net Assistance,2009,Number,704,208
+Unionport/Soundview,Safety Net Assistance,2009,Number,3189,209
+Throgs Neck,Safety Net Assistance,2009,Number,770,210
+Pelham Parkway,Safety Net Assistance,2009,Number,1457,211
+Williamsbridge,Safety Net Assistance,2009,Number,2378,212
+Williamsburg/Greenpoint,Safety Net Assistance,2009,Number,1477,301
+Fort Greene/Brooklyn Hts,Safety Net Assistance,2009,Number,1752,302
+Bedford Stuyvesant,Safety Net Assistance,2009,Number,4935,303
+Bushwick,Safety Net Assistance,2009,Number,2539,304
+East New York,Safety Net Assistance,2009,Number,4466,305
+Park Slope,Safety Net Assistance,2009,Number,584,306
+Sunset Park,Safety Net Assistance,2009,Number,1227,307
+Crown Heights North,Safety Net Assistance,2009,Number,2616,308
+Crown Heights South,Safety Net Assistance,2009,Number,1915,309
+Bay Ridge,Safety Net Assistance,2009,Number,895,310
+Bensonhurst,Safety Net Assistance,2009,Number,1752,311
+Borough Park,Safety Net Assistance,2009,Number,1150,312
+Coney Island,Safety Net Assistance,2009,Number,1201,313
+Flatbush/Midwood,Safety Net Assistance,2009,Number,2098,314
+Sheepshead Bay,Safety Net Assistance,2009,Number,1001,315
+Brownsville,Safety Net Assistance,2009,Number,3245,316
+East Flatbush,Safety Net Assistance,2009,Number,2542,317
+Canarsie,Safety Net Assistance,2009,Number,1575,318
+Astoria,Safety Net Assistance,2009,Number,1343,401
+Sunnyside/Woodside,Safety Net Assistance,2009,Number,784,402
+Jackson Heights,Safety Net Assistance,2009,Number,1101,403
+Elmhurst/Corona,Safety Net Assistance,2009,Number,1275,404
+Ridgewood/Glendale,Safety Net Assistance,2009,Number,1044,405
+Rego Park/Forest Hills,Safety Net Assistance,2009,Number,538,406
+Flushing,Safety Net Assistance,2009,Number,1723,407
+Fresh Meadows/Briarwood,Safety Net Assistance,2009,Number,1033,408
+Woodhaven,Safety Net Assistance,2009,Number,1277,409
+Howard Beach,Safety Net Assistance,2009,Number,802,410
+Bayside,Safety Net Assistance,2009,Number,541,411
+Jamaica/St. Albans,Safety Net Assistance,2009,Number,3141,412
+Queens Village,Safety Net Assistance,2009,Number,1225,413
+The Rockaways,Safety Net Assistance,2009,Number,1857,414
+St. George,Safety Net Assistance,2009,Number,2453,501
+South Beach,Safety Net Assistance,2009,Number,698,502
+Tottenville,Safety Net Assistance,2009,Number,406,503
+Bronx,Safety Net Assistance,2009,Number,28991,36005
+Brooklyn,Safety Net Assistance,2009,Number,36970,36047
+Manhattan,Safety Net Assistance,2009,Number,18922,36061
+Queens,Safety Net Assistance,2009,Number,17684,36081
+Staten Island,Safety Net Assistance,2009,Number,3557,36085
+New York City,Safety Net Assistance,2009,Number,106547,3651000
+Battery Park/Tribeca,Safety Net Assistance,2011,Number,107,101
+Greenwich Village,Safety Net Assistance,2011,Number,383,102
+Lower East Side,Safety Net Assistance,2011,Number,3056,103
+Chelsea/Clinton,Safety Net Assistance,2011,Number,1605,104
+Midtown Business District,Safety Net Assistance,2011,Number,613,105
+Murray Hill/Stuyvesant,Safety Net Assistance,2011,Number,697,106
+Upper West Side,Safety Net Assistance,2011,Number,1545,107
+Upper East Side,Safety Net Assistance,2011,Number,473,108
+Manhattanville,Safety Net Assistance,2011,Number,2006,109
+Central Harlem,Safety Net Assistance,2011,Number,3472,110
+East Harlem,Safety Net Assistance,2011,Number,2863,111
+Washington Heights,Safety Net Assistance,2011,Number,3202,112
+Mott Haven,Safety Net Assistance,2011,Number,3016,201
+Hunts Point,Safety Net Assistance,2011,Number,1588,202
+Morrisania,Safety Net Assistance,2011,Number,2582,203
+Concourse/Highbridge,Safety Net Assistance,2011,Number,4103,204
+University Heights,Safety Net Assistance,2011,Number,4283,205
+East Tremont,Safety Net Assistance,2011,Number,2821,206
+Bedford Park,Safety Net Assistance,2011,Number,3339,207
+Riverdale,Safety Net Assistance,2011,Number,811,208
+Unionport/Soundview,Safety Net Assistance,2011,Number,3479,209
+Throgs Neck,Safety Net Assistance,2011,Number,750,210
+Pelham Parkway,Safety Net Assistance,2011,Number,1651,211
+Williamsbridge,Safety Net Assistance,2011,Number,2768,212
+Williamsburg/Greenpoint,Safety Net Assistance,2011,Number,1478,301
+Fort Greene/Brooklyn Hts,Safety Net Assistance,2011,Number,1048,302
+Bedford Stuyvesant,Safety Net Assistance,2011,Number,5053,303
+Bushwick,Safety Net Assistance,2011,Number,2858,304
+East New York,Safety Net Assistance,2011,Number,4834,305
+Park Slope,Safety Net Assistance,2011,Number,589,306
+Sunset Park,Safety Net Assistance,2011,Number,1450,307
+Crown Heights North,Safety Net Assistance,2011,Number,2986,308
+Crown Heights South,Safety Net Assistance,2011,Number,2162,309
+Bay Ridge,Safety Net Assistance,2011,Number,1137,310
+Bensonhurst,Safety Net Assistance,2011,Number,2258,311
+Borough Park,Safety Net Assistance,2011,Number,1554,312
+Coney Island,Safety Net Assistance,2011,Number,1333,313
+Flatbush/Midwood,Safety Net Assistance,2011,Number,2733,314
+Sheepshead Bay,Safety Net Assistance,2011,Number,1162,315
+Brownsville,Safety Net Assistance,2011,Number,3457,316
+East Flatbush,Safety Net Assistance,2011,Number,3115,317
+Canarsie,Safety Net Assistance,2011,Number,1828,318
+Astoria,Safety Net Assistance,2011,Number,1296,401
+Sunnyside/Woodside,Safety Net Assistance,2011,Number,715,402
+Jackson Heights,Safety Net Assistance,2011,Number,1180,403
+Elmhurst/Corona,Safety Net Assistance,2011,Number,1398,404
+Ridgewood/Glendale,Safety Net Assistance,2011,Number,1132,405
+Rego Park/Forest Hills,Safety Net Assistance,2011,Number,596,406
+Flushing,Safety Net Assistance,2011,Number,2064,407
+Fresh Meadows/Briarwood,Safety Net Assistance,2011,Number,1126,408
+Woodhaven,Safety Net Assistance,2011,Number,1450,409
+Howard Beach,Safety Net Assistance,2011,Number,967,410
+Bayside,Safety Net Assistance,2011,Number,611,411
+Jamaica/St. Albans,Safety Net Assistance,2011,Number,3325,412
+Queens Village,Safety Net Assistance,2011,Number,1437,413
+The Rockaways,Safety Net Assistance,2011,Number,1793,414
+St. George,Safety Net Assistance,2011,Number,2318,501
+South Beach,Safety Net Assistance,2011,Number,739,502
+Tottenville,Safety Net Assistance,2011,Number,399,503
+Bronx,Safety Net Assistance,2011,Number,31191,36005
+Brooklyn,Safety Net Assistance,2011,Number,41035,36047
+Manhattan,Safety Net Assistance,2011,Number,20022,36061
+Queens,Safety Net Assistance,2011,Number,19090,36081
+Staten Island,Safety Net Assistance,2011,Number,3456,36085
+New York City,Safety Net Assistance,2011,Number,115282,3651000
+Battery Park/Tribeca,Safety Net Converted,2005,Number,332,101
+Greenwich Village,Safety Net Converted,2005,Number,208,102
+Lower East Side,Safety Net Converted,2005,Number,1266,103
+Chelsea/Clinton,Safety Net Converted,2005,Number,436,104
+Midtown Business District,Safety Net Converted,2005,Number,467,105
+Murray Hill/Stuyvesant,Safety Net Converted,2005,Number,58,106
+Upper West Side,Safety Net Converted,2005,Number,1236,107
+Upper East Side,Safety Net Converted,2005,Number,99,108
+Manhattanville,Safety Net Converted,2005,Number,1966,109
+Central Harlem,Safety Net Converted,2005,Number,2582,110
+East Harlem,Safety Net Converted,2005,Number,3218,111
+Washington Heights,Safety Net Converted,2005,Number,3429,112
+Mott Haven,Safety Net Converted,2005,Number,4355,201
+Hunts Point,Safety Net Converted,2005,Number,2226,202
+Morrisania,Safety Net Converted,2005,Number,3892,203
+Concourse/Highbridge,Safety Net Converted,2005,Number,6020,204
+University Heights,Safety Net Converted,2005,Number,6507,205
+East Tremont,Safety Net Converted,2005,Number,4233,206
+Bedford Park,Safety Net Converted,2005,Number,4422,207
+Riverdale,Safety Net Converted,2005,Number,1046,208
+Unionport/Soundview,Safety Net Converted,2005,Number,4067,209
+Throgs Neck,Safety Net Converted,2005,Number,529,210
+Pelham Parkway,Safety Net Converted,2005,Number,1152,211
+Williamsbridge,Safety Net Converted,2005,Number,2757,212
+Williamsburg/Greenpoint,Safety Net Converted,2005,Number,2634,301
+Fort Greene/Brooklyn Hts,Safety Net Converted,2005,Number,1235,302
+Bedford Stuyvesant,Safety Net Converted,2005,Number,5452,303
+Bushwick,Safety Net Converted,2005,Number,3217,304
+East New York,Safety Net Converted,2005,Number,5709,305
+Park Slope,Safety Net Converted,2005,Number,882,306
+Sunset Park,Safety Net Converted,2005,Number,781,307
+Crown Heights North,Safety Net Converted,2005,Number,2783,308
+Crown Heights South,Safety Net Converted,2005,Number,1305,309
+Bay Ridge,Safety Net Converted,2005,Number,264,310
+Bensonhurst,Safety Net Converted,2005,Number,417,311
+Borough Park,Safety Net Converted,2005,Number,1439,312
+Coney Island,Safety Net Converted,2005,Number,1420,313
+Flatbush/Midwood,Safety Net Converted,2005,Number,1784,314
+Sheepshead Bay,Safety Net Converted,2005,Number,789,315
+Brownsville,Safety Net Converted,2005,Number,4591,316
+East Flatbush,Safety Net Converted,2005,Number,1772,317
+Canarsie,Safety Net Converted,2005,Number,1329,318
+Astoria,Safety Net Converted,2005,Number,1173,401
+Sunnyside/Woodside,Safety Net Converted,2005,Number,201,402
+Jackson Heights,Safety Net Converted,2005,Number,559,403
+Elmhurst/Corona,Safety Net Converted,2005,Number,520,404
+Ridgewood/Glendale,Safety Net Converted,2005,Number,620,405
+Rego Park/Forest Hills,Safety Net Converted,2005,Number,223,406
+Flushing,Safety Net Converted,2005,Number,353,407
+Fresh Meadows/Briarwood,Safety Net Converted,2005,Number,1103,408
+Woodhaven,Safety Net Converted,2005,Number,821,409
+Howard Beach,Safety Net Converted,2005,Number,395,410
+Bayside,Safety Net Converted,2005,Number,37,411
+Jamaica/St. Albans,Safety Net Converted,2005,Number,2215,412
+Queens Village,Safety Net Converted,2005,Number,905,413
+The Rockaways,Safety Net Converted,2005,Number,2036,414
+St. George,Safety Net Converted,2005,Number,2068,501
+South Beach,Safety Net Converted,2005,Number,339,502
+Tottenville,Safety Net Converted,2005,Number,97,503
+Bronx,Safety Net Converted,2005,Number,41117,36005
+Brooklyn,Safety Net Converted,2005,Number,37885,36047
+Manhattan,Safety Net Converted,2005,Number,15189,36061
+Queens,Safety Net Converted,2005,Number,11241,36081
+Staten Island,Safety Net Converted,2005,Number,2500,36085
+New York City,Safety Net Converted,2005,Number,108048,3651000
+Battery Park/Tribeca,Safety Net Converted,2006,Number,114,101
+Greenwich Village,Safety Net Converted,2006,Number,89,102
+Lower East Side,Safety Net Converted,2006,Number,1203,103
+Chelsea/Clinton,Safety Net Converted,2006,Number,847,104
+Midtown Business District,Safety Net Converted,2006,Number,268,105
+Murray Hill/Stuyvesant,Safety Net Converted,2006,Number,135,106
+Upper West Side,Safety Net Converted,2006,Number,813,107
+Upper East Side,Safety Net Converted,2006,Number,141,108
+Manhattanville,Safety Net Converted,2006,Number,1821,109
+Central Harlem,Safety Net Converted,2006,Number,2078,110
+East Harlem,Safety Net Converted,2006,Number,2638,111
+Washington Heights,Safety Net Converted,2006,Number,2240,112
+Mott Haven,Safety Net Converted,2006,Number,3723,201
+Hunts Point,Safety Net Converted,2006,Number,1849,202
+Morrisania,Safety Net Converted,2006,Number,2922,203
+Concourse/Highbridge,Safety Net Converted,2006,Number,5418,204
+University Heights,Safety Net Converted,2006,Number,5173,205
+East Tremont,Safety Net Converted,2006,Number,3606,206
+Bedford Park,Safety Net Converted,2006,Number,3924,207
+Riverdale,Safety Net Converted,2006,Number,924,208
+Unionport/Soundview,Safety Net Converted,2006,Number,3956,209
+Throgs Neck,Safety Net Converted,2006,Number,723,210
+Pelham Parkway,Safety Net Converted,2006,Number,1419,211
+Williamsbridge,Safety Net Converted,2006,Number,2944,212
+Williamsburg/Greenpoint,Safety Net Converted,2006,Number,1513,301
+Fort Greene/Brooklyn Hts,Safety Net Converted,2006,Number,1203,302
+Bedford Stuyvesant,Safety Net Converted,2006,Number,4009,303
+Bushwick,Safety Net Converted,2006,Number,2731,304
+East New York,Safety Net Converted,2006,Number,4135,305
+Park Slope,Safety Net Converted,2006,Number,639,306
+Sunset Park,Safety Net Converted,2006,Number,911,307
+Crown Heights North,Safety Net Converted,2006,Number,2000,308
+Crown Heights South,Safety Net Converted,2006,Number,1101,309
+Bay Ridge,Safety Net Converted,2006,Number,377,310
+Bensonhurst,Safety Net Converted,2006,Number,666,311
+Borough Park,Safety Net Converted,2006,Number,947,312
+Coney Island,Safety Net Converted,2006,Number,1132,313
+Flatbush/Midwood,Safety Net Converted,2006,Number,1649,314
+Sheepshead Bay,Safety Net Converted,2006,Number,664,315
+Brownsville,Safety Net Converted,2006,Number,2920,316
+East Flatbush,Safety Net Converted,2006,Number,1680,317
+Canarsie,Safety Net Converted,2006,Number,1110,318
+Astoria,Safety Net Converted,2006,Number,750,401
+Sunnyside/Woodside,Safety Net Converted,2006,Number,268,402
+Jackson Heights,Safety Net Converted,2006,Number,627,403
+Elmhurst/Corona,Safety Net Converted,2006,Number,594,404
+Ridgewood/Glendale,Safety Net Converted,2006,Number,580,405
+Rego Park/Forest Hills,Safety Net Converted,2006,Number,204,406
+Flushing,Safety Net Converted,2006,Number,428,407
+Fresh Meadows/Briarwood,Safety Net Converted,2006,Number,572,408
+Woodhaven,Safety Net Converted,2006,Number,613,409
+Howard Beach,Safety Net Converted,2006,Number,384,410
+Bayside,Safety Net Converted,2006,Number,85,411
+Jamaica/St. Albans,Safety Net Converted,2006,Number,1702,412
+Queens Village,Safety Net Converted,2006,Number,662,413
+The Rockaways,Safety Net Converted,2006,Number,1354,414
+St. George,Safety Net Converted,2006,Number,1717,501
+South Beach,Safety Net Converted,2006,Number,324,502
+Tottenville,Safety Net Converted,2006,Number,144,503
+Bronx,Safety Net Converted,2006,Number,36581,36005
+Brooklyn,Safety Net Converted,2006,Number,29387,36047
+Manhattan,Safety Net Converted,2006,Number,12387,36061
+Queens,Safety Net Converted,2006,Number,8823,36081
+Staten Island,Safety Net Converted,2006,Number,2185,36085
+New York City,Safety Net Converted,2006,Number,89363,3651000
+Battery Park/Tribeca,Safety Net Converted,2007,Number,291,101
+Greenwich Village,Safety Net Converted,2007,Number,18,102
+Lower East Side,Safety Net Converted,2007,Number,1022,103
+Chelsea/Clinton,Safety Net Converted,2007,Number,368,104
+Midtown Business District,Safety Net Converted,2007,Number,475,105
+Murray Hill/Stuyvesant,Safety Net Converted,2007,Number,51,106
+Upper West Side,Safety Net Converted,2007,Number,1040,107
+Upper East Side,Safety Net Converted,2007,Number,82,108
+Manhattanville,Safety Net Converted,2007,Number,1478,109
+Central Harlem,Safety Net Converted,2007,Number,1873,110
+East Harlem,Safety Net Converted,2007,Number,2800,111
+Washington Heights,Safety Net Converted,2007,Number,2345,112
+Mott Haven,Safety Net Converted,2007,Number,4031,201
+Hunts Point,Safety Net Converted,2007,Number,1937,202
+Morrisania,Safety Net Converted,2007,Number,3465,203
+Concourse/Highbridge,Safety Net Converted,2007,Number,5880,204
+University Heights,Safety Net Converted,2007,Number,6027,205
+East Tremont,Safety Net Converted,2007,Number,4336,206
+Bedford Park,Safety Net Converted,2007,Number,4148,207
+Riverdale,Safety Net Converted,2007,Number,944,208
+Unionport/Soundview,Safety Net Converted,2007,Number,3893,209
+Throgs Neck,Safety Net Converted,2007,Number,587,210
+Pelham Parkway,Safety Net Converted,2007,Number,1253,211
+Williamsbridge,Safety Net Converted,2007,Number,2765,212
+Williamsburg/Greenpoint,Safety Net Converted,2007,Number,2019,301
+Fort Greene/Brooklyn Hts,Safety Net Converted,2007,Number,990,302
+Bedford Stuyvesant,Safety Net Converted,2007,Number,4728,303
+Bushwick,Safety Net Converted,2007,Number,2703,304
+East New York,Safety Net Converted,2007,Number,5081,305
+Park Slope,Safety Net Converted,2007,Number,695,306
+Sunset Park,Safety Net Converted,2007,Number,442,307
+Crown Heights North,Safety Net Converted,2007,Number,2279,308
+Crown Heights South,Safety Net Converted,2007,Number,984,309
+Bay Ridge,Safety Net Converted,2007,Number,159,310
+Bensonhurst,Safety Net Converted,2007,Number,307,311
+Borough Park,Safety Net Converted,2007,Number,878,312
+Coney Island,Safety Net Converted,2007,Number,1043,313
+Flatbush/Midwood,Safety Net Converted,2007,Number,1324,314
+Sheepshead Bay,Safety Net Converted,2007,Number,580,315
+Brownsville,Safety Net Converted,2007,Number,3826,316
+East Flatbush,Safety Net Converted,2007,Number,1543,317
+Canarsie,Safety Net Converted,2007,Number,1180,318
+Astoria,Safety Net Converted,2007,Number,760,401
+Sunnyside/Woodside,Safety Net Converted,2007,Number,146,402
+Jackson Heights,Safety Net Converted,2007,Number,353,403
+Elmhurst/Corona,Safety Net Converted,2007,Number,276,404
+Ridgewood/Glendale,Safety Net Converted,2007,Number,476,405
+Rego Park/Forest Hills,Safety Net Converted,2007,Number,130,406
+Flushing,Safety Net Converted,2007,Number,212,407
+Fresh Meadows/Briarwood,Safety Net Converted,2007,Number,1021,408
+Woodhaven,Safety Net Converted,2007,Number,643,409
+Howard Beach,Safety Net Converted,2007,Number,374,410
+Bayside,Safety Net Converted,2007,Number,30,411
+Jamaica/St. Albans,Safety Net Converted,2007,Number,1734,412
+Queens Village,Safety Net Converted,2007,Number,755,413
+The Rockaways,Safety Net Converted,2007,Number,1958,414
+St. George,Safety Net Converted,2007,Number,2006,501
+South Beach,Safety Net Converted,2007,Number,262,502
+Tottenville,Safety Net Converted,2007,Number,70,503
+Bronx,Safety Net Converted,2007,Number,39265,36005
+Brooklyn,Safety Net Converted,2007,Number,30761,36047
+Manhattan,Safety Net Converted,2007,Number,11844,36061
+Queens,Safety Net Converted,2007,Number,8868,36081
+Staten Island,Safety Net Converted,2007,Number,2338,36085
+New York City,Safety Net Converted,2007,Number,93187,3651000
+Battery Park/Tribeca,Safety Net Converted,2009,Number,331,101
+Greenwich Village,Safety Net Converted,2009,Number,15,102
+Lower East Side,Safety Net Converted,2009,Number,915,103
+Chelsea/Clinton,Safety Net Converted,2009,Number,294,104
+Midtown Business District,Safety Net Converted,2009,Number,415,105
+Murray Hill/Stuyvesant,Safety Net Converted,2009,Number,55,106
+Upper West Side,Safety Net Converted,2009,Number,1056,107
+Upper East Side,Safety Net Converted,2009,Number,55,108
+Manhattanville,Safety Net Converted,2009,Number,1197,109
+Central Harlem,Safety Net Converted,2009,Number,1667,110
+East Harlem,Safety Net Converted,2009,Number,2523,111
+Washington Heights,Safety Net Converted,2009,Number,1681,112
+Mott Haven,Safety Net Converted,2009,Number,3664,201
+Hunts Point,Safety Net Converted,2009,Number,2112,202
+Morrisania,Safety Net Converted,2009,Number,3493,203
+Concourse/Highbridge,Safety Net Converted,2009,Number,5676,204
+University Heights,Safety Net Converted,2009,Number,5776,205
+East Tremont,Safety Net Converted,2009,Number,4070,206
+Bedford Park,Safety Net Converted,2009,Number,4004,207
+Riverdale,Safety Net Converted,2009,Number,928,208
+Unionport/Soundview,Safety Net Converted,2009,Number,3969,209
+Throgs Neck,Safety Net Converted,2009,Number,691,210
+Pelham Parkway,Safety Net Converted,2009,Number,1281,211
+Williamsbridge,Safety Net Converted,2009,Number,3056,212
+Williamsburg/Greenpoint,Safety Net Converted,2009,Number,1823,301
+Fort Greene/Brooklyn Hts,Safety Net Converted,2009,Number,969,302
+Bedford Stuyvesant,Safety Net Converted,2009,Number,4465,303
+Bushwick,Safety Net Converted,2009,Number,2253,304
+East New York,Safety Net Converted,2009,Number,5151,305
+Park Slope,Safety Net Converted,2009,Number,458,306
+Sunset Park,Safety Net Converted,2009,Number,342,307
+Crown Heights North,Safety Net Converted,2009,Number,2143,308
+Crown Heights South,Safety Net Converted,2009,Number,929,309
+Bay Ridge,Safety Net Converted,2009,Number,170,310
+Bensonhurst,Safety Net Converted,2009,Number,269,311
+Borough Park,Safety Net Converted,2009,Number,729,312
+Coney Island,Safety Net Converted,2009,Number,1194,313
+Flatbush/Midwood,Safety Net Converted,2009,Number,1125,314
+Sheepshead Bay,Safety Net Converted,2009,Number,558,315
+Brownsville,Safety Net Converted,2009,Number,4148,316
+East Flatbush,Safety Net Converted,2009,Number,1565,317
+Canarsie,Safety Net Converted,2009,Number,1289,318
+Astoria,Safety Net Converted,2009,Number,869,401
+Sunnyside/Woodside,Safety Net Converted,2009,Number,118,402
+Jackson Heights,Safety Net Converted,2009,Number,284,403
+Elmhurst/Corona,Safety Net Converted,2009,Number,177,404
+Ridgewood/Glendale,Safety Net Converted,2009,Number,431,405
+Rego Park/Forest Hills,Safety Net Converted,2009,Number,106,406
+Flushing,Safety Net Converted,2009,Number,177,407
+Fresh Meadows/Briarwood,Safety Net Converted,2009,Number,1134,408
+Woodhaven,Safety Net Converted,2009,Number,561,409
+Howard Beach,Safety Net Converted,2009,Number,395,410
+Bayside,Safety Net Converted,2009,Number,21,411
+Jamaica/St. Albans,Safety Net Converted,2009,Number,2090,412
+Queens Village,Safety Net Converted,2009,Number,771,413
+The Rockaways,Safety Net Converted,2009,Number,2127,414
+St. George,Safety Net Converted,2009,Number,2499,501
+South Beach,Safety Net Converted,2009,Number,203,502
+Tottenville,Safety Net Converted,2009,Number,103,503
+Bronx,Safety Net Converted,2009,Number,38720,36005
+Brooklyn,Safety Net Converted,2009,Number,29580,36047
+Manhattan,Safety Net Converted,2009,Number,10204,36061
+Queens,Safety Net Converted,2009,Number,9261,36081
+Staten Island,Safety Net Converted,2009,Number,2805,36085
+New York City,Safety Net Converted,2009,Number,90687,3651000
+Battery Park/Tribeca,Safety Net Converted,2011,Number,338,101
+Greenwich Village,Safety Net Converted,2011,Number,13,102
+Lower East Side,Safety Net Converted,2011,Number,1051,103
+Chelsea/Clinton,Safety Net Converted,2011,Number,190,104
+Midtown Business District,Safety Net Converted,2011,Number,348,105
+Murray Hill/Stuyvesant,Safety Net Converted,2011,Number,72,106
+Upper West Side,Safety Net Converted,2011,Number,927,107
+Upper East Side,Safety Net Converted,2011,Number,80,108
+Manhattanville,Safety Net Converted,2011,Number,1037,109
+Central Harlem,Safety Net Converted,2011,Number,1782,110
+East Harlem,Safety Net Converted,2011,Number,2081,111
+Washington Heights,Safety Net Converted,2011,Number,1532,112
+Mott Haven,Safety Net Converted,2011,Number,3404,201
+Hunts Point,Safety Net Converted,2011,Number,2212,202
+Morrisania,Safety Net Converted,2011,Number,3532,203
+Concourse/Highbridge,Safety Net Converted,2011,Number,5185,204
+University Heights,Safety Net Converted,2011,Number,5738,205
+East Tremont,Safety Net Converted,2011,Number,4315,206
+Bedford Park,Safety Net Converted,2011,Number,3757,207
+Riverdale,Safety Net Converted,2011,Number,777,208
+Unionport/Soundview,Safety Net Converted,2011,Number,3952,209
+Throgs Neck,Safety Net Converted,2011,Number,743,210
+Pelham Parkway,Safety Net Converted,2011,Number,1254,211
+Williamsbridge,Safety Net Converted,2011,Number,3070,212
+Williamsburg/Greenpoint,Safety Net Converted,2011,Number,1583,301
+Fort Greene/Brooklyn Hts,Safety Net Converted,2011,Number,831,302
+Bedford Stuyvesant,Safety Net Converted,2011,Number,4251,303
+Bushwick,Safety Net Converted,2011,Number,1932,304
+East New York,Safety Net Converted,2011,Number,5053,305
+Park Slope,Safety Net Converted,2011,Number,395,306
+Sunset Park,Safety Net Converted,2011,Number,265,307
+Crown Heights North,Safety Net Converted,2011,Number,2118,308
+Crown Heights South,Safety Net Converted,2011,Number,927,309
+Bay Ridge,Safety Net Converted,2011,Number,135,310
+Bensonhurst,Safety Net Converted,2011,Number,258,311
+Borough Park,Safety Net Converted,2011,Number,635,312
+Coney Island,Safety Net Converted,2011,Number,1076,313
+Flatbush/Midwood,Safety Net Converted,2011,Number,1048,314
+Sheepshead Bay,Safety Net Converted,2011,Number,614,315
+Brownsville,Safety Net Converted,2011,Number,3594,316
+East Flatbush,Safety Net Converted,2011,Number,1737,317
+Canarsie,Safety Net Converted,2011,Number,1040,318
+Astoria,Safety Net Converted,2011,Number,771,401
+Sunnyside/Woodside,Safety Net Converted,2011,Number,102,402
+Jackson Heights,Safety Net Converted,2011,Number,259,403
+Elmhurst/Corona,Safety Net Converted,2011,Number,215,404
+Ridgewood/Glendale,Safety Net Converted,2011,Number,446,405
+Rego Park/Forest Hills,Safety Net Converted,2011,Number,82,406
+Flushing,Safety Net Converted,2011,Number,165,407
+Fresh Meadows/Briarwood,Safety Net Converted,2011,Number,875,408
+Woodhaven,Safety Net Converted,2011,Number,583,409
+Howard Beach,Safety Net Converted,2011,Number,342,410
+Bayside,Safety Net Converted,2011,Number,20,411
+Jamaica/St. Albans,Safety Net Converted,2011,Number,2386,412
+Queens Village,Safety Net Converted,2011,Number,798,413
+The Rockaways,Safety Net Converted,2011,Number,1955,414
+St. George,Safety Net Converted,2011,Number,2599,501
+South Beach,Safety Net Converted,2011,Number,270,502
+Tottenville,Safety Net Converted,2011,Number,88,503
+Bronx,Safety Net Converted,2011,Number,37939,36005
+Brooklyn,Safety Net Converted,2011,Number,27492,36047
+Manhattan,Safety Net Converted,2011,Number,9451,36061
+Queens,Safety Net Converted,2011,Number,8999,36081
+Staten Island,Safety Net Converted,2011,Number,2957,36085
+New York City,Safety Net Converted,2011,Number,86925,3651000
+Battery Park/Tribeca,Family Assistance,2005,Percent,0.20814,101
+Greenwich Village,Family Assistance,2005,Percent,0.11128,102
+Lower East Side,Family Assistance,2005,Percent,0.386,103
+Chelsea/Clinton,Family Assistance,2005,Percent,0.26498,104
+Midtown Business District,Family Assistance,2005,Percent,0.20299,105
+Murray Hill/Stuyvesant,Family Assistance,2005,Percent,0.1522,106
+Upper West Side,Family Assistance,2005,Percent,0.34757,107
+Upper East Side,Family Assistance,2005,Percent,0.31281,108
+Manhattanville,Family Assistance,2005,Percent,0.50913,109
+Central Harlem,Family Assistance,2005,Percent,0.42981,110
+East Harlem,Family Assistance,2005,Percent,0.44653,111
+Washington Heights,Family Assistance,2005,Percent,0.50105,112
+Mott Haven,Family Assistance,2005,Percent,0.46482,201
+Hunts Point,Family Assistance,2005,Percent,0.48546,202
+Morrisania,Family Assistance,2005,Percent,0.44431,203
+Concourse/Highbridge,Family Assistance,2005,Percent,0.48602,204
+University Heights,Family Assistance,2005,Percent,0.47381,205
+East Tremont,Family Assistance,2005,Percent,0.48179,206
+Bedford Park,Family Assistance,2005,Percent,0.50271,207
+Riverdale,Family Assistance,2005,Percent,0.51124,208
+Unionport/Soundview,Family Assistance,2005,Percent,0.49757,209
+Throgs Neck,Family Assistance,2005,Percent,0.55149,210
+Pelham Parkway,Family Assistance,2005,Percent,0.5092,211
+Williamsbridge,Family Assistance,2005,Percent,0.52595,212
+Williamsburg/Greenpoint,Family Assistance,2005,Percent,0.39767,301
+Fort Greene/Brooklyn Hts,Family Assistance,2005,Percent,0.3382,302
+Bedford Stuyvesant,Family Assistance,2005,Percent,0.4305,303
+Bushwick,Family Assistance,2005,Percent,0.52569,304
+East New York,Family Assistance,2005,Percent,0.47237,305
+Park Slope,Family Assistance,2005,Percent,0.44627,306
+Sunset Park,Family Assistance,2005,Percent,0.58946,307
+Crown Heights North,Family Assistance,2005,Percent,0.45294,308
+Crown Heights South,Family Assistance,2005,Percent,0.5007,309
+Bay Ridge,Family Assistance,2005,Percent,0.44926,310
+Bensonhurst,Family Assistance,2005,Percent,0.4344,311
+Borough Park,Family Assistance,2005,Percent,0.45451,312
+Coney Island,Family Assistance,2005,Percent,0.4651,313
+Flatbush/Midwood,Family Assistance,2005,Percent,0.55045,314
+Sheepshead Bay,Family Assistance,2005,Percent,0.43246,315
+Brownsville,Family Assistance,2005,Percent,0.45076,316
+East Flatbush,Family Assistance,2005,Percent,0.56015,317
+Canarsie,Family Assistance,2005,Percent,0.52018,318
+Astoria,Family Assistance,2005,Percent,0.50252,401
+Sunnyside/Woodside,Family Assistance,2005,Percent,0.50415,402
+Jackson Heights,Family Assistance,2005,Percent,0.59577,403
+Elmhurst/Corona,Family Assistance,2005,Percent,0.5725,404
+Ridgewood/Glendale,Family Assistance,2005,Percent,0.52871,405
+Rego Park/Forest Hills,Family Assistance,2005,Percent,0.36156,406
+Flushing,Family Assistance,2005,Percent,0.37959,407
+Fresh Meadows/Briarwood,Family Assistance,2005,Percent,0.37055,408
+Woodhaven,Family Assistance,2005,Percent,0.46202,409
+Howard Beach,Family Assistance,2005,Percent,0.5292,410
+Bayside,Family Assistance,2005,Percent,0.22129,411
+Jamaica/St. Albans,Family Assistance,2005,Percent,0.52087,412
+Queens Village,Family Assistance,2005,Percent,0.5137,413
+The Rockaways,Family Assistance,2005,Percent,0.47153,414
+St. George,Family Assistance,2005,Percent,0.56677,501
+South Beach,Family Assistance,2005,Percent,0.49204,502
+Tottenville,Family Assistance,2005,Percent,0.49682,503
+Bronx,Family Assistance,2005,Percent,0.48722,36005
+Brooklyn,Family Assistance,2005,Percent,0.47139,36047
+Manhattan,Family Assistance,2005,Percent,0.4228,36061
+Queens,Family Assistance,2005,Percent,0.49353,36081
+Staten Island,Family Assistance,2005,Percent,0.55127,36085
+New York City,Family Assistance,2005,Percent,0.47395,3651000
+Battery Park/Tribeca,Family Assistance,2006,Percent,0.52985,101
+Greenwich Village,Family Assistance,2006,Percent,0.5,102
+Lower East Side,Family Assistance,2006,Percent,0.39908,103
+Chelsea/Clinton,Family Assistance,2006,Percent,0.48023,104
+Midtown Business District,Family Assistance,2006,Percent,0.51235,105
+Murray Hill/Stuyvesant,Family Assistance,2006,Percent,0.48499,106
+Upper West Side,Family Assistance,2006,Percent,0.45347,107
+Upper East Side,Family Assistance,2006,Percent,0.44932,108
+Manhattanville,Family Assistance,2006,Percent,0.39141,109
+Central Harlem,Family Assistance,2006,Percent,4.00062,110
+East Harlem,Family Assistance,2006,Percent,0.40024,111
+Washington Heights,Family Assistance,2006,Percent,0.38508,112
+Mott Haven,Family Assistance,2006,Percent,0.48275,201
+Hunts Point,Family Assistance,2006,Percent,0.45195,202
+Morrisania,Family Assistance,2006,Percent,0.46132,203
+Concourse/Highbridge,Family Assistance,2006,Percent,0.47141,204
+University Heights,Family Assistance,2006,Percent,0.46829,205
+East Tremont,Family Assistance,2006,Percent,0.45778,206
+Bedford Park,Family Assistance,2006,Percent,0.46786,207
+Riverdale,Family Assistance,2006,Percent,0.48725,208
+Unionport/Soundview,Family Assistance,2006,Percent,0.4624,209
+Throgs Neck,Family Assistance,2006,Percent,0.50615,210
+Pelham Parkway,Family Assistance,2006,Percent,0.47982,211
+Williamsbridge,Family Assistance,2006,Percent,0.45579,212
+Williamsburg/Greenpoint,Family Assistance,2006,Percent,0.41079,301
+Fort Greene/Brooklyn Hts,Family Assistance,2006,Percent,0.5532,302
+Bedford Stuyvesant,Family Assistance,2006,Percent,0.47694,303
+Bushwick,Family Assistance,2006,Percent,0.43829,304
+East New York,Family Assistance,2006,Percent,0.45066,305
+Park Slope,Family Assistance,2006,Percent,0.47901,306
+Sunset Park,Family Assistance,2006,Percent,0.44067,307
+Crown Heights North,Family Assistance,2006,Percent,0.4848,308
+Crown Heights South,Family Assistance,2006,Percent,0.49011,309
+Bay Ridge,Family Assistance,2006,Percent,0.47564,310
+Bensonhurst,Family Assistance,2006,Percent,0.48725,311
+Borough Park,Family Assistance,2006,Percent,0.36386,312
+Coney Island,Family Assistance,2006,Percent,0.44316,313
+Flatbush/Midwood,Family Assistance,2006,Percent,0.46014,314
+Sheepshead Bay,Family Assistance,2006,Percent,0.45994,315
+Brownsville,Family Assistance,2006,Percent,0.44154,316
+East Flatbush,Family Assistance,2006,Percent,0.47904,317
+Canarsie,Family Assistance,2006,Percent,0.46578,318
+Astoria,Family Assistance,2006,Percent,0.48501,401
+Sunnyside/Woodside,Family Assistance,2006,Percent,0.51206,402
+Jackson Heights,Family Assistance,2006,Percent,0.48001,403
+Elmhurst/Corona,Family Assistance,2006,Percent,0.45875,404
+Ridgewood/Glendale,Family Assistance,2006,Percent,0.4741,405
+Rego Park/Forest Hills,Family Assistance,2006,Percent,0.50814,406
+Flushing,Family Assistance,2006,Percent,0.48341,407
+Fresh Meadows/Briarwood,Family Assistance,2006,Percent,0.53787,408
+Woodhaven,Family Assistance,2006,Percent,0.46244,409
+Howard Beach,Family Assistance,2006,Percent,0.48367,410
+Bayside,Family Assistance,2006,Percent,0.53043,411
+Jamaica/St. Albans,Family Assistance,2006,Percent,0.48337,412
+Queens Village,Family Assistance,2006,Percent,0.51379,413
+The Rockaways,Family Assistance,2006,Percent,0.44277,414
+St. George,Family Assistance,2006,Percent,0.52253,501
+South Beach,Family Assistance,2006,Percent,0.55881,502
+Tottenville,Family Assistance,2006,Percent,0.60026,503
+Bronx,Family Assistance,2006,Percent,0.46779,36005
+Brooklyn,Family Assistance,2006,Percent,0.45943,36047
+Manhattan,Family Assistance,2006,Percent,0.4108,36061
+Queens,Family Assistance,2006,Percent,0.48104,36081
+Staten Island,Family Assistance,2006,Percent,0.53302,36085
+New York City,Family Assistance,2006,Percent,0.46006,3651000
+Battery Park/Tribeca,Family Assistance,2007,Percent,0.29482,101
+Greenwich Village,Family Assistance,2007,Percent,0.14696,102
+Lower East Side,Family Assistance,2007,Percent,0.37165,103
+Chelsea/Clinton,Family Assistance,2007,Percent,0.27487,104
+Midtown Business District,Family Assistance,2007,Percent,0.18419,105
+Murray Hill/Stuyvesant,Family Assistance,2007,Percent,0.18519,106
+Upper West Side,Family Assistance,2007,Percent,0.35219,107
+Upper East Side,Family Assistance,2007,Percent,0.33582,108
+Manhattanville,Family Assistance,2007,Percent,0.47056,109
+Central Harlem,Family Assistance,2007,Percent,0.41918,110
+East Harlem,Family Assistance,2007,Percent,0.43273,111
+Washington Heights,Family Assistance,2007,Percent,0.42798,112
+Mott Haven,Family Assistance,2007,Percent,0.46562,201
+Hunts Point,Family Assistance,2007,Percent,0.50231,202
+Morrisania,Family Assistance,2007,Percent,0.4423,203
+Concourse/Highbridge,Family Assistance,2007,Percent,0.46758,204
+University Heights,Family Assistance,2007,Percent,0.45782,205
+East Tremont,Family Assistance,2007,Percent,0.46022,206
+Bedford Park,Family Assistance,2007,Percent,0.48876,207
+Riverdale,Family Assistance,2007,Percent,0.49428,208
+Unionport/Soundview,Family Assistance,2007,Percent,0.46257,209
+Throgs Neck,Family Assistance,2007,Percent,0.55517,210
+Pelham Parkway,Family Assistance,2007,Percent,0.48801,211
+Williamsbridge,Family Assistance,2007,Percent,0.49961,212
+Williamsburg/Greenpoint,Family Assistance,2007,Percent,0.34676,301
+Fort Greene/Brooklyn Hts,Family Assistance,2007,Percent,0.43719,302
+Bedford Stuyvesant,Family Assistance,2007,Percent,0.40982,303
+Bushwick,Family Assistance,2007,Percent,0.48742,304
+East New York,Family Assistance,2007,Percent,0.42229,305
+Park Slope,Family Assistance,2007,Percent,0.44836,306
+Sunset Park,Family Assistance,2007,Percent,0.57622,307
+Crown Heights North,Family Assistance,2007,Percent,0.42065,308
+Crown Heights South,Family Assistance,2007,Percent,0.45523,309
+Bay Ridge,Family Assistance,2007,Percent,0.45771,310
+Bensonhurst,Family Assistance,2007,Percent,0.45669,311
+Borough Park,Family Assistance,2007,Percent,0.40668,312
+Coney Island,Family Assistance,2007,Percent,0.45422,313
+Flatbush/Midwood,Family Assistance,2007,Percent,0.50047,314
+Sheepshead Bay,Family Assistance,2007,Percent,0.4466,315
+Brownsville,Family Assistance,2007,Percent,0.42495,316
+East Flatbush,Family Assistance,2007,Percent,0.50606,317
+Canarsie,Family Assistance,2007,Percent,0.47264,318
+Astoria,Family Assistance,2007,Percent,0.48028,401
+Sunnyside/Woodside,Family Assistance,2007,Percent,0.51707,402
+Jackson Heights,Family Assistance,2007,Percent,0.57616,403
+Elmhurst/Corona,Family Assistance,2007,Percent,0.57071,404
+Ridgewood/Glendale,Family Assistance,2007,Percent,0.48078,405
+Rego Park/Forest Hills,Family Assistance,2007,Percent,0.38489,406
+Flushing,Family Assistance,2007,Percent,0.36475,407
+Fresh Meadows/Briarwood,Family Assistance,2007,Percent,0.32312,408
+Woodhaven,Family Assistance,2007,Percent,0.45684,409
+Howard Beach,Family Assistance,2007,Percent,0.47984,410
+Bayside,Family Assistance,2007,Percent,0.21849,411
+Jamaica/St. Albans,Family Assistance,2007,Percent,0.4797,412
+Queens Village,Family Assistance,2007,Percent,0.49412,413
+The Rockaways,Family Assistance,2007,Percent,0.43566,414
+St. George,Family Assistance,2007,Percent,0.53802,501
+South Beach,Family Assistance,2007,Percent,0.49472,502
+Tottenville,Family Assistance,2007,Percent,0.56044,503
+Bronx,Family Assistance,2007,Percent,0.47252,36005
+Brooklyn,Family Assistance,2007,Percent,0.44312,36047
+Manhattan,Family Assistance,2007,Percent,0.40257,36061
+Queens,Family Assistance,2007,Percent,0.46481,36081
+Staten Island,Family Assistance,2007,Percent,0.53344,36085
+New York City,Family Assistance,2007,Percent,0.45346,3651000
+Battery Park/Tribeca,Family Assistance,2009,Percent,0.11181,101
+Greenwich Village,Family Assistance,2009,Percent,0.07477,102
+Lower East Side,Family Assistance,2009,Percent,0.33314,103
+Chelsea/Clinton,Family Assistance,2009,Percent,0.15923,104
+Midtown Business District,Family Assistance,2009,Percent,0.19804,105
+Murray Hill/Stuyvesant,Family Assistance,2009,Percent,0.13124,106
+Upper West Side,Family Assistance,2009,Percent,0.32546,107
+Upper East Side,Family Assistance,2009,Percent,0.26403,108
+Manhattanville,Family Assistance,2009,Percent,0.48394,109
+Central Harlem,Family Assistance,2009,Percent,0.43107,110
+East Harlem,Family Assistance,2009,Percent,0.44274,111
+Washington Heights,Family Assistance,2009,Percent,0.47495,112
+Mott Haven,Family Assistance,2009,Percent,0.45702,201
+Hunts Point,Family Assistance,2009,Percent,0.47593,202
+Morrisania,Family Assistance,2009,Percent,0.42888,203
+Concourse/Highbridge,Family Assistance,2009,Percent,0.47449,204
+University Heights,Family Assistance,2009,Percent,0.449,205
+East Tremont,Family Assistance,2009,Percent,0.48379,206
+Bedford Park,Family Assistance,2009,Percent,0.49497,207
+Riverdale,Family Assistance,2009,Percent,0.46875,208
+Unionport/Soundview,Family Assistance,2009,Percent,0.4695,209
+Throgs Neck,Family Assistance,2009,Percent,0.50374,210
+Pelham Parkway,Family Assistance,2009,Percent,0.47477,211
+Williamsbridge,Family Assistance,2009,Percent,0.4982,212
+Williamsburg/Greenpoint,Family Assistance,2009,Percent,0.42897,301
+Fort Greene/Brooklyn Hts,Family Assistance,2009,Percent,0.33374,302
+Bedford Stuyvesant,Family Assistance,2009,Percent,0.38441,303
+Bushwick,Family Assistance,2009,Percent,0.48262,304
+East New York,Family Assistance,2009,Percent,0.42212,305
+Park Slope,Family Assistance,2009,Percent,0.42904,306
+Sunset Park,Family Assistance,2009,Percent,0.5322,307
+Crown Heights North,Family Assistance,2009,Percent,0.36825,308
+Crown Heights South,Family Assistance,2009,Percent,0.39759,309
+Bay Ridge,Family Assistance,2009,Percent,0.39864,310
+Bensonhurst,Family Assistance,2009,Percent,0.37138,311
+Borough Park,Family Assistance,2009,Percent,0.50553,312
+Coney Island,Family Assistance,2009,Percent,0.41742,313
+Flatbush/Midwood,Family Assistance,2009,Percent,0.49758,314
+Sheepshead Bay,Family Assistance,2009,Percent,0.43981,315
+Brownsville,Family Assistance,2009,Percent,0.4253,316
+East Flatbush,Family Assistance,2009,Percent,0.4738,317
+Canarsie,Family Assistance,2009,Percent,0.44258,318
+Astoria,Family Assistance,2009,Percent,0.45383,401
+Sunnyside/Woodside,Family Assistance,2009,Percent,0.43554,402
+Jackson Heights,Family Assistance,2009,Percent,0.59132,403
+Elmhurst/Corona,Family Assistance,2009,Percent,0.52918,404
+Ridgewood/Glendale,Family Assistance,2009,Percent,0.47076,405
+Rego Park/Forest Hills,Family Assistance,2009,Percent,0.26147,406
+Flushing,Family Assistance,2009,Percent,0.25926,407
+Fresh Meadows/Briarwood,Family Assistance,2009,Percent,0.31619,408
+Woodhaven,Family Assistance,2009,Percent,0.48702,409
+Howard Beach,Family Assistance,2009,Percent,0.49472,410
+Bayside,Family Assistance,2009,Percent,0.13138,411
+Jamaica/St. Albans,Family Assistance,2009,Percent,0.48786,412
+Queens Village,Family Assistance,2009,Percent,0.51694,413
+The Rockaways,Family Assistance,2009,Percent,0.45056,414
+St. George,Family Assistance,2009,Percent,0.51857,501
+South Beach,Family Assistance,2009,Percent,0.50495,502
+Tottenville,Family Assistance,2009,Percent,0.44493,503
+Bronx,Family Assistance,2009,Percent,0.47075,36005
+Brooklyn,Family Assistance,2009,Percent,0.42813,36047
+Manhattan,Family Assistance,2009,Percent,0.38615,36061
+Queens,Family Assistance,2009,Percent,0.45796,36081
+Staten Island,Family Assistance,2009,Percent,0.51148,36085
+New York City,Family Assistance,2009,Percent,0.44513,3651000
+Battery Park/Tribeca,Family Assistance,2011,Percent,0.14423,101
+Greenwich Village,Family Assistance,2011,Percent,0.07907,102
+Lower East Side,Family Assistance,2011,Percent,0.30272,103
+Chelsea/Clinton,Family Assistance,2011,Percent,0.20328,104
+Midtown Business District,Family Assistance,2011,Percent,0.19312,105
+Murray Hill/Stuyvesant,Family Assistance,2011,Percent,0.10789,106
+Upper West Side,Family Assistance,2011,Percent,0.2814,107
+Upper East Side,Family Assistance,2011,Percent,0.23513,108
+Manhattanville,Family Assistance,2011,Percent,0.43502,109
+Central Harlem,Family Assistance,2011,Percent,0.39679,110
+East Harlem,Family Assistance,2011,Percent,0.46337,111
+Washington Heights,Family Assistance,2011,Percent,0.44612,112
+Mott Haven,Family Assistance,2011,Percent,0.45625,201
+Hunts Point,Family Assistance,2011,Percent,0.45675,202
+Morrisania,Family Assistance,2011,Percent,0.42451,203
+Concourse/Highbridge,Family Assistance,2011,Percent,0.45352,204
+University Heights,Family Assistance,2011,Percent,0.42325,205
+East Tremont,Family Assistance,2011,Percent,0.45622,206
+Bedford Park,Family Assistance,2011,Percent,0.46087,207
+Riverdale,Family Assistance,2011,Percent,0.4824,208
+Unionport/Soundview,Family Assistance,2011,Percent,0.44466,209
+Throgs Neck,Family Assistance,2011,Percent,0.47997,210
+Pelham Parkway,Family Assistance,2011,Percent,0.43951,211
+Williamsbridge,Family Assistance,2011,Percent,0.4524,212
+Williamsburg/Greenpoint,Family Assistance,2011,Percent,0.43514,301
+Fort Greene/Brooklyn Hts,Family Assistance,2011,Percent,0.3667,302
+Bedford Stuyvesant,Family Assistance,2011,Percent,0.35812,303
+Bushwick,Family Assistance,2011,Percent,0.45618,304
+East New York,Family Assistance,2011,Percent,0.39037,305
+Park Slope,Family Assistance,2011,Percent,0.41394,306
+Sunset Park,Family Assistance,2011,Percent,0.51084,307
+Crown Heights North,Family Assistance,2011,Percent,0.32762,308
+Crown Heights South,Family Assistance,2011,Percent,0.37646,309
+Bay Ridge,Family Assistance,2011,Percent,0.35168,310
+Bensonhurst,Family Assistance,2011,Percent,0.31686,311
+Borough Park,Family Assistance,2011,Percent,0.64132,312
+Coney Island,Family Assistance,2011,Percent,0.41994,313
+Flatbush/Midwood,Family Assistance,2011,Percent,0.44964,314
+Sheepshead Bay,Family Assistance,2011,Percent,0.3878,315
+Brownsville,Family Assistance,2011,Percent,0.4017,316
+East Flatbush,Family Assistance,2011,Percent,0.41969,317
+Canarsie,Family Assistance,2011,Percent,0.4089,318
+Astoria,Family Assistance,2011,Percent,0.42711,401
+Sunnyside/Woodside,Family Assistance,2011,Percent,0.4746,402
+Jackson Heights,Family Assistance,2011,Percent,0.59073,403
+Elmhurst/Corona,Family Assistance,2011,Percent,0.50093,404
+Ridgewood/Glendale,Family Assistance,2011,Percent,0.44787,405
+Rego Park/Forest Hills,Family Assistance,2011,Percent,0.27409,406
+Flushing,Family Assistance,2011,Percent,0.22253,407
+Fresh Meadows/Briarwood,Family Assistance,2011,Percent,0.31166,408
+Woodhaven,Family Assistance,2011,Percent,0.4477,409
+Howard Beach,Family Assistance,2011,Percent,0.40092,410
+Bayside,Family Assistance,2011,Percent,0.13443,411
+Jamaica/St. Albans,Family Assistance,2011,Percent,0.45919,412
+Queens Village,Family Assistance,2011,Percent,0.49181,413
+The Rockaways,Family Assistance,2011,Percent,0.43401,414
+St. George,Family Assistance,2011,Percent,0.52625,501
+South Beach,Family Assistance,2011,Percent,0.47639,502
+Tottenville,Family Assistance,2011,Percent,0.40682,503
+Bronx,Family Assistance,2011,Percent,0.44805,36005
+Brooklyn,Family Assistance,2011,Percent,0.41081,36047
+Manhattan,Family Assistance,2011,Percent,0.37511,36061
+Queens,Family Assistance,2011,Percent,0.43428,36081
+Staten Island,Family Assistance,2011,Percent,0.51146,36085
+New York City,Family Assistance,2011,Percent,0.42617,3651000
+Battery Park/Tribeca,Safety Net Assistance,2005,Percent,0.2911,101
+Greenwich Village,Safety Net Assistance,2005,Percent,0.57165,102
+Lower East Side,Safety Net Assistance,2005,Percent,0.41299,103
+Chelsea/Clinton,Safety Net Assistance,2005,Percent,0.6121,104
+Midtown Business District,Safety Net Assistance,2005,Percent,0.42958,105
+Murray Hill/Stuyvesant,Safety Net Assistance,2005,Percent,0.77883,106
+Upper West Side,Safety Net Assistance,2005,Percent,0.38708,107
+Upper East Side,Safety Net Assistance,2005,Percent,0.56527,108
+Manhattanville,Safety Net Assistance,2005,Percent,0.26278,109
+Central Harlem,Safety Net Assistance,2005,Percent,0.33297,110
+East Harlem,Safety Net Assistance,2005,Percent,0.31001,111
+Washington Heights,Safety Net Assistance,2005,Percent,0.232,112
+Mott Haven,Safety Net Assistance,2005,Percent,0.25329,201
+Hunts Point,Safety Net Assistance,2005,Percent,0.22793,202
+Morrisania,Safety Net Assistance,2005,Percent,0.24473,203
+Concourse/Highbridge,Safety Net Assistance,2005,Percent,0.23244,204
+University Heights,Safety Net Assistance,2005,Percent,0.2278,205
+East Tremont,Safety Net Assistance,2005,Percent,0.22576,206
+Bedford Park,Safety Net Assistance,2005,Percent,0.2184,207
+Riverdale,Safety Net Assistance,2005,Percent,0.22752,208
+Unionport/Soundview,Safety Net Assistance,2005,Percent,0.25535,209
+Throgs Neck,Safety Net Assistance,2005,Percent,0.27558,210
+Pelham Parkway,Safety Net Assistance,2005,Percent,0.2788,211
+Williamsbridge,Safety Net Assistance,2005,Percent,0.21948,212
+Williamsburg/Greenpoint,Safety Net Assistance,2005,Percent,0.25433,301
+Fort Greene/Brooklyn Hts,Safety Net Assistance,2005,Percent,0.39643,302
+Bedford Stuyvesant,Safety Net Assistance,2005,Percent,0.27346,303
+Bushwick,Safety Net Assistance,2005,Percent,0.2216,304
+East New York,Safety Net Assistance,2005,Percent,0.22607,305
+Park Slope,Safety Net Assistance,2005,Percent,0.27497,306
+Sunset Park,Safety Net Assistance,2005,Percent,0.24807,307
+Crown Heights North,Safety Net Assistance,2005,Percent,0.26663,308
+Crown Heights South,Safety Net Assistance,2005,Percent,0.26987,309
+Bay Ridge,Safety Net Assistance,2005,Percent,0.41121,310
+Bensonhurst,Safety Net Assistance,2005,Percent,0.43896,311
+Borough Park,Safety Net Assistance,2005,Percent,0.26026,312
+Coney Island,Safety Net Assistance,2005,Percent,0.2729,313
+Flatbush/Midwood,Safety Net Assistance,2005,Percent,0.23664,314
+Sheepshead Bay,Safety Net Assistance,2005,Percent,0.3291,315
+Brownsville,Safety Net Assistance,2005,Percent,0.21132,316
+East Flatbush,Safety Net Assistance,2005,Percent,0.22298,317
+Canarsie,Safety Net Assistance,2005,Percent,0.22434,318
+Astoria,Safety Net Assistance,2005,Percent,0.26113,401
+Sunnyside/Woodside,Safety Net Assistance,2005,Percent,0.38731,402
+Jackson Heights,Safety Net Assistance,2005,Percent,0.25809,403
+Elmhurst/Corona,Safety Net Assistance,2005,Percent,0.28306,404
+Ridgewood/Glendale,Safety Net Assistance,2005,Percent,0.28093,405
+Rego Park/Forest Hills,Safety Net Assistance,2005,Percent,0.46834,406
+Flushing,Safety Net Assistance,2005,Percent,0.48006,407
+Fresh Meadows/Briarwood,Safety Net Assistance,2005,Percent,0.26967,408
+Woodhaven,Safety Net Assistance,2005,Percent,0.30527,409
+Howard Beach,Safety Net Assistance,2005,Percent,0.2906,410
+Bayside,Safety Net Assistance,2005,Percent,0.70146,411
+Jamaica/St. Albans,Safety Net Assistance,2005,Percent,0.25631,412
+Queens Village,Safety Net Assistance,2005,Percent,0.25007,413
+The Rockaways,Safety Net Assistance,2005,Percent,0.22269,414
+St. George,Safety Net Assistance,2005,Percent,0.21267,501
+South Beach,Safety Net Assistance,2005,Percent,0.30796,502
+Tottenville,Safety Net Assistance,2005,Percent,0.38119,503
+Bronx,Safety Net Assistance,2005,Percent,0.23689,36005
+Brooklyn,Safety Net Assistance,2005,Percent,0.25833,36047
+Manhattan,Safety Net Assistance,2005,Percent,0.34139,36061
+Queens,Safety Net Assistance,2005,Percent,0.2854,36081
+Staten Island,Safety Net Assistance,2005,Percent,0.2379,36085
+New York City,Safety Net Assistance,2005,Percent,0.26755,3651000
+Battery Park/Tribeca,Safety Net Assistance,2006,Percent,0.37687,101
+Greenwich Village,Safety Net Assistance,2006,Percent,0.3756,102
+Lower East Side,Safety Net Assistance,2006,Percent,0.37604,103
+Chelsea/Clinton,Safety Net Assistance,2006,Percent,0.37598,104
+Midtown Business District,Safety Net Assistance,2006,Percent,0.3761,105
+Murray Hill/Stuyvesant,Safety Net Assistance,2006,Percent,0.37599,106
+Upper West Side,Safety Net Assistance,2006,Percent,0.37588,107
+Upper East Side,Safety Net Assistance,2006,Percent,0.3767,108
+Manhattanville,Safety Net Assistance,2006,Percent,0.37607,109
+Central Harlem,Safety Net Assistance,2006,Percent,0.37608,110
+East Harlem,Safety Net Assistance,2006,Percent,0.376,111
+Washington Heights,Safety Net Assistance,2006,Percent,0.37604,112
+Mott Haven,Safety Net Assistance,2006,Percent,0.27061,201
+Hunts Point,Safety Net Assistance,2006,Percent,0.27063,202
+Morrisania,Safety Net Assistance,2006,Percent,0.27059,203
+Concourse/Highbridge,Safety Net Assistance,2006,Percent,0.27059,204
+University Heights,Safety Net Assistance,2006,Percent,0.27058,205
+East Tremont,Safety Net Assistance,2006,Percent,0.2706,206
+Bedford Park,Safety Net Assistance,2006,Percent,0.27057,207
+Riverdale,Safety Net Assistance,2006,Percent,0.27054,208
+Unionport/Soundview,Safety Net Assistance,2006,Percent,0.27059,209
+Throgs Neck,Safety Net Assistance,2006,Percent,0.27046,210
+Pelham Parkway,Safety Net Assistance,2006,Percent,0.2706,211
+Williamsbridge,Safety Net Assistance,2006,Percent,0.27059,212
+Williamsburg/Greenpoint,Safety Net Assistance,2006,Percent,0.3112,301
+Fort Greene/Brooklyn Hts,Safety Net Assistance,2006,Percent,0.31121,302
+Bedford Stuyvesant,Safety Net Assistance,2006,Percent,0.31111,303
+Bushwick,Safety Net Assistance,2006,Percent,0.31118,304
+East New York,Safety Net Assistance,2006,Percent,0.31109,305
+Park Slope,Safety Net Assistance,2006,Percent,0.31109,306
+Sunset Park,Safety Net Assistance,2006,Percent,0.31116,307
+Crown Heights North,Safety Net Assistance,2006,Percent,0.31116,308
+Crown Heights South,Safety Net Assistance,2006,Percent,0.31119,309
+Bay Ridge,Safety Net Assistance,2006,Percent,0.31121,310
+Bensonhurst,Safety Net Assistance,2006,Percent,0.31116,311
+Borough Park,Safety Net Assistance,2006,Percent,0.31105,312
+Coney Island,Safety Net Assistance,2006,Percent,0.31125,313
+Flatbush/Midwood,Safety Net Assistance,2006,Percent,0.31112,314
+Sheepshead Bay,Safety Net Assistance,2006,Percent,0.31112,315
+Brownsville,Safety Net Assistance,2006,Percent,0.31117,316
+East Flatbush,Safety Net Assistance,2006,Percent,0.31121,317
+Canarsie,Safety Net Assistance,2006,Percent,0.31114,318
+Astoria,Safety Net Assistance,2006,Percent,0.33464,401
+Sunnyside/Woodside,Safety Net Assistance,2006,Percent,0.33494,402
+Jackson Heights,Safety Net Assistance,2006,Percent,0.33451,403
+Elmhurst/Corona,Safety Net Assistance,2006,Percent,0.33468,404
+Ridgewood/Glendale,Safety Net Assistance,2006,Percent,0.3346,405
+Rego Park/Forest Hills,Safety Net Assistance,2006,Percent,0.33454,406
+Flushing,Safety Net Assistance,2006,Percent,0.33477,407
+Fresh Meadows/Briarwood,Safety Net Assistance,2006,Percent,0.33451,408
+Woodhaven,Safety Net Assistance,2006,Percent,0.33474,409
+Howard Beach,Safety Net Assistance,2006,Percent,0.33477,410
+Bayside,Safety Net Assistance,2006,Percent,0.33478,411
+Jamaica/St. Albans,Safety Net Assistance,2006,Percent,0.33463,412
+Queens Village,Safety Net Assistance,2006,Percent,0.33463,413
+The Rockaways,Safety Net Assistance,2006,Percent,0.33456,414
+St. George,Safety Net Assistance,2006,Percent,0.28103,501
+South Beach,Safety Net Assistance,2006,Percent,0.28112,502
+Tottenville,Safety Net Assistance,2006,Percent,0.28072,503
+Bronx,Safety Net Assistance,2006,Percent,0.27059,36005
+Brooklyn,Safety Net Assistance,2006,Percent,0.31115,36047
+Manhattan,Safety Net Assistance,2006,Percent,0.37604,36061
+Queens,Safety Net Assistance,2006,Percent,0.33464,36081
+Staten Island,Safety Net Assistance,2006,Percent,0.28102,36085
+New York City,Safety Net Assistance,2006,Percent,0.30822,3651000
+Battery Park/Tribeca,Safety Net Assistance,2007,Percent,0.12749,101
+Greenwich Village,Safety Net Assistance,2007,Percent,0.79553,102
+Lower East Side,Safety Net Assistance,2007,Percent,0.44334,103
+Chelsea/Clinton,Safety Net Assistance,2007,Percent,0.5943,104
+Midtown Business District,Safety Net Assistance,2007,Percent,0.35776,105
+Murray Hill/Stuyvesant,Safety Net Assistance,2007,Percent,0.7154,106
+Upper West Side,Safety Net Assistance,2007,Percent,0.3382,107
+Upper East Side,Safety Net Assistance,2007,Percent,0.51119,108
+Manhattanville,Safety Net Assistance,2007,Percent,0.32221,109
+Central Harlem,Safety Net Assistance,2007,Percent,0.38043,110
+East Harlem,Safety Net Assistance,2007,Percent,0.31495,111
+Washington Heights,Safety Net Assistance,2007,Percent,0.3174,112
+Mott Haven,Safety Net Assistance,2007,Percent,0.22643,201
+Hunts Point,Safety Net Assistance,2007,Percent,0.21857,202
+Morrisania,Safety Net Assistance,2007,Percent,0.22679,203
+Concourse/Highbridge,Safety Net Assistance,2007,Percent,0.21995,204
+University Heights,Safety Net Assistance,2007,Percent,0.21564,205
+East Tremont,Safety Net Assistance,2007,Percent,0.21552,206
+Bedford Park,Safety Net Assistance,2007,Percent,0.21344,207
+Riverdale,Safety Net Assistance,2007,Percent,0.1968,208
+Unionport/Soundview,Safety Net Assistance,2007,Percent,0.2544,209
+Throgs Neck,Safety Net Assistance,2007,Percent,0.22069,210
+Pelham Parkway,Safety Net Assistance,2007,Percent,0.26363,211
+Williamsbridge,Safety Net Assistance,2007,Percent,0.22963,212
+Williamsburg/Greenpoint,Safety Net Assistance,2007,Percent,0.30716,301
+Fort Greene/Brooklyn Hts,Safety Net Assistance,2007,Percent,0.31992,302
+Bedford Stuyvesant,Safety Net Assistance,2007,Percent,0.28988,303
+Bushwick,Safety Net Assistance,2007,Percent,0.257,304
+East New York,Safety Net Assistance,2007,Percent,0.28982,305
+Park Slope,Safety Net Assistance,2007,Percent,0.27015,306
+Sunset Park,Safety Net Assistance,2007,Percent,0.28252,307
+Crown Heights North,Safety Net Assistance,2007,Percent,0.28672,308
+Crown Heights South,Safety Net Assistance,2007,Percent,0.32057,309
+Bay Ridge,Safety Net Assistance,2007,Percent,0.43315,310
+Bensonhurst,Safety Net Assistance,2007,Percent,0.42244,311
+Borough Park,Safety Net Assistance,2007,Percent,0.36413,312
+Coney Island,Safety Net Assistance,2007,Percent,0.30031,313
+Flatbush/Midwood,Safety Net Assistance,2007,Percent,0.29135,314
+Sheepshead Bay,Safety Net Assistance,2007,Percent,0.32397,315
+Brownsville,Safety Net Assistance,2007,Percent,0.27024,316
+East Flatbush,Safety Net Assistance,2007,Percent,0.27616,317
+Canarsie,Safety Net Assistance,2007,Percent,0.28994,318
+Astoria,Safety Net Assistance,2007,Percent,0.30535,401
+Sunnyside/Woodside,Safety Net Assistance,2007,Percent,0.36423,402
+Jackson Heights,Safety Net Assistance,2007,Percent,0.30115,403
+Elmhurst/Corona,Safety Net Assistance,2007,Percent,0.31347,404
+Ridgewood/Glendale,Safety Net Assistance,2007,Percent,0.34819,405
+Rego Park/Forest Hills,Safety Net Assistance,2007,Percent,0.45923,406
+Flushing,Safety Net Assistance,2007,Percent,0.52725,407
+Fresh Meadows/Briarwood,Safety Net Assistance,2007,Percent,0.32891,408
+Woodhaven,Safety Net Assistance,2007,Percent,0.34494,409
+Howard Beach,Safety Net Assistance,2007,Percent,0.33165,410
+Bayside,Safety Net Assistance,2007,Percent,0.69748,411
+Jamaica/St. Albans,Safety Net Assistance,2007,Percent,0.33355,412
+Queens Village,Safety Net Assistance,2007,Percent,0.2944,413
+The Rockaways,Safety Net Assistance,2007,Percent,0.29885,414
+St. George,Safety Net Assistance,2007,Percent,0.24439,501
+South Beach,Safety Net Assistance,2007,Percent,0.34264,502
+Tottenville,Safety Net Assistance,2007,Percent,0.34203,503
+Bronx,Safety Net Assistance,2007,Percent,0.22489,36005
+Brooklyn,Safety Net Assistance,2007,Percent,0.29449,36047
+Manhattan,Safety Net Assistance,2007,Percent,0.36686,36061
+Queens,Safety Net Assistance,2007,Percent,0.33529,36081
+Staten Island,Safety Net Assistance,2007,Percent,0.26426,36085
+New York City,Safety Net Assistance,2007,Percent,0.28442,3651000
+Battery Park/Tribeca,Safety Net Assistance,2009,Percent,0.18987,101
+Greenwich Village,Safety Net Assistance,2009,Percent,0.89019,102
+Lower East Side,Safety Net Assistance,2009,Percent,0.48902,103
+Chelsea/Clinton,Safety Net Assistance,2009,Percent,0.76908,104
+Midtown Business District,Safety Net Assistance,2009,Percent,0.46236,105
+Murray Hill/Stuyvesant,Safety Net Assistance,2009,Percent,0.7903,106
+Upper West Side,Safety Net Assistance,2009,Percent,0.38105,107
+Upper East Side,Safety Net Assistance,2009,Percent,0.64521,108
+Manhattanville,Safety Net Assistance,2009,Percent,0.31576,109
+Central Harlem,Safety Net Assistance,2009,Percent,0.35633,110
+East Harlem,Safety Net Assistance,2009,Percent,0.2953,111
+Washington Heights,Safety Net Assistance,2009,Percent,0.30744,112
+Mott Haven,Safety Net Assistance,2009,Percent,0.2456,201
+Hunts Point,Safety Net Assistance,2009,Percent,0.22765,202
+Morrisania,Safety Net Assistance,2009,Percent,0.2388,203
+Concourse/Highbridge,Safety Net Assistance,2009,Percent,0.21936,204
+University Heights,Safety Net Assistance,2009,Percent,0.22297,205
+East Tremont,Safety Net Assistance,2009,Percent,0.19745,206
+Bedford Park,Safety Net Assistance,2009,Percent,0.20875,207
+Riverdale,Safety Net Assistance,2009,Percent,0.22917,208
+Unionport/Soundview,Safety Net Assistance,2009,Percent,0.23634,209
+Throgs Neck,Safety Net Assistance,2009,Percent,0.26155,210
+Pelham Parkway,Safety Net Assistance,2009,Percent,0.27949,211
+Williamsbridge,Safety Net Assistance,2009,Percent,0.2196,212
+Williamsburg/Greenpoint,Safety Net Assistance,2009,Percent,0.25558,301
+Fort Greene/Brooklyn Hts,Safety Net Assistance,2009,Percent,0.42899,302
+Bedford Stuyvesant,Safety Net Assistance,2009,Percent,0.32318,303
+Bushwick,Safety Net Assistance,2009,Percent,0.27413,304
+East New York,Safety Net Assistance,2009,Percent,0.26836,305
+Park Slope,Safety Net Assistance,2009,Percent,0.32,306
+Sunset Park,Safety Net Assistance,2009,Percent,0.36583,307
+Crown Heights North,Safety Net Assistance,2009,Percent,0.34727,308
+Crown Heights South,Safety Net Assistance,2009,Percent,0.40563,309
+Bay Ridge,Safety Net Assistance,2009,Percent,0.50536,310
+Bensonhurst,Safety Net Assistance,2009,Percent,0.54495,311
+Borough Park,Safety Net Assistance,2009,Percent,0.30263,312
+Coney Island,Safety Net Assistance,2009,Percent,0.29214,313
+Flatbush/Midwood,Safety Net Assistance,2009,Percent,0.32705,314
+Sheepshead Bay,Safety Net Assistance,2009,Percent,0.35968,315
+Brownsville,Safety Net Assistance,2009,Percent,0.25225,316
+East Flatbush,Safety Net Assistance,2009,Percent,0.32569,317
+Canarsie,Safety Net Assistance,2009,Percent,0.30654,318
+Astoria,Safety Net Assistance,2009,Percent,0.3316,401
+Sunnyside/Woodside,Safety Net Assistance,2009,Percent,0.49061,402
+Jackson Heights,Safety Net Assistance,2009,Percent,0.32487,403
+Elmhurst/Corona,Safety Net Assistance,2009,Percent,0.41342,404
+Ridgewood/Glendale,Safety Net Assistance,2009,Percent,0.3746,405
+Rego Park/Forest Hills,Safety Net Assistance,2009,Percent,0.61697,406
+Flushing,Safety Net Assistance,2009,Percent,0.67173,407
+Fresh Meadows/Briarwood,Safety Net Assistance,2009,Percent,0.32597,408
+Woodhaven,Safety Net Assistance,2009,Percent,0.35641,409
+Howard Beach,Safety Net Assistance,2009,Percent,0.33854,410
+Bayside,Safety Net Assistance,2009,Percent,0.83617,411
+Jamaica/St. Albans,Safety Net Assistance,2009,Percent,0.30752,412
+Queens Village,Safety Net Assistance,2009,Percent,0.29647,413
+The Rockaways,Safety Net Assistance,2009,Percent,0.2561,414
+St. George,Safety Net Assistance,2009,Percent,0.23848,501
+South Beach,Safety Net Assistance,2009,Percent,0.38352,502
+Tottenville,Safety Net Assistance,2009,Percent,0.44275,503
+Bronx,Safety Net Assistance,2009,Percent,0.2266,36005
+Brooklyn,Safety Net Assistance,2009,Percent,0.31769,36047
+Manhattan,Safety Net Assistance,2009,Percent,0.39879,36061
+Queens,Safety Net Assistance,2009,Percent,0.35574,36081
+Staten Island,Safety Net Assistance,2009,Percent,0.27313,36085
+New York City,Safety Net Assistance,2009,Percent,0.29974,3651000
+Battery Park/Tribeca,Safety Net Assistance,2011,Percent,0.20577,101
+Greenwich Village,Safety Net Assistance,2011,Percent,0.8907,102
+Lower East Side,Safety Net Assistance,2011,Percent,0.51885,103
+Chelsea/Clinton,Safety Net Assistance,2011,Percent,0.71238,104
+Midtown Business District,Safety Net Assistance,2011,Percent,0.51469,105
+Murray Hill/Stuyvesant,Safety Net Assistance,2011,Percent,0.80858,106
+Upper West Side,Safety Net Assistance,2011,Percent,0.44913,107
+Upper East Side,Safety Net Assistance,2011,Percent,0.65422,108
+Manhattanville,Safety Net Assistance,2011,Percent,0.37245,109
+Central Harlem,Safety Net Assistance,2011,Percent,0.39862,110
+East Harlem,Safety Net Assistance,2011,Percent,0.31076,111
+Washington Heights,Safety Net Assistance,2011,Percent,0.37463,112
+Mott Haven,Safety Net Assistance,2011,Percent,0.25544,201
+Hunts Point,Safety Net Assistance,2011,Percent,0.22702,202
+Morrisania,Safety Net Assistance,2011,Percent,0.24303,203
+Concourse/Highbridge,Safety Net Assistance,2011,Percent,0.24141,204
+University Heights,Safety Net Assistance,2011,Percent,0.2465,205
+East Tremont,Safety Net Assistance,2011,Percent,0.21497,206
+Bedford Park,Safety Net Assistance,2011,Percent,0.25368,207
+Riverdale,Safety Net Assistance,2011,Percent,0.26434,208
+Unionport/Soundview,Safety Net Assistance,2011,Percent,0.26,209
+Throgs Neck,Safety Net Assistance,2011,Percent,0.26123,210
+Pelham Parkway,Safety Net Assistance,2011,Percent,0.31854,211
+Williamsbridge,Safety Net Assistance,2011,Percent,0.25964,212
+Williamsburg/Greenpoint,Safety Net Assistance,2011,Percent,0.27274,301
+Fort Greene/Brooklyn Hts,Safety Net Assistance,2011,Percent,0.35322,302
+Bedford Stuyvesant,Safety Net Assistance,2011,Percent,0.3486,303
+Bushwick,Safety Net Assistance,2011,Percent,0.32448,304
+East New York,Safety Net Assistance,2011,Percent,0.29806,305
+Park Slope,Safety Net Assistance,2011,Percent,0.3508,306
+Sunset Park,Safety Net Assistance,2011,Percent,0.41358,307
+Crown Heights North,Safety Net Assistance,2011,Percent,0.39336,308
+Crown Heights South,Safety Net Assistance,2011,Percent,0.43642,309
+Bay Ridge,Safety Net Assistance,2011,Percent,0.57951,310
+Bensonhurst,Safety Net Assistance,2011,Percent,0.61309,311
+Borough Park,Safety Net Assistance,2011,Percent,0.25463,312
+Coney Island,Safety Net Assistance,2011,Percent,0.32097,313
+Flatbush/Midwood,Safety Net Assistance,2011,Percent,0.39782,314
+Sheepshead Bay,Safety Net Assistance,2011,Percent,0.40055,315
+Brownsville,Safety Net Assistance,2011,Percent,0.29334,316
+East Flatbush,Safety Net Assistance,2011,Percent,0.37256,317
+Canarsie,Safety Net Assistance,2011,Percent,0.37675,318
+Astoria,Safety Net Assistance,2011,Percent,0.3592,401
+Sunnyside/Woodside,Safety Net Assistance,2011,Percent,0.45981,402
+Jackson Heights,Safety Net Assistance,2011,Percent,0.33561,403
+Elmhurst/Corona,Safety Net Assistance,2011,Percent,0.43255,404
+Ridgewood/Glendale,Safety Net Assistance,2011,Percent,0.39608,405
+Rego Park/Forest Hills,Safety Net Assistance,2011,Percent,0.63812,406
+Flushing,Safety Net Assistance,2011,Percent,0.71992,407
+Fresh Meadows/Briarwood,Safety Net Assistance,2011,Percent,0.38734,408
+Woodhaven,Safety Net Assistance,2011,Percent,0.39391,409
+Howard Beach,Safety Net Assistance,2011,Percent,0.44256,410
+Bayside,Safety Net Assistance,2011,Percent,0.83813,411
+Jamaica/St. Albans,Safety Net Assistance,2011,Percent,0.31487,412
+Queens Village,Safety Net Assistance,2011,Percent,0.32674,413
+The Rockaways,Safety Net Assistance,2011,Percent,0.27076,414
+St. George,Safety Net Assistance,2011,Percent,0.22334,501
+South Beach,Safety Net Assistance,2011,Percent,0.3835,502
+Tottenville,Safety Net Assistance,2011,Percent,0.48599,503
+Bronx,Safety Net Assistance,2011,Percent,0.24904,36005
+Brooklyn,Safety Net Assistance,2011,Percent,0.35282,36047
+Manhattan,Safety Net Assistance,2011,Percent,0.42451,36061
+Queens,Safety Net Assistance,2011,Percent,0.38448,36081
+Staten Island,Safety Net Assistance,2011,Percent,0.26327,36085
+New York City,Safety Net Assistance,2011,Percent,0.32717,3651000
+Battery Park/Tribeca,Safety Net Converted,2005,Percent,0.50075,101
+Greenwich Village,Safety Net Converted,2005,Percent,0.31707,102
+Lower East Side,Safety Net Converted,2005,Percent,0.20102,103
+Chelsea/Clinton,Safety Net Converted,2005,Percent,0.12264,104
+Midtown Business District,Safety Net Converted,2005,Percent,0.36743,105
+Murray Hill/Stuyvesant,Safety Net Converted,2005,Percent,0.06897,106
+Upper West Side,Safety Net Converted,2005,Percent,0.26535,107
+Upper East Side,Safety Net Converted,2005,Percent,0.12192,108
+Manhattanville,Safety Net Converted,2005,Percent,0.2258,109
+Central Harlem,Safety Net Converted,2005,Percent,0.23723,110
+East Harlem,Safety Net Converted,2005,Percent,0.24338,111
+Washington Heights,Safety Net Converted,2005,Percent,0.26695,112
+Mott Haven,Safety Net Converted,2005,Percent,0.2819,201
+Hunts Point,Safety Net Converted,2005,Percent,0.28649,202
+Morrisania,Safety Net Converted,2005,Percent,0.31096,203
+Concourse/Highbridge,Safety Net Converted,2005,Percent,0.28155,204
+University Heights,Safety Net Converted,2005,Percent,0.29843,205
+East Tremont,Safety Net Converted,2005,Percent,0.29252,206
+Bedford Park,Safety Net Converted,2005,Percent,0.27888,207
+Riverdale,Safety Net Converted,2005,Percent,0.26124,208
+Unionport/Soundview,Safety Net Converted,2005,Percent,0.24708,209
+Throgs Neck,Safety Net Converted,2005,Percent,0.17293,210
+Pelham Parkway,Safety Net Converted,2005,Percent,0.212,211
+Williamsbridge,Safety Net Converted,2005,Percent,0.25457,212
+Williamsburg/Greenpoint,Safety Net Converted,2005,Percent,0.348,301
+Fort Greene/Brooklyn Hts,Safety Net Converted,2005,Percent,0.26536,302
+Bedford Stuyvesant,Safety Net Converted,2005,Percent,0.29605,303
+Bushwick,Safety Net Converted,2005,Percent,0.25271,304
+East New York,Safety Net Converted,2005,Percent,0.30155,305
+Park Slope,Safety Net Converted,2005,Percent,0.27876,306
+Sunset Park,Safety Net Converted,2005,Percent,0.16267,307
+Crown Heights North,Safety Net Converted,2005,Percent,0.28043,308
+Crown Heights South,Safety Net Converted,2005,Percent,0.22943,309
+Bay Ridge,Safety Net Converted,2005,Percent,0.13953,310
+Bensonhurst,Safety Net Converted,2005,Percent,0.12694,311
+Borough Park,Safety Net Converted,2005,Percent,0.28523,312
+Coney Island,Safety Net Converted,2005,Percent,0.26219,313
+Flatbush/Midwood,Safety Net Converted,2005,Percent,0.21279,314
+Sheepshead Bay,Safety Net Converted,2005,Percent,0.23844,315
+Brownsville,Safety Net Converted,2005,Percent,0.33792,316
+East Flatbush,Safety Net Converted,2005,Percent,0.21686,317
+Canarsie,Safety Net Converted,2005,Percent,0.25548,318
+Astoria,Safety Net Converted,2005,Percent,0.23635,401
+Sunnyside/Woodside,Safety Net Converted,2005,Percent,0.11922,402
+Jackson Heights,Safety Net Converted,2005,Percent,0.14588,403
+Elmhurst/Corona,Safety Net Converted,2005,Percent,0.14444,404
+Ridgewood/Glendale,Safety Net Converted,2005,Percent,0.19036,405
+Rego Park/Forest Hills,Safety Net Converted,2005,Percent,0.1701,406
+Flushing,Safety Net Converted,2005,Percent,0.14075,407
+Fresh Meadows/Briarwood,Safety Net Converted,2005,Percent,0.3601,408
+Woodhaven,Safety Net Converted,2005,Percent,0.23271,409
+Howard Beach,Safety Net Converted,2005,Percent,0.1802,410
+Bayside,Safety Net Converted,2005,Percent,0.07724,411
+Jamaica/St. Albans,Safety Net Converted,2005,Percent,0.22281,412
+Queens Village,Safety Net Converted,2005,Percent,0.23623,413
+The Rockaways,Safety Net Converted,2005,Percent,0.30594,414
+St. George,Safety Net Converted,2005,Percent,0.22056,501
+South Beach,Safety Net Converted,2005,Percent,0.2,502
+Tottenville,Safety Net Converted,2005,Percent,0.12325,503
+Bronx,Safety Net Converted,2005,Percent,0.27589,36005
+Brooklyn,Safety Net Converted,2005,Percent,0.27028,36047
+Manhattan,Safety Net Converted,2005,Percent,0.23581,36061
+Queens,Safety Net Converted,2005,Percent,0.22107,36081
+Staten Island,Safety Net Converted,2005,Percent,0.21083,36085
+New York City,Safety Net Converted,2005,Percent,0.2585,3651000
+Battery Park/Tribeca,Safety Net Converted,2006,Percent,0.21269,101
+Greenwich Village,Safety Net Converted,2006,Percent,0.21292,102
+Lower East Side,Safety Net Converted,2006,Percent,0.21318,103
+Chelsea/Clinton,Safety Net Converted,2006,Percent,0.2133,104
+Midtown Business District,Safety Net Converted,2006,Percent,0.21355,105
+Murray Hill/Stuyvesant,Safety Net Converted,2006,Percent,0.21327,106
+Upper West Side,Safety Net Converted,2006,Percent,0.21311,107
+Upper East Side,Safety Net Converted,2006,Percent,0.21331,108
+Manhattanville,Safety Net Converted,2006,Percent,0.21321,109
+Central Harlem,Safety Net Converted,2006,Percent,0.21317,110
+East Harlem,Safety Net Converted,2006,Percent,0.21317,111
+Washington Heights,Safety Net Converted,2006,Percent,0.21319,112
+Mott Haven,Safety Net Converted,2006,Percent,0.26161,201
+Hunts Point,Safety Net Converted,2006,Percent,0.26171,202
+Morrisania,Safety Net Converted,2006,Percent,0.26164,203
+Concourse/Highbridge,Safety Net Converted,2006,Percent,0.26161,204
+University Heights,Safety Net Converted,2006,Percent,0.26163,205
+East Tremont,Safety Net Converted,2006,Percent,0.26161,206
+Bedford Park,Safety Net Converted,2006,Percent,0.26163,207
+Riverdale,Safety Net Converted,2006,Percent,0.26176,208
+Unionport/Soundview,Safety Net Converted,2006,Percent,0.26166,209
+Throgs Neck,Safety Net Converted,2006,Percent,0.26177,210
+Pelham Parkway,Safety Net Converted,2006,Percent,0.26157,211
+Williamsbridge,Safety Net Converted,2006,Percent,0.26162,212
+Williamsburg/Greenpoint,Safety Net Converted,2006,Percent,0.22935,301
+Fort Greene/Brooklyn Hts,Safety Net Converted,2006,Percent,0.22941,302
+Bedford Stuyvesant,Safety Net Converted,2006,Percent,0.2294,303
+Bushwick,Safety Net Converted,2006,Percent,0.22944,304
+East New York,Safety Net Converted,2006,Percent,0.22938,305
+Park Slope,Safety Net Converted,2006,Percent,0.22928,306
+Sunset Park,Safety Net Converted,2006,Percent,0.22953,307
+Crown Heights North,Safety Net Converted,2006,Percent,0.22938,308
+Crown Heights South,Safety Net Converted,2006,Percent,0.22933,309
+Bay Ridge,Safety Net Converted,2006,Percent,0.2296,310
+Bensonhurst,Safety Net Converted,2006,Percent,0.2295,311
+Borough Park,Safety Net Converted,2006,Percent,0.22941,312
+Coney Island,Safety Net Converted,2006,Percent,0.22938,313
+Flatbush/Midwood,Safety Net Converted,2006,Percent,0.22944,314
+Sheepshead Bay,Safety Net Converted,2006,Percent,0.22928,315
+Brownsville,Safety Net Converted,2006,Percent,0.22945,316
+East Flatbush,Safety Net Converted,2006,Percent,0.22941,317
+Canarsie,Safety Net Converted,2006,Percent,0.22948,318
+Astoria,Safety Net Converted,2006,Percent,0.18428,401
+Sunnyside/Woodside,Safety Net Converted,2006,Percent,0.1847,402
+Jackson Heights,Safety Net Converted,2006,Percent,0.1843,403
+Elmhurst/Corona,Safety Net Converted,2006,Percent,0.18424,404
+Ridgewood/Glendale,Safety Net Converted,2006,Percent,0.1843,405
+Rego Park/Forest Hills,Safety Net Converted,2006,Percent,0.18445,406
+Flushing,Safety Net Converted,2006,Percent,0.1844,407
+Fresh Meadows/Briarwood,Safety Net Converted,2006,Percent,0.18434,408
+Woodhaven,Safety Net Converted,2006,Percent,0.18419,409
+Howard Beach,Safety Net Converted,2006,Percent,0.18444,410
+Bayside,Safety Net Converted,2006,Percent,0.18478,411
+Jamaica/St. Albans,Safety Net Converted,2006,Percent,0.18438,412
+Queens Village,Safety Net Converted,2006,Percent,0.18445,413
+The Rockaways,Safety Net Converted,2006,Percent,0.18429,414
+St. George,Safety Net Converted,2006,Percent,0.18594,501
+South Beach,Safety Net Converted,2006,Percent,0.18589,502
+Tottenville,Safety Net Converted,2006,Percent,0.18629,503
+Bronx,Safety Net Converted,2006,Percent,0.26163,36005
+Brooklyn,Safety Net Converted,2006,Percent,0.2294,36047
+Manhattan,Safety Net Converted,2006,Percent,0.21319,36061
+Queens,Safety Net Converted,2006,Percent,0.18435,36081
+Staten Island,Safety Net Converted,2006,Percent,0.18596,36085
+New York City,Safety Net Converted,2006,Percent,0.23173,3651000
+Battery Park/Tribeca,Safety Net Converted,2007,Percent,0.57968,101
+Greenwich Village,Safety Net Converted,2007,Percent,0.05751,102
+Lower East Side,Safety Net Converted,2007,Percent,0.18501,103
+Chelsea/Clinton,Safety Net Converted,2007,Percent,0.13119,104
+Midtown Business District,Safety Net Converted,2007,Percent,0.45805,105
+Murray Hill/Stuyvesant,Safety Net Converted,2007,Percent,0.09942,106
+Upper West Side,Safety Net Converted,2007,Percent,0.30962,107
+Upper East Side,Safety Net Converted,2007,Percent,0.15299,108
+Manhattanville,Safety Net Converted,2007,Percent,0.20723,109
+Central Harlem,Safety Net Converted,2007,Percent,0.20049,110
+East Harlem,Safety Net Converted,2007,Percent,0.25232,111
+Washington Heights,Safety Net Converted,2007,Percent,0.25473,112
+Mott Haven,Safety Net Converted,2007,Percent,0.30794,201
+Hunts Point,Safety Net Converted,2007,Percent,0.27927,202
+Morrisania,Safety Net Converted,2007,Percent,0.33101,203
+Concourse/Highbridge,Safety Net Converted,2007,Percent,0.31247,204
+University Heights,Safety Net Converted,2007,Percent,0.32654,205
+East Tremont,Safety Net Converted,2007,Percent,0.32426,206
+Bedford Park,Safety Net Converted,2007,Percent,0.2978,207
+Riverdale,Safety Net Converted,2007,Percent,0.3086,208
+Unionport/Soundview,Safety Net Converted,2007,Percent,0.28296,209
+Throgs Neck,Safety Net Converted,2007,Percent,0.22413,210
+Pelham Parkway,Safety Net Converted,2007,Percent,0.24836,211
+Williamsbridge,Safety Net Converted,2007,Percent,0.27076,212
+Williamsburg/Greenpoint,Safety Net Converted,2007,Percent,0.34607,301
+Fort Greene/Brooklyn Hts,Safety Net Converted,2007,Percent,0.24289,302
+Bedford Stuyvesant,Safety Net Converted,2007,Percent,0.30036,303
+Bushwick,Safety Net Converted,2007,Percent,0.25558,304
+East New York,Safety Net Converted,2007,Percent,0.28789,305
+Park Slope,Safety Net Converted,2007,Percent,0.28149,306
+Sunset Park,Safety Net Converted,2007,Percent,0.14126,307
+Crown Heights North,Safety Net Converted,2007,Percent,0.29263,308
+Crown Heights South,Safety Net Converted,2007,Percent,0.2242,309
+Bay Ridge,Safety Net Converted,2007,Percent,0.10846,310
+Bensonhurst,Safety Net Converted,2007,Percent,0.12087,311
+Borough Park,Safety Net Converted,2007,Percent,0.22918,312
+Coney Island,Safety Net Converted,2007,Percent,0.24547,313
+Flatbush/Midwood,Safety Net Converted,2007,Percent,0.20818,314
+Sheepshead Bay,Safety Net Converted,2007,Percent,0.22943,315
+Brownsville,Safety Net Converted,2007,Percent,0.30481,316
+East Flatbush,Safety Net Converted,2007,Percent,0.21763,317
+Canarsie,Safety Net Converted,2007,Percent,0.23742,318
+Astoria,Safety Net Converted,2007,Percent,0.21408,401
+Sunnyside/Woodside,Safety Net Converted,2007,Percent,0.1187,402
+Jackson Heights,Safety Net Converted,2007,Percent,0.12304,403
+Elmhurst/Corona,Safety Net Converted,2007,Percent,0.11582,404
+Ridgewood/Glendale,Safety Net Converted,2007,Percent,0.17104,405
+Rego Park/Forest Hills,Safety Net Converted,2007,Percent,0.15588,406
+Flushing,Safety Net Converted,2007,Percent,0.108,407
+Fresh Meadows/Briarwood,Safety Net Converted,2007,Percent,0.34763,408
+Woodhaven,Safety Net Converted,2007,Percent,0.19821,409
+Howard Beach,Safety Net Converted,2007,Percent,0.18851,410
+Bayside,Safety Net Converted,2007,Percent,0.08403,411
+Jamaica/St. Albans,Safety Net Converted,2007,Percent,0.18675,412
+Queens Village,Safety Net Converted,2007,Percent,0.21148,413
+The Rockaways,Safety Net Converted,2007,Percent,0.26549,414
+St. George,Safety Net Converted,2007,Percent,0.21759,501
+South Beach,Safety Net Converted,2007,Percent,0.16263,502
+Tottenville,Safety Net Converted,2007,Percent,0.09615,503
+Bronx,Safety Net Converted,2007,Percent,0.30259,36005
+Brooklyn,Safety Net Converted,2007,Percent,0.26238,36047
+Manhattan,Safety Net Converted,2007,Percent,0.23057,36061
+Queens,Safety Net Converted,2007,Percent,0.19989,36081
+Staten Island,Safety Net Converted,2007,Percent,0.2023,36085
+New York City,Safety Net Converted,2007,Percent,0.26212,3651000
+Battery Park/Tribeca,Safety Net Converted,2009,Percent,0.69831,101
+Greenwich Village,Safety Net Converted,2009,Percent,0.03505,102
+Lower East Side,Safety Net Converted,2009,Percent,0.17784,103
+Chelsea/Clinton,Safety Net Converted,2009,Percent,0.07169,104
+Midtown Business District,Safety Net Converted,2009,Percent,0.33961,105
+Murray Hill/Stuyvesant,Safety Net Converted,2009,Percent,0.07846,106
+Upper West Side,Safety Net Converted,2009,Percent,0.2935,107
+Upper East Side,Safety Net Converted,2009,Percent,0.09076,108
+Manhattanville,Safety Net Converted,2009,Percent,0.2003,109
+Central Harlem,Safety Net Converted,2009,Percent,0.2126,110
+East Harlem,Safety Net Converted,2009,Percent,0.26197,111
+Washington Heights,Safety Net Converted,2009,Percent,0.21761,112
+Mott Haven,Safety Net Converted,2009,Percent,0.29738,201
+Hunts Point,Safety Net Converted,2009,Percent,0.29642,202
+Morrisania,Safety Net Converted,2009,Percent,0.33232,203
+Concourse/Highbridge,Safety Net Converted,2009,Percent,0.30615,204
+University Heights,Safety Net Converted,2009,Percent,0.32803,205
+East Tremont,Safety Net Converted,2009,Percent,0.31877,206
+Bedford Park,Safety Net Converted,2009,Percent,0.29629,207
+Riverdale,Safety Net Converted,2009,Percent,0.30208,208
+Unionport/Soundview,Safety Net Converted,2009,Percent,0.29415,209
+Throgs Neck,Safety Net Converted,2009,Percent,0.23471,210
+Pelham Parkway,Safety Net Converted,2009,Percent,0.24573,211
+Williamsbridge,Safety Net Converted,2009,Percent,0.28221,212
+Williamsburg/Greenpoint,Safety Net Converted,2009,Percent,0.31545,301
+Fort Greene/Brooklyn Hts,Safety Net Converted,2009,Percent,0.23727,302
+Bedford Stuyvesant,Safety Net Converted,2009,Percent,0.2924,303
+Bushwick,Safety Net Converted,2009,Percent,0.24325,304
+East New York,Safety Net Converted,2009,Percent,0.30952,305
+Park Slope,Safety Net Converted,2009,Percent,0.25096,306
+Sunset Park,Safety Net Converted,2009,Percent,0.10197,307
+Crown Heights North,Safety Net Converted,2009,Percent,0.28448,308
+Crown Heights South,Safety Net Converted,2009,Percent,0.19678,309
+Bay Ridge,Safety Net Converted,2009,Percent,0.09599,310
+Bensonhurst,Safety Net Converted,2009,Percent,0.08367,311
+Borough Park,Safety Net Converted,2009,Percent,0.19184,312
+Coney Island,Safety Net Converted,2009,Percent,0.29044,313
+Flatbush/Midwood,Safety Net Converted,2009,Percent,0.17537,314
+Sheepshead Bay,Safety Net Converted,2009,Percent,0.2005,315
+Brownsville,Safety Net Converted,2009,Percent,0.32245,316
+East Flatbush,Safety Net Converted,2009,Percent,0.20051,317
+Canarsie,Safety Net Converted,2009,Percent,0.25088,318
+Astoria,Safety Net Converted,2009,Percent,0.21457,401
+Sunnyside/Woodside,Safety Net Converted,2009,Percent,0.07384,402
+Jackson Heights,Safety Net Converted,2009,Percent,0.0838,403
+Elmhurst/Corona,Safety Net Converted,2009,Percent,0.05739,404
+Ridgewood/Glendale,Safety Net Converted,2009,Percent,0.15465,405
+Rego Park/Forest Hills,Safety Net Converted,2009,Percent,0.12156,406
+Flushing,Safety Net Converted,2009,Percent,0.06901,407
+Fresh Meadows/Briarwood,Safety Net Converted,2009,Percent,0.35784,408
+Woodhaven,Safety Net Converted,2009,Percent,0.15657,409
+Howard Beach,Safety Net Converted,2009,Percent,0.16674,410
+Bayside,Safety Net Converted,2009,Percent,0.03246,411
+Jamaica/St. Albans,Safety Net Converted,2009,Percent,0.20462,412
+Queens Village,Safety Net Converted,2009,Percent,0.18659,413
+The Rockaways,Safety Net Converted,2009,Percent,0.29334,414
+St. George,Safety Net Converted,2009,Percent,0.24295,501
+South Beach,Safety Net Converted,2009,Percent,0.11154,502
+Tottenville,Safety Net Converted,2009,Percent,0.11232,503
+Bronx,Safety Net Converted,2009,Percent,0.30265,36005
+Brooklyn,Safety Net Converted,2009,Percent,0.25418,36047
+Manhattan,Safety Net Converted,2009,Percent,0.21506,36061
+Queens,Safety Net Converted,2009,Percent,0.1863,36081
+Staten Island,Safety Net Converted,2009,Percent,0.21539,36085
+New York City,Safety Net Converted,2009,Percent,0.25513,3651000
+Battery Park/Tribeca,Safety Net Converted,2011,Percent,0.65,101
+Greenwich Village,Safety Net Converted,2011,Percent,0.03023,102
+Lower East Side,Safety Net Converted,2011,Percent,0.17844,103
+Chelsea/Clinton,Safety Net Converted,2011,Percent,0.08433,104
+Midtown Business District,Safety Net Converted,2011,Percent,0.29219,105
+Murray Hill/Stuyvesant,Safety Net Converted,2011,Percent,0.08353,106
+Upper West Side,Safety Net Converted,2011,Percent,0.26948,107
+Upper East Side,Safety Net Converted,2011,Percent,0.11065,108
+Manhattanville,Safety Net Converted,2011,Percent,0.19254,109
+Central Harlem,Safety Net Converted,2011,Percent,0.20459,110
+East Harlem,Safety Net Converted,2011,Percent,0.22588,111
+Washington Heights,Safety Net Converted,2011,Percent,0.17924,112
+Mott Haven,Safety Net Converted,2011,Percent,0.2883,201
+Hunts Point,Safety Net Converted,2011,Percent,0.31623,202
+Morrisania,Safety Net Converted,2011,Percent,0.33245,203
+Concourse/Highbridge,Safety Net Converted,2011,Percent,0.30507,204
+University Heights,Safety Net Converted,2011,Percent,0.33024,205
+East Tremont,Safety Net Converted,2011,Percent,0.32881,206
+Bedford Park,Safety Net Converted,2011,Percent,0.28544,207
+Riverdale,Safety Net Converted,2011,Percent,0.25326,208
+Unionport/Soundview,Safety Net Converted,2011,Percent,0.29534,209
+Throgs Neck,Safety Net Converted,2011,Percent,0.25879,210
+Pelham Parkway,Safety Net Converted,2011,Percent,0.24194,211
+Williamsbridge,Safety Net Converted,2011,Percent,0.28797,212
+Williamsburg/Greenpoint,Safety Net Converted,2011,Percent,0.29212,301
+Fort Greene/Brooklyn Hts,Safety Net Converted,2011,Percent,0.28008,302
+Bedford Stuyvesant,Safety Net Converted,2011,Percent,0.29327,303
+Bushwick,Safety Net Converted,2011,Percent,0.21935,304
+East New York,Safety Net Converted,2011,Percent,0.31157,305
+Park Slope,Safety Net Converted,2011,Percent,0.23526,306
+Sunset Park,Safety Net Converted,2011,Percent,0.07558,307
+Crown Heights North,Safety Net Converted,2011,Percent,0.27901,308
+Crown Heights South,Safety Net Converted,2011,Percent,0.18712,309
+Bay Ridge,Safety Net Converted,2011,Percent,0.06881,310
+Bensonhurst,Safety Net Converted,2011,Percent,0.07005,311
+Borough Park,Safety Net Converted,2011,Percent,0.10405,312
+Coney Island,Safety Net Converted,2011,Percent,0.25909,313
+Flatbush/Midwood,Safety Net Converted,2011,Percent,0.15255,314
+Sheepshead Bay,Safety Net Converted,2011,Percent,0.21165,315
+Brownsville,Safety Net Converted,2011,Percent,0.30496,316
+East Flatbush,Safety Net Converted,2011,Percent,0.20775,317
+Canarsie,Safety Net Converted,2011,Percent,0.21434,318
+Astoria,Safety Net Converted,2011,Percent,0.21369,401
+Sunnyside/Woodside,Safety Net Converted,2011,Percent,0.06559,402
+Jackson Heights,Safety Net Converted,2011,Percent,0.07366,403
+Elmhurst/Corona,Safety Net Converted,2011,Percent,0.06652,404
+Ridgewood/Glendale,Safety Net Converted,2011,Percent,0.15605,405
+Rego Park/Forest Hills,Safety Net Converted,2011,Percent,0.08779,406
+Flushing,Safety Net Converted,2011,Percent,0.05755,407
+Fresh Meadows/Briarwood,Safety Net Converted,2011,Percent,0.301,408
+Woodhaven,Safety Net Converted,2011,Percent,0.15838,409
+Howard Beach,Safety Net Converted,2011,Percent,0.15652,410
+Bayside,Safety Net Converted,2011,Percent,0.02743,411
+Jamaica/St. Albans,Safety Net Converted,2011,Percent,0.22595,412
+Queens Village,Safety Net Converted,2011,Percent,0.18145,413
+The Rockaways,Safety Net Converted,2011,Percent,0.29523,414
+St. George,Safety Net Converted,2011,Percent,0.25041,501
+South Beach,Safety Net Converted,2011,Percent,0.14011,502
+Tottenville,Safety Net Converted,2011,Percent,0.10719,503
+Bronx,Safety Net Converted,2011,Percent,0.30292,36005
+Brooklyn,Safety Net Converted,2011,Percent,0.23637,36047
+Manhattan,Safety Net Converted,2011,Percent,0.20038,36061
+Queens,Safety Net Converted,2011,Percent,0.18124,36081
+Staten Island,Safety Net Converted,2011,Percent,0.22526,36085
+New York City,Safety Net Converted,2011,Percent,0.24669,3651000
+Mott Haven,Family Assistance,2016,Number,6016,201
+Hunts Point,Family Assistance,2016,Number,3147,202
+Morrisania,Family Assistance,2016,Number,5265,203
+Concourse/Highbridge,Family Assistance,2016,Number,7839,204
+University Heights,Family Assistance,2016,Number,7609,205
+East Tremont,Family Assistance,2016,Number,6304,206
+Bedford Park,Family Assistance,2016,Number,6170,207
+Riverdale,Family Assistance,2016,Number,1382,208
+Unionport/Soundview,Family Assistance,2016,Number,6048,209
+Throgs Neck,Family Assistance,2016,Number,1579,210
+Pelham Parkway,Family Assistance,2016,Number,2673,211
+Williamsbridge,Family Assistance,2016,Number,5107,212
+Williamsburg/Greenpoint,Family Assistance,2016,Number,2439,301
+Fort Greene/Brooklyn Hts,Family Assistance,2016,Number,767,302
+Bedford Stuyvesant,Family Assistance,2016,Number,3901,303
+Bushwick,Family Assistance,2016,Number,2183,304
+East New York,Family Assistance,2016,Number,5158,305
+Park Slope,Family Assistance,2016,Number,640,306
+Sunset Park,Family Assistance,2016,Number,1320,307
+Crown Heights North,Family Assistance,2016,Number,1856,308
+Crown Heights South,Family Assistance,2016,Number,1250,309
+Bay Ridge,Family Assistance,2016,Number,596,310
+Bensonhurst,Family Assistance,2016,Number,1022,311
+Borough Park,Family Assistance,2016,Number,5891,312
+Coney Island,Family Assistance,2016,Number,1793,313
+Flatbush/Midwood,Family Assistance,2016,Number,2037,314
+Sheepshead Bay,Family Assistance,2016,Number,1199,315
+Brownsville,Family Assistance,2016,Number,4290,316
+East Flatbush,Family Assistance,2016,Number,2891,317
+Canarsie,Family Assistance,2016,Number,2088,318
+Battery Park/Tribeca,Family Assistance,2016,Number,81,101
+Greenwich Village,Family Assistance,2016,Number,24,102
+Lower East Side,Family Assistance,2016,Number,1753,103
+Chelsea/Clinton,Family Assistance,2016,Number,408,104
+Midtown Business District,Family Assistance,2016,Number,342,105
+Murray Hill/Stuyvesant,Family Assistance,2016,Number,100,106
+Upper West Side,Family Assistance,2016,Number,1128,107
+Upper East Side,Family Assistance,2016,Number,179,108
+Manhattanville,Family Assistance,2016,Number,2252,109
+Central Harlem,Family Assistance,2016,Number,3539,110
+East Harlem,Family Assistance,2016,Number,4492,111
+Washington Heights,Family Assistance,2016,Number,2776,112
+Astoria,Family Assistance,2016,Number,1492,401
+Sunnyside/Woodside,Family Assistance,2016,Number,483,402
+Jackson Heights,Family Assistance,2016,Number,1587,403
+Elmhurst/Corona,Family Assistance,2016,Number,1324,404
+Ridgewood/Glendale,Family Assistance,2016,Number,788,405
+Rego Park/Forest Hills,Family Assistance,2016,Number,167,406
+Flushing,Family Assistance,2016,Number,515,407
+Fresh Meadows/Briarwood,Family Assistance,2016,Number,1200,408
+Woodhaven,Family Assistance,2016,Number,1291,409
+Howard Beach,Family Assistance,2016,Number,817,410
+Bayside,Family Assistance,2016,Number,87,411
+Jamaica/St. Albans,Family Assistance,2016,Number,4338,412
+Queens Village,Family Assistance,2016,Number,1572,413
+The Rockaways,Family Assistance,2016,Number,3086,414
+St. George,Family Assistance,2016,Number,5515,501
+South Beach,Family Assistance,2016,Number,894,502
+Tottenville,Family Assistance,2016,Number,495,503
+New York City,Family Assistance,2016,Number,143525,3651000
+Bronx,Family Assistance,2016,Number,59139,36005
+Brooklyn,Family Assistance,2016,Number,41321,36047
+Manhattan,Family Assistance,2016,Number,17074,36061
+Queens,Family Assistance,2016,Number,18747,36081
+Staten Island,Family Assistance,2016,Number,6904,36085
+Mott Haven,Safety Net Assistance,2016,Number,3972,201
+Hunts Point,Safety Net Assistance,2016,Number,2031,202
+Morrisania,Safety Net Assistance,2016,Number,3985,203
+Concourse/Highbridge,Safety Net Assistance,2016,Number,5170,204
+University Heights,Safety Net Assistance,2016,Number,5874,205
+East Tremont,Safety Net Assistance,2016,Number,3823,206
+Bedford Park,Safety Net Assistance,2016,Number,4228,207
+Riverdale,Safety Net Assistance,2016,Number,1173,208
+Unionport/Soundview,Safety Net Assistance,2016,Number,4221,209
+Throgs Neck,Safety Net Assistance,2016,Number,1234,210
+Pelham Parkway,Safety Net Assistance,2016,Number,2121,211
+Williamsbridge,Safety Net Assistance,2016,Number,3575,212
+Williamsburg/Greenpoint,Safety Net Assistance,2016,Number,2206,301
+Fort Greene/Brooklyn Hts,Safety Net Assistance,2016,Number,1851,302
+Bedford Stuyvesant,Safety Net Assistance,2016,Number,4661,303
+Bushwick,Safety Net Assistance,2016,Number,2335,304
+East New York,Safety Net Assistance,2016,Number,6186,305
+Park Slope,Safety Net Assistance,2016,Number,684,306
+Sunset Park,Safety Net Assistance,2016,Number,2102,307
+Crown Heights North,Safety Net Assistance,2016,Number,2859,308
+Crown Heights South,Safety Net Assistance,2016,Number,2236,309
+Bay Ridge,Safety Net Assistance,2016,Number,1730,310
+Bensonhurst,Safety Net Assistance,2016,Number,2688,311
+Borough Park,Safety Net Assistance,2016,Number,2321,312
+Coney Island,Safety Net Assistance,2016,Number,2118,313
+Flatbush/Midwood,Safety Net Assistance,2016,Number,2988,314
+Sheepshead Bay,Safety Net Assistance,2016,Number,1888,315
+Brownsville,Safety Net Assistance,2016,Number,4365,316
+East Flatbush,Safety Net Assistance,2016,Number,4014,317
+Canarsie,Safety Net Assistance,2016,Number,2668,318
+Battery Park/Tribeca,Safety Net Assistance,2016,Number,140,101
+Greenwich Village,Safety Net Assistance,2016,Number,336,102
+Lower East Side,Safety Net Assistance,2016,Number,3284,103
+Chelsea/Clinton,Safety Net Assistance,2016,Number,1922,104
+Midtown Business District,Safety Net Assistance,2016,Number,642,105
+Murray Hill/Stuyvesant,Safety Net Assistance,2016,Number,877,106
+Upper West Side,Safety Net Assistance,2016,Number,2170,107
+Upper East Side,Safety Net Assistance,2016,Number,534,108
+Manhattanville,Safety Net Assistance,2016,Number,2206,109
+Central Harlem,Safety Net Assistance,2016,Number,4008,110
+East Harlem,Safety Net Assistance,2016,Number,3606,111
+Washington Heights,Safety Net Assistance,2016,Number,3549,112
+Astoria,Safety Net Assistance,2016,Number,1614,401
+Sunnyside/Woodside,Safety Net Assistance,2016,Number,807,402
+Jackson Heights,Safety Net Assistance,2016,Number,1342,403
+Elmhurst/Corona,Safety Net Assistance,2016,Number,1617,404
+Ridgewood/Glendale,Safety Net Assistance,2016,Number,1228,405
+Rego Park/Forest Hills,Safety Net Assistance,2016,Number,678,406
+Flushing,Safety Net Assistance,2016,Number,2867,407
+Fresh Meadows/Briarwood,Safety Net Assistance,2016,Number,1272,408
+Woodhaven,Safety Net Assistance,2016,Number,1613,409
+Howard Beach,Safety Net Assistance,2016,Number,1127,410
+Bayside,Safety Net Assistance,2016,Number,668,411
+Jamaica/St. Albans,Safety Net Assistance,2016,Number,4474,412
+Queens Village,Safety Net Assistance,2016,Number,1808,413
+The Rockaways,Safety Net Assistance,2016,Number,2474,414
+St. George,Safety Net Assistance,2016,Number,3274,501
+South Beach,Safety Net Assistance,2016,Number,1041,502
+Tottenville,Safety Net Assistance,2016,Number,638,503
+New York City,Safety Net Assistance,2016,Number,143562,3651000
+Bronx,Safety Net Assistance,2016,Number,41407,36005
+Brooklyn,Safety Net Assistance,2016,Number,49900,36047
+Manhattan,Safety Net Assistance,2016,Number,23274,36061
+Queens,Safety Net Assistance,2016,Number,23589,36081
+Staten Island,Safety Net Assistance,2016,Number,4953,36085
+Mott Haven,Safety Net Converted,2016,Number,3942,201
+Hunts Point,Safety Net Converted,2016,Number,2286,202
+Morrisania,Safety Net Converted,2016,Number,4276,203
+Concourse/Highbridge,Safety Net Converted,2016,Number,4941,204
+University Heights,Safety Net Converted,2016,Number,5628,205
+East Tremont,Safety Net Converted,2016,Number,4553,206
+Bedford Park,Safety Net Converted,2016,Number,3767,207
+Riverdale,Safety Net Converted,2016,Number,839,208
+Unionport/Soundview,Safety Net Converted,2016,Number,4152,209
+Throgs Neck,Safety Net Converted,2016,Number,864,210
+Pelham Parkway,Safety Net Converted,2016,Number,1507,211
+Williamsbridge,Safety Net Converted,2016,Number,3842,212
+Williamsburg/Greenpoint,Safety Net Converted,2016,Number,1742,301
+Fort Greene/Brooklyn Hts,Safety Net Converted,2016,Number,909,302
+Bedford Stuyvesant,Safety Net Converted,2016,Number,2823,303
+Bushwick,Safety Net Converted,2016,Number,1094,304
+East New York,Safety Net Converted,2016,Number,4233,305
+Park Slope,Safety Net Converted,2016,Number,467,306
+Sunset Park,Safety Net Converted,2016,Number,238,307
+Crown Heights North,Safety Net Converted,2016,Number,1429,308
+Crown Heights South,Safety Net Converted,2016,Number,781,309
+Bay Ridge,Safety Net Converted,2016,Number,151,310
+Bensonhurst,Safety Net Converted,2016,Number,249,311
+Borough Park,Safety Net Converted,2016,Number,2024,312
+Coney Island,Safety Net Converted,2016,Number,1174,313
+Flatbush/Midwood,Safety Net Converted,2016,Number,786,314
+Sheepshead Bay,Safety Net Converted,2016,Number,548,315
+Brownsville,Safety Net Converted,2016,Number,3444,316
+East Flatbush,Safety Net Converted,2016,Number,1703,317
+Canarsie,Safety Net Converted,2016,Number,1246,318
+Battery Park/Tribeca,Safety Net Converted,2016,Number,259,101
+Greenwich Village,Safety Net Converted,2016,Number,13,102
+Lower East Side,Safety Net Converted,2016,Number,1184,103
+Chelsea/Clinton,Safety Net Converted,2016,Number,306,104
+Midtown Business District,Safety Net Converted,2016,Number,271,105
+Murray Hill/Stuyvesant,Safety Net Converted,2016,Number,155,106
+Upper West Side,Safety Net Converted,2016,Number,561,107
+Upper East Side,Safety Net Converted,2016,Number,113,108
+Manhattanville,Safety Net Converted,2016,Number,1001,109
+Central Harlem,Safety Net Converted,2016,Number,1943,110
+East Harlem,Safety Net Converted,2016,Number,2284,111
+Washington Heights,Safety Net Converted,2016,Number,1220,112
+Astoria,Safety Net Converted,2016,Number,868,401
+Sunnyside/Woodside,Safety Net Converted,2016,Number,117,402
+Jackson Heights,Safety Net Converted,2016,Number,312,403
+Elmhurst/Corona,Safety Net Converted,2016,Number,223,404
+Ridgewood/Glendale,Safety Net Converted,2016,Number,338,405
+Rego Park/Forest Hills,Safety Net Converted,2016,Number,85,406
+Flushing,Safety Net Converted,2016,Number,214,407
+Fresh Meadows/Briarwood,Safety Net Converted,2016,Number,859,408
+Woodhaven,Safety Net Converted,2016,Number,408,409
+Howard Beach,Safety Net Converted,2016,Number,312,410
+Bayside,Safety Net Converted,2016,Number,47,411
+Jamaica/St. Albans,Safety Net Converted,2016,Number,2035,412
+Queens Village,Safety Net Converted,2016,Number,598,413
+The Rockaways,Safety Net Converted,2016,Number,2471,414
+St. George,Safety Net Converted,2016,Number,3303,501
+South Beach,Safety Net Converted,2016,Number,392,502
+Tottenville,Safety Net Converted,2016,Number,149,503
+New York City,Safety Net Converted,2016,Number,87798,3651000
+Bronx,Safety Net Converted,2016,Number,40597,36005
+Brooklyn,Safety Net Converted,2016,Number,25041,36047
+Manhattan,Safety Net Converted,2016,Number,9310,36061
+Queens,Safety Net Converted,2016,Number,8887,36081
+Staten Island,Safety Net Converted,2016,Number,3844,36085
+Mott Haven,Family Assistance,2016,Percent,0.43187,201
+Hunts Point,Family Assistance,2016,Percent,0.42162,202
+Morrisania,Family Assistance,2016,Percent,0.38925,203
+Concourse/Highbridge,Family Assistance,2016,Percent,0.43671,204
+University Heights,Family Assistance,2016,Percent,0.39815,205
+East Tremont,Family Assistance,2016,Percent,0.42943,206
+Bedford Park,Family Assistance,2016,Percent,0.43558,207
+Riverdale,Family Assistance,2016,Percent,0.40719,208
+Unionport/Soundview,Family Assistance,2016,Percent,0.41939,209
+Throgs Neck,Family Assistance,2016,Percent,0.42943,210
+Pelham Parkway,Family Assistance,2016,Percent,0.42422,211
+Williamsbridge,Family Assistance,2016,Percent,0.40778,212
+Williamsburg/Greenpoint,Family Assistance,2016,Percent,0.38187,301
+Fort Greene/Brooklyn Hts,Family Assistance,2016,Percent,0.21747,302
+Bedford Stuyvesant,Family Assistance,2016,Percent,0.34264,303
+Bushwick,Family Assistance,2016,Percent,0.38899,304
+East New York,Family Assistance,2016,Percent,0.33113,305
+Park Slope,Family Assistance,2016,Percent,0.35734,306
+Sunset Park,Family Assistance,2016,Percent,0.36066,307
+Crown Heights North,Family Assistance,2016,Percent,0.30208,308
+Crown Heights South,Family Assistance,2016,Percent,0.29295,309
+Bay Ridge,Family Assistance,2016,Percent,0.24061,310
+Bensonhurst,Family Assistance,2016,Percent,0.25815,311
+Borough Park,Family Assistance,2016,Percent,0.57552,312
+Coney Island,Family Assistance,2016,Percent,0.35261,313
+Flatbush/Midwood,Family Assistance,2016,Percent,0.35054,314
+Sheepshead Bay,Family Assistance,2016,Percent,0.32985,315
+Brownsville,Family Assistance,2016,Percent,0.35457,316
+East Flatbush,Family Assistance,2016,Percent,0.33585,317
+Canarsie,Family Assistance,2016,Percent,0.34788,318
+Battery Park/Tribeca,Family Assistance,2016,Percent,0.16875,101
+Greenwich Village,Family Assistance,2016,Percent,0.06434,102
+Lower East Side,Family Assistance,2016,Percent,0.28179,103
+Chelsea/Clinton,Family Assistance,2016,Percent,0.15478,104
+Midtown Business District,Family Assistance,2016,Percent,0.27251,105
+Murray Hill/Stuyvesant,Family Assistance,2016,Percent,0.08834,106
+Upper West Side,Family Assistance,2016,Percent,0.2923,107
+Upper East Side,Family Assistance,2016,Percent,0.21671,108
+Manhattanville,Family Assistance,2016,Percent,0.41253,109
+Central Harlem,Family Assistance,2016,Percent,0.37292,110
+East Harlem,Family Assistance,2016,Percent,0.43267,111
+Washington Heights,Family Assistance,2016,Percent,0.36793,112
+Astoria,Family Assistance,2016,Percent,0.37544,401
+Sunnyside/Woodside,Family Assistance,2016,Percent,0.34328,402
+Jackson Heights,Family Assistance,2016,Percent,0.48966,403
+Elmhurst/Corona,Family Assistance,2016,Percent,0.41846,404
+Ridgewood/Glendale,Family Assistance,2016,Percent,0.33475,405
+Rego Park/Forest Hills,Family Assistance,2016,Percent,0.17957,406
+Flushing,Family Assistance,2016,Percent,0.14321,407
+Fresh Meadows/Briarwood,Family Assistance,2016,Percent,0.36025,408
+Woodhaven,Family Assistance,2016,Percent,0.38979,409
+Howard Beach,Family Assistance,2016,Percent,0.36215,410
+Bayside,Family Assistance,2016,Percent,0.10848,411
+Jamaica/St. Albans,Family Assistance,2016,Percent,0.39993,412
+Queens Village,Family Assistance,2016,Percent,0.39517,413
+The Rockaways,Family Assistance,2016,Percent,0.38426,414
+St. George,Family Assistance,2016,Percent,0.45609,501
+South Beach,Family Assistance,2016,Percent,0.38419,502
+Tottenville,Family Assistance,2016,Percent,0.38612,503
+New York City,Family Assistance,2016,Percent,0.38285,3651000
+Bronx,Family Assistance,2016,Percent,0.419,36005
+Brooklyn,Family Assistance,2016,Percent,0.35541,36047
+Manhattan,Family Assistance,2016,Percent,0.34383,36061
+Queens,Family Assistance,2016,Percent,0.36599,36081
+Staten Island,Family Assistance,2016,Percent,0.43972,36085
+Mott Haven,Safety Net Assistance,2016,Percent,0.28514,201
+Hunts Point,Safety Net Assistance,2016,Percent,0.27211,202
+Morrisania,Safety Net Assistance,2016,Percent,0.29462,203
+Concourse/Highbridge,Safety Net Assistance,2016,Percent,0.28802,204
+University Heights,Safety Net Assistance,2016,Percent,0.30736,205
+East Tremont,Safety Net Assistance,2016,Percent,0.26042,206
+Bedford Park,Safety Net Assistance,2016,Percent,0.29848,207
+Riverdale,Safety Net Assistance,2016,Percent,0.34561,208
+Unionport/Soundview,Safety Net Assistance,2016,Percent,0.2927,209
+Throgs Neck,Safety Net Assistance,2016,Percent,0.3356,210
+Pelham Parkway,Safety Net Assistance,2016,Percent,0.33661,211
+Williamsbridge,Safety Net Assistance,2016,Percent,0.28545,212
+Williamsburg/Greenpoint,Safety Net Assistance,2016,Percent,0.34539,301
+Fort Greene/Brooklyn Hts,Safety Net Assistance,2016,Percent,0.52481,302
+Bedford Stuyvesant,Safety Net Assistance,2016,Percent,0.4094,303
+Bushwick,Safety Net Assistance,2016,Percent,0.41607,304
+East New York,Safety Net Assistance,2016,Percent,0.39712,305
+Park Slope,Safety Net Assistance,2016,Percent,0.38191,306
+Sunset Park,Safety Net Assistance,2016,Percent,0.57432,307
+Crown Heights North,Safety Net Assistance,2016,Percent,0.46533,308
+Crown Heights South,Safety Net Assistance,2016,Percent,0.52402,309
+Bay Ridge,Safety Net Assistance,2016,Percent,0.69843,310
+Bensonhurst,Safety Net Assistance,2016,Percent,0.67896,311
+Borough Park,Safety Net Assistance,2016,Percent,0.22675,312
+Coney Island,Safety Net Assistance,2016,Percent,0.41652,313
+Flatbush/Midwood,Safety Net Assistance,2016,Percent,0.5142,314
+Sheepshead Bay,Safety Net Assistance,2016,Percent,0.51939,315
+Brownsville,Safety Net Assistance,2016,Percent,0.36077,316
+East Flatbush,Safety Net Assistance,2016,Percent,0.46631,317
+Canarsie,Safety Net Assistance,2016,Percent,0.44452,318
+Battery Park/Tribeca,Safety Net Assistance,2016,Percent,0.29167,101
+Greenwich Village,Safety Net Assistance,2016,Percent,0.9008,102
+Lower East Side,Safety Net Assistance,2016,Percent,0.52789,103
+Chelsea/Clinton,Safety Net Assistance,2016,Percent,0.72914,104
+Midtown Business District,Safety Net Assistance,2016,Percent,0.51155,105
+Murray Hill/Stuyvesant,Safety Net Assistance,2016,Percent,0.77473,106
+Upper West Side,Safety Net Assistance,2016,Percent,0.56232,107
+Upper East Side,Safety Net Assistance,2016,Percent,0.64649,108
+Manhattanville,Safety Net Assistance,2016,Percent,0.4041,109
+Central Harlem,Safety Net Assistance,2016,Percent,0.42234,110
+East Harlem,Safety Net Assistance,2016,Percent,0.34733,111
+Washington Heights,Safety Net Assistance,2016,Percent,0.47038,112
+Astoria,Safety Net Assistance,2016,Percent,0.40614,401
+Sunnyside/Woodside,Safety Net Assistance,2016,Percent,0.57356,402
+Jackson Heights,Safety Net Assistance,2016,Percent,0.41407,403
+Elmhurst/Corona,Safety Net Assistance,2016,Percent,0.51106,404
+Ridgewood/Glendale,Safety Net Assistance,2016,Percent,0.52167,405
+Rego Park/Forest Hills,Safety Net Assistance,2016,Percent,0.72903,406
+Flushing,Safety Net Assistance,2016,Percent,0.79727,407
+Fresh Meadows/Briarwood,Safety Net Assistance,2016,Percent,0.38187,408
+Woodhaven,Safety Net Assistance,2016,Percent,0.48702,409
+Howard Beach,Safety Net Assistance,2016,Percent,0.49956,410
+Bayside,Safety Net Assistance,2016,Percent,0.83292,411
+Jamaica/St. Albans,Safety Net Assistance,2016,Percent,0.41246,412
+Queens Village,Safety Net Assistance,2016,Percent,0.4545,413
+The Rockaways,Safety Net Assistance,2016,Percent,0.30806,414
+St. George,Safety Net Assistance,2016,Percent,0.27076,501
+South Beach,Safety Net Assistance,2016,Percent,0.44736,502
+Tottenville,Safety Net Assistance,2016,Percent,0.49766,503
+New York City,Safety Net Assistance,2016,Percent,0.38295,3651000
+Bronx,Safety Net Assistance,2016,Percent,0.29337,36005
+Brooklyn,Safety Net Assistance,2016,Percent,0.4292,36047
+Manhattan,Safety Net Assistance,2016,Percent,0.46869,36061
+Queens,Safety Net Assistance,2016,Percent,0.46052,36081
+Staten Island,Safety Net Assistance,2016,Percent,0.31546,36085
+Mott Haven,Safety Net Converted,2016,Percent,0.28299,201
+Hunts Point,Safety Net Converted,2016,Percent,0.30627,202
+Morrisania,Safety Net Converted,2016,Percent,0.31613,203
+Concourse/Highbridge,Safety Net Converted,2016,Percent,0.27526,204
+University Heights,Safety Net Converted,2016,Percent,0.29449,205
+East Tremont,Safety Net Converted,2016,Percent,0.31015,206
+Bedford Park,Safety Net Converted,2016,Percent,0.26594,207
+Riverdale,Safety Net Converted,2016,Percent,0.2472,208
+Unionport/Soundview,Safety Net Converted,2016,Percent,0.28791,209
+Throgs Neck,Safety Net Converted,2016,Percent,0.23497,210
+Pelham Parkway,Safety Net Converted,2016,Percent,0.23917,211
+Williamsbridge,Safety Net Converted,2016,Percent,0.30677,212
+Williamsburg/Greenpoint,Safety Net Converted,2016,Percent,0.27274,301
+Fort Greene/Brooklyn Hts,Safety Net Converted,2016,Percent,0.25773,302
+Bedford Stuyvesant,Safety Net Converted,2016,Percent,0.24796,303
+Bushwick,Safety Net Converted,2016,Percent,0.19494,304
+East New York,Safety Net Converted,2016,Percent,0.27175,305
+Park Slope,Safety Net Converted,2016,Percent,0.26075,306
+Sunset Park,Safety Net Converted,2016,Percent,0.06503,307
+Crown Heights North,Safety Net Converted,2016,Percent,0.23258,308
+Crown Heights South,Safety Net Converted,2016,Percent,0.18303,309
+Bay Ridge,Safety Net Converted,2016,Percent,0.06096,310
+Bensonhurst,Safety Net Converted,2016,Percent,0.06289,311
+Borough Park,Safety Net Converted,2016,Percent,0.19773,312
+Coney Island,Safety Net Converted,2016,Percent,0.23088,313
+Flatbush/Midwood,Safety Net Converted,2016,Percent,0.13526,314
+Sheepshead Bay,Safety Net Converted,2016,Percent,0.15076,315
+Brownsville,Safety Net Converted,2016,Percent,0.28465,316
+East Flatbush,Safety Net Converted,2016,Percent,0.19784,317
+Canarsie,Safety Net Converted,2016,Percent,0.2076,318
+Battery Park/Tribeca,Safety Net Converted,2016,Percent,0.53958,101
+Greenwich Village,Safety Net Converted,2016,Percent,0.03485,102
+Lower East Side,Safety Net Converted,2016,Percent,0.19032,103
+Chelsea/Clinton,Safety Net Converted,2016,Percent,0.11608,104
+Midtown Business District,Safety Net Converted,2016,Percent,0.21594,105
+Murray Hill/Stuyvesant,Safety Net Converted,2016,Percent,0.13693,106
+Upper West Side,Safety Net Converted,2016,Percent,0.14537,107
+Upper East Side,Safety Net Converted,2016,Percent,0.1368,108
+Manhattanville,Safety Net Converted,2016,Percent,0.18337,109
+Central Harlem,Safety Net Converted,2016,Percent,0.20474,110
+East Harlem,Safety Net Converted,2016,Percent,0.22,111
+Washington Heights,Safety Net Converted,2016,Percent,0.1617,112
+Astoria,Safety Net Converted,2016,Percent,0.21842,401
+Sunnyside/Woodside,Safety Net Converted,2016,Percent,0.08316,402
+Jackson Heights,Safety Net Converted,2016,Percent,0.09627,403
+Elmhurst/Corona,Safety Net Converted,2016,Percent,0.07048,404
+Ridgewood/Glendale,Safety Net Converted,2016,Percent,0.14359,405
+Rego Park/Forest Hills,Safety Net Converted,2016,Percent,0.0914,406
+Flushing,Safety Net Converted,2016,Percent,0.05951,407
+Fresh Meadows/Briarwood,Safety Net Converted,2016,Percent,0.25788,408
+Woodhaven,Safety Net Converted,2016,Percent,0.12319,409
+Howard Beach,Safety Net Converted,2016,Percent,0.1383,410
+Bayside,Safety Net Converted,2016,Percent,0.0586,411
+Jamaica/St. Albans,Safety Net Converted,2016,Percent,0.18761,412
+Queens Village,Safety Net Converted,2016,Percent,0.15033,413
+The Rockaways,Safety Net Converted,2016,Percent,0.30768,414
+St. George,Safety Net Converted,2016,Percent,0.27316,501
+South Beach,Safety Net Converted,2016,Percent,0.16846,502
+Tottenville,Safety Net Converted,2016,Percent,0.11622,503
+New York City,Safety Net Converted,2016,Percent,0.2342,3651000
+Bronx,Safety Net Converted,2016,Percent,0.28763,36005
+Brooklyn,Safety Net Converted,2016,Percent,0.21538,36047
+Manhattan,Safety Net Converted,2016,Percent,0.18748,36061
+Queens,Safety Net Converted,2016,Percent,0.1735,36081
+Staten Island,Safety Net Converted,2016,Percent,0.24483,36085
+Battery Park/Tribeca,Family Assistance,2017,Number,138,101
+Greenwich Village,Family Assistance,2017,Number,21,102
+Lower East Side,Family Assistance,2017,Number,1725,103
+Chelsea/Clinton,Family Assistance,2017,Number,682,104
+Midtown Business District,Family Assistance,2017,Number,746,105
+Murray Hill/Stuyvesant,Family Assistance,2017,Number,117,106
+Upper West Side,Family Assistance,2017,Number,1026,107
+Upper East Side,Family Assistance,2017,Number,155,108
+Manhattanville,Family Assistance,2017,Number,1988,109
+Central Harlem,Family Assistance,2017,Number,3154,110
+East Harlem,Family Assistance,2017,Number,3714,111
+Washington Heights,Family Assistance,2017,Number,2236,112
+Mott Haven,Family Assistance,2017,Number,5493,201
+Hunts Point,Family Assistance,2017,Number,2893,202
+Morrisania,Family Assistance,2017,Number,4953,203
+Concourse/Highbridge,Family Assistance,2017,Number,6866,204
+University Heights,Family Assistance,2017,Number,6641,205
+East Tremont,Family Assistance,2017,Number,5878,206
+Bedford Park,Family Assistance,2017,Number,5325,207
+Riverdale,Family Assistance,2017,Number,1189,208
+Unionport/Soundview,Family Assistance,2017,Number,5449,209
+Throgs Neck,Family Assistance,2017,Number,1498,210
+Pelham Parkway,Family Assistance,2017,Number,2266,211
+Williamsbridge,Family Assistance,2017,Number,4817,212
+Williamsburg/Greenpoint,Family Assistance,2017,Number,2235,301
+Fort Greene/Brooklyn Hts,Family Assistance,2017,Number,740,302
+Bedford Stuyvesant,Family Assistance,2017,Number,3267,303
+Bushwick,Family Assistance,2017,Number,1867,304
+East New York,Family Assistance,2017,Number,4647,305
+Park Slope,Family Assistance,2017,Number,569,306
+Sunset Park,Family Assistance,2017,Number,1258,307
+Crown Heights North,Family Assistance,2017,Number,1853,308
+Crown Heights South,Family Assistance,2017,Number,1315,309
+Bay Ridge,Family Assistance,2017,Number,490,310
+Bensonhurst,Family Assistance,2017,Number,993,311
+Borough Park,Family Assistance,2017,Number,4721,312
+Coney Island,Family Assistance,2017,Number,1710,313
+Flatbush/Midwood,Family Assistance,2017,Number,1777,314
+Sheepshead Bay,Family Assistance,2017,Number,1110,315
+Brownsville,Family Assistance,2017,Number,4014,316
+East Flatbush,Family Assistance,2017,Number,2828,317
+Canarsie,Family Assistance,2017,Number,2060,318
+Astoria,Family Assistance,2017,Number,1498,401
+Sunnyside/Woodside,Family Assistance,2017,Number,479,402
+Jackson Heights,Family Assistance,2017,Number,1305,403
+Elmhurst/Corona,Family Assistance,2017,Number,1082,404
+Ridgewood/Glendale,Family Assistance,2017,Number,648,405
+Rego Park/Forest Hills,Family Assistance,2017,Number,147,406
+Flushing,Family Assistance,2017,Number,530,407
+Fresh Meadows/Briarwood,Family Assistance,2017,Number,1007,408
+Woodhaven,Family Assistance,2017,Number,1224,409
+Howard Beach,Family Assistance,2017,Number,986,410
+Bayside,Family Assistance,2017,Number,51,411
+Jamaica/St. Albans,Family Assistance,2017,Number,4049,412
+Queens Village,Family Assistance,2017,Number,1530,413
+The Rockaways,Family Assistance,2017,Number,2869,414
+St. George,Family Assistance,2017,Number,4684,501
+South Beach,Family Assistance,2017,Number,935,502
+Tottenville,Family Assistance,2017,Number,459,503
+Bronx,Family Assistance,2017,Number,53268,36005
+Brooklyn,Family Assistance,2017,Number,37454,36047
+Manhattan,Family Assistance,2017,Number,15702,36061
+Queens,Family Assistance,2017,Number,17405,36081
+Staten Island,Family Assistance,2017,Number,6078,36085
+New York City,Family Assistance,2017,Number,130403,3651000
+Battery Park/Tribeca,Family Assistance,2017,Percent,0.18956,101
+Greenwich Village,Family Assistance,2017,Percent,0.0566,102
+Lower East Side,Family Assistance,2017,Percent,0.2768,103
+Chelsea/Clinton,Family Assistance,2017,Percent,0.22078,104
+Midtown Business District,Family Assistance,2017,Percent,0.37151,105
+Murray Hill/Stuyvesant,Family Assistance,2017,Percent,0.10955,106
+Upper West Side,Family Assistance,2017,Percent,0.27193,107
+Upper East Side,Family Assistance,2017,Percent,0.18834,108
+Manhattanville,Family Assistance,2017,Percent,0.37701,109
+Central Harlem,Family Assistance,2017,Percent,0.34216,110
+East Harlem,Family Assistance,2017,Percent,0.3758,111
+Washington Heights,Family Assistance,2017,Percent,0.316,112
+Mott Haven,Family Assistance,2017,Percent,0.4008,201
+Hunts Point,Family Assistance,2017,Percent,0.39701,202
+Morrisania,Family Assistance,2017,Percent,0.36093,203
+Concourse/Highbridge,Family Assistance,2017,Percent,0.39074,204
+University Heights,Family Assistance,2017,Percent,0.3594,205
+East Tremont,Family Assistance,2017,Percent,0.3984,206
+Bedford Park,Family Assistance,2017,Percent,0.39031,207
+Riverdale,Family Assistance,2017,Percent,0.36361,208
+Unionport/Soundview,Family Assistance,2017,Percent,0.38362,209
+Throgs Neck,Family Assistance,2017,Percent,0.40075,210
+Pelham Parkway,Family Assistance,2017,Percent,0.38381,211
+Williamsbridge,Family Assistance,2017,Percent,0.38355,212
+Williamsburg/Greenpoint,Family Assistance,2017,Percent,0.35275,301
+Fort Greene/Brooklyn Hts,Family Assistance,2017,Percent,0.21855,302
+Bedford Stuyvesant,Family Assistance,2017,Percent,0.29893,303
+Bushwick,Family Assistance,2017,Percent,0.3668,304
+East New York,Family Assistance,2017,Percent,0.31184,305
+Park Slope,Family Assistance,2017,Percent,0.31229,306
+Sunset Park,Family Assistance,2017,Percent,0.34494,307
+Crown Heights North,Family Assistance,2017,Percent,0.29549,308
+Crown Heights South,Family Assistance,2017,Percent,0.28426,309
+Bay Ridge,Family Assistance,2017,Percent,0.20842,310
+Bensonhurst,Family Assistance,2017,Percent,0.24875,311
+Borough Park,Family Assistance,2017,Percent,0.48208,312
+Coney Island,Family Assistance,2017,Percent,0.33774,313
+Flatbush/Midwood,Family Assistance,2017,Percent,0.31524,314
+Sheepshead Bay,Family Assistance,2017,Percent,0.30629,315
+Brownsville,Family Assistance,2017,Percent,0.33879,316
+East Flatbush,Family Assistance,2017,Percent,0.33026,317
+Canarsie,Family Assistance,2017,Percent,0.34575,318
+Astoria,Family Assistance,2017,Percent,0.37525,401
+Sunnyside/Woodside,Family Assistance,2017,Percent,0.31638,402
+Jackson Heights,Family Assistance,2017,Percent,0.44403,403
+Elmhurst/Corona,Family Assistance,2017,Percent,0.3679,404
+Ridgewood/Glendale,Family Assistance,2017,Percent,0.29455,405
+Rego Park/Forest Hills,Family Assistance,2017,Percent,0.16535,406
+Flushing,Family Assistance,2017,Percent,0.14402,407
+Fresh Meadows/Briarwood,Family Assistance,2017,Percent,0.32039,408
+Woodhaven,Family Assistance,2017,Percent,0.36856,409
+Howard Beach,Family Assistance,2017,Percent,0.38849,410
+Bayside,Family Assistance,2017,Percent,0.06719,411
+Jamaica/St. Albans,Family Assistance,2017,Percent,0.38408,412
+Queens Village,Family Assistance,2017,Percent,0.39251,413
+The Rockaways,Family Assistance,2017,Percent,0.37255,414
+St. George,Family Assistance,2017,Percent,0.41732,501
+South Beach,Family Assistance,2017,Percent,0.39105,502
+Tottenville,Family Assistance,2017,Percent,0.35664,503
+Bronx,Family Assistance,2017,Percent,0.38367,36005
+Brooklyn,Family Assistance,2017,Percent,0.32901,36047
+Manhattan,Family Assistance,2017,Percent,0.31694,36061
+Queens,Family Assistance,2017,Percent,0.3477,36081
+Staten Island,Family Assistance,2017,Percent,0.40786,36085
+New York City,Family Assistance,2017,Percent,0.35395,3651000
+Battery Park/Tribeca,Safety Net Assistance,2017,Number,281,101
+Greenwich Village,Safety Net Assistance,2017,Number,336,102
+Lower East Side,Safety Net Assistance,2017,Number,3230,103
+Chelsea/Clinton,Safety Net Assistance,2017,Number,1999,104
+Midtown Business District,Safety Net Assistance,2017,Number,842,105
+Murray Hill/Stuyvesant,Safety Net Assistance,2017,Number,788,106
+Upper West Side,Safety Net Assistance,2017,Number,2106,107
+Upper East Side,Safety Net Assistance,2017,Number,535,108
+Manhattanville,Safety Net Assistance,2017,Number,2266,109
+Central Harlem,Safety Net Assistance,2017,Number,4053,110
+East Harlem,Safety Net Assistance,2017,Number,3709,111
+Washington Heights,Safety Net Assistance,2017,Number,3616,112
+Mott Haven,Safety Net Assistance,2017,Number,4030,201
+Hunts Point,Safety Net Assistance,2017,Number,2128,202
+Morrisania,Safety Net Assistance,2017,Number,4327,203
+Concourse/Highbridge,Safety Net Assistance,2017,Number,5588,204
+University Heights,Safety Net Assistance,2017,Number,6301,205
+East Tremont,Safety Net Assistance,2017,Number,4179,206
+Bedford Park,Safety Net Assistance,2017,Number,4481,207
+Riverdale,Safety Net Assistance,2017,Number,1167,208
+Unionport/Soundview,Safety Net Assistance,2017,Number,4490,209
+Throgs Neck,Safety Net Assistance,2017,Number,1271,210
+Pelham Parkway,Safety Net Assistance,2017,Number,2101,211
+Williamsbridge,Safety Net Assistance,2017,Number,3859,212
+Williamsburg/Greenpoint,Safety Net Assistance,2017,Number,2270,301
+Fort Greene/Brooklyn Hts,Safety Net Assistance,2017,Number,1798,302
+Bedford Stuyvesant,Safety Net Assistance,2017,Number,4873,303
+Bushwick,Safety Net Assistance,2017,Number,2228,304
+East New York,Safety Net Assistance,2017,Number,6257,305
+Park Slope,Safety Net Assistance,2017,Number,803,306
+Sunset Park,Safety Net Assistance,2017,Number,2156,307
+Crown Heights North,Safety Net Assistance,2017,Number,3104,308
+Crown Heights South,Safety Net Assistance,2017,Number,2465,309
+Bay Ridge,Safety Net Assistance,2017,Number,1715,310
+Bensonhurst,Safety Net Assistance,2017,Number,2760,311
+Borough Park,Safety Net Assistance,2017,Number,2576,312
+Coney Island,Safety Net Assistance,2017,Number,2220,313
+Flatbush/Midwood,Safety Net Assistance,2017,Number,3103,314
+Sheepshead Bay,Safety Net Assistance,2017,Number,2002,315
+Brownsville,Safety Net Assistance,2017,Number,4450,316
+East Flatbush,Safety Net Assistance,2017,Number,4181,317
+Canarsie,Safety Net Assistance,2017,Number,2733,318
+Astoria,Safety Net Assistance,2017,Number,1615,401
+Sunnyside/Woodside,Safety Net Assistance,2017,Number,901,402
+Jackson Heights,Safety Net Assistance,2017,Number,1341,403
+Elmhurst/Corona,Safety Net Assistance,2017,Number,1629,404
+Ridgewood/Glendale,Safety Net Assistance,2017,Number,1273,405
+Rego Park/Forest Hills,Safety Net Assistance,2017,Number,658,406
+Flushing,Safety Net Assistance,2017,Number,2876,407
+Fresh Meadows/Briarwood,Safety Net Assistance,2017,Number,1346,408
+Woodhaven,Safety Net Assistance,2017,Number,1692,409
+Howard Beach,Safety Net Assistance,2017,Number,1205,410
+Bayside,Safety Net Assistance,2017,Number,677,411
+Jamaica/St. Albans,Safety Net Assistance,2017,Number,4461,412
+Queens Village,Safety Net Assistance,2017,Number,1793,413
+The Rockaways,Safety Net Assistance,2017,Number,2331,414
+St. George,Safety Net Assistance,2017,Number,3428,501
+South Beach,Safety Net Assistance,2017,Number,1095,502
+Tottenville,Safety Net Assistance,2017,Number,691,503
+Bronx,Safety Net Assistance,2017,Number,43922,36005
+Brooklyn,Safety Net Assistance,2017,Number,51694,36047
+Manhattan,Safety Net Assistance,2017,Number,23761,36061
+Queens,Safety Net Assistance,2017,Number,23798,36081
+Staten Island,Safety Net Assistance,2017,Number,5214,36085
+New York City,Safety Net Assistance,2017,Number,149053,3651000
+Battery Park/Tribeca,Safety Net Assistance,2017,Percent,0.38599,101
+Greenwich Village,Safety Net Assistance,2017,Percent,0.90566,102
+Lower East Side,Safety Net Assistance,2017,Percent,0.51829,103
+Chelsea/Clinton,Safety Net Assistance,2017,Percent,0.64713,104
+Midtown Business District,Safety Net Assistance,2017,Percent,0.41932,105
+Murray Hill/Stuyvesant,Safety Net Assistance,2017,Percent,0.73783,106
+Upper West Side,Safety Net Assistance,2017,Percent,0.55818,107
+Upper East Side,Safety Net Assistance,2017,Percent,0.65006,108
+Manhattanville,Safety Net Assistance,2017,Percent,0.42974,109
+Central Harlem,Safety Net Assistance,2017,Percent,0.43968,110
+East Harlem,Safety Net Assistance,2017,Percent,0.37529,111
+Washington Heights,Safety Net Assistance,2017,Percent,0.51102,112
+Mott Haven,Safety Net Assistance,2017,Percent,0.29405,201
+Hunts Point,Safety Net Assistance,2017,Percent,0.29203,202
+Morrisania,Safety Net Assistance,2017,Percent,0.31531,203
+Concourse/Highbridge,Safety Net Assistance,2017,Percent,0.31801,204
+University Heights,Safety Net Assistance,2017,Percent,0.341,205
+East Tremont,Safety Net Assistance,2017,Percent,0.28325,206
+Bedford Park,Safety Net Assistance,2017,Percent,0.32845,207
+Riverdale,Safety Net Assistance,2017,Percent,0.35688,208
+Unionport/Soundview,Safety Net Assistance,2017,Percent,0.31611,209
+Throgs Neck,Safety Net Assistance,2017,Percent,0.34002,210
+Pelham Parkway,Safety Net Assistance,2017,Percent,0.35586,211
+Williamsbridge,Safety Net Assistance,2017,Percent,0.30727,212
+Williamsburg/Greenpoint,Safety Net Assistance,2017,Percent,0.35827,301
+Fort Greene/Brooklyn Hts,Safety Net Assistance,2017,Percent,0.53101,302
+Bedford Stuyvesant,Safety Net Assistance,2017,Percent,0.44588,303
+Bushwick,Safety Net Assistance,2017,Percent,0.43772,304
+East New York,Safety Net Assistance,2017,Percent,0.41988,305
+Park Slope,Safety Net Assistance,2017,Percent,0.44072,306
+Sunset Park,Safety Net Assistance,2017,Percent,0.59117,307
+Crown Heights North,Safety Net Assistance,2017,Percent,0.49498,308
+Crown Heights South,Safety Net Assistance,2017,Percent,0.53286,309
+Bay Ridge,Safety Net Assistance,2017,Percent,0.72948,310
+Bensonhurst,Safety Net Assistance,2017,Percent,0.69138,311
+Borough Park,Safety Net Assistance,2017,Percent,0.26305,312
+Coney Island,Safety Net Assistance,2017,Percent,0.43848,313
+Flatbush/Midwood,Safety Net Assistance,2017,Percent,0.55047,314
+Sheepshead Bay,Safety Net Assistance,2017,Percent,0.55243,315
+Brownsville,Safety Net Assistance,2017,Percent,0.37559,316
+East Flatbush,Safety Net Assistance,2017,Percent,0.48826,317
+Canarsie,Safety Net Assistance,2017,Percent,0.45871,318
+Astoria,Safety Net Assistance,2017,Percent,0.40456,401
+Sunnyside/Woodside,Safety Net Assistance,2017,Percent,0.59511,402
+Jackson Heights,Safety Net Assistance,2017,Percent,0.45628,403
+Elmhurst/Corona,Safety Net Assistance,2017,Percent,0.55389,404
+Ridgewood/Glendale,Safety Net Assistance,2017,Percent,0.57864,405
+Rego Park/Forest Hills,Safety Net Assistance,2017,Percent,0.74016,406
+Flushing,Safety Net Assistance,2017,Percent,0.78152,407
+Fresh Meadows/Briarwood,Safety Net Assistance,2017,Percent,0.42825,408
+Woodhaven,Safety Net Assistance,2017,Percent,0.50949,409
+Howard Beach,Safety Net Assistance,2017,Percent,0.47478,410
+Bayside,Safety Net Assistance,2017,Percent,0.89196,411
+Jamaica/St. Albans,Safety Net Assistance,2017,Percent,0.42316,412
+Queens Village,Safety Net Assistance,2017,Percent,0.45998,413
+The Rockaways,Safety Net Assistance,2017,Percent,0.30269,414
+St. George,Safety Net Assistance,2017,Percent,0.30542,501
+South Beach,Safety Net Assistance,2017,Percent,0.45797,502
+Tottenville,Safety Net Assistance,2017,Percent,0.53691,503
+Bronx,Safety Net Assistance,2017,Percent,0.31636,36005
+Brooklyn,Safety Net Assistance,2017,Percent,0.4541,36047
+Manhattan,Safety Net Assistance,2017,Percent,0.47961,36061
+Queens,Safety Net Assistance,2017,Percent,0.47542,36081
+Staten Island,Safety Net Assistance,2017,Percent,0.34989,36085
+New York City,Safety Net Assistance,2017,Percent,0.40457,3651000
+Battery Park/Tribeca,Safety Net Converted,2017,Number,309,101
+Greenwich Village,Safety Net Converted,2017,Number,14,102
+Lower East Side,Safety Net Converted,2017,Number,1277,103
+Chelsea/Clinton,Safety Net Converted,2017,Number,408,104
+Midtown Business District,Safety Net Converted,2017,Number,420,105
+Murray Hill/Stuyvesant,Safety Net Converted,2017,Number,163,106
+Upper West Side,Safety Net Converted,2017,Number,641,107
+Upper East Side,Safety Net Converted,2017,Number,133,108
+Manhattanville,Safety Net Converted,2017,Number,1019,109
+Central Harlem,Safety Net Converted,2017,Number,2011,110
+East Harlem,Safety Net Converted,2017,Number,2460,111
+Washington Heights,Safety Net Converted,2017,Number,1224,112
+Mott Haven,Safety Net Converted,2017,Number,4182,201
+Hunts Point,Safety Net Converted,2017,Number,2266,202
+Morrisania,Safety Net Converted,2017,Number,4443,203
+Concourse/Highbridge,Safety Net Converted,2017,Number,5118,204
+University Heights,Safety Net Converted,2017,Number,5536,205
+East Tremont,Safety Net Converted,2017,Number,4697,206
+Bedford Park,Safety Net Converted,2017,Number,3837,207
+Riverdale,Safety Net Converted,2017,Number,914,208
+Unionport/Soundview,Safety Net Converted,2017,Number,4265,209
+Throgs Neck,Safety Net Converted,2017,Number,969,210
+Pelham Parkway,Safety Net Converted,2017,Number,1537,211
+Williamsbridge,Safety Net Converted,2017,Number,3883,212
+Williamsburg/Greenpoint,Safety Net Converted,2017,Number,1831,301
+Fort Greene/Brooklyn Hts,Safety Net Converted,2017,Number,848,302
+Bedford Stuyvesant,Safety Net Converted,2017,Number,2789,303
+Bushwick,Safety Net Converted,2017,Number,995,304
+East New York,Safety Net Converted,2017,Number,3998,305
+Park Slope,Safety Net Converted,2017,Number,450,306
+Sunset Park,Safety Net Converted,2017,Number,233,307
+Crown Heights North,Safety Net Converted,2017,Number,1314,308
+Crown Heights South,Safety Net Converted,2017,Number,846,309
+Bay Ridge,Safety Net Converted,2017,Number,146,310
+Bensonhurst,Safety Net Converted,2017,Number,239,311
+Borough Park,Safety Net Converted,2017,Number,2496,312
+Coney Island,Safety Net Converted,2017,Number,1133,313
+Flatbush/Midwood,Safety Net Converted,2017,Number,757,314
+Sheepshead Bay,Safety Net Converted,2017,Number,512,315
+Brownsville,Safety Net Converted,2017,Number,3384,316
+East Flatbush,Safety Net Converted,2017,Number,1554,317
+Canarsie,Safety Net Converted,2017,Number,1165,318
+Astoria,Safety Net Converted,2017,Number,879,401
+Sunnyside/Woodside,Safety Net Converted,2017,Number,134,402
+Jackson Heights,Safety Net Converted,2017,Number,293,403
+Elmhurst/Corona,Safety Net Converted,2017,Number,230,404
+Ridgewood/Glendale,Safety Net Converted,2017,Number,279,405
+Rego Park/Forest Hills,Safety Net Converted,2017,Number,84,406
+Flushing,Safety Net Converted,2017,Number,274,407
+Fresh Meadows/Briarwood,Safety Net Converted,2017,Number,790,408
+Woodhaven,Safety Net Converted,2017,Number,405,409
+Howard Beach,Safety Net Converted,2017,Number,347,410
+Bayside,Safety Net Converted,2017,Number,31,411
+Jamaica/St. Albans,Safety Net Converted,2017,Number,2032,412
+Queens Village,Safety Net Converted,2017,Number,575,413
+The Rockaways,Safety Net Converted,2017,Number,2501,414
+St. George,Safety Net Converted,2017,Number,3112,501
+South Beach,Safety Net Converted,2017,Number,361,502
+Tottenville,Safety Net Converted,2017,Number,137,503
+Bronx,Safety Net Converted,2017,Number,41647,36005
+Brooklyn,Safety Net Converted,2017,Number,24690,36047
+Manhattan,Safety Net Converted,2017,Number,10079,36061
+Queens,Safety Net Converted,2017,Number,8854,36081
+Staten Island,Safety Net Converted,2017,Number,3610,36085
+New York City,Safety Net Converted,2017,Number,88969,3651000
+Battery Park/Tribeca,Safety Net Converted,2017,Percent,0.42445,101
+Greenwich Village,Safety Net Converted,2017,Percent,0.03774,102
+Lower East Side,Safety Net Converted,2017,Percent,0.20491,103
+Chelsea/Clinton,Safety Net Converted,2017,Percent,0.13208,104
+Midtown Business District,Safety Net Converted,2017,Percent,0.20916,105
+Murray Hill/Stuyvesant,Safety Net Converted,2017,Percent,0.15262,106
+Upper West Side,Safety Net Converted,2017,Percent,0.16989,107
+Upper East Side,Safety Net Converted,2017,Percent,0.1616,108
+Manhattanville,Safety Net Converted,2017,Percent,0.19325,109
+Central Harlem,Safety Net Converted,2017,Percent,0.21816,110
+East Harlem,Safety Net Converted,2017,Percent,0.24891,111
+Washington Heights,Safety Net Converted,2017,Percent,0.17298,112
+Mott Haven,Safety Net Converted,2017,Percent,0.30514,201
+Hunts Point,Safety Net Converted,2017,Percent,0.31096,202
+Morrisania,Safety Net Converted,2017,Percent,0.32376,203
+Concourse/Highbridge,Safety Net Converted,2017,Percent,0.29126,204
+University Heights,Safety Net Converted,2017,Percent,0.2996,205
+East Tremont,Safety Net Converted,2017,Percent,0.31835,206
+Bedford Park,Safety Net Converted,2017,Percent,0.28124,207
+Riverdale,Safety Net Converted,2017,Percent,0.27951,208
+Unionport/Soundview,Safety Net Converted,2017,Percent,0.30027,209
+Throgs Neck,Safety Net Converted,2017,Percent,0.25923,210
+Pelham Parkway,Safety Net Converted,2017,Percent,0.26033,211
+Williamsbridge,Safety Net Converted,2017,Percent,0.30918,212
+Williamsburg/Greenpoint,Safety Net Converted,2017,Percent,0.28898,301
+Fort Greene/Brooklyn Hts,Safety Net Converted,2017,Percent,0.25044,302
+Bedford Stuyvesant,Safety Net Converted,2017,Percent,0.25519,303
+Bushwick,Safety Net Converted,2017,Percent,0.19548,304
+East New York,Safety Net Converted,2017,Percent,0.26829,305
+Park Slope,Safety Net Converted,2017,Percent,0.24698,306
+Sunset Park,Safety Net Converted,2017,Percent,0.06389,307
+Crown Heights North,Safety Net Converted,2017,Percent,0.20954,308
+Crown Heights South,Safety Net Converted,2017,Percent,0.18288,309
+Bay Ridge,Safety Net Converted,2017,Percent,0.0621,310
+Bensonhurst,Safety Net Converted,2017,Percent,0.05987,311
+Borough Park,Safety Net Converted,2017,Percent,0.25488,312
+Coney Island,Safety Net Converted,2017,Percent,0.22378,313
+Flatbush/Midwood,Safety Net Converted,2017,Percent,0.13429,314
+Sheepshead Bay,Safety Net Converted,2017,Percent,0.14128,315
+Brownsville,Safety Net Converted,2017,Percent,0.28562,316
+East Flatbush,Safety Net Converted,2017,Percent,0.18148,317
+Canarsie,Safety Net Converted,2017,Percent,0.19554,318
+Astoria,Safety Net Converted,2017,Percent,0.22019,401
+Sunnyside/Woodside,Safety Net Converted,2017,Percent,0.08851,402
+Jackson Heights,Safety Net Converted,2017,Percent,0.09969,403
+Elmhurst/Corona,Safety Net Converted,2017,Percent,0.0782,404
+Ridgewood/Glendale,Safety Net Converted,2017,Percent,0.12682,405
+Rego Park/Forest Hills,Safety Net Converted,2017,Percent,0.09449,406
+Flushing,Safety Net Converted,2017,Percent,0.07446,407
+Fresh Meadows/Briarwood,Safety Net Converted,2017,Percent,0.25135,408
+Woodhaven,Safety Net Converted,2017,Percent,0.12195,409
+Howard Beach,Safety Net Converted,2017,Percent,0.13672,410
+Bayside,Safety Net Converted,2017,Percent,0.04084,411
+Jamaica/St. Albans,Safety Net Converted,2017,Percent,0.19275,412
+Queens Village,Safety Net Converted,2017,Percent,0.14751,413
+The Rockaways,Safety Net Converted,2017,Percent,0.32476,414
+St. George,Safety Net Converted,2017,Percent,0.27726,501
+South Beach,Safety Net Converted,2017,Percent,0.15098,502
+Tottenville,Safety Net Converted,2017,Percent,0.10645,503
+Bronx,Safety Net Converted,2017,Percent,0.29997,36005
+Brooklyn,Safety Net Converted,2017,Percent,0.21689,36047
+Manhattan,Safety Net Converted,2017,Percent,0.20344,36061
+Queens,Safety Net Converted,2017,Percent,0.17688,36081
+Staten Island,Safety Net Converted,2017,Percent,0.24225,36085
+New York City,Safety Net Converted,2017,Percent,0.24148,3651000

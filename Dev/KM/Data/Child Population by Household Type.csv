@@ -1,0 +1,3650 @@
+"Name","Child Population by Household Type"
+"Description","All Household - Population under 18 years in households.<br />
+Married Couples - Children who live in married-couple families.&nbsp;<br />
+Single Parents - Children who live in single-parent families.&nbsp;<br />
+Grandparents - Children in households headed by their grandparent.<br />
+Other - Children in households for whom relationship to householder is defined as other relative, foster or unrelated child.&nbsp;"
+"Source Notes","U.S. Census Bureau, American Community Survey 5-Year Estimates, Tables B09002, B09018 (2012-2018); retrieved from <a href=""https://data.census.gov/"" target=""_blank"">https://data.census.gov/</a><a href=""http://factfinder2.census.gov/"" target=""_blank""></a>.&nbsp;"
+"Notes","Percentages refer to the population&nbsp;under 18 in households."
+
+Location,Household Type,TimeFrame,DataFormat,Data,Fips
+Battery Park/Tribeca,Married Couples,2012,Number,5268.95086,101
+Greenwich Village,Married Couples,2012,Number,7778.04914,102
+Lower East Side,Married Couples,2012,Number,10044,103
+Chelsea/Clinton,Married Couples,2012,Number,4664.47898,104
+Midtown Business District,Married Couples,2012,Number,2334.52102,105
+Murray Hill/Stuyvesant,Married Couples,2012,Number,8686,106
+Upper West Side,Married Couples,2012,Number,21946,107
+Upper East Side,Married Couples,2012,Number,26250,108
+Manhattanville,Married Couples,2012,Number,8738,109
+Central Harlem,Married Couples,2012,Number,8783,110
+East Harlem,Married Couples,2012,Number,8166,111
+Washington Heights,Married Couples,2012,Number,12782,112
+Mott Haven,Married Couples,2012,Number,5872.00646,201
+Hunts Point,Married Couples,2012,Number,3352.99354,202
+Morrisania,Married Couples,2012,Number,5501.58676,203
+Concourse/Highbridge,Married Couples,2012,Number,12663,204
+University Heights,Married Couples,2012,Number,9294,205
+East Tremont,Married Couples,2012,Number,5743.41324,206
+Bedford Park,Married Couples,2012,Number,10973,207
+Riverdale,Married Couples,2012,Number,11119,208
+Unionport/Soundview,Married Couples,2012,Number,14914,209
+Throgs Neck,Married Couples,2012,Number,10932,210
+Pelham Parkway,Married Couples,2012,Number,14515,211
+Williamsbridge,Married Couples,2012,Number,13144,212
+Williamsburg/Greenpoint,Married Couples,2012,Number,23824,301
+Fort Greene/Brooklyn Hts,Married Couples,2012,Number,10340,302
+Bedford Stuyvesant,Married Couples,2012,Number,15175,303
+Bushwick,Married Couples,2012,Number,11379,304
+East New York,Married Couples,2012,Number,14231,305
+Park Slope,Married Couples,2012,Number,14043,306
+Sunset Park,Married Couples,2012,Number,21236,307
+Crown Heights North,Married Couples,2012,Number,8020,308
+Crown Heights South,Married Couples,2012,Number,12776,309
+Bay Ridge,Married Couples,2012,Number,20097,310
+Bensonhurst,Married Couples,2012,Number,28034,311
+Borough Park,Married Couples,2012,Number,48313,312
+Coney Island,Married Couples,2012,Number,11207,313
+Flatbush/Midwood,Married Couples,2012,Number,24627,314
+Sheepshead Bay,Married Couples,2012,Number,22748,315
+Brownsville,Married Couples,2012,Number,7793,316
+East Flatbush,Married Couples,2012,Number,10958,317
+Canarsie,Married Couples,2012,Number,27496,318
+Astoria,Married Couples,2012,Number,16660,401
+Sunnyside/Woodside,Married Couples,2012,Number,14436,402
+Jackson Heights,Married Couples,2012,Number,19546,403
+Elmhurst/Corona,Married Couples,2012,Number,16295,404
+Ridgewood/Glendale,Married Couples,2012,Number,22997,405
+Rego Park/Forest Hills,Married Couples,2012,Number,14822,406
+Flushing,Married Couples,2012,Number,32537,407
+Fresh Meadows/Briarwood,Married Couples,2012,Number,23606,408
+Woodhaven,Married Couples,2012,Number,21376,409
+Howard Beach,Married Couples,2012,Number,17983,410
+Bayside,Married Couples,2012,Number,19010,411
+Jamaica/St. Albans,Married Couples,2012,Number,21953,412
+Queens Village,Married Couples,2012,Number,23342,413
+The Rockaways,Married Couples,2012,Number,15360,414
+St. George,Married Couples,2012,Number,24505,501
+South Beach,Married Couples,2012,Number,20789,502
+Tottenville,Married Couples,2012,Number,30243,503
+Bronx,Married Couples,2012,Number,118024,36005
+Brooklyn,Married Couples,2012,Number,332297,36047
+Manhattan,Married Couples,2012,Number,125441,36061
+Queens,Married Couples,2012,Number,279923,36081
+Staten Island,Married Couples,2012,Number,75537,36085
+New York City,Married Couples,2012,Number,931222,3651000
+Battery Park/Tribeca,Married Couples,2013,Number,5766.89034,101
+Greenwich Village,Married Couples,2013,Number,8513.10966,102
+Lower East Side,Married Couples,2013,Number,9911,103
+Chelsea/Clinton,Married Couples,2013,Number,5312.26775,104
+Midtown Business District,Married Couples,2013,Number,2658.73225,105
+Murray Hill/Stuyvesant,Married Couples,2013,Number,8953,106
+Upper West Side,Married Couples,2013,Number,22718,107
+Upper East Side,Married Couples,2013,Number,25616,108
+Manhattanville,Married Couples,2013,Number,8447,109
+Central Harlem,Married Couples,2013,Number,9250,110
+East Harlem,Married Couples,2013,Number,8025,111
+Washington Heights,Married Couples,2013,Number,13306,112
+Mott Haven,Married Couples,2013,Number,6361.49947,201
+Hunts Point,Married Couples,2013,Number,3632.50053,202
+Morrisania,Married Couples,2013,Number,5765.78035,203
+Concourse/Highbridge,Married Couples,2013,Number,12036,204
+University Heights,Married Couples,2013,Number,9068,205
+East Tremont,Married Couples,2013,Number,6019.21965,206
+Bedford Park,Married Couples,2013,Number,10984,207
+Riverdale,Married Couples,2013,Number,11019,208
+Unionport/Soundview,Married Couples,2013,Number,14636,209
+Throgs Neck,Married Couples,2013,Number,10936,210
+Pelham Parkway,Married Couples,2013,Number,14354,211
+Williamsbridge,Married Couples,2013,Number,13267,212
+Williamsburg/Greenpoint,Married Couples,2013,Number,23299,301
+Fort Greene/Brooklyn Hts,Married Couples,2013,Number,12076,302
+Bedford Stuyvesant,Married Couples,2013,Number,16547,303
+Bushwick,Married Couples,2013,Number,11591,304
+East New York,Married Couples,2013,Number,14267,305
+Park Slope,Married Couples,2013,Number,14665,306
+Sunset Park,Married Couples,2013,Number,21219,307
+Crown Heights North,Married Couples,2013,Number,8540,308
+Crown Heights South,Married Couples,2013,Number,12467,309
+Bay Ridge,Married Couples,2013,Number,20846,310
+Bensonhurst,Married Couples,2013,Number,27109,311
+Borough Park,Married Couples,2013,Number,49312,312
+Coney Island,Married Couples,2013,Number,11636,313
+Flatbush/Midwood,Married Couples,2013,Number,24027,314
+Sheepshead Bay,Married Couples,2013,Number,24227,315
+Brownsville,Married Couples,2013,Number,7595,316
+East Flatbush,Married Couples,2013,Number,10176,317
+Canarsie,Married Couples,2013,Number,26670,318
+Astoria,Married Couples,2013,Number,16740,401
+Sunnyside/Woodside,Married Couples,2013,Number,14971,402
+Jackson Heights,Married Couples,2013,Number,19418,403
+Elmhurst/Corona,Married Couples,2013,Number,16385,404
+Ridgewood/Glendale,Married Couples,2013,Number,22876,405
+Rego Park/Forest Hills,Married Couples,2013,Number,14563,406
+Flushing,Married Couples,2013,Number,31529,407
+Fresh Meadows/Briarwood,Married Couples,2013,Number,24082,408
+Woodhaven,Married Couples,2013,Number,21767,409
+Howard Beach,Married Couples,2013,Number,17395,410
+Bayside,Married Couples,2013,Number,19514,411
+Jamaica/St. Albans,Married Couples,2013,Number,23014,412
+Queens Village,Married Couples,2013,Number,23086,413
+The Rockaways,Married Couples,2013,Number,15607,414
+St. George,Married Couples,2013,Number,23998,501
+South Beach,Married Couples,2013,Number,20753,502
+Tottenville,Married Couples,2013,Number,28872,503
+Bronx,Married Couples,2013,Number,118079,36005
+Brooklyn,Married Couples,2013,Number,336269,36047
+Manhattan,Married Couples,2013,Number,128477,36061
+Queens,Married Couples,2013,Number,280947,36081
+Staten Island,Married Couples,2013,Number,73623,36085
+New York City,Married Couples,2013,Number,937395,3651000
+Battery Park/Tribeca,Married Couples,2014,Number,5984.15834,101
+Greenwich Village,Married Couples,2014,Number,8833.84166,102
+Lower East Side,Married Couples,2014,Number,9425,103
+Chelsea/Clinton,Married Couples,2014,Number,5838.09628,104
+Midtown Business District,Married Couples,2014,Number,2921.90372,105
+Murray Hill/Stuyvesant,Married Couples,2014,Number,8987,106
+Upper West Side,Married Couples,2014,Number,23427,107
+Upper East Side,Married Couples,2014,Number,26640,108
+Manhattanville,Married Couples,2014,Number,8518,109
+Central Harlem,Married Couples,2014,Number,9167,110
+East Harlem,Married Couples,2014,Number,8086,111
+Washington Heights,Married Couples,2014,Number,13822,112
+Mott Haven,Married Couples,2014,Number,6928.64936,201
+Hunts Point,Married Couples,2014,Number,3956.35064,202
+Morrisania,Married Couples,2014,Number,6010.40404,203
+Concourse/Highbridge,Married Couples,2014,Number,12435,204
+University Heights,Married Couples,2014,Number,9080,205
+East Tremont,Married Couples,2014,Number,6274.59596,206
+Bedford Park,Married Couples,2014,Number,11168,207
+Riverdale,Married Couples,2014,Number,11470,208
+Unionport/Soundview,Married Couples,2014,Number,13999,209
+Throgs Neck,Married Couples,2014,Number,11688,210
+Pelham Parkway,Married Couples,2014,Number,15195,211
+Williamsbridge,Married Couples,2014,Number,12356,212
+Williamsburg/Greenpoint,Married Couples,2014,Number,24111,301
+Fort Greene/Brooklyn Hts,Married Couples,2014,Number,12863,302
+Bedford Stuyvesant,Married Couples,2014,Number,16725,303
+Bushwick,Married Couples,2014,Number,10496,304
+East New York,Married Couples,2014,Number,13609,305
+Park Slope,Married Couples,2014,Number,15579,306
+Sunset Park,Married Couples,2014,Number,21497,307
+Crown Heights North,Married Couples,2014,Number,8193,308
+Crown Heights South,Married Couples,2014,Number,11645,309
+Bay Ridge,Married Couples,2014,Number,20283,310
+Bensonhurst,Married Couples,2014,Number,27601,311
+Borough Park,Married Couples,2014,Number,51495,312
+Coney Island,Married Couples,2014,Number,11870,313
+Flatbush/Midwood,Married Couples,2014,Number,24791,314
+Sheepshead Bay,Married Couples,2014,Number,24242,315
+Brownsville,Married Couples,2014,Number,6851,316
+East Flatbush,Married Couples,2014,Number,9725,317
+Canarsie,Married Couples,2014,Number,26115,318
+Astoria,Married Couples,2014,Number,16999,401
+Sunnyside/Woodside,Married Couples,2014,Number,15966,402
+Jackson Heights,Married Couples,2014,Number,19201,403
+Elmhurst/Corona,Married Couples,2014,Number,16010,404
+Ridgewood/Glendale,Married Couples,2014,Number,21970,405
+Rego Park/Forest Hills,Married Couples,2014,Number,14146,406
+Flushing,Married Couples,2014,Number,31201,407
+Fresh Meadows/Briarwood,Married Couples,2014,Number,24599,408
+Woodhaven,Married Couples,2014,Number,21037,409
+Howard Beach,Married Couples,2014,Number,17085,410
+Bayside,Married Couples,2014,Number,19392,411
+Jamaica/St. Albans,Married Couples,2014,Number,23330,412
+Queens Village,Married Couples,2014,Number,21554,413
+The Rockaways,Married Couples,2014,Number,15875,414
+St. George,Married Couples,2014,Number,24059,501
+South Beach,Married Couples,2014,Number,19603,502
+Tottenville,Married Couples,2014,Number,28883,503
+Bronx,Married Couples,2014,Number,120561,36005
+Brooklyn,Married Couples,2014,Number,337691,36047
+Manhattan,Married Couples,2014,Number,131650,36061
+Queens,Married Couples,2014,Number,278365,36081
+Staten Island,Married Couples,2014,Number,72545,36085
+New York City,Married Couples,2014,Number,940812,3651000
+Battery Park/Tribeca,Married Couples,2015,Number,6258.36832,101
+Greenwich Village,Married Couples,2015,Number,9238.63168,102
+Lower East Side,Married Couples,2015,Number,8610,103
+Chelsea/Clinton,Married Couples,2015,Number,5840.76208,104
+Midtown Business District,Married Couples,2015,Number,2923.23792,105
+Murray Hill/Stuyvesant,Married Couples,2015,Number,9296,106
+Upper West Side,Married Couples,2015,Number,22761,107
+Upper East Side,Married Couples,2015,Number,27363,108
+Manhattanville,Married Couples,2015,Number,8412,109
+Central Harlem,Married Couples,2015,Number,9394,110
+East Harlem,Married Couples,2015,Number,8000,111
+Washington Heights,Married Couples,2015,Number,13049,112
+Mott Haven,Married Couples,2015,Number,7157.80083,201
+Hunts Point,Married Couples,2015,Number,4087.19917,202
+Morrisania,Married Couples,2015,Number,6333.79655,203
+Concourse/Highbridge,Married Couples,2015,Number,12354,204
+University Heights,Married Couples,2015,Number,9783,205
+East Tremont,Married Couples,2015,Number,6612.20345,206
+Bedford Park,Married Couples,2015,Number,11885,207
+Riverdale,Married Couples,2015,Number,12148,208
+Unionport/Soundview,Married Couples,2015,Number,14873,209
+Throgs Neck,Married Couples,2015,Number,11953,210
+Pelham Parkway,Married Couples,2015,Number,14994,211
+Williamsbridge,Married Couples,2015,Number,12699,212
+Williamsburg/Greenpoint,Married Couples,2015,Number,25405,301
+Fort Greene/Brooklyn Hts,Married Couples,2015,Number,13091,302
+Bedford Stuyvesant,Married Couples,2015,Number,17828,303
+Bushwick,Married Couples,2015,Number,11166,304
+East New York,Married Couples,2015,Number,14099,305
+Park Slope,Married Couples,2015,Number,16039,306
+Sunset Park,Married Couples,2015,Number,22213,307
+Crown Heights North,Married Couples,2015,Number,8394,308
+Crown Heights South,Married Couples,2015,Number,12609,309
+Bay Ridge,Married Couples,2015,Number,19811,310
+Bensonhurst,Married Couples,2015,Number,28092,311
+Borough Park,Married Couples,2015,Number,51239,312
+Coney Island,Married Couples,2015,Number,11342,313
+Flatbush/Midwood,Married Couples,2015,Number,26084,314
+Sheepshead Bay,Married Couples,2015,Number,25102,315
+Brownsville,Married Couples,2015,Number,6822,316
+East Flatbush,Married Couples,2015,Number,9295,317
+Canarsie,Married Couples,2015,Number,25083,318
+Astoria,Married Couples,2015,Number,16603,401
+Sunnyside/Woodside,Married Couples,2015,Number,17181,402
+Jackson Heights,Married Couples,2015,Number,19795,403
+Elmhurst/Corona,Married Couples,2015,Number,16162,404
+Ridgewood/Glendale,Married Couples,2015,Number,22899,405
+Rego Park/Forest Hills,Married Couples,2015,Number,14904,406
+Flushing,Married Couples,2015,Number,31328,407
+Fresh Meadows/Briarwood,Married Couples,2015,Number,25323,408
+Woodhaven,Married Couples,2015,Number,21401,409
+Howard Beach,Married Couples,2015,Number,16840,410
+Bayside,Married Couples,2015,Number,18844,411
+Jamaica/St. Albans,Married Couples,2015,Number,23651,412
+Queens Village,Married Couples,2015,Number,21578,413
+The Rockaways,Married Couples,2015,Number,16235,414
+St. George,Married Couples,2015,Number,23393,501
+South Beach,Married Couples,2015,Number,19459,502
+Tottenville,Married Couples,2015,Number,28398,503
+Bronx,Married Couples,2015,Number,124880,36005
+Brooklyn,Married Couples,2015,Number,343714,36047
+Manhattan,Married Couples,2015,Number,131146,36061
+Queens,Married Couples,2015,Number,282744,36081
+Staten Island,Married Couples,2015,Number,71250,36085
+New York City,Married Couples,2015,Number,953734,3651000
+Battery Park/Tribeca,Married Couples,2016,Number,6470.79,101
+Greenwich Village,Married Couples,2016,Number,9552.21,102
+Lower East Side,Married Couples,2016,Number,8000,103
+Chelsea/Clinton,Married Couples,2016,Number,5655.489,104
+Midtown Business District,Married Couples,2016,Number,2830.511,105
+Murray Hill/Stuyvesant,Married Couples,2016,Number,9216,106
+Upper West Side,Married Couples,2016,Number,23231,107
+Upper East Side,Married Couples,2016,Number,27581,108
+Manhattanville,Married Couples,2016,Number,8370,109
+Central Harlem,Married Couples,2016,Number,9274,110
+East Harlem,Married Couples,2016,Number,8380,111
+Washington Heights,Married Couples,2016,Number,14138,112
+Mott Haven,Married Couples,2016,Number,7764.416,201
+Hunts Point,Married Couples,2016,Number,4433.584,202
+Morrisania,Married Couples,2016,Number,6305.42,203
+Concourse/Highbridge,Married Couples,2016,Number,12547,204
+University Heights,Married Couples,2016,Number,10503,205
+East Tremont,Married Couples,2016,Number,6582.58,206
+Bedford Park,Married Couples,2016,Number,12220,207
+Riverdale,Married Couples,2016,Number,11990,208
+Unionport/Soundview,Married Couples,2016,Number,16416,209
+Throgs Neck,Married Couples,2016,Number,10701,210
+Pelham Parkway,Married Couples,2016,Number,14485,211
+Williamsbridge,Married Couples,2016,Number,12153,212
+Williamsburg/Greenpoint,Married Couples,2016,Number,26033,301
+Fort Greene/Brooklyn Hts,Married Couples,2016,Number,14227,302
+Bedford Stuyvesant,Married Couples,2016,Number,18469,303
+Bushwick,Married Couples,2016,Number,10849,304
+East New York,Married Couples,2016,Number,13724,305
+Park Slope,Married Couples,2016,Number,17377,306
+Sunset Park,Married Couples,2016,Number,23068,307
+Crown Heights North,Married Couples,2016,Number,9093,308
+Crown Heights South,Married Couples,2016,Number,12701,309
+Bay Ridge,Married Couples,2016,Number,18275,310
+Bensonhurst,Married Couples,2016,Number,27644,311
+Borough Park,Married Couples,2016,Number,50672,312
+Coney Island,Married Couples,2016,Number,11664,313
+Flatbush/Midwood,Married Couples,2016,Number,26139,314
+Sheepshead Bay,Married Couples,2016,Number,25280,315
+Brownsville,Married Couples,2016,Number,6980,316
+East Flatbush,Married Couples,2016,Number,9758,317
+Canarsie,Married Couples,2016,Number,25452,318
+Astoria,Married Couples,2016,Number,15604,401
+Sunnyside/Woodside,Married Couples,2016,Number,16712,402
+Jackson Heights,Married Couples,2016,Number,19354,403
+Elmhurst/Corona,Married Couples,2016,Number,17631,404
+Ridgewood/Glendale,Married Couples,2016,Number,23140,405
+Rego Park/Forest Hills,Married Couples,2016,Number,15046,406
+Flushing,Married Couples,2016,Number,31916,407
+Fresh Meadows/Briarwood,Married Couples,2016,Number,24906,408
+Woodhaven,Married Couples,2016,Number,21761,409
+Howard Beach,Married Couples,2016,Number,17068,410
+Bayside,Married Couples,2016,Number,18787,411
+Jamaica/St. Albans,Married Couples,2016,Number,24134,412
+Queens Village,Married Couples,2016,Number,21204,413
+The Rockaways,Married Couples,2016,Number,16985,414
+St. George,Married Couples,2016,Number,22849,501
+South Beach,Married Couples,2016,Number,20171,502
+Tottenville,Married Couples,2016,Number,27932,503
+Bronx,Married Couples,2016,Number,126101,36005
+Brooklyn,Married Couples,2016,Number,347405,36047
+Manhattan,Married Couples,2016,Number,132699,36061
+Queens,Married Couples,2016,Number,284248,36081
+Staten Island,Married Couples,2016,Number,70952,36085
+New York City,Married Couples,2016,Number,961405,3651000
+Battery Park/Tribeca,Married Couples,2017,Number,6900.48006,101
+Greenwich Village,Married Couples,2017,Number,10186.51994,102
+Lower East Side,Married Couples,2017,Number,7748,103
+Chelsea/Clinton,Married Couples,2017,Number,5682.14714,104
+Midtown Business District,Married Couples,2017,Number,2843.85286,105
+Murray Hill/Stuyvesant,Married Couples,2017,Number,9833,106
+Upper West Side,Married Couples,2017,Number,24031,107
+Upper East Side,Married Couples,2017,Number,27954,108
+Manhattanville,Married Couples,2017,Number,8720,109
+Central Harlem,Married Couples,2017,Number,8617,110
+East Harlem,Married Couples,2017,Number,8514,111
+Washington Heights,Married Couples,2017,Number,14709,112
+Mott Haven,Married Couples,2017,Number,7410.50398,201
+Hunts Point,Married Couples,2017,Number,4231.49602,202
+Morrisania,Married Couples,2017,Number,6604.8396,203
+Concourse/Highbridge,Married Couples,2017,Number,12438,204
+University Heights,Married Couples,2017,Number,11118,205
+East Tremont,Married Couples,2017,Number,6895.1604,206
+Bedford Park,Married Couples,2017,Number,12074,207
+Riverdale,Married Couples,2017,Number,11927,208
+Unionport/Soundview,Married Couples,2017,Number,16307,209
+Throgs Neck,Married Couples,2017,Number,10214,210
+Pelham Parkway,Married Couples,2017,Number,13908,211
+Williamsbridge,Married Couples,2017,Number,12196,212
+Williamsburg/Greenpoint,Married Couples,2017,Number,26487,301
+Fort Greene/Brooklyn Hts,Married Couples,2017,Number,15013,302
+Bedford Stuyvesant,Married Couples,2017,Number,19206,303
+Bushwick,Married Couples,2017,Number,9978,304
+East New York,Married Couples,2017,Number,14306,305
+Park Slope,Married Couples,2017,Number,18778,306
+Sunset Park,Married Couples,2017,Number,22974,307
+Crown Heights North,Married Couples,2017,Number,9248,308
+Crown Heights South,Married Couples,2017,Number,11356,309
+Bay Ridge,Married Couples,2017,Number,17477,310
+Bensonhurst,Married Couples,2017,Number,28484,311
+Borough Park,Married Couples,2017,Number,51338,312
+Coney Island,Married Couples,2017,Number,12425,313
+Flatbush/Midwood,Married Couples,2017,Number,26552,314
+Sheepshead Bay,Married Couples,2017,Number,25670,315
+Brownsville,Married Couples,2017,Number,6349,316
+East Flatbush,Married Couples,2017,Number,9855,317
+Canarsie,Married Couples,2017,Number,25543,318
+Astoria,Married Couples,2017,Number,15233,401
+Sunnyside/Woodside,Married Couples,2017,Number,16435,402
+Jackson Heights,Married Couples,2017,Number,20631,403
+Elmhurst/Corona,Married Couples,2017,Number,18189,404
+Ridgewood/Glendale,Married Couples,2017,Number,24284,405
+Rego Park/Forest Hills,Married Couples,2017,Number,15350,406
+Flushing,Married Couples,2017,Number,32234,407
+Fresh Meadows/Briarwood,Married Couples,2017,Number,24883,408
+Woodhaven,Married Couples,2017,Number,20683,409
+Howard Beach,Married Couples,2017,Number,17222,410
+Bayside,Married Couples,2017,Number,17906,411
+Jamaica/St. Albans,Married Couples,2017,Number,23712,412
+Queens Village,Married Couples,2017,Number,22172,413
+The Rockaways,Married Couples,2017,Number,17217,414
+St. George,Married Couples,2017,Number,22069,501
+South Beach,Married Couples,2017,Number,20765,502
+Tottenville,Married Couples,2017,Number,28069,503
+Bronx,Married Couples,2017,Number,125324,36005
+Brooklyn,Married Couples,2017,Number,351039,36047
+Manhattan,Married Couples,2017,Number,135739,36061
+Queens,Married Couples,2017,Number,286151,36081
+Staten Island,Married Couples,2017,Number,70903,36085
+New York City,Married Couples,2017,Number,969156,3651000
+Battery Park/Tribeca,Single Parents,2012,Number,955.49458,101
+Greenwich Village,Single Parents,2012,Number,1410.50542,102
+Lower East Side,Single Parents,2012,Number,7746,103
+Chelsea/Clinton,Single Parents,2012,Number,2170.62552,104
+Midtown Business District,Single Parents,2012,Number,1086.37448,105
+Murray Hill/Stuyvesant,Single Parents,2012,Number,2053,106
+Upper West Side,Single Parents,2012,Number,6374,107
+Upper East Side,Single Parents,2012,Number,3813,108
+Manhattanville,Single Parents,2012,Number,8987,109
+Central Harlem,Single Parents,2012,Number,14066,110
+East Harlem,Single Parents,2012,Number,14761,111
+Washington Heights,Single Parents,2012,Number,18972,112
+Mott Haven,Single Parents,2012,Number,18419.95914,201
+Hunts Point,Single Parents,2012,Number,10518.04086,202
+Morrisania,Single Parents,2012,Number,14576.63637,203
+Concourse/Highbridge,Single Parents,2012,Number,21382,204
+University Heights,Single Parents,2012,Number,22577,205
+East Tremont,Single Parents,2012,Number,15217.36363,206
+Bedford Park,Single Parents,2012,Number,17758,207
+Riverdale,Single Parents,2012,Number,8788,208
+Unionport/Soundview,Single Parents,2012,Number,26453,209
+Throgs Neck,Single Parents,2012,Number,8883,210
+Pelham Parkway,Single Parents,2012,Number,12090,211
+Williamsbridge,Single Parents,2012,Number,18033,212
+Williamsburg/Greenpoint,Single Parents,2012,Number,6427,301
+Fort Greene/Brooklyn Hts,Single Parents,2012,Number,6769,302
+Bedford Stuyvesant,Single Parents,2012,Number,14919,303
+Bushwick,Single Parents,2012,Number,15458,304
+East New York,Single Parents,2012,Number,20796,305
+Park Slope,Single Parents,2012,Number,5121,306
+Sunset Park,Single Parents,2012,Number,8564,307
+Crown Heights North,Single Parents,2012,Number,12780,308
+Crown Heights South,Single Parents,2012,Number,8745,309
+Bay Ridge,Single Parents,2012,Number,3789,310
+Bensonhurst,Single Parents,2012,Number,4412,311
+Borough Park,Single Parents,2012,Number,4592,312
+Coney Island,Single Parents,2012,Number,4748,313
+Flatbush/Midwood,Single Parents,2012,Number,9497,314
+Sheepshead Bay,Single Parents,2012,Number,4791,315
+Brownsville,Single Parents,2012,Number,21397,316
+East Flatbush,Single Parents,2012,Number,12291,317
+Canarsie,Single Parents,2012,Number,15119,318
+Astoria,Single Parents,2012,Number,6973,401
+Sunnyside/Woodside,Single Parents,2012,Number,4755,402
+Jackson Heights,Single Parents,2012,Number,10984,403
+Elmhurst/Corona,Single Parents,2012,Number,8794,404
+Ridgewood/Glendale,Single Parents,2012,Number,9628,405
+Rego Park/Forest Hills,Single Parents,2012,Number,3158,406
+Flushing,Single Parents,2012,Number,7362,407
+Fresh Meadows/Briarwood,Single Parents,2012,Number,4654,408
+Woodhaven,Single Parents,2012,Number,8577,409
+Howard Beach,Single Parents,2012,Number,5511,410
+Bayside,Single Parents,2012,Number,2750,411
+Jamaica/St. Albans,Single Parents,2012,Number,18049,412
+Queens Village,Single Parents,2012,Number,9880,413
+The Rockaways,Single Parents,2012,Number,12124,414
+St. George,Single Parents,2012,Number,14563,501
+South Beach,Single Parents,2012,Number,4767,502
+Tottenville,Single Parents,2012,Number,4682,503
+Bronx,Single Parents,2012,Number,194696,36005
+Brooklyn,Single Parents,2012,Number,180215,36047
+Manhattan,Single Parents,2012,Number,82395,36061
+Queens,Single Parents,2012,Number,113199,36081
+Staten Island,Single Parents,2012,Number,24012,36085
+New York City,Single Parents,2012,Number,594517,3651000
+Battery Park/Tribeca,Single Parents,2013,Number,854.53361,101
+Greenwich Village,Single Parents,2013,Number,1261.46639,102
+Lower East Side,Single Parents,2013,Number,8098,103
+Chelsea/Clinton,Single Parents,2013,Number,1884.05231,104
+Midtown Business District,Single Parents,2013,Number,942.94769,105
+Murray Hill/Stuyvesant,Single Parents,2013,Number,2130,106
+Upper West Side,Single Parents,2013,Number,5676,107
+Upper East Side,Single Parents,2013,Number,3959,108
+Manhattanville,Single Parents,2013,Number,8631,109
+Central Harlem,Single Parents,2013,Number,13386,110
+East Harlem,Single Parents,2013,Number,14301,111
+Washington Heights,Single Parents,2013,Number,17182,112
+Mott Haven,Single Parents,2013,Number,17747.78149,201
+Hunts Point,Single Parents,2013,Number,10134.21851,202
+Morrisania,Single Parents,2013,Number,14455.79227,203
+Concourse/Highbridge,Single Parents,2013,Number,20163,204
+University Heights,Single Parents,2013,Number,22333,205
+East Tremont,Single Parents,2013,Number,15091.20773,206
+Bedford Park,Single Parents,2013,Number,16895,207
+Riverdale,Single Parents,2013,Number,8552,208
+Unionport/Soundview,Single Parents,2013,Number,26354,209
+Throgs Neck,Single Parents,2013,Number,9521,210
+Pelham Parkway,Single Parents,2013,Number,11964,211
+Williamsbridge,Single Parents,2013,Number,17602,212
+Williamsburg/Greenpoint,Single Parents,2013,Number,5841,301
+Fort Greene/Brooklyn Hts,Single Parents,2013,Number,6249,302
+Bedford Stuyvesant,Single Parents,2013,Number,13789,303
+Bushwick,Single Parents,2013,Number,14726,304
+East New York,Single Parents,2013,Number,20887,305
+Park Slope,Single Parents,2013,Number,4869,306
+Sunset Park,Single Parents,2013,Number,8850,307
+Crown Heights North,Single Parents,2013,Number,12921,308
+Crown Heights South,Single Parents,2013,Number,8986,309
+Bay Ridge,Single Parents,2013,Number,3800,310
+Bensonhurst,Single Parents,2013,Number,4678,311
+Borough Park,Single Parents,2013,Number,4662,312
+Coney Island,Single Parents,2013,Number,4805,313
+Flatbush/Midwood,Single Parents,2013,Number,9197,314
+Sheepshead Bay,Single Parents,2013,Number,5363,315
+Brownsville,Single Parents,2013,Number,21238,316
+East Flatbush,Single Parents,2013,Number,12423,317
+Canarsie,Single Parents,2013,Number,14416,318
+Astoria,Single Parents,2013,Number,6944,401
+Sunnyside/Woodside,Single Parents,2013,Number,4939,402
+Jackson Heights,Single Parents,2013,Number,11415,403
+Elmhurst/Corona,Single Parents,2013,Number,9525,404
+Ridgewood/Glendale,Single Parents,2013,Number,9089,405
+Rego Park/Forest Hills,Single Parents,2013,Number,3337,406
+Flushing,Single Parents,2013,Number,7397,407
+Fresh Meadows/Briarwood,Single Parents,2013,Number,4745,408
+Woodhaven,Single Parents,2013,Number,8288,409
+Howard Beach,Single Parents,2013,Number,5828,410
+Bayside,Single Parents,2013,Number,2453,411
+Jamaica/St. Albans,Single Parents,2013,Number,18393,412
+Queens Village,Single Parents,2013,Number,9467,413
+The Rockaways,Single Parents,2013,Number,11689,414
+St. George,Single Parents,2013,Number,15009,501
+South Beach,Single Parents,2013,Number,4594,502
+Tottenville,Single Parents,2013,Number,4736,503
+Bronx,Single Parents,2013,Number,190813,36005
+Brooklyn,Single Parents,2013,Number,177700,36047
+Manhattan,Single Parents,2013,Number,78306,36061
+Queens,Single Parents,2013,Number,113509,36081
+Staten Island,Single Parents,2013,Number,24339,36085
+New York City,Single Parents,2013,Number,584667,3651000
+Battery Park/Tribeca,Single Parents,2014,Number,820.61073,101
+Greenwich Village,Single Parents,2014,Number,1211.38927,102
+Lower East Side,Single Parents,2014,Number,8114,103
+Chelsea/Clinton,Single Parents,2014,Number,2031.33761,104
+Midtown Business District,Single Parents,2014,Number,1016.66239,105
+Murray Hill/Stuyvesant,Single Parents,2014,Number,2340,106
+Upper West Side,Single Parents,2014,Number,5313,107
+Upper East Side,Single Parents,2014,Number,4030,108
+Manhattanville,Single Parents,2014,Number,8232,109
+Central Harlem,Single Parents,2014,Number,13092,110
+East Harlem,Single Parents,2014,Number,13834,111
+Washington Heights,Single Parents,2014,Number,15454,112
+Mott Haven,Single Parents,2014,Number,17549.82007,201
+Hunts Point,Single Parents,2014,Number,10021.17993,202
+Morrisania,Single Parents,2014,Number,14542.38906,203
+Concourse/Highbridge,Single Parents,2014,Number,20670,204
+University Heights,Single Parents,2014,Number,21626,205
+East Tremont,Single Parents,2014,Number,15181.61094,206
+Bedford Park,Single Parents,2014,Number,16064,207
+Riverdale,Single Parents,2014,Number,9009,208
+Unionport/Soundview,Single Parents,2014,Number,24832,209
+Throgs Neck,Single Parents,2014,Number,9670,210
+Pelham Parkway,Single Parents,2014,Number,11899,211
+Williamsbridge,Single Parents,2014,Number,17071,212
+Williamsburg/Greenpoint,Single Parents,2014,Number,5213,301
+Fort Greene/Brooklyn Hts,Single Parents,2014,Number,5923,302
+Bedford Stuyvesant,Single Parents,2014,Number,13385,303
+Bushwick,Single Parents,2014,Number,14668,304
+East New York,Single Parents,2014,Number,21162,305
+Park Slope,Single Parents,2014,Number,4135,306
+Sunset Park,Single Parents,2014,Number,8933,307
+Crown Heights North,Single Parents,2014,Number,12332,308
+Crown Heights South,Single Parents,2014,Number,8474,309
+Bay Ridge,Single Parents,2014,Number,4296,310
+Bensonhurst,Single Parents,2014,Number,5743,311
+Borough Park,Single Parents,2014,Number,4938,312
+Coney Island,Single Parents,2014,Number,5191,313
+Flatbush/Midwood,Single Parents,2014,Number,8725,314
+Sheepshead Bay,Single Parents,2014,Number,5640,315
+Brownsville,Single Parents,2014,Number,21730,316
+East Flatbush,Single Parents,2014,Number,13050,317
+Canarsie,Single Parents,2014,Number,14410,318
+Astoria,Single Parents,2014,Number,6695,401
+Sunnyside/Woodside,Single Parents,2014,Number,4712,402
+Jackson Heights,Single Parents,2014,Number,12084,403
+Elmhurst/Corona,Single Parents,2014,Number,10254,404
+Ridgewood/Glendale,Single Parents,2014,Number,9874,405
+Rego Park/Forest Hills,Single Parents,2014,Number,3515,406
+Flushing,Single Parents,2014,Number,7080,407
+Fresh Meadows/Briarwood,Single Parents,2014,Number,4669,408
+Woodhaven,Single Parents,2014,Number,7883,409
+Howard Beach,Single Parents,2014,Number,6592,410
+Bayside,Single Parents,2014,Number,2744,411
+Jamaica/St. Albans,Single Parents,2014,Number,18512,412
+Queens Village,Single Parents,2014,Number,9812,413
+The Rockaways,Single Parents,2014,Number,11828,414
+St. George,Single Parents,2014,Number,14716,501
+South Beach,Single Parents,2014,Number,5210,502
+Tottenville,Single Parents,2014,Number,4639,503
+Bronx,Single Parents,2014,Number,188136,36005
+Brooklyn,Single Parents,2014,Number,177948,36047
+Manhattan,Single Parents,2014,Number,75489,36061
+Queens,Single Parents,2014,Number,116254,36081
+Staten Island,Single Parents,2014,Number,24565,36085
+New York City,Single Parents,2014,Number,582392,3651000
+Battery Park/Tribeca,Single Parents,2015,Number,798.39931,101
+Greenwich Village,Single Parents,2015,Number,1178.60069,102
+Lower East Side,Single Parents,2015,Number,8707,103
+Chelsea/Clinton,Single Parents,2015,Number,2579.82542,104
+Midtown Business District,Single Parents,2015,Number,1291.17458,105
+Murray Hill/Stuyvesant,Single Parents,2015,Number,1877,106
+Upper West Side,Single Parents,2015,Number,5086,107
+Upper East Side,Single Parents,2015,Number,4476,108
+Manhattanville,Single Parents,2015,Number,8494,109
+Central Harlem,Single Parents,2015,Number,13724,110
+East Harlem,Single Parents,2015,Number,13684,111
+Washington Heights,Single Parents,2015,Number,15244,112
+Mott Haven,Single Parents,2015,Number,17116.97841,201
+Hunts Point,Single Parents,2015,Number,9774.02159,202
+Morrisania,Single Parents,2015,Number,14346.69011,203
+Concourse/Highbridge,Single Parents,2015,Number,20615,204
+University Heights,Single Parents,2015,Number,21707,205
+East Tremont,Single Parents,2015,Number,14977.30989,206
+Bedford Park,Single Parents,2015,Number,16291,207
+Riverdale,Single Parents,2015,Number,8903,208
+Unionport/Soundview,Single Parents,2015,Number,23657,209
+Throgs Neck,Single Parents,2015,Number,8648,210
+Pelham Parkway,Single Parents,2015,Number,10880,211
+Williamsbridge,Single Parents,2015,Number,15529,212
+Williamsburg/Greenpoint,Single Parents,2015,Number,4674,301
+Fort Greene/Brooklyn Hts,Single Parents,2015,Number,6123,302
+Bedford Stuyvesant,Single Parents,2015,Number,13529,303
+Bushwick,Single Parents,2015,Number,13171,304
+East New York,Single Parents,2015,Number,19848,305
+Park Slope,Single Parents,2015,Number,4152,306
+Sunset Park,Single Parents,2015,Number,9038,307
+Crown Heights North,Single Parents,2015,Number,11574,308
+Crown Heights South,Single Parents,2015,Number,8209,309
+Bay Ridge,Single Parents,2015,Number,3959,310
+Bensonhurst,Single Parents,2015,Number,6342,311
+Borough Park,Single Parents,2015,Number,4509,312
+Coney Island,Single Parents,2015,Number,5780,313
+Flatbush/Midwood,Single Parents,2015,Number,9083,314
+Sheepshead Bay,Single Parents,2015,Number,5476,315
+Brownsville,Single Parents,2015,Number,20833,316
+East Flatbush,Single Parents,2015,Number,13264,317
+Canarsie,Single Parents,2015,Number,14533,318
+Astoria,Single Parents,2015,Number,6720,401
+Sunnyside/Woodside,Single Parents,2015,Number,4419,402
+Jackson Heights,Single Parents,2015,Number,12107,403
+Elmhurst/Corona,Single Parents,2015,Number,10477,404
+Ridgewood/Glendale,Single Parents,2015,Number,9991,405
+Rego Park/Forest Hills,Single Parents,2015,Number,3491,406
+Flushing,Single Parents,2015,Number,7596,407
+Fresh Meadows/Briarwood,Single Parents,2015,Number,4577,408
+Woodhaven,Single Parents,2015,Number,8448,409
+Howard Beach,Single Parents,2015,Number,6861,410
+Bayside,Single Parents,2015,Number,2743,411
+Jamaica/St. Albans,Single Parents,2015,Number,18031,412
+Queens Village,Single Parents,2015,Number,9262,413
+The Rockaways,Single Parents,2015,Number,11246,414
+St. George,Single Parents,2015,Number,14373,501
+South Beach,Single Parents,2015,Number,5547,502
+Tottenville,Single Parents,2015,Number,4509,503
+Bronx,Single Parents,2015,Number,182445,36005
+Brooklyn,Single Parents,2015,Number,174097,36047
+Manhattan,Single Parents,2015,Number,77140,36061
+Queens,Single Parents,2015,Number,115969,36081
+Staten Island,Single Parents,2015,Number,24429,36085
+New York City,Single Parents,2015,Number,574080,3651000
+Battery Park/Tribeca,Single Parents,2016,Number,905.418,101
+Greenwich Village,Single Parents,2016,Number,1336.582,102
+Lower East Side,Single Parents,2016,Number,7139,103
+Chelsea/Clinton,Single Parents,2016,Number,2219.943,104
+Midtown Business District,Single Parents,2016,Number,1111.057,105
+Murray Hill/Stuyvesant,Single Parents,2016,Number,2683,106
+Upper West Side,Single Parents,2016,Number,4640,107
+Upper East Side,Single Parents,2016,Number,4332,108
+Manhattanville,Single Parents,2016,Number,7938,109
+Central Harlem,Single Parents,2016,Number,14380,110
+East Harlem,Single Parents,2016,Number,13205,111
+Washington Heights,Single Parents,2016,Number,14633,112
+Mott Haven,Single Parents,2016,Number,17136.074,201
+Hunts Point,Single Parents,2016,Number,9784.926,202
+Morrisania,Single Parents,2016,Number,14305.104,203
+Concourse/Highbridge,Single Parents,2016,Number,20167,204
+University Heights,Single Parents,2016,Number,21812,205
+East Tremont,Single Parents,2016,Number,14933.896,206
+Bedford Park,Single Parents,2016,Number,16017,207
+Riverdale,Single Parents,2016,Number,9222,208
+Unionport/Soundview,Single Parents,2016,Number,22550,209
+Throgs Neck,Single Parents,2016,Number,9281,210
+Pelham Parkway,Single Parents,2016,Number,10753,211
+Williamsbridge,Single Parents,2016,Number,15001,212
+Williamsburg/Greenpoint,Single Parents,2016,Number,4977,301
+Fort Greene/Brooklyn Hts,Single Parents,2016,Number,6141,302
+Bedford Stuyvesant,Single Parents,2016,Number,12978,303
+Bushwick,Single Parents,2016,Number,12507,304
+East New York,Single Parents,2016,Number,19440,305
+Park Slope,Single Parents,2016,Number,4099,306
+Sunset Park,Single Parents,2016,Number,8012,307
+Crown Heights North,Single Parents,2016,Number,11285,308
+Crown Heights South,Single Parents,2016,Number,7895,309
+Bay Ridge,Single Parents,2016,Number,3788,310
+Bensonhurst,Single Parents,2016,Number,7222,311
+Borough Park,Single Parents,2016,Number,4839,312
+Coney Island,Single Parents,2016,Number,6468,313
+Flatbush/Midwood,Single Parents,2016,Number,9098,314
+Sheepshead Bay,Single Parents,2016,Number,5818,315
+Brownsville,Single Parents,2016,Number,19062,316
+East Flatbush,Single Parents,2016,Number,13344,317
+Canarsie,Single Parents,2016,Number,14123,318
+Astoria,Single Parents,2016,Number,6493,401
+Sunnyside/Woodside,Single Parents,2016,Number,4864,402
+Jackson Heights,Single Parents,2016,Number,12632,403
+Elmhurst/Corona,Single Parents,2016,Number,9463,404
+Ridgewood/Glendale,Single Parents,2016,Number,9655,405
+Rego Park/Forest Hills,Single Parents,2016,Number,3296,406
+Flushing,Single Parents,2016,Number,7153,407
+Fresh Meadows/Briarwood,Single Parents,2016,Number,4650,408
+Woodhaven,Single Parents,2016,Number,7868,409
+Howard Beach,Single Parents,2016,Number,6777,410
+Bayside,Single Parents,2016,Number,2691,411
+Jamaica/St. Albans,Single Parents,2016,Number,17583,412
+Queens Village,Single Parents,2016,Number,9200,413
+The Rockaways,Single Parents,2016,Number,11695,414
+St. George,Single Parents,2016,Number,13716,501
+South Beach,Single Parents,2016,Number,5329,502
+Tottenville,Single Parents,2016,Number,4919,503
+Bronx,Single Parents,2016,Number,180963,36005
+Brooklyn,Single Parents,2016,Number,171096,36047
+Manhattan,Single Parents,2016,Number,74523,36061
+Queens,Single Parents,2016,Number,114020,36081
+Staten Island,Single Parents,2016,Number,23964,36085
+New York City,Single Parents,2016,Number,564566,3651000
+Battery Park/Tribeca,Single Parents,2017,Number,1000.72509,101
+Greenwich Village,Single Parents,2017,Number,1477.27491,102
+Lower East Side,Single Parents,2017,Number,6637,103
+Chelsea/Clinton,Single Parents,2017,Number,2119.30892,104
+Midtown Business District,Single Parents,2017,Number,1060.69108,105
+Murray Hill/Stuyvesant,Single Parents,2017,Number,2267,106
+Upper West Side,Single Parents,2017,Number,4308,107
+Upper East Side,Single Parents,2017,Number,4292,108
+Manhattanville,Single Parents,2017,Number,7000,109
+Central Harlem,Single Parents,2017,Number,14042,110
+East Harlem,Single Parents,2017,Number,12926,111
+Washington Heights,Single Parents,2017,Number,13459,112
+Mott Haven,Single Parents,2017,Number,16478.53694,201
+Hunts Point,Single Parents,2017,Number,9409.46306,202
+Morrisania,Single Parents,2017,Number,14000.79221,203
+Concourse/Highbridge,Single Parents,2017,Number,20027,204
+University Heights,Single Parents,2017,Number,22345,205
+East Tremont,Single Parents,2017,Number,14616.20779,206
+Bedford Park,Single Parents,2017,Number,17000,207
+Riverdale,Single Parents,2017,Number,8835,208
+Unionport/Soundview,Single Parents,2017,Number,21945,209
+Throgs Neck,Single Parents,2017,Number,10090,210
+Pelham Parkway,Single Parents,2017,Number,10587,211
+Williamsbridge,Single Parents,2017,Number,14464,212
+Williamsburg/Greenpoint,Single Parents,2017,Number,4425,301
+Fort Greene/Brooklyn Hts,Single Parents,2017,Number,6304,302
+Bedford Stuyvesant,Single Parents,2017,Number,12210,303
+Bushwick,Single Parents,2017,Number,12251,304
+East New York,Single Parents,2017,Number,19082,305
+Park Slope,Single Parents,2017,Number,4048,306
+Sunset Park,Single Parents,2017,Number,7105,307
+Crown Heights North,Single Parents,2017,Number,11419,308
+Crown Heights South,Single Parents,2017,Number,8251,309
+Bay Ridge,Single Parents,2017,Number,3853,310
+Bensonhurst,Single Parents,2017,Number,7103,311
+Borough Park,Single Parents,2017,Number,4744,312
+Coney Island,Single Parents,2017,Number,7044,313
+Flatbush/Midwood,Single Parents,2017,Number,9142,314
+Sheepshead Bay,Single Parents,2017,Number,5752,315
+Brownsville,Single Parents,2017,Number,16767,316
+East Flatbush,Single Parents,2017,Number,12952,317
+Canarsie,Single Parents,2017,Number,14556,318
+Astoria,Single Parents,2017,Number,6815,401
+Sunnyside/Woodside,Single Parents,2017,Number,4339,402
+Jackson Heights,Single Parents,2017,Number,11652,403
+Elmhurst/Corona,Single Parents,2017,Number,8834,404
+Ridgewood/Glendale,Single Parents,2017,Number,9845,405
+Rego Park/Forest Hills,Single Parents,2017,Number,3222,406
+Flushing,Single Parents,2017,Number,6797,407
+Fresh Meadows/Briarwood,Single Parents,2017,Number,5219,408
+Woodhaven,Single Parents,2017,Number,7845,409
+Howard Beach,Single Parents,2017,Number,6230,410
+Bayside,Single Parents,2017,Number,3053,411
+Jamaica/St. Albans,Single Parents,2017,Number,17070,412
+Queens Village,Single Parents,2017,Number,8958,413
+The Rockaways,Single Parents,2017,Number,11083,414
+St. George,Single Parents,2017,Number,13517,501
+South Beach,Single Parents,2017,Number,5043,502
+Tottenville,Single Parents,2017,Number,4819,503
+Bronx,Single Parents,2017,Number,179798,36005
+Brooklyn,Single Parents,2017,Number,167008,36047
+Manhattan,Single Parents,2017,Number,70589,36061
+Queens,Single Parents,2017,Number,110962,36081
+Staten Island,Single Parents,2017,Number,23379,36085
+New York City,Single Parents,2017,Number,551736,3651000
+Battery Park/Tribeca,Married Couples,2012,Percent,0.81264,101
+Greenwich Village,Married Couples,2012,Percent,0.81264,102
+Lower East Side,Married Couples,2012,Percent,0.47206,103
+Chelsea/Clinton,Married Couples,2012,Percent,0.63397,104
+Midtown Business District,Married Couples,2012,Percent,0.63397,105
+Murray Hill/Stuyvesant,Married Couples,2012,Percent,0.77692,106
+Upper West Side,Married Couples,2012,Percent,0.7309,107
+Upper East Side,Married Couples,2012,Percent,0.86023,108
+Manhattanville,Married Couples,2012,Percent,0.40868,109
+Central Harlem,Married Couples,2012,Percent,0.32158,110
+East Harlem,Married Couples,2012,Percent,0.30146,111
+Washington Heights,Married Couples,2012,Percent,0.3161,112
+Mott Haven,Married Couples,2012,Percent,0.20697,201
+Hunts Point,Married Couples,2012,Percent,0.20697,202
+Morrisania,Married Couples,2012,Percent,0.23468,203
+Concourse/Highbridge,Married Couples,2012,Percent,0.31539,204
+University Heights,Married Couples,2012,Percent,0.23994,205
+East Tremont,Married Couples,2012,Percent,0.23468,206
+Bedford Park,Married Couples,2012,Percent,0.32875,207
+Riverdale,Married Couples,2012,Percent,0.5005,208
+Unionport/Soundview,Married Couples,2012,Percent,0.30911,209
+Throgs Neck,Married Couples,2012,Percent,0.49175,210
+Pelham Parkway,Married Couples,2012,Percent,0.49475,211
+Williamsbridge,Married Couples,2012,Percent,0.34815,212
+Williamsburg/Greenpoint,Married Couples,2012,Percent,0.74084,301
+Fort Greene/Brooklyn Hts,Married Couples,2012,Percent,0.5202,302
+Bedford Stuyvesant,Married Couples,2012,Percent,0.4024,303
+Bushwick,Married Couples,2012,Percent,0.34318,304
+East New York,Married Couples,2012,Percent,0.32948,305
+Park Slope,Married Couples,2012,Percent,0.68193,306
+Sunset Park,Married Couples,2012,Percent,0.61266,307
+Crown Heights North,Married Couples,2012,Percent,0.31346,308
+Crown Heights South,Married Couples,2012,Percent,0.48368,309
+Bay Ridge,Married Couples,2012,Percent,0.76385,310
+Bensonhurst,Married Couples,2012,Percent,0.79156,311
+Borough Park,Married Couples,2012,Percent,0.87065,312
+Coney Island,Married Couples,2012,Percent,0.61655,313
+Flatbush/Midwood,Married Couples,2012,Percent,0.6346,314
+Sheepshead Bay,Married Couples,2012,Percent,0.76541,315
+Brownsville,Married Couples,2012,Percent,0.22111,316
+East Flatbush,Married Couples,2012,Percent,0.34995,317
+Canarsie,Married Couples,2012,Percent,0.54721,318
+Astoria,Married Couples,2012,Percent,0.63513,401
+Sunnyside/Woodside,Married Couples,2012,Percent,0.65708,402
+Jackson Heights,Married Couples,2012,Percent,0.51791,403
+Elmhurst/Corona,Married Couples,2012,Percent,0.54546,404
+Ridgewood/Glendale,Married Couples,2012,Percent,0.63449,405
+Rego Park/Forest Hills,Married Couples,2012,Percent,0.79173,406
+Flushing,Married Couples,2012,Percent,0.73343,407
+Fresh Meadows/Briarwood,Married Couples,2012,Percent,0.75517,408
+Woodhaven,Married Couples,2012,Percent,0.60956,409
+Howard Beach,Married Couples,2012,Percent,0.63098,410
+Bayside,Married Couples,2012,Percent,0.81,411
+Jamaica/St. Albans,Married Couples,2012,Percent,0.41871,412
+Queens Village,Married Couples,2012,Percent,0.54024,413
+The Rockaways,Married Couples,2012,Percent,0.49229,414
+St. George,Married Couples,2012,Percent,0.56164,501
+South Beach,Married Couples,2012,Percent,0.74773,502
+Tottenville,Married Couples,2012,Percent,0.82015,503
+Bronx,Married Couples,2012,Percent,0.32377,36005
+Brooklyn,Married Couples,2012,Percent,0.55935,36047
+Manhattan,Married Couples,2012,Percent,0.53083,36061
+Queens,Married Couples,2012,Percent,0.60816,36081
+Staten Island,Married Couples,2012,Percent,0.69742,36085
+New York City,Married Couples,2012,Percent,0.52805,3651000
+Battery Park/Tribeca,Married Couples,2013,Percent,0.83695,101
+Greenwich Village,Married Couples,2013,Percent,0.83695,102
+Lower East Side,Married Couples,2013,Percent,0.45844,103
+Chelsea/Clinton,Married Couples,2013,Percent,0.69025,104
+Midtown Business District,Married Couples,2013,Percent,0.69025,105
+Murray Hill/Stuyvesant,Married Couples,2013,Percent,0.77301,106
+Upper West Side,Married Couples,2013,Percent,0.76033,107
+Upper East Side,Married Couples,2013,Percent,0.85475,108
+Manhattanville,Married Couples,2013,Percent,0.40801,109
+Central Harlem,Married Couples,2013,Percent,0.33826,110
+East Harlem,Married Couples,2013,Percent,0.30892,111
+Washington Heights,Married Couples,2013,Percent,0.33839,112
+Mott Haven,Married Couples,2013,Percent,0.2254,201
+Hunts Point,Married Couples,2013,Percent,0.2254,202
+Morrisania,Married Couples,2013,Percent,0.24425,203
+Concourse/Highbridge,Married Couples,2013,Percent,0.31175,204
+University Heights,Married Couples,2013,Percent,0.2395,205
+East Tremont,Married Couples,2013,Percent,0.24425,206
+Bedford Park,Married Couples,2013,Percent,0.32747,207
+Riverdale,Married Couples,2013,Percent,0.50828,208
+Unionport/Soundview,Married Couples,2013,Percent,0.30515,209
+Throgs Neck,Married Couples,2013,Percent,0.47513,210
+Pelham Parkway,Married Couples,2013,Percent,0.48372,211
+Williamsbridge,Married Couples,2013,Percent,0.35631,212
+Williamsburg/Greenpoint,Married Couples,2013,Percent,0.73916,301
+Fort Greene/Brooklyn Hts,Married Couples,2013,Percent,0.5657,302
+Bedford Stuyvesant,Married Couples,2013,Percent,0.43602,303
+Bushwick,Married Couples,2013,Percent,0.3477,304
+East New York,Married Couples,2013,Percent,0.33695,305
+Park Slope,Married Couples,2013,Percent,0.69711,306
+Sunset Park,Married Couples,2013,Percent,0.60562,307
+Crown Heights North,Married Couples,2013,Percent,0.32356,308
+Crown Heights South,Married Couples,2013,Percent,0.47277,309
+Bay Ridge,Married Couples,2013,Percent,0.76281,310
+Bensonhurst,Married Couples,2013,Percent,0.77223,311
+Borough Park,Married Couples,2013,Percent,0.87352,312
+Coney Island,Married Couples,2013,Percent,0.6196,313
+Flatbush/Midwood,Married Couples,2013,Percent,0.63058,314
+Sheepshead Bay,Married Couples,2013,Percent,0.77509,315
+Brownsville,Married Couples,2013,Percent,0.21623,316
+East Flatbush,Married Couples,2013,Percent,0.33037,317
+Canarsie,Married Couples,2013,Percent,0.55012,318
+Astoria,Married Couples,2013,Percent,0.63957,401
+Sunnyside/Woodside,Married Couples,2013,Percent,0.66502,402
+Jackson Heights,Married Couples,2013,Percent,0.51064,403
+Elmhurst/Corona,Married Couples,2013,Percent,0.53205,404
+Ridgewood/Glendale,Married Couples,2013,Percent,0.63982,405
+Rego Park/Forest Hills,Married Couples,2013,Percent,0.76218,406
+Flushing,Married Couples,2013,Percent,0.72733,407
+Fresh Meadows/Briarwood,Married Couples,2013,Percent,0.74838,408
+Woodhaven,Married Couples,2013,Percent,0.61418,409
+Howard Beach,Married Couples,2013,Percent,0.61462,410
+Bayside,Married Couples,2013,Percent,0.8231,411
+Jamaica/St. Albans,Married Couples,2013,Percent,0.42299,412
+Queens Village,Married Couples,2013,Percent,0.54648,413
+The Rockaways,Married Couples,2013,Percent,0.49836,414
+St. George,Married Couples,2013,Percent,0.53992,501
+South Beach,Married Couples,2013,Percent,0.75603,502
+Tottenville,Married Couples,2013,Percent,0.80365,503
+Bronx,Married Couples,2013,Percent,0.32603,36005
+Brooklyn,Married Couples,2013,Percent,0.56349,36047
+Manhattan,Married Couples,2013,Percent,0.54669,36061
+Queens,Married Couples,2013,Percent,0.60638,36081
+Staten Island,Married Couples,2013,Percent,0.68281,36085
+New York City,Married Couples,2013,Percent,0.53108,3651000
+Battery Park/Tribeca,Married Couples,2014,Percent,0.84728,101
+Greenwich Village,Married Couples,2014,Percent,0.84728,102
+Lower East Side,Married Couples,2014,Percent,0.4554,103
+Chelsea/Clinton,Married Couples,2014,Percent,0.70339,104
+Midtown Business District,Married Couples,2014,Percent,0.70339,105
+Murray Hill/Stuyvesant,Married Couples,2014,Percent,0.76407,106
+Upper West Side,Married Couples,2014,Percent,0.7774,107
+Upper East Side,Married Couples,2014,Percent,0.85541,108
+Manhattanville,Married Couples,2014,Percent,0.40922,109
+Central Harlem,Married Couples,2014,Percent,0.33488,110
+East Harlem,Married Couples,2014,Percent,0.31563,111
+Washington Heights,Married Couples,2014,Percent,0.35719,112
+Mott Haven,Married Couples,2014,Percent,0.24287,201
+Hunts Point,Married Couples,2014,Percent,0.24287,202
+Morrisania,Married Couples,2014,Percent,0.24704,203
+Concourse/Highbridge,Married Couples,2014,Percent,0.31079,204
+University Heights,Married Couples,2014,Percent,0.24505,205
+East Tremont,Married Couples,2014,Percent,0.24704,206
+Bedford Park,Married Couples,2014,Percent,0.34454,207
+Riverdale,Married Couples,2014,Percent,0.50524,208
+Unionport/Soundview,Married Couples,2014,Percent,0.30224,209
+Throgs Neck,Married Couples,2014,Percent,0.4949,210
+Pelham Parkway,Married Couples,2014,Percent,0.494,211
+Williamsbridge,Married Couples,2014,Percent,0.3525,212
+Williamsburg/Greenpoint,Married Couples,2014,Percent,0.7646,301
+Fort Greene/Brooklyn Hts,Married Couples,2014,Percent,0.58647,302
+Bedford Stuyvesant,Married Couples,2014,Percent,0.45169,303
+Bushwick,Married Couples,2014,Percent,0.3292,304
+East New York,Married Couples,2014,Percent,0.32434,305
+Park Slope,Married Couples,2014,Percent,0.73337,306
+Sunset Park,Married Couples,2014,Percent,0.5977,307
+Crown Heights North,Married Couples,2014,Percent,0.3171,308
+Crown Heights South,Married Couples,2014,Percent,0.45906,309
+Bay Ridge,Married Couples,2014,Percent,0.73934,310
+Bensonhurst,Married Couples,2014,Percent,0.74226,311
+Borough Park,Married Couples,2014,Percent,0.86733,312
+Coney Island,Married Couples,2014,Percent,0.60537,313
+Flatbush/Midwood,Married Couples,2014,Percent,0.64156,314
+Sheepshead Bay,Married Couples,2014,Percent,0.76613,315
+Brownsville,Married Couples,2014,Percent,0.19339,316
+East Flatbush,Married Couples,2014,Percent,0.32355,317
+Canarsie,Married Couples,2014,Percent,0.54166,318
+Astoria,Married Couples,2014,Percent,0.64731,401
+Sunnyside/Woodside,Married Couples,2014,Percent,0.68911,402
+Jackson Heights,Married Couples,2014,Percent,0.50218,403
+Elmhurst/Corona,Married Couples,2014,Percent,0.51489,404
+Ridgewood/Glendale,Married Couples,2014,Percent,0.62227,405
+Rego Park/Forest Hills,Married Couples,2014,Percent,0.74113,406
+Flushing,Married Couples,2014,Percent,0.72655,407
+Fresh Meadows/Briarwood,Married Couples,2014,Percent,0.75657,408
+Woodhaven,Married Couples,2014,Percent,0.61323,409
+Howard Beach,Married Couples,2014,Percent,0.58607,410
+Bayside,Married Couples,2014,Percent,0.81568,411
+Jamaica/St. Albans,Married Couples,2014,Percent,0.40433,412
+Queens Village,Married Couples,2014,Percent,0.52997,413
+The Rockaways,Married Couples,2014,Percent,0.49622,414
+St. George,Married Couples,2014,Percent,0.5502,501
+South Beach,Married Couples,2014,Percent,0.72649,502
+Tottenville,Married Couples,2014,Percent,0.79688,503
+Bronx,Married Couples,2014,Percent,0.33261,36005
+Brooklyn,Married Couples,2014,Percent,0.56251,36047
+Manhattan,Married Couples,2014,Percent,0.55741,36061
+Queens,Married Couples,2014,Percent,0.59709,36081
+Staten Island,Married Couples,2014,Percent,0.67827,36085
+New York City,Married Couples,2014,Percent,0.53089,3651000
+Battery Park/Tribeca,Married Couples,2015,Percent,0.85989,101
+Greenwich Village,Married Couples,2015,Percent,0.85989,102
+Lower East Side,Married Couples,2015,Percent,0.42527,103
+Chelsea/Clinton,Married Couples,2015,Percent,0.66439,104
+Midtown Business District,Married Couples,2015,Percent,0.66439,105
+Murray Hill/Stuyvesant,Married Couples,2015,Percent,0.81301,106
+Upper West Side,Married Couples,2015,Percent,0.77208,107
+Upper East Side,Married Couples,2015,Percent,0.8477,108
+Manhattanville,Married Couples,2015,Percent,0.40218,109
+Central Harlem,Married Couples,2015,Percent,0.33472,110
+East Harlem,Married Couples,2015,Percent,0.31619,111
+Washington Heights,Married Couples,2015,Percent,0.34481,112
+Mott Haven,Married Couples,2015,Percent,0.25061,201
+Hunts Point,Married Couples,2015,Percent,0.25061,202
+Morrisania,Married Couples,2015,Percent,0.25982,203
+Concourse/Highbridge,Married Couples,2015,Percent,0.31337,204
+University Heights,Married Couples,2015,Percent,0.25791,205
+East Tremont,Married Couples,2015,Percent,0.25982,206
+Bedford Park,Married Couples,2015,Percent,0.35322,207
+Riverdale,Married Couples,2015,Percent,0.51685,208
+Unionport/Soundview,Married Couples,2015,Percent,0.3261,209
+Throgs Neck,Married Couples,2015,Percent,0.5076,210
+Pelham Parkway,Married Couples,2015,Percent,0.5005,211
+Williamsbridge,Married Couples,2015,Percent,0.37256,212
+Williamsburg/Greenpoint,Married Couples,2015,Percent,0.77551,301
+Fort Greene/Brooklyn Hts,Married Couples,2015,Percent,0.59022,302
+Bedford Stuyvesant,Married Couples,2015,Percent,0.47314,303
+Bushwick,Married Couples,2015,Percent,0.3628,304
+East New York,Married Couples,2015,Percent,0.34258,305
+Park Slope,Married Couples,2015,Percent,0.73953,306
+Sunset Park,Married Couples,2015,Percent,0.60113,307
+Crown Heights North,Married Couples,2015,Percent,0.33103,308
+Crown Heights South,Married Couples,2015,Percent,0.48663,309
+Bay Ridge,Married Couples,2015,Percent,0.7404,310
+Bensonhurst,Married Couples,2015,Percent,0.72777,311
+Borough Park,Married Couples,2015,Percent,0.86794,312
+Coney Island,Married Couples,2015,Percent,0.56171,313
+Flatbush/Midwood,Married Couples,2015,Percent,0.64876,314
+Sheepshead Bay,Married Couples,2015,Percent,0.77026,315
+Brownsville,Married Couples,2015,Percent,0.19773,316
+East Flatbush,Married Couples,2015,Percent,0.31418,317
+Canarsie,Married Couples,2015,Percent,0.52764,318
+Astoria,Married Couples,2015,Percent,0.64139,401
+Sunnyside/Woodside,Married Couples,2015,Percent,0.70201,402
+Jackson Heights,Married Couples,2015,Percent,0.50751,403
+Elmhurst/Corona,Married Couples,2015,Percent,0.51981,404
+Ridgewood/Glendale,Married Couples,2015,Percent,0.62975,405
+Rego Park/Forest Hills,Married Couples,2015,Percent,0.7446,406
+Flushing,Married Couples,2015,Percent,0.72012,407
+Fresh Meadows/Briarwood,Married Couples,2015,Percent,0.76086,408
+Woodhaven,Married Couples,2015,Percent,0.60144,409
+Howard Beach,Married Couples,2015,Percent,0.58167,410
+Bayside,Married Couples,2015,Percent,0.8114,411
+Jamaica/St. Albans,Married Couples,2015,Percent,0.42411,412
+Queens Village,Married Couples,2015,Percent,0.53812,413
+The Rockaways,Married Couples,2015,Percent,0.50407,414
+St. George,Married Couples,2015,Percent,0.54321,501
+South Beach,Married Couples,2015,Percent,0.70835,502
+Tottenville,Married Couples,2015,Percent,0.79696,503
+Bronx,Married Couples,2015,Percent,0.34459,36005
+Brooklyn,Married Couples,2015,Percent,0.56957,36047
+Manhattan,Married Couples,2015,Percent,0.55388,36061
+Queens,Married Couples,2015,Percent,0.60229,36081
+Staten Island,Married Couples,2015,Percent,0.67111,36085
+New York City,Married Couples,2015,Percent,0.53633,3651000
+Battery Park/Tribeca,Married Couples,2016,Percent,0.85529,101
+Greenwich Village,Married Couples,2016,Percent,0.85529,102
+Lower East Side,Married Couples,2016,Percent,0.42937,103
+Chelsea/Clinton,Married Couples,2016,Percent,0.68474,104
+Midtown Business District,Married Couples,2016,Percent,0.68474,105
+Murray Hill/Stuyvesant,Married Couples,2016,Percent,0.7384,106
+Upper West Side,Married Couples,2016,Percent,0.79049,107
+Upper East Side,Married Couples,2016,Percent,0.84982,108
+Manhattanville,Married Couples,2016,Percent,0.41364,109
+Central Harlem,Married Couples,2016,Percent,0.31793,110
+East Harlem,Married Couples,2016,Percent,0.32828,111
+Washington Heights,Married Couples,2016,Percent,0.36388,112
+Mott Haven,Married Couples,2016,Percent,0.26523,201
+Hunts Point,Married Couples,2016,Percent,0.26523,202
+Morrisania,Married Couples,2016,Percent,0.26211,203
+Concourse/Highbridge,Married Couples,2016,Percent,0.32284,204
+University Heights,Married Couples,2016,Percent,0.27389,205
+East Tremont,Married Couples,2016,Percent,0.26211,206
+Bedford Park,Married Couples,2016,Percent,0.35892,207
+Riverdale,Married Couples,2016,Percent,0.51213,208
+Unionport/Soundview,Married Couples,2016,Percent,0.35283,209
+Throgs Neck,Married Couples,2016,Percent,0.46762,210
+Pelham Parkway,Married Couples,2016,Percent,0.49343,211
+Williamsbridge,Married Couples,2016,Percent,0.36514,212
+Williamsburg/Greenpoint,Married Couples,2016,Percent,0.76766,301
+Fort Greene/Brooklyn Hts,Married Couples,2016,Percent,0.61107,302
+Bedford Stuyvesant,Married Couples,2016,Percent,0.49523,303
+Bushwick,Married Couples,2016,Percent,0.368,304
+East New York,Married Couples,2016,Percent,0.33841,305
+Park Slope,Married Couples,2016,Percent,0.75287,306
+Sunset Park,Married Couples,2016,Percent,0.63275,307
+Crown Heights North,Married Couples,2016,Percent,0.36188,308
+Crown Heights South,Married Couples,2016,Percent,0.50383,309
+Bay Ridge,Married Couples,2016,Percent,0.72832,310
+Bensonhurst,Married Couples,2016,Percent,0.70748,311
+Borough Park,Married Couples,2016,Percent,0.8594,312
+Coney Island,Married Couples,2016,Percent,0.55157,313
+Flatbush/Midwood,Married Couples,2016,Percent,0.64057,314
+Sheepshead Bay,Married Couples,2016,Percent,0.75766,315
+Brownsville,Married Couples,2016,Percent,0.21311,316
+East Flatbush,Married Couples,2016,Percent,0.3172,317
+Canarsie,Married Couples,2016,Percent,0.52749,318
+Astoria,Married Couples,2016,Percent,0.62428,401
+Sunnyside/Woodside,Married Couples,2016,Percent,0.68658,402
+Jackson Heights,Married Couples,2016,Percent,0.49379,403
+Elmhurst/Corona,Married Couples,2016,Percent,0.55615,404
+Ridgewood/Glendale,Married Couples,2016,Percent,0.62987,405
+Rego Park/Forest Hills,Married Couples,2016,Percent,0.74811,406
+Flushing,Married Couples,2016,Percent,0.72619,407
+Fresh Meadows/Briarwood,Married Couples,2016,Percent,0.75411,408
+Woodhaven,Married Couples,2016,Percent,0.61376,409
+Howard Beach,Married Couples,2016,Percent,0.58163,410
+Bayside,Married Couples,2016,Percent,0.81971,411
+Jamaica/St. Albans,Married Couples,2016,Percent,0.43152,412
+Queens Village,Married Couples,2016,Percent,0.53775,413
+The Rockaways,Married Couples,2016,Percent,0.5046,414
+St. George,Married Couples,2016,Percent,0.54766,501
+South Beach,Married Couples,2016,Percent,0.71452,502
+Tottenville,Married Couples,2016,Percent,0.78368,503
+Bronx,Married Couples,2016,Percent,0.34846,36005
+Brooklyn,Married Couples,2016,Percent,0.57459,36047
+Manhattan,Married Couples,2016,Percent,0.55787,36061
+Queens,Married Couples,2016,Percent,0.60376,36081
+Staten Island,Married Couples,2016,Percent,0.67194,36085
+New York City,Married Couples,2016,Percent,0.53989,3651000
+Battery Park/Tribeca,Married Couples,2017,Percent,0.85465,101
+Greenwich Village,Married Couples,2017,Percent,0.85465,102
+Lower East Side,Married Couples,2017,Percent,0.42198,103
+Chelsea/Clinton,Married Couples,2017,Percent,0.69295,104
+Midtown Business District,Married Couples,2017,Percent,0.69295,105
+Murray Hill/Stuyvesant,Married Couples,2017,Percent,0.76462,106
+Upper West Side,Married Couples,2017,Percent,0.81502,107
+Upper East Side,Married Couples,2017,Percent,0.85241,108
+Manhattanville,Married Couples,2017,Percent,0.43355,109
+Central Harlem,Married Couples,2017,Percent,0.30749,110
+East Harlem,Married Couples,2017,Percent,0.33131,111
+Washington Heights,Married Couples,2017,Percent,0.38204,112
+Mott Haven,Married Couples,2017,Percent,0.26247,201
+Hunts Point,Married Couples,2017,Percent,0.26247,202
+Morrisania,Married Couples,2017,Percent,0.27547,203
+Concourse/Highbridge,Married Couples,2017,Percent,0.31941,204
+University Heights,Married Couples,2017,Percent,0.28155,205
+East Tremont,Married Couples,2017,Percent,0.27547,206
+Bedford Park,Married Couples,2017,Percent,0.34289,207
+Riverdale,Married Couples,2017,Percent,0.50622,208
+Unionport/Soundview,Married Couples,2017,Percent,0.35525,209
+Throgs Neck,Married Couples,2017,Percent,0.44079,210
+Pelham Parkway,Married Couples,2017,Percent,0.48096,211
+Williamsbridge,Married Couples,2017,Percent,0.37187,212
+Williamsburg/Greenpoint,Married Couples,2017,Percent,0.78036,301
+Fort Greene/Brooklyn Hts,Married Couples,2017,Percent,0.61554,302
+Bedford Stuyvesant,Married Couples,2017,Percent,0.51732,303
+Bushwick,Married Couples,2017,Percent,0.35424,304
+East New York,Married Couples,2017,Percent,0.34899,305
+Park Slope,Married Couples,2017,Percent,0.75617,306
+Sunset Park,Married Couples,2017,Percent,0.64075,307
+Crown Heights North,Married Couples,2017,Percent,0.36506,308
+Crown Heights South,Married Couples,2017,Percent,0.47596,309
+Bay Ridge,Married Couples,2017,Percent,0.71833,310
+Bensonhurst,Married Couples,2017,Percent,0.71123,311
+Borough Park,Married Couples,2017,Percent,0.86064,312
+Coney Island,Married Couples,2017,Percent,0.55039,313
+Flatbush/Midwood,Married Couples,2017,Percent,0.64018,314
+Sheepshead Bay,Married Couples,2017,Percent,0.7564,315
+Brownsville,Married Couples,2017,Percent,0.21165,316
+East Flatbush,Married Couples,2017,Percent,0.32721,317
+Canarsie,Married Couples,2017,Percent,0.52578,318
+Astoria,Married Couples,2017,Percent,0.60024,401
+Sunnyside/Woodside,Married Couples,2017,Percent,0.71697,402
+Jackson Heights,Married Couples,2017,Percent,0.518,403
+Elmhurst/Corona,Married Couples,2017,Percent,0.57214,404
+Ridgewood/Glendale,Married Couples,2017,Percent,0.63102,405
+Rego Park/Forest Hills,Married Couples,2017,Percent,0.74634,406
+Flushing,Married Couples,2017,Percent,0.73286,407
+Fresh Meadows/Briarwood,Married Couples,2017,Percent,0.73692,408
+Woodhaven,Married Couples,2017,Percent,0.60434,409
+Howard Beach,Married Couples,2017,Percent,0.59405,410
+Bayside,Married Couples,2017,Percent,0.79512,411
+Jamaica/St. Albans,Married Couples,2017,Percent,0.42896,412
+Queens Village,Married Couples,2017,Percent,0.54979,413
+The Rockaways,Married Couples,2017,Percent,0.51314,414
+St. George,Married Couples,2017,Percent,0.54269,501
+South Beach,Married Couples,2017,Percent,0.72173,502
+Tottenville,Married Couples,2017,Percent,0.78748,503
+Bronx,Married Couples,2017,Percent,0.34682,36005
+Brooklyn,Married Couples,2017,Percent,0.58003,36047
+Manhattan,Married Couples,2017,Percent,0.57001,36061
+Queens,Married Couples,2017,Percent,0.60675,36081
+Staten Island,Married Couples,2017,Percent,0.67475,36085
+New York City,Married Couples,2017,Percent,0.54404,3651000
+Battery Park/Tribeca,Single Parents,2012,Percent,0.14737,101
+Greenwich Village,Single Parents,2012,Percent,0.14737,102
+Lower East Side,Single Parents,2012,Percent,0.36406,103
+Chelsea/Clinton,Single Parents,2012,Percent,0.29502,104
+Midtown Business District,Single Parents,2012,Percent,0.29502,105
+Murray Hill/Stuyvesant,Single Parents,2012,Percent,0.18363,106
+Upper West Side,Single Parents,2012,Percent,0.21228,107
+Upper East Side,Single Parents,2012,Percent,0.12495,108
+Manhattanville,Single Parents,2012,Percent,0.42033,109
+Central Harlem,Single Parents,2012,Percent,0.51501,110
+East Harlem,Single Parents,2012,Percent,0.54493,111
+Washington Heights,Single Parents,2012,Percent,0.46917,112
+Mott Haven,Single Parents,2012,Percent,0.64926,201
+Hunts Point,Single Parents,2012,Percent,0.64926,202
+Morrisania,Single Parents,2012,Percent,0.6218,203
+Concourse/Highbridge,Single Parents,2012,Percent,0.53255,204
+University Heights,Single Parents,2012,Percent,0.58287,205
+East Tremont,Single Parents,2012,Percent,0.6218,206
+Bedford Park,Single Parents,2012,Percent,0.53203,207
+Riverdale,Single Parents,2012,Percent,0.39557,208
+Unionport/Soundview,Single Parents,2012,Percent,0.54827,209
+Throgs Neck,Single Parents,2012,Percent,0.39958,210
+Pelham Parkway,Single Parents,2012,Percent,0.41209,211
+Williamsbridge,Single Parents,2012,Percent,0.47764,212
+Williamsburg/Greenpoint,Single Parents,2012,Percent,0.19986,301
+Fort Greene/Brooklyn Hts,Single Parents,2012,Percent,0.34054,302
+Bedford Stuyvesant,Single Parents,2012,Percent,0.39561,303
+Bushwick,Single Parents,2012,Percent,0.46619,304
+East New York,Single Parents,2012,Percent,0.48148,305
+Park Slope,Single Parents,2012,Percent,0.24868,306
+Sunset Park,Single Parents,2012,Percent,0.24707,307
+Crown Heights North,Single Parents,2012,Percent,0.49951,308
+Crown Heights South,Single Parents,2012,Percent,0.33107,309
+Bay Ridge,Single Parents,2012,Percent,0.14401,310
+Bensonhurst,Single Parents,2012,Percent,0.12458,311
+Borough Park,Single Parents,2012,Percent,0.08275,312
+Coney Island,Single Parents,2012,Percent,0.26121,313
+Flatbush/Midwood,Single Parents,2012,Percent,0.24472,314
+Sheepshead Bay,Single Parents,2012,Percent,0.1612,315
+Brownsville,Single Parents,2012,Percent,0.60709,316
+East Flatbush,Single Parents,2012,Percent,0.39252,317
+Canarsie,Single Parents,2012,Percent,0.30089,318
+Astoria,Single Parents,2012,Percent,0.26583,401
+Sunnyside/Woodside,Single Parents,2012,Percent,0.21643,402
+Jackson Heights,Single Parents,2012,Percent,0.29104,403
+Elmhurst/Corona,Single Parents,2012,Percent,0.29437,404
+Ridgewood/Glendale,Single Parents,2012,Percent,0.26564,405
+Rego Park/Forest Hills,Single Parents,2012,Percent,0.16869,406
+Flushing,Single Parents,2012,Percent,0.16595,407
+Fresh Meadows/Briarwood,Single Parents,2012,Percent,0.14889,408
+Woodhaven,Single Parents,2012,Percent,0.24458,409
+Howard Beach,Single Parents,2012,Percent,0.19337,410
+Bayside,Single Parents,2012,Percent,0.11718,411
+Jamaica/St. Albans,Single Parents,2012,Percent,0.34425,412
+Queens Village,Single Parents,2012,Percent,0.22867,413
+The Rockaways,Single Parents,2012,Percent,0.38858,414
+St. George,Single Parents,2012,Percent,0.33378,501
+South Beach,Single Parents,2012,Percent,0.17146,502
+Tottenville,Single Parents,2012,Percent,0.12697,503
+Bronx,Single Parents,2012,Percent,0.53409,36005
+Brooklyn,Single Parents,2012,Percent,0.30335,36047
+Manhattan,Single Parents,2012,Percent,0.34867,36061
+Queens,Single Parents,2012,Percent,0.24594,36081
+Staten Island,Single Parents,2012,Percent,0.2217,36085
+New York City,Single Parents,2012,Percent,0.33712,3651000
+Battery Park/Tribeca,Single Parents,2013,Percent,0.12402,101
+Greenwich Village,Single Parents,2013,Percent,0.12402,102
+Lower East Side,Single Parents,2013,Percent,0.37458,103
+Chelsea/Clinton,Single Parents,2013,Percent,0.2448,104
+Midtown Business District,Single Parents,2013,Percent,0.2448,105
+Murray Hill/Stuyvesant,Single Parents,2013,Percent,0.18391,106
+Upper West Side,Single Parents,2013,Percent,0.18997,107
+Upper East Side,Single Parents,2013,Percent,0.1321,108
+Manhattanville,Single Parents,2013,Percent,0.4169,109
+Central Harlem,Single Parents,2013,Percent,0.4895,110
+East Harlem,Single Parents,2013,Percent,0.5505,111
+Washington Heights,Single Parents,2013,Percent,0.43696,112
+Mott Haven,Single Parents,2013,Percent,0.62884,201
+Hunts Point,Single Parents,2013,Percent,0.62884,202
+Morrisania,Single Parents,2013,Percent,0.61237,203
+Concourse/Highbridge,Single Parents,2013,Percent,0.52225,204
+University Heights,Single Parents,2013,Percent,0.58984,205
+East Tremont,Single Parents,2013,Percent,0.61237,206
+Bedford Park,Single Parents,2013,Percent,0.5037,207
+Riverdale,Single Parents,2013,Percent,0.39448,208
+Unionport/Soundview,Single Parents,2013,Percent,0.54947,209
+Throgs Neck,Single Parents,2013,Percent,0.41365,210
+Pelham Parkway,Single Parents,2013,Percent,0.40318,211
+Williamsbridge,Single Parents,2013,Percent,0.47274,212
+Williamsburg/Greenpoint,Single Parents,2013,Percent,0.18531,301
+Fort Greene/Brooklyn Hts,Single Parents,2013,Percent,0.29273,302
+Bedford Stuyvesant,Single Parents,2013,Percent,0.36335,303
+Bushwick,Single Parents,2013,Percent,0.44174,304
+East New York,Single Parents,2013,Percent,0.49329,305
+Park Slope,Single Parents,2013,Percent,0.23145,306
+Sunset Park,Single Parents,2013,Percent,0.25259,307
+Crown Heights North,Single Parents,2013,Percent,0.48954,308
+Crown Heights South,Single Parents,2013,Percent,0.34077,309
+Bay Ridge,Single Parents,2013,Percent,0.13905,310
+Bensonhurst,Single Parents,2013,Percent,0.13326,311
+Borough Park,Single Parents,2013,Percent,0.08258,312
+Coney Island,Single Parents,2013,Percent,0.25586,313
+Flatbush/Midwood,Single Parents,2013,Percent,0.24137,314
+Sheepshead Bay,Single Parents,2013,Percent,0.17158,315
+Brownsville,Single Parents,2013,Percent,0.60464,316
+East Flatbush,Single Parents,2013,Percent,0.40332,317
+Canarsie,Single Parents,2013,Percent,0.29736,318
+Astoria,Single Parents,2013,Percent,0.2653,401
+Sunnyside/Woodside,Single Parents,2013,Percent,0.21939,402
+Jackson Heights,Single Parents,2013,Percent,0.30018,403
+Elmhurst/Corona,Single Parents,2013,Percent,0.30929,404
+Ridgewood/Glendale,Single Parents,2013,Percent,0.25421,405
+Rego Park/Forest Hills,Single Parents,2013,Percent,0.17465,406
+Flushing,Single Parents,2013,Percent,0.17064,407
+Fresh Meadows/Briarwood,Single Parents,2013,Percent,0.14746,408
+Woodhaven,Single Parents,2013,Percent,0.23385,409
+Howard Beach,Single Parents,2013,Percent,0.20592,410
+Bayside,Single Parents,2013,Percent,0.10347,411
+Jamaica/St. Albans,Single Parents,2013,Percent,0.33806,412
+Queens Village,Single Parents,2013,Percent,0.2241,413
+The Rockaways,Single Parents,2013,Percent,0.37325,414
+St. George,Single Parents,2013,Percent,0.33768,501
+South Beach,Single Parents,2013,Percent,0.16736,502
+Tottenville,Single Parents,2013,Percent,0.13183,503
+Bronx,Single Parents,2013,Percent,0.52686,36005
+Brooklyn,Single Parents,2013,Percent,0.29777,36047
+Manhattan,Single Parents,2013,Percent,0.33321,36061
+Queens,Single Parents,2013,Percent,0.24499,36081
+Staten Island,Single Parents,2013,Percent,0.22573,36085
+New York City,Single Parents,2013,Percent,0.33124,3651000
+Battery Park/Tribeca,Single Parents,2014,Percent,0.11619,101
+Greenwich Village,Single Parents,2014,Percent,0.11619,102
+Lower East Side,Single Parents,2014,Percent,0.39206,103
+Chelsea/Clinton,Single Parents,2014,Percent,0.24474,104
+Midtown Business District,Single Parents,2014,Percent,0.24474,105
+Murray Hill/Stuyvesant,Single Parents,2014,Percent,0.19895,106
+Upper West Side,Single Parents,2014,Percent,0.17631,107
+Upper East Side,Single Parents,2014,Percent,0.1294,108
+Manhattanville,Single Parents,2014,Percent,0.39548,109
+Central Harlem,Single Parents,2014,Percent,0.47826,110
+East Harlem,Single Parents,2014,Percent,0.53999,111
+Washington Heights,Single Parents,2014,Percent,0.39937,112
+Mott Haven,Single Parents,2014,Percent,0.61518,201
+Hunts Point,Single Parents,2014,Percent,0.61518,202
+Morrisania,Single Parents,2014,Percent,0.59772,203
+Concourse/Highbridge,Single Parents,2014,Percent,0.51661,204
+University Heights,Single Parents,2014,Percent,0.58363,205
+East Tremont,Single Parents,2014,Percent,0.59772,206
+Bedford Park,Single Parents,2014,Percent,0.49559,207
+Riverdale,Single Parents,2014,Percent,0.39684,208
+Unionport/Soundview,Single Parents,2014,Percent,0.53613,209
+Throgs Neck,Single Parents,2014,Percent,0.40945,210
+Pelham Parkway,Single Parents,2014,Percent,0.38685,211
+Williamsbridge,Single Parents,2014,Percent,0.48702,212
+Williamsburg/Greenpoint,Single Parents,2014,Percent,0.16531,301
+Fort Greene/Brooklyn Hts,Single Parents,2014,Percent,0.27005,302
+Bedford Stuyvesant,Single Parents,2014,Percent,0.36148,303
+Bushwick,Single Parents,2014,Percent,0.46006,304
+East New York,Single Parents,2014,Percent,0.50435,305
+Park Slope,Single Parents,2014,Percent,0.19465,306
+Sunset Park,Single Parents,2014,Percent,0.24837,307
+Crown Heights North,Single Parents,2014,Percent,0.4773,308
+Crown Heights South,Single Parents,2014,Percent,0.33406,309
+Bay Ridge,Single Parents,2014,Percent,0.15659,310
+Bensonhurst,Single Parents,2014,Percent,0.15444,311
+Borough Park,Single Parents,2014,Percent,0.08317,312
+Coney Island,Single Parents,2014,Percent,0.26474,313
+Flatbush/Midwood,Single Parents,2014,Percent,0.22579,314
+Sheepshead Bay,Single Parents,2014,Percent,0.17824,315
+Brownsville,Single Parents,2014,Percent,0.61339,316
+East Flatbush,Single Parents,2014,Percent,0.43418,317
+Canarsie,Single Parents,2014,Percent,0.29888,318
+Astoria,Single Parents,2014,Percent,0.25494,401
+Sunnyside/Woodside,Single Parents,2014,Percent,0.20338,402
+Jackson Heights,Single Parents,2014,Percent,0.31605,403
+Elmhurst/Corona,Single Parents,2014,Percent,0.32977,404
+Ridgewood/Glendale,Single Parents,2014,Percent,0.27967,405
+Rego Park/Forest Hills,Single Parents,2014,Percent,0.18416,406
+Flushing,Single Parents,2014,Percent,0.16487,407
+Fresh Meadows/Briarwood,Single Parents,2014,Percent,0.1436,408
+Woodhaven,Single Parents,2014,Percent,0.22979,409
+Howard Beach,Single Parents,2014,Percent,0.22613,410
+Bayside,Single Parents,2014,Percent,0.11542,411
+Jamaica/St. Albans,Single Parents,2014,Percent,0.32083,412
+Queens Village,Single Parents,2014,Percent,0.24126,413
+The Rockaways,Single Parents,2014,Percent,0.36972,414
+St. George,Single Parents,2014,Percent,0.33653,501
+South Beach,Single Parents,2014,Percent,0.19308,502
+Tottenville,Single Parents,2014,Percent,0.12799,503
+Bronx,Single Parents,2014,Percent,0.51903,36005
+Brooklyn,Single Parents,2014,Percent,0.29642,36047
+Manhattan,Single Parents,2014,Percent,0.31962,36061
+Queens,Single Parents,2014,Percent,0.24936,36081
+Staten Island,Single Parents,2014,Percent,0.22967,36085
+New York City,Single Parents,2014,Percent,0.32864,3651000
+Battery Park/Tribeca,Single Parents,2015,Percent,0.1097,101
+Greenwich Village,Single Parents,2015,Percent,0.1097,102
+Lower East Side,Single Parents,2015,Percent,0.43006,103
+Chelsea/Clinton,Single Parents,2015,Percent,0.29346,104
+Midtown Business District,Single Parents,2015,Percent,0.29346,105
+Murray Hill/Stuyvesant,Single Parents,2015,Percent,0.16416,106
+Upper West Side,Single Parents,2015,Percent,0.17252,107
+Upper East Side,Single Parents,2015,Percent,0.13867,108
+Manhattanville,Single Parents,2015,Percent,0.4061,109
+Central Harlem,Single Parents,2015,Percent,0.48901,110
+East Harlem,Single Parents,2015,Percent,0.54085,111
+Washington Heights,Single Parents,2015,Percent,0.40281,112
+Mott Haven,Single Parents,2015,Percent,0.5993,201
+Hunts Point,Single Parents,2015,Percent,0.5993,202
+Morrisania,Single Parents,2015,Percent,0.58853,203
+Concourse/Highbridge,Single Parents,2015,Percent,0.52292,204
+University Heights,Single Parents,2015,Percent,0.57226,205
+East Tremont,Single Parents,2015,Percent,0.58853,206
+Bedford Park,Single Parents,2015,Percent,0.48416,207
+Riverdale,Single Parents,2015,Percent,0.37879,208
+Unionport/Soundview,Single Parents,2015,Percent,0.51869,209
+Throgs Neck,Single Parents,2015,Percent,0.36725,210
+Pelham Parkway,Single Parents,2015,Percent,0.36318,211
+Williamsbridge,Single Parents,2015,Percent,0.45558,212
+Williamsburg/Greenpoint,Single Parents,2015,Percent,0.14268,301
+Fort Greene/Brooklyn Hts,Single Parents,2015,Percent,0.27606,302
+Bedford Stuyvesant,Single Parents,2015,Percent,0.35905,303
+Bushwick,Single Parents,2015,Percent,0.42795,304
+East New York,Single Parents,2015,Percent,0.48227,305
+Park Slope,Single Parents,2015,Percent,0.19144,306
+Sunset Park,Single Parents,2015,Percent,0.24459,307
+Crown Heights North,Single Parents,2015,Percent,0.45644,308
+Crown Heights South,Single Parents,2015,Percent,0.31682,309
+Bay Ridge,Single Parents,2015,Percent,0.14796,310
+Bensonhurst,Single Parents,2015,Percent,0.1643,311
+Borough Park,Single Parents,2015,Percent,0.07638,312
+Coney Island,Single Parents,2015,Percent,0.28625,313
+Flatbush/Midwood,Single Parents,2015,Percent,0.22591,314
+Sheepshead Bay,Single Parents,2015,Percent,0.16803,315
+Brownsville,Single Parents,2015,Percent,0.60382,316
+East Flatbush,Single Parents,2015,Percent,0.44834,317
+Canarsie,Single Parents,2015,Percent,0.30571,318
+Astoria,Single Parents,2015,Percent,0.2596,401
+Sunnyside/Woodside,Single Parents,2015,Percent,0.18056,402
+Jackson Heights,Single Parents,2015,Percent,0.3104,403
+Elmhurst/Corona,Single Parents,2015,Percent,0.33697,404
+Ridgewood/Glendale,Single Parents,2015,Percent,0.27476,405
+Rego Park/Forest Hills,Single Parents,2015,Percent,0.17441,406
+Flushing,Single Parents,2015,Percent,0.1746,407
+Fresh Meadows/Briarwood,Single Parents,2015,Percent,0.13752,408
+Woodhaven,Single Parents,2015,Percent,0.23742,409
+Howard Beach,Single Parents,2015,Percent,0.23699,410
+Bayside,Single Parents,2015,Percent,0.11811,411
+Jamaica/St. Albans,Single Parents,2015,Percent,0.32333,412
+Queens Village,Single Parents,2015,Percent,0.23098,413
+The Rockaways,Single Parents,2015,Percent,0.34917,414
+St. George,Single Parents,2015,Percent,0.33376,501
+South Beach,Single Parents,2015,Percent,0.20192,502
+Tottenville,Single Parents,2015,Percent,0.12654,503
+Bronx,Single Parents,2015,Percent,0.50343,36005
+Brooklyn,Single Parents,2015,Percent,0.2885,36047
+Manhattan,Single Parents,2015,Percent,0.32579,36061
+Queens,Single Parents,2015,Percent,0.24703,36081
+Staten Island,Single Parents,2015,Percent,0.2301,36085
+New York City,Single Parents,2015,Percent,0.32283,3651000
+Battery Park/Tribeca,Single Parents,2016,Percent,0.11968,101
+Greenwich Village,Single Parents,2016,Percent,0.11968,102
+Lower East Side,Single Parents,2016,Percent,0.38316,103
+Chelsea/Clinton,Single Parents,2016,Percent,0.26878,104
+Midtown Business District,Single Parents,2016,Percent,0.26878,105
+Murray Hill/Stuyvesant,Single Parents,2016,Percent,0.21497,106
+Upper West Side,Single Parents,2016,Percent,0.15789,107
+Upper East Side,Single Parents,2016,Percent,0.13348,108
+Manhattanville,Single Parents,2016,Percent,0.39229,109
+Central Harlem,Single Parents,2016,Percent,0.49297,110
+East Harlem,Single Parents,2016,Percent,0.5173,111
+Washington Heights,Single Parents,2016,Percent,0.37662,112
+Mott Haven,Single Parents,2016,Percent,0.58535,201
+Hunts Point,Single Parents,2016,Percent,0.58535,202
+Morrisania,Single Parents,2016,Percent,0.59465,203
+Concourse/Highbridge,Single Parents,2016,Percent,0.51891,204
+University Heights,Single Parents,2016,Percent,0.56881,205
+East Tremont,Single Parents,2016,Percent,0.59465,206
+Bedford Park,Single Parents,2016,Percent,0.47044,207
+Riverdale,Single Parents,2016,Percent,0.3939,208
+Unionport/Soundview,Single Parents,2016,Percent,0.48466,209
+Throgs Neck,Single Parents,2016,Percent,0.40557,210
+Pelham Parkway,Single Parents,2016,Percent,0.3663,211
+Williamsbridge,Single Parents,2016,Percent,0.45071,212
+Williamsburg/Greenpoint,Single Parents,2016,Percent,0.14676,301
+Fort Greene/Brooklyn Hts,Single Parents,2016,Percent,0.26377,302
+Bedford Stuyvesant,Single Parents,2016,Percent,0.34799,303
+Bushwick,Single Parents,2016,Percent,0.42424,304
+East New York,Single Parents,2016,Percent,0.47936,305
+Park Slope,Single Parents,2016,Percent,0.17759,306
+Sunset Park,Single Parents,2016,Percent,0.21977,307
+Crown Heights North,Single Parents,2016,Percent,0.44912,308
+Crown Heights South,Single Parents,2016,Percent,0.31318,309
+Bay Ridge,Single Parents,2016,Percent,0.15096,310
+Bensonhurst,Single Parents,2016,Percent,0.18483,311
+Borough Park,Single Parents,2016,Percent,0.08207,312
+Coney Island,Single Parents,2016,Percent,0.30586,313
+Flatbush/Midwood,Single Parents,2016,Percent,0.22296,314
+Sheepshead Bay,Single Parents,2016,Percent,0.17437,315
+Brownsville,Single Parents,2016,Percent,0.58199,316
+East Flatbush,Single Parents,2016,Percent,0.43377,317
+Canarsie,Single Parents,2016,Percent,0.2927,318
+Astoria,Single Parents,2016,Percent,0.25977,401
+Sunnyside/Woodside,Single Parents,2016,Percent,0.19983,402
+Jackson Heights,Single Parents,2016,Percent,0.32229,403
+Elmhurst/Corona,Single Parents,2016,Percent,0.2985,404
+Ridgewood/Glendale,Single Parents,2016,Percent,0.26281,405
+Rego Park/Forest Hills,Single Parents,2016,Percent,0.16388,406
+Flushing,Single Parents,2016,Percent,0.16275,407
+Fresh Meadows/Briarwood,Single Parents,2016,Percent,0.14079,408
+Woodhaven,Single Parents,2016,Percent,0.22192,409
+Howard Beach,Single Parents,2016,Percent,0.23094,410
+Bayside,Single Parents,2016,Percent,0.11741,411
+Jamaica/St. Albans,Single Parents,2016,Percent,0.31439,412
+Queens Village,Single Parents,2016,Percent,0.23332,413
+The Rockaways,Single Parents,2016,Percent,0.34745,414
+St. George,Single Parents,2016,Percent,0.32876,501
+South Beach,Single Parents,2016,Percent,0.18877,502
+Tottenville,Single Parents,2016,Percent,0.13801,503
+Bronx,Single Parents,2016,Percent,0.50006,36005
+Brooklyn,Single Parents,2016,Percent,0.28299,36047
+Manhattan,Single Parents,2016,Percent,0.3133,36061
+Queens,Single Parents,2016,Percent,0.24218,36081
+Staten Island,Single Parents,2016,Percent,0.22695,36085
+New York City,Single Parents,2016,Percent,0.31704,3651000
+Battery Park/Tribeca,Single Parents,2017,Percent,0.12394,101
+Greenwich Village,Single Parents,2017,Percent,0.12394,102
+Lower East Side,Single Parents,2017,Percent,0.36147,103
+Chelsea/Clinton,Single Parents,2017,Percent,0.25845,104
+Midtown Business District,Single Parents,2017,Percent,0.25845,105
+Murray Hill/Stuyvesant,Single Parents,2017,Percent,0.17628,106
+Upper West Side,Single Parents,2017,Percent,0.14611,107
+Upper East Side,Single Parents,2017,Percent,0.13088,108
+Manhattanville,Single Parents,2017,Percent,0.34803,109
+Central Harlem,Single Parents,2017,Percent,0.50107,110
+East Harlem,Single Parents,2017,Percent,0.503,111
+Washington Heights,Single Parents,2017,Percent,0.34958,112
+Mott Haven,Single Parents,2017,Percent,0.58365,201
+Hunts Point,Single Parents,2017,Percent,0.58365,202
+Morrisania,Single Parents,2017,Percent,0.58393,203
+Concourse/Highbridge,Single Parents,2017,Percent,0.5143,204
+University Heights,Single Parents,2017,Percent,0.56587,205
+East Tremont,Single Parents,2017,Percent,0.58393,206
+Bedford Park,Single Parents,2017,Percent,0.48279,207
+Riverdale,Single Parents,2017,Percent,0.37498,208
+Unionport/Soundview,Single Parents,2017,Percent,0.47807,209
+Throgs Neck,Single Parents,2017,Percent,0.43544,210
+Pelham Parkway,Single Parents,2017,Percent,0.36612,211
+Williamsbridge,Single Parents,2017,Percent,0.44103,212
+Williamsburg/Greenpoint,Single Parents,2017,Percent,0.13037,301
+Fort Greene/Brooklyn Hts,Single Parents,2017,Percent,0.25847,302
+Bedford Stuyvesant,Single Parents,2017,Percent,0.32888,303
+Bushwick,Single Parents,2017,Percent,0.43494,304
+East New York,Single Parents,2017,Percent,0.46551,305
+Park Slope,Single Parents,2017,Percent,0.16301,306
+Sunset Park,Single Parents,2017,Percent,0.19816,307
+Crown Heights North,Single Parents,2017,Percent,0.45076,308
+Crown Heights South,Single Parents,2017,Percent,0.34582,309
+Bay Ridge,Single Parents,2017,Percent,0.15836,310
+Bensonhurst,Single Parents,2017,Percent,0.17736,311
+Borough Park,Single Parents,2017,Percent,0.07953,312
+Coney Island,Single Parents,2017,Percent,0.31203,313
+Flatbush/Midwood,Single Parents,2017,Percent,0.22042,314
+Sheepshead Bay,Single Parents,2017,Percent,0.16949,315
+Brownsville,Single Parents,2017,Percent,0.55896,316
+East Flatbush,Single Parents,2017,Percent,0.43004,317
+Canarsie,Single Parents,2017,Percent,0.29962,318
+Astoria,Single Parents,2017,Percent,0.26854,401
+Sunnyside/Woodside,Single Parents,2017,Percent,0.18929,402
+Jackson Heights,Single Parents,2017,Percent,0.29256,403
+Elmhurst/Corona,Single Parents,2017,Percent,0.27788,404
+Ridgewood/Glendale,Single Parents,2017,Percent,0.25582,405
+Rego Park/Forest Hills,Single Parents,2017,Percent,0.15666,406
+Flushing,Single Parents,2017,Percent,0.15453,407
+Fresh Meadows/Briarwood,Single Parents,2017,Percent,0.15456,408
+Woodhaven,Single Parents,2017,Percent,0.22923,409
+Howard Beach,Single Parents,2017,Percent,0.21489,410
+Bayside,Single Parents,2017,Percent,0.13557,411
+Jamaica/St. Albans,Single Parents,2017,Percent,0.3088,412
+Queens Village,Single Parents,2017,Percent,0.22213,413
+The Rockaways,Single Parents,2017,Percent,0.33032,414
+St. George,Single Parents,2017,Percent,0.33239,501
+South Beach,Single Parents,2017,Percent,0.17528,502
+Tottenville,Single Parents,2017,Percent,0.1352,503
+Bronx,Single Parents,2017,Percent,0.49757,36005
+Brooklyn,Single Parents,2017,Percent,0.27595,36047
+Manhattan,Single Parents,2017,Percent,0.29643,36061
+Queens,Single Parents,2017,Percent,0.23528,36081
+Staten Island,Single Parents,2017,Percent,0.22249,36085
+New York City,Single Parents,2017,Percent,0.30972,3651000
+Battery Park/Tribeca,Grandparents,2012,Number,170.82595,101
+Greenwich Village,Grandparents,2012,Number,252.17405,102
+Lower East Side,Grandparents,2012,Number,2909,103
+Chelsea/Clinton,Grandparents,2012,Number,303.9009,104
+Midtown Business District,Grandparents,2012,Number,152.0991,105
+Murray Hill/Stuyvesant,Grandparents,2012,Number,370,106
+Upper West Side,Grandparents,2012,Number,1131,107
+Upper East Side,Grandparents,2012,Number,330,108
+Manhattanville,Grandparents,2012,Number,2630,109
+Central Harlem,Grandparents,2012,Number,2938,110
+East Harlem,Grandparents,2012,Number,3033,111
+Washington Heights,Grandparents,2012,Number,5827,112
+Mott Haven,Grandparents,2012,Number,2768.91362,201
+Hunts Point,Grandparents,2012,Number,1581.08638,202
+Morrisania,Grandparents,2012,Number,2311.69386,203
+Concourse/Highbridge,Grandparents,2012,Number,4065,204
+University Heights,Grandparents,2012,Number,4434,205
+East Tremont,Grandparents,2012,Number,2413.30614,206
+Bedford Park,Grandparents,2012,Number,2981,207
+Riverdale,Grandparents,2012,Number,1718,208
+Unionport/Soundview,Grandparents,2012,Number,4032,209
+Throgs Neck,Grandparents,2012,Number,1662,210
+Pelham Parkway,Grandparents,2012,Number,1850,211
+Williamsbridge,Grandparents,2012,Number,4560,212
+Williamsburg/Greenpoint,Grandparents,2012,Number,1390,301
+Fort Greene/Brooklyn Hts,Grandparents,2012,Number,1893,302
+Bedford Stuyvesant,Grandparents,2012,Number,5315,303
+Bushwick,Grandparents,2012,Number,3834,304
+East New York,Grandparents,2012,Number,5753,305
+Park Slope,Grandparents,2012,Number,983,306
+Sunset Park,Grandparents,2012,Number,2687,307
+Crown Heights North,Grandparents,2012,Number,2766,308
+Crown Heights South,Grandparents,2012,Number,3394,309
+Bay Ridge,Grandparents,2012,Number,1686,310
+Bensonhurst,Grandparents,2012,Number,1839,311
+Borough Park,Grandparents,2012,Number,1289,312
+Coney Island,Grandparents,2012,Number,1718,313
+Flatbush/Midwood,Grandparents,2012,Number,2490,314
+Sheepshead Bay,Grandparents,2012,Number,1459,315
+Brownsville,Grandparents,2012,Number,4138,316
+East Flatbush,Grandparents,2012,Number,5649,317
+Canarsie,Grandparents,2012,Number,4928,318
+Astoria,Grandparents,2012,Number,1767,401
+Sunnyside/Woodside,Grandparents,2012,Number,1245,402
+Jackson Heights,Grandparents,2012,Number,2868,403
+Elmhurst/Corona,Grandparents,2012,Number,2464,404
+Ridgewood/Glendale,Grandparents,2012,Number,2201,405
+Rego Park/Forest Hills,Grandparents,2012,Number,489,406
+Flushing,Grandparents,2012,Number,2987,407
+Fresh Meadows/Briarwood,Grandparents,2012,Number,2048,408
+Woodhaven,Grandparents,2012,Number,2705,409
+Howard Beach,Grandparents,2012,Number,3413,410
+Bayside,Grandparents,2012,Number,1078,411
+Jamaica/St. Albans,Grandparents,2012,Number,7737,412
+Queens Village,Grandparents,2012,Number,6358,413
+The Rockaways,Grandparents,2012,Number,2311,414
+St. George,Grandparents,2012,Number,2885,501
+South Beach,Grandparents,2012,Number,1410,502
+Tottenville,Grandparents,2012,Number,1682,503
+Bronx,Grandparents,2012,Number,34377,36005
+Brooklyn,Grandparents,2012,Number,53211,36047
+Manhattan,Grandparents,2012,Number,20047,36061
+Queens,Grandparents,2012,Number,39671,36081
+Staten Island,Grandparents,2012,Number,5977,36085
+New York City,Grandparents,2012,Number,153283,3651000
+Battery Park/Tribeca,Grandparents,2012,Percent,0.02635,101
+Greenwich Village,Grandparents,2012,Percent,0.02635,102
+Lower East Side,Grandparents,2012,Percent,0.13672,103
+Chelsea/Clinton,Grandparents,2012,Percent,0.0413,104
+Midtown Business District,Grandparents,2012,Percent,0.0413,105
+Murray Hill/Stuyvesant,Grandparents,2012,Percent,0.03309,106
+Upper West Side,Grandparents,2012,Percent,0.03767,107
+Upper East Side,Grandparents,2012,Percent,0.01081,108
+Manhattanville,Grandparents,2012,Percent,0.12301,109
+Central Harlem,Grandparents,2012,Percent,0.10757,110
+East Harlem,Grandparents,2012,Percent,0.11197,111
+Washington Heights,Grandparents,2012,Percent,0.1441,112
+Mott Haven,Grandparents,2012,Percent,0.0976,201
+Hunts Point,Grandparents,2012,Percent,0.0976,202
+Morrisania,Grandparents,2012,Percent,0.09861,203
+Concourse/Highbridge,Grandparents,2012,Percent,0.10125,204
+University Heights,Grandparents,2012,Percent,0.11447,205
+East Tremont,Grandparents,2012,Percent,0.09861,206
+Bedford Park,Grandparents,2012,Percent,0.08931,207
+Riverdale,Grandparents,2012,Percent,0.07733,208
+Unionport/Soundview,Grandparents,2012,Percent,0.08357,209
+Throgs Neck,Grandparents,2012,Percent,0.07476,210
+Pelham Parkway,Grandparents,2012,Percent,0.06306,211
+Williamsbridge,Grandparents,2012,Percent,0.12078,212
+Williamsburg/Greenpoint,Grandparents,2012,Percent,0.04322,301
+Fort Greene/Brooklyn Hts,Grandparents,2012,Percent,0.09524,302
+Bedford Stuyvesant,Grandparents,2012,Percent,0.14094,303
+Bushwick,Grandparents,2012,Percent,0.11563,304
+East New York,Grandparents,2012,Percent,0.1332,305
+Park Slope,Grandparents,2012,Percent,0.04773,306
+Sunset Park,Grandparents,2012,Percent,0.07752,307
+Crown Heights North,Grandparents,2012,Percent,0.10811,308
+Crown Heights South,Grandparents,2012,Percent,0.12849,309
+Bay Ridge,Grandparents,2012,Percent,0.06408,310
+Bensonhurst,Grandparents,2012,Percent,0.05193,311
+Borough Park,Grandparents,2012,Percent,0.02323,312
+Coney Island,Grandparents,2012,Percent,0.09452,313
+Flatbush/Midwood,Grandparents,2012,Percent,0.06416,314
+Sheepshead Bay,Grandparents,2012,Percent,0.04909,315
+Brownsville,Grandparents,2012,Percent,0.11741,316
+East Flatbush,Grandparents,2012,Percent,0.1804,317
+Canarsie,Grandparents,2012,Percent,0.09807,318
+Astoria,Grandparents,2012,Percent,0.06736,401
+Sunnyside/Woodside,Grandparents,2012,Percent,0.05667,402
+Jackson Heights,Grandparents,2012,Percent,0.07599,403
+Elmhurst/Corona,Grandparents,2012,Percent,0.08248,404
+Ridgewood/Glendale,Grandparents,2012,Percent,0.06073,405
+Rego Park/Forest Hills,Grandparents,2012,Percent,0.02612,406
+Flushing,Grandparents,2012,Percent,0.06733,407
+Fresh Meadows/Briarwood,Grandparents,2012,Percent,0.06552,408
+Woodhaven,Grandparents,2012,Percent,0.07714,409
+Howard Beach,Grandparents,2012,Percent,0.11975,410
+Bayside,Grandparents,2012,Percent,0.04593,411
+Jamaica/St. Albans,Grandparents,2012,Percent,0.14757,412
+Queens Village,Grandparents,2012,Percent,0.14715,413
+The Rockaways,Grandparents,2012,Percent,0.07407,414
+St. George,Grandparents,2012,Percent,0.06612,501
+South Beach,Grandparents,2012,Percent,0.05071,502
+Tottenville,Grandparents,2012,Percent,0.04561,503
+Bronx,Grandparents,2012,Percent,0.0943,36005
+Brooklyn,Grandparents,2012,Percent,0.08957,36047
+Manhattan,Grandparents,2012,Percent,0.08483,36061
+Queens,Grandparents,2012,Percent,0.08619,36081
+Staten Island,Grandparents,2012,Percent,0.05518,36085
+New York City,Grandparents,2012,Percent,0.08692,3651000
+Battery Park/Tribeca,Grandparents,2013,Number,188.59508,101
+Greenwich Village,Grandparents,2013,Number,278.40492,102
+Lower East Side,Grandparents,2013,Number,3117,103
+Chelsea/Clinton,Grandparents,2013,Number,245.91981,104
+Midtown Business District,Grandparents,2013,Number,123.08019,105
+Murray Hill/Stuyvesant,Grandparents,2013,Number,427,106
+Upper West Side,Grandparents,2013,Number,966,107
+Upper East Side,Grandparents,2013,Number,347,108
+Manhattanville,Grandparents,2013,Number,2655,109
+Central Harlem,Grandparents,2013,Number,3321,110
+East Harlem,Grandparents,2013,Number,2593,111
+Washington Heights,Grandparents,2013,Number,5848,112
+Mott Haven,Grandparents,2013,Number,2570.31567,201
+Hunts Point,Grandparents,2013,Number,1467.68433,202
+Morrisania,Grandparents,2013,Number,2314.62934,203
+Concourse/Highbridge,Grandparents,2013,Number,4260,204
+University Heights,Grandparents,2013,Number,4235,205
+East Tremont,Grandparents,2013,Number,2416.37066,206
+Bedford Park,Grandparents,2013,Number,3451,207
+Riverdale,Grandparents,2013,Number,1595,208
+Unionport/Soundview,Grandparents,2013,Number,4227,209
+Throgs Neck,Grandparents,2013,Number,1758,210
+Pelham Parkway,Grandparents,2013,Number,2258,211
+Williamsbridge,Grandparents,2013,Number,4306,212
+Williamsburg/Greenpoint,Grandparents,2013,Number,1749,301
+Fort Greene/Brooklyn Hts,Grandparents,2013,Number,2186,302
+Bedford Stuyvesant,Grandparents,2013,Number,5476,303
+Bushwick,Grandparents,2013,Number,4478,304
+East New York,Grandparents,2013,Number,5048,305
+Park Slope,Grandparents,2013,Number,1022,306
+Sunset Park,Grandparents,2013,Number,2719,307
+Crown Heights North,Grandparents,2013,Number,3174,308
+Crown Heights South,Grandparents,2013,Number,3434,309
+Bay Ridge,Grandparents,2013,Number,1736,310
+Bensonhurst,Grandparents,2013,Number,2160,311
+Borough Park,Grandparents,2013,Number,1263,312
+Coney Island,Grandparents,2013,Number,1736,313
+Flatbush/Midwood,Grandparents,2013,Number,2861,314
+Sheepshead Bay,Grandparents,2013,Number,1104,315
+Brownsville,Grandparents,2013,Number,4340,316
+East Flatbush,Grandparents,2013,Number,5838,317
+Canarsie,Grandparents,2013,Number,4782,318
+Astoria,Grandparents,2013,Number,1727,401
+Sunnyside/Woodside,Grandparents,2013,Number,1256,402
+Jackson Heights,Grandparents,2013,Number,3039,403
+Elmhurst/Corona,Grandparents,2013,Number,2452,404
+Ridgewood/Glendale,Grandparents,2013,Number,2427,405
+Rego Park/Forest Hills,Grandparents,2013,Number,684,406
+Flushing,Grandparents,2013,Number,3003,407
+Fresh Meadows/Briarwood,Grandparents,2013,Number,2239,408
+Woodhaven,Grandparents,2013,Number,3048,409
+Howard Beach,Grandparents,2013,Number,3488,410
+Bayside,Grandparents,2013,Number,1184,411
+Jamaica/St. Albans,Grandparents,2013,Number,7767,412
+Queens Village,Grandparents,2013,Number,6309,413
+The Rockaways,Grandparents,2013,Number,2601,414
+St. George,Grandparents,2013,Number,3708,501
+South Beach,Grandparents,2013,Number,1504,502
+Tottenville,Grandparents,2013,Number,1897,503
+Bronx,Grandparents,2013,Number,34859,36005
+Brooklyn,Grandparents,2013,Number,55106,36047
+Manhattan,Grandparents,2013,Number,20110,36061
+Queens,Grandparents,2013,Number,41224,36081
+Staten Island,Grandparents,2013,Number,7109,36085
+New York City,Grandparents,2013,Number,158408,3651000
+Battery Park/Tribeca,Grandparents,2013,Percent,0.02737,101
+Greenwich Village,Grandparents,2013,Percent,0.02737,102
+Lower East Side,Grandparents,2013,Percent,0.14418,103
+Chelsea/Clinton,Grandparents,2013,Percent,0.03195,104
+Midtown Business District,Grandparents,2013,Percent,0.03195,105
+Murray Hill/Stuyvesant,Grandparents,2013,Percent,0.03687,106
+Upper West Side,Grandparents,2013,Percent,0.03233,107
+Upper East Side,Grandparents,2013,Percent,0.01158,108
+Manhattanville,Grandparents,2013,Percent,0.12824,109
+Central Harlem,Grandparents,2013,Percent,0.12144,110
+East Harlem,Grandparents,2013,Percent,0.09982,111
+Washington Heights,Grandparents,2013,Percent,0.14872,112
+Mott Haven,Grandparents,2013,Percent,0.09107,201
+Hunts Point,Grandparents,2013,Percent,0.09107,202
+Morrisania,Grandparents,2013,Percent,0.09805,203
+Concourse/Highbridge,Grandparents,2013,Percent,0.11034,204
+University Heights,Grandparents,2013,Percent,0.11185,205
+East Tremont,Grandparents,2013,Percent,0.09805,206
+Bedford Park,Grandparents,2013,Percent,0.10289,207
+Riverdale,Grandparents,2013,Percent,0.07357,208
+Unionport/Soundview,Grandparents,2013,Percent,0.08813,209
+Throgs Neck,Grandparents,2013,Percent,0.07638,210
+Pelham Parkway,Grandparents,2013,Percent,0.07609,211
+Williamsbridge,Grandparents,2013,Percent,0.11565,212
+Williamsburg/Greenpoint,Grandparents,2013,Percent,0.05549,301
+Fort Greene/Brooklyn Hts,Grandparents,2013,Percent,0.1024,302
+Bedford Stuyvesant,Grandparents,2013,Percent,0.1443,303
+Bushwick,Grandparents,2013,Percent,0.13433,304
+East New York,Grandparents,2013,Percent,0.11922,305
+Park Slope,Grandparents,2013,Percent,0.04858,306
+Sunset Park,Grandparents,2013,Percent,0.0776,307
+Crown Heights North,Grandparents,2013,Percent,0.12025,308
+Crown Heights South,Grandparents,2013,Percent,0.13022,309
+Bay Ridge,Grandparents,2013,Percent,0.06352,310
+Bensonhurst,Grandparents,2013,Percent,0.06153,311
+Borough Park,Grandparents,2013,Percent,0.02237,312
+Coney Island,Grandparents,2013,Percent,0.09244,313
+Flatbush/Midwood,Grandparents,2013,Percent,0.07509,314
+Sheepshead Bay,Grandparents,2013,Percent,0.03532,315
+Brownsville,Grandparents,2013,Percent,0.12356,316
+East Flatbush,Grandparents,2013,Percent,0.18953,317
+Canarsie,Grandparents,2013,Percent,0.09864,318
+Astoria,Grandparents,2013,Percent,0.06598,401
+Sunnyside/Woodside,Grandparents,2013,Percent,0.05579,402
+Jackson Heights,Grandparents,2013,Percent,0.07992,403
+Elmhurst/Corona,Grandparents,2013,Percent,0.07962,404
+Ridgewood/Glendale,Grandparents,2013,Percent,0.06788,405
+Rego Park/Forest Hills,Grandparents,2013,Percent,0.0358,406
+Flushing,Grandparents,2013,Percent,0.06927,407
+Fresh Meadows/Briarwood,Grandparents,2013,Percent,0.06958,408
+Woodhaven,Grandparents,2013,Percent,0.086,409
+Howard Beach,Grandparents,2013,Percent,0.12324,410
+Bayside,Grandparents,2013,Percent,0.04994,411
+Jamaica/St. Albans,Grandparents,2013,Percent,0.14275,412
+Queens Village,Grandparents,2013,Percent,0.14934,413
+The Rockaways,Grandparents,2013,Percent,0.08305,414
+St. George,Grandparents,2013,Percent,0.08343,501
+South Beach,Grandparents,2013,Percent,0.05479,502
+Tottenville,Grandparents,2013,Percent,0.0528,503
+Bronx,Grandparents,2013,Percent,0.09625,36005
+Brooklyn,Grandparents,2013,Percent,0.09234,36047
+Manhattan,Grandparents,2013,Percent,0.08557,36061
+Queens,Grandparents,2013,Percent,0.08898,36081
+Staten Island,Grandparents,2013,Percent,0.06593,36085
+New York City,Grandparents,2013,Percent,0.08975,3651000
+Battery Park/Tribeca,Grandparents,2014,Number,151.84529,101
+Greenwich Village,Grandparents,2014,Number,224.15471,102
+Lower East Side,Grandparents,2014,Number,2738,103
+Chelsea/Clinton,Grandparents,2014,Number,253.25075,104
+Midtown Business District,Grandparents,2014,Number,126.74925,105
+Murray Hill/Stuyvesant,Grandparents,2014,Number,396,106
+Upper West Side,Grandparents,2014,Number,862,107
+Upper East Side,Grandparents,2014,Number,361,108
+Manhattanville,Grandparents,2014,Number,2927,109
+Central Harlem,Grandparents,2014,Number,3602,110
+East Harlem,Grandparents,2014,Number,2598,111
+Washington Heights,Grandparents,2014,Number,6296,112
+Mott Haven,Grandparents,2014,Number,2589.41163,201
+Hunts Point,Grandparents,2014,Number,1478.58837,202
+Morrisania,Grandparents,2014,Number,2356.70462,203
+Concourse/Highbridge,Grandparents,2014,Number,4149,204
+University Heights,Grandparents,2014,Number,4290,205
+East Tremont,Grandparents,2014,Number,2460.29538,206
+Bedford Park,Grandparents,2014,Number,3426,207
+Riverdale,Grandparents,2014,Number,1657,208
+Unionport/Soundview,Grandparents,2014,Number,4450,209
+Throgs Neck,Grandparents,2014,Number,1604,210
+Pelham Parkway,Grandparents,2014,Number,2383,211
+Williamsbridge,Grandparents,2014,Number,3743,212
+Williamsburg/Greenpoint,Grandparents,2014,Number,1497,301
+Fort Greene/Brooklyn Hts,Grandparents,2014,Number,2433,302
+Bedford Stuyvesant,Grandparents,2014,Number,4652,303
+Bushwick,Grandparents,2014,Number,4368,304
+East New York,Grandparents,2014,Number,5252,305
+Park Slope,Grandparents,2014,Number,1116,306
+Sunset Park,Grandparents,2014,Number,2990,307
+Crown Heights North,Grandparents,2014,Number,3532,308
+Crown Heights South,Grandparents,2014,Number,3586,309
+Bay Ridge,Grandparents,2014,Number,1816,310
+Bensonhurst,Grandparents,2014,Number,2436,311
+Borough Park,Grandparents,2014,Number,1574,312
+Coney Island,Grandparents,2014,Number,1894,313
+Flatbush/Midwood,Grandparents,2014,Number,3263,314
+Sheepshead Bay,Grandparents,2014,Number,1070,315
+Brownsville,Grandparents,2014,Number,4696,316
+East Flatbush,Grandparents,2014,Number,5188,317
+Canarsie,Grandparents,2014,Number,5021,318
+Astoria,Grandparents,2014,Number,1724,401
+Sunnyside/Woodside,Grandparents,2014,Number,1287,402
+Jackson Heights,Grandparents,2014,Number,2912,403
+Elmhurst/Corona,Grandparents,2014,Number,2267,404
+Ridgewood/Glendale,Grandparents,2014,Number,2048,405
+Rego Park/Forest Hills,Grandparents,2014,Number,878,406
+Flushing,Grandparents,2014,Number,3142,407
+Fresh Meadows/Briarwood,Grandparents,2014,Number,2004,408
+Woodhaven,Grandparents,2014,Number,2904,409
+Howard Beach,Grandparents,2014,Number,3720,410
+Bayside,Grandparents,2014,Number,1148,411
+Jamaica/St. Albans,Grandparents,2014,Number,10599,412
+Queens Village,Grandparents,2014,Number,6153,413
+The Rockaways,Grandparents,2014,Number,2559,414
+St. George,Grandparents,2014,Number,3329,501
+South Beach,Grandparents,2014,Number,1518,502
+Tottenville,Grandparents,2014,Number,2033,503
+Bronx,Grandparents,2014,Number,34587,36005
+Brooklyn,Grandparents,2014,Number,56384,36047
+Manhattan,Grandparents,2014,Number,20536,36061
+Queens,Grandparents,2014,Number,43345,36081
+Staten Island,Grandparents,2014,Number,6880,36085
+New York City,Grandparents,2014,Number,161732,3651000
+Battery Park/Tribeca,Grandparents,2014,Percent,0.0215,101
+Greenwich Village,Grandparents,2014,Percent,0.0215,102
+Lower East Side,Grandparents,2014,Percent,0.1323,103
+Chelsea/Clinton,Grandparents,2014,Percent,0.03051,104
+Midtown Business District,Grandparents,2014,Percent,0.03051,105
+Murray Hill/Stuyvesant,Grandparents,2014,Percent,0.03367,106
+Upper West Side,Grandparents,2014,Percent,0.0286,107
+Upper East Side,Grandparents,2014,Percent,0.01159,108
+Manhattanville,Grandparents,2014,Percent,0.14062,109
+Central Harlem,Grandparents,2014,Percent,0.13158,110
+East Harlem,Grandparents,2014,Percent,0.10141,111
+Washington Heights,Grandparents,2014,Percent,0.1627,112
+Mott Haven,Grandparents,2014,Percent,0.09077,201
+Hunts Point,Grandparents,2014,Percent,0.09077,202
+Morrisania,Grandparents,2014,Percent,0.09687,203
+Concourse/Highbridge,Grandparents,2014,Percent,0.1037,204
+University Heights,Grandparents,2014,Percent,0.11578,205
+East Tremont,Grandparents,2014,Percent,0.09687,206
+Bedford Park,Grandparents,2014,Percent,0.1057,207
+Riverdale,Grandparents,2014,Percent,0.07299,208
+Unionport/Soundview,Grandparents,2014,Percent,0.09608,209
+Throgs Neck,Grandparents,2014,Percent,0.06792,210
+Pelham Parkway,Grandparents,2014,Percent,0.07747,211
+Williamsbridge,Grandparents,2014,Percent,0.10678,212
+Williamsburg/Greenpoint,Grandparents,2014,Percent,0.04747,301
+Fort Greene/Brooklyn Hts,Grandparents,2014,Percent,0.11093,302
+Bedford Stuyvesant,Grandparents,2014,Percent,0.12563,303
+Bushwick,Grandparents,2014,Percent,0.137,304
+East New York,Grandparents,2014,Percent,0.12517,305
+Park Slope,Grandparents,2014,Percent,0.05253,306
+Sunset Park,Grandparents,2014,Percent,0.08313,307
+Crown Heights North,Grandparents,2014,Percent,0.1367,308
+Crown Heights South,Grandparents,2014,Percent,0.14136,309
+Bay Ridge,Grandparents,2014,Percent,0.0662,310
+Bensonhurst,Grandparents,2014,Percent,0.06551,311
+Borough Park,Grandparents,2014,Percent,0.02651,312
+Coney Island,Grandparents,2014,Percent,0.09659,313
+Flatbush/Midwood,Grandparents,2014,Percent,0.08444,314
+Sheepshead Bay,Grandparents,2014,Percent,0.03382,315
+Brownsville,Grandparents,2014,Percent,0.13256,316
+East Flatbush,Grandparents,2014,Percent,0.17261,317
+Canarsie,Grandparents,2014,Percent,0.10414,318
+Astoria,Grandparents,2014,Percent,0.06565,401
+Sunnyside/Woodside,Grandparents,2014,Percent,0.05555,402
+Jackson Heights,Grandparents,2014,Percent,0.07616,403
+Elmhurst/Corona,Grandparents,2014,Percent,0.07291,404
+Ridgewood/Glendale,Grandparents,2014,Percent,0.05801,405
+Rego Park/Forest Hills,Grandparents,2014,Percent,0.046,406
+Flushing,Grandparents,2014,Percent,0.07317,407
+Fresh Meadows/Briarwood,Grandparents,2014,Percent,0.06163,408
+Woodhaven,Grandparents,2014,Percent,0.08465,409
+Howard Beach,Grandparents,2014,Percent,0.12761,410
+Bayside,Grandparents,2014,Percent,0.04829,411
+Jamaica/St. Albans,Grandparents,2014,Percent,0.18369,412
+Queens Village,Grandparents,2014,Percent,0.15129,413
+The Rockaways,Grandparents,2014,Percent,0.07999,414
+St. George,Grandparents,2014,Percent,0.07613,501
+South Beach,Grandparents,2014,Percent,0.05626,502
+Tottenville,Grandparents,2014,Percent,0.05609,503
+Bronx,Grandparents,2014,Percent,0.09542,36005
+Brooklyn,Grandparents,2014,Percent,0.09392,36047
+Manhattan,Grandparents,2014,Percent,0.08695,36061
+Queens,Grandparents,2014,Percent,0.09297,36081
+Staten Island,Grandparents,2014,Percent,0.06433,36085
+New York City,Grandparents,2014,Percent,0.09126,3651000
+Battery Park/Tribeca,Grandparents,2015,Number,110.65322,101
+Greenwich Village,Grandparents,2015,Number,163.34678,102
+Lower East Side,Grandparents,2015,Number,2470,103
+Chelsea/Clinton,Grandparents,2015,Number,267.24619,104
+Midtown Business District,Grandparents,2015,Number,133.75381,105
+Murray Hill/Stuyvesant,Grandparents,2015,Number,252,106
+Upper West Side,Grandparents,2015,Number,1261,107
+Upper East Side,Grandparents,2015,Number,345,108
+Manhattanville,Grandparents,2015,Number,2934,109
+Central Harlem,Grandparents,2015,Number,3639,110
+East Harlem,Grandparents,2015,Number,2411,111
+Washington Heights,Grandparents,2015,Number,6368,112
+Mott Haven,Grandparents,2015,Number,2892.4008,201
+Hunts Point,Grandparents,2015,Number,1651.5992,202
+Morrisania,Grandparents,2015,Number,2382.63473,203
+Concourse/Highbridge,Grandparents,2015,Number,4140,204
+University Heights,Grandparents,2015,Number,4227,205
+East Tremont,Grandparents,2015,Number,2487.36527,206
+Bedford Park,Grandparents,2015,Number,3586,207
+Riverdale,Grandparents,2015,Number,1815,208
+Unionport/Soundview,Grandparents,2015,Number,4292,209
+Throgs Neck,Grandparents,2015,Number,1997,210
+Pelham Parkway,Grandparents,2015,Number,2771,211
+Williamsbridge,Grandparents,2015,Number,4040,212
+Williamsburg/Greenpoint,Grandparents,2015,Number,1784,301
+Fort Greene/Brooklyn Hts,Grandparents,2015,Number,2273,302
+Bedford Stuyvesant,Grandparents,2015,Number,4258,303
+Bushwick,Grandparents,2015,Number,4130,304
+East New York,Grandparents,2015,Number,5177,305
+Park Slope,Grandparents,2015,Number,1109,306
+Sunset Park,Grandparents,2015,Number,2989,307
+Crown Heights North,Grandparents,2015,Number,3540,308
+Crown Heights South,Grandparents,2015,Number,3420,309
+Bay Ridge,Grandparents,2015,Number,1804,310
+Bensonhurst,Grandparents,2015,Number,2423,311
+Borough Park,Grandparents,2015,Number,1674,312
+Coney Island,Grandparents,2015,Number,2384,313
+Flatbush/Midwood,Grandparents,2015,Number,3163,314
+Sheepshead Bay,Grandparents,2015,Number,1312,315
+Brownsville,Grandparents,2015,Number,4669,316
+East Flatbush,Grandparents,2015,Number,4984,317
+Canarsie,Grandparents,2015,Number,5294,318
+Astoria,Grandparents,2015,Number,1689,401
+Sunnyside/Woodside,Grandparents,2015,Number,1609,402
+Jackson Heights,Grandparents,2015,Number,3222,403
+Elmhurst/Corona,Grandparents,2015,Number,2019,404
+Ridgewood/Glendale,Grandparents,2015,Number,1912,405
+Rego Park/Forest Hills,Grandparents,2015,Number,872,406
+Flushing,Grandparents,2015,Number,3124,407
+Fresh Meadows/Briarwood,Grandparents,2015,Number,2066,408
+Woodhaven,Grandparents,2015,Number,3087,409
+Howard Beach,Grandparents,2015,Number,3467,410
+Bayside,Grandparents,2015,Number,979,411
+Jamaica/St. Albans,Grandparents,2015,Number,9255,412
+Queens Village,Grandparents,2015,Number,6341,413
+The Rockaways,Grandparents,2015,Number,2785,414
+St. George,Grandparents,2015,Number,3610,501
+South Beach,Grandparents,2015,Number,1796,502
+Tottenville,Grandparents,2015,Number,2063,503
+Bronx,Grandparents,2015,Number,36282,36005
+Brooklyn,Grandparents,2015,Number,56387,36047
+Manhattan,Grandparents,2015,Number,20355,36061
+Queens,Grandparents,2015,Number,42427,36081
+Staten Island,Grandparents,2015,Number,7469,36085
+New York City,Grandparents,2015,Number,162920,3651000
+Battery Park/Tribeca,Grandparents,2015,Percent,0.0152,101
+Greenwich Village,Grandparents,2015,Percent,0.0152,102
+Lower East Side,Grandparents,2015,Percent,0.122,103
+Chelsea/Clinton,Grandparents,2015,Percent,0.0304,104
+Midtown Business District,Grandparents,2015,Percent,0.0304,105
+Murray Hill/Stuyvesant,Grandparents,2015,Percent,0.02204,106
+Upper West Side,Grandparents,2015,Percent,0.04277,107
+Upper East Side,Grandparents,2015,Percent,0.01069,108
+Manhattanville,Grandparents,2015,Percent,0.14028,109
+Central Harlem,Grandparents,2015,Percent,0.12966,110
+East Harlem,Grandparents,2015,Percent,0.09529,111
+Washington Heights,Grandparents,2015,Percent,0.16827,112
+Mott Haven,Grandparents,2015,Percent,0.10127,201
+Hunts Point,Grandparents,2015,Percent,0.10127,202
+Morrisania,Grandparents,2015,Percent,0.09774,203
+Concourse/Highbridge,Grandparents,2015,Percent,0.10501,204
+University Heights,Grandparents,2015,Percent,0.11144,205
+East Tremont,Grandparents,2015,Percent,0.09774,206
+Bedford Park,Grandparents,2015,Percent,0.10657,207
+Riverdale,Grandparents,2015,Percent,0.07722,208
+Unionport/Soundview,Grandparents,2015,Percent,0.0941,209
+Throgs Neck,Grandparents,2015,Percent,0.08481,210
+Pelham Parkway,Grandparents,2015,Percent,0.0925,211
+Williamsbridge,Grandparents,2015,Percent,0.11852,212
+Williamsburg/Greenpoint,Grandparents,2015,Percent,0.05446,301
+Fort Greene/Brooklyn Hts,Grandparents,2015,Percent,0.10248,302
+Bedford Stuyvesant,Grandparents,2015,Percent,0.113,303
+Bushwick,Grandparents,2015,Percent,0.13419,304
+East New York,Grandparents,2015,Percent,0.12579,305
+Park Slope,Grandparents,2015,Percent,0.05113,306
+Sunset Park,Grandparents,2015,Percent,0.08089,307
+Crown Heights North,Grandparents,2015,Percent,0.13961,308
+Crown Heights South,Grandparents,2015,Percent,0.13199,309
+Bay Ridge,Grandparents,2015,Percent,0.06742,310
+Bensonhurst,Grandparents,2015,Percent,0.06277,311
+Borough Park,Grandparents,2015,Percent,0.02836,312
+Coney Island,Grandparents,2015,Percent,0.11807,313
+Flatbush/Midwood,Grandparents,2015,Percent,0.07867,314
+Sheepshead Bay,Grandparents,2015,Percent,0.04026,315
+Brownsville,Grandparents,2015,Percent,0.13533,316
+East Flatbush,Grandparents,2015,Percent,0.16846,317
+Canarsie,Grandparents,2015,Percent,0.11136,318
+Astoria,Grandparents,2015,Percent,0.06525,401
+Sunnyside/Woodside,Grandparents,2015,Percent,0.06574,402
+Jackson Heights,Grandparents,2015,Percent,0.08261,403
+Elmhurst/Corona,Grandparents,2015,Percent,0.06494,404
+Ridgewood/Glendale,Grandparents,2015,Percent,0.05258,405
+Rego Park/Forest Hills,Grandparents,2015,Percent,0.04357,406
+Flushing,Grandparents,2015,Percent,0.07181,407
+Fresh Meadows/Briarwood,Grandparents,2015,Percent,0.06208,408
+Woodhaven,Grandparents,2015,Percent,0.08675,409
+Howard Beach,Grandparents,2015,Percent,0.11975,410
+Bayside,Grandparents,2015,Percent,0.04215,411
+Jamaica/St. Albans,Grandparents,2015,Percent,0.16596,412
+Queens Village,Grandparents,2015,Percent,0.15813,413
+The Rockaways,Grandparents,2015,Percent,0.08647,414
+St. George,Grandparents,2015,Percent,0.08383,501
+South Beach,Grandparents,2015,Percent,0.06538,502
+Tottenville,Grandparents,2015,Percent,0.0579,503
+Bronx,Grandparents,2015,Percent,0.10011,36005
+Brooklyn,Grandparents,2015,Percent,0.09344,36047
+Manhattan,Grandparents,2015,Percent,0.08597,36061
+Queens,Grandparents,2015,Percent,0.09038,36081
+Staten Island,Grandparents,2015,Percent,0.07035,36085
+New York City,Grandparents,2015,Percent,0.09162,3651000
+Battery Park/Tribeca,Grandparents,2016,Number,87.63412,101
+Greenwich Village,Grandparents,2016,Number,129.36588,102
+Lower East Side,Grandparents,2016,Number,3066,103
+Chelsea/Clinton,Grandparents,2016,Number,220.59473,104
+Midtown Business District,Grandparents,2016,Number,110.40527,105
+Murray Hill/Stuyvesant,Grandparents,2016,Number,290,106
+Upper West Side,Grandparents,2016,Number,1165,107
+Upper East Side,Grandparents,2016,Number,410,108
+Manhattanville,Grandparents,2016,Number,2789,109
+Central Harlem,Grandparents,2016,Number,4009,110
+East Harlem,Grandparents,2016,Number,2763,111
+Washington Heights,Grandparents,2016,Number,6616,112
+Mott Haven,Grandparents,2016,Number,2940.77722,201
+Hunts Point,Grandparents,2016,Number,1679.22278,202
+Morrisania,Grandparents,2016,Number,2272.55407,203
+Concourse/Highbridge,Grandparents,2016,Number,3975,204
+University Heights,Grandparents,2016,Number,4075,205
+East Tremont,Grandparents,2016,Number,2372.44593,206
+Bedford Park,Grandparents,2016,Number,3728,207
+Riverdale,Grandparents,2016,Number,1463,208
+Unionport/Soundview,Grandparents,2016,Number,4953,209
+Throgs Neck,Grandparents,2016,Number,1762,210
+Pelham Parkway,Grandparents,2016,Number,2849,211
+Williamsbridge,Grandparents,2016,Number,4167,212
+Williamsburg/Greenpoint,Grandparents,2016,Number,1876,301
+Fort Greene/Brooklyn Hts,Grandparents,2016,Number,2149,302
+Bedford Stuyvesant,Grandparents,2016,Number,3971,303
+Bushwick,Grandparents,2016,Number,4261,304
+East New York,Grandparents,2016,Number,5326,305
+Park Slope,Grandparents,2016,Number,1236,306
+Sunset Park,Grandparents,2016,Number,2722,307
+Crown Heights North,Grandparents,2016,Number,3039,308
+Crown Heights South,Grandparents,2016,Number,2946,309
+Bay Ridge,Grandparents,2016,Number,1836,310
+Bensonhurst,Grandparents,2016,Number,2311,311
+Borough Park,Grandparents,2016,Number,1727,312
+Coney Island,Grandparents,2016,Number,2227,313
+Flatbush/Midwood,Grandparents,2016,Number,3518,314
+Sheepshead Bay,Grandparents,2016,Number,1379,315
+Brownsville,Grandparents,2016,Number,4323,316
+East Flatbush,Grandparents,2016,Number,5220,317
+Canarsie,Grandparents,2016,Number,5750,318
+Astoria,Grandparents,2016,Number,1868,401
+Sunnyside/Woodside,Grandparents,2016,Number,1419,402
+Jackson Heights,Grandparents,2016,Number,3752,403
+Elmhurst/Corona,Grandparents,2016,Number,2261,404
+Ridgewood/Glendale,Grandparents,2016,Number,2312,405
+Rego Park/Forest Hills,Grandparents,2016,Number,923,406
+Flushing,Grandparents,2016,Number,3614,407
+Fresh Meadows/Briarwood,Grandparents,2016,Number,2252,408
+Woodhaven,Grandparents,2016,Number,3206,409
+Howard Beach,Grandparents,2016,Number,3480,410
+Bayside,Grandparents,2016,Number,830,411
+Jamaica/St. Albans,Grandparents,2016,Number,9311,412
+Queens Village,Grandparents,2016,Number,5938,413
+The Rockaways,Grandparents,2016,Number,3406,414
+St. George,Grandparents,2016,Number,3681,501
+South Beach,Grandparents,2016,Number,1941,502
+Tottenville,Grandparents,2016,Number,1973,503
+Bronx,Grandparents,2016,Number,36237,36005
+Brooklyn,Grandparents,2016,Number,55817,36047
+Manhattan,Grandparents,2016,Number,21656,36061
+Queens,Grandparents,2016,Number,44572,36081
+Staten Island,Grandparents,2016,Number,7595,36085
+New York City,Grandparents,2016,Number,165877,3651000
+Battery Park/Tribeca,Grandparents,2016,Percent,0.01158,101
+Greenwich Village,Grandparents,2016,Percent,0.01158,102
+Lower East Side,Grandparents,2016,Percent,0.16456,103
+Chelsea/Clinton,Grandparents,2016,Percent,0.02671,104
+Midtown Business District,Grandparents,2016,Percent,0.02671,105
+Murray Hill/Stuyvesant,Grandparents,2016,Percent,0.02324,106
+Upper West Side,Grandparents,2016,Percent,0.03964,107
+Upper East Side,Grandparents,2016,Percent,0.01263,108
+Manhattanville,Grandparents,2016,Percent,0.13783,109
+Central Harlem,Grandparents,2016,Percent,0.13744,110
+East Harlem,Grandparents,2016,Percent,0.10824,111
+Washington Heights,Grandparents,2016,Percent,0.17028,112
+Mott Haven,Grandparents,2016,Percent,0.10045,201
+Hunts Point,Grandparents,2016,Percent,0.10045,202
+Morrisania,Grandparents,2016,Percent,0.09447,203
+Concourse/Highbridge,Grandparents,2016,Percent,0.10228,204
+University Heights,Grandparents,2016,Percent,0.10627,205
+East Tremont,Grandparents,2016,Percent,0.09447,206
+Bedford Park,Grandparents,2016,Percent,0.1095,207
+Riverdale,Grandparents,2016,Percent,0.06249,208
+Unionport/Soundview,Grandparents,2016,Percent,0.10645,209
+Throgs Neck,Grandparents,2016,Percent,0.077,210
+Pelham Parkway,Grandparents,2016,Percent,0.09705,211
+Williamsbridge,Grandparents,2016,Percent,0.1252,212
+Williamsburg/Greenpoint,Grandparents,2016,Percent,0.05532,301
+Fort Greene/Brooklyn Hts,Grandparents,2016,Percent,0.0923,302
+Bedford Stuyvesant,Grandparents,2016,Percent,0.10648,303
+Bushwick,Grandparents,2016,Percent,0.14453,304
+East New York,Grandparents,2016,Percent,0.13133,305
+Park Slope,Grandparents,2016,Percent,0.05355,306
+Sunset Park,Grandparents,2016,Percent,0.07466,307
+Crown Heights North,Grandparents,2016,Percent,0.12095,308
+Crown Heights South,Grandparents,2016,Percent,0.11686,309
+Bay Ridge,Grandparents,2016,Percent,0.07317,310
+Bensonhurst,Grandparents,2016,Percent,0.05914,311
+Borough Park,Grandparents,2016,Percent,0.02929,312
+Coney Island,Grandparents,2016,Percent,0.10531,313
+Flatbush/Midwood,Grandparents,2016,Percent,0.08621,314
+Sheepshead Bay,Grandparents,2016,Percent,0.04133,315
+Brownsville,Grandparents,2016,Percent,0.13199,316
+East Flatbush,Grandparents,2016,Percent,0.16968,317
+Canarsie,Grandparents,2016,Percent,0.11917,318
+Astoria,Grandparents,2016,Percent,0.07473,401
+Sunnyside/Woodside,Grandparents,2016,Percent,0.0583,402
+Jackson Heights,Grandparents,2016,Percent,0.09573,403
+Elmhurst/Corona,Grandparents,2016,Percent,0.07132,404
+Ridgewood/Glendale,Grandparents,2016,Percent,0.06293,405
+Rego Park/Forest Hills,Grandparents,2016,Percent,0.04589,406
+Flushing,Grandparents,2016,Percent,0.08223,407
+Fresh Meadows/Briarwood,Grandparents,2016,Percent,0.06819,408
+Woodhaven,Grandparents,2016,Percent,0.09042,409
+Howard Beach,Grandparents,2016,Percent,0.11859,410
+Bayside,Grandparents,2016,Percent,0.03621,411
+Jamaica/St. Albans,Grandparents,2016,Percent,0.16648,412
+Queens Village,Grandparents,2016,Percent,0.15059,413
+The Rockaways,Grandparents,2016,Percent,0.10119,414
+St. George,Grandparents,2016,Percent,0.08823,501
+South Beach,Grandparents,2016,Percent,0.06876,502
+Tottenville,Grandparents,2016,Percent,0.05536,503
+Bronx,Grandparents,2016,Percent,0.10014,36005
+Brooklyn,Grandparents,2016,Percent,0.09232,36047
+Manhattan,Grandparents,2016,Percent,0.09104,36061
+Queens,Grandparents,2016,Percent,0.09467,36081
+Staten Island,Grandparents,2016,Percent,0.07193,36085
+New York City,Grandparents,2016,Percent,0.09315,3651000
+Battery Park/Tribeca,Grandparents,2017,Number,103.38403,101
+Greenwich Village,Grandparents,2017,Number,152.61597,102
+Lower East Side,Grandparents,2017,Number,3480,103
+Chelsea/Clinton,Grandparents,2017,Number,274.57713,104
+Midtown Business District,Grandparents,2017,Number,137.42287,105
+Murray Hill/Stuyvesant,Grandparents,2017,Number,460,106
+Upper West Side,Grandparents,2017,Number,877,107
+Upper East Side,Grandparents,2017,Number,346,108
+Manhattanville,Grandparents,2017,Number,3152,109
+Central Harlem,Grandparents,2017,Number,3753,110
+East Harlem,Grandparents,2017,Number,2908,111
+Washington Heights,Grandparents,2017,Number,6875,112
+Mott Haven,Grandparents,2017,Number,3028.61862,201
+Hunts Point,Grandparents,2017,Number,1729.38138,202
+Morrisania,Grandparents,2017,Number,2158.55943,203
+Concourse/Highbridge,Grandparents,2017,Number,4129,204
+University Heights,Grandparents,2017,Number,4188,205
+East Tremont,Grandparents,2017,Number,2253.44057,206
+Bedford Park,Grandparents,2017,Number,4011,207
+Riverdale,Grandparents,2017,Number,1825,208
+Unionport/Soundview,Grandparents,2017,Number,5052,209
+Throgs Neck,Grandparents,2017,Number,1687,210
+Pelham Parkway,Grandparents,2017,Number,2992,211
+Williamsbridge,Grandparents,2017,Number,4168,212
+Williamsburg/Greenpoint,Grandparents,2017,Number,1899,301
+Fort Greene/Brooklyn Hts,Grandparents,2017,Number,2378,302
+Bedford Stuyvesant,Grandparents,2017,Number,4042,303
+Bushwick,Grandparents,2017,Number,4216,304
+East New York,Grandparents,2017,Number,5324,305
+Park Slope,Grandparents,2017,Number,1346,306
+Sunset Park,Grandparents,2017,Number,3098,307
+Crown Heights North,Grandparents,2017,Number,3113,308
+Crown Heights South,Grandparents,2017,Number,2805,309
+Bay Ridge,Grandparents,2017,Number,1705,310
+Bensonhurst,Grandparents,2017,Number,2379,311
+Borough Park,Grandparents,2017,Number,1974,312
+Coney Island,Grandparents,2017,Number,2294,313
+Flatbush/Midwood,Grandparents,2017,Number,3766,314
+Sheepshead Bay,Grandparents,2017,Number,1701,315
+Brownsville,Grandparents,2017,Number,3951,316
+East Flatbush,Grandparents,2017,Number,5194,317
+Canarsie,Grandparents,2017,Number,5561,318
+Astoria,Grandparents,2017,Number,2272,401
+Sunnyside/Woodside,Grandparents,2017,Number,1049,402
+Jackson Heights,Grandparents,2017,Number,3983,403
+Elmhurst/Corona,Grandparents,2017,Number,2231,404
+Ridgewood/Glendale,Grandparents,2017,Number,2434,405
+Rego Park/Forest Hills,Grandparents,2017,Number,1006,406
+Flushing,Grandparents,2017,Number,3439,407
+Fresh Meadows/Briarwood,Grandparents,2017,Number,2360,408
+Woodhaven,Grandparents,2017,Number,3212,409
+Howard Beach,Grandparents,2017,Number,3448,410
+Bayside,Grandparents,2017,Number,788,411
+Jamaica/St. Albans,Grandparents,2017,Number,9831,412
+Queens Village,Grandparents,2017,Number,5872,413
+The Rockaways,Grandparents,2017,Number,3686,414
+St. George,Grandparents,2017,Number,3645,501
+South Beach,Grandparents,2017,Number,1946,502
+Tottenville,Grandparents,2017,Number,1905,503
+Bronx,Grandparents,2017,Number,37222,36005
+Brooklyn,Grandparents,2017,Number,56746,36047
+Manhattan,Grandparents,2017,Number,22519,36061
+Queens,Grandparents,2017,Number,45611,36081
+Staten Island,Grandparents,2017,Number,7496,36085
+New York City,Grandparents,2017,Number,169594,3651000
+Battery Park/Tribeca,Grandparents,2017,Percent,0.0128,101
+Greenwich Village,Grandparents,2017,Percent,0.0128,102
+Lower East Side,Grandparents,2017,Percent,0.18953,103
+Chelsea/Clinton,Grandparents,2017,Percent,0.03349,104
+Midtown Business District,Grandparents,2017,Percent,0.03349,105
+Murray Hill/Stuyvesant,Grandparents,2017,Percent,0.03577,106
+Upper West Side,Grandparents,2017,Percent,0.02974,107
+Upper East Side,Grandparents,2017,Percent,0.01055,108
+Manhattanville,Grandparents,2017,Percent,0.15671,109
+Central Harlem,Grandparents,2017,Percent,0.13392,110
+East Harlem,Grandparents,2017,Percent,0.11316,111
+Washington Heights,Grandparents,2017,Percent,0.17857,112
+Mott Haven,Grandparents,2017,Percent,0.10727,201
+Hunts Point,Grandparents,2017,Percent,0.10727,202
+Morrisania,Grandparents,2017,Percent,0.09003,203
+Concourse/Highbridge,Grandparents,2017,Percent,0.10603,204
+University Heights,Grandparents,2017,Percent,0.10606,205
+East Tremont,Grandparents,2017,Percent,0.09003,206
+Bedford Park,Grandparents,2017,Percent,0.11391,207
+Riverdale,Grandparents,2017,Percent,0.07746,208
+Unionport/Soundview,Grandparents,2017,Percent,0.11006,209
+Throgs Neck,Grandparents,2017,Percent,0.0728,210
+Pelham Parkway,Grandparents,2017,Percent,0.10347,211
+Williamsbridge,Grandparents,2017,Percent,0.12709,212
+Williamsburg/Greenpoint,Grandparents,2017,Percent,0.05595,301
+Fort Greene/Brooklyn Hts,Grandparents,2017,Percent,0.0975,302
+Bedford Stuyvesant,Grandparents,2017,Percent,0.10887,303
+Bushwick,Grandparents,2017,Percent,0.14968,304
+East New York,Grandparents,2017,Percent,0.12988,305
+Park Slope,Grandparents,2017,Percent,0.0542,306
+Sunset Park,Grandparents,2017,Percent,0.0864,307
+Crown Heights North,Grandparents,2017,Percent,0.12288,308
+Crown Heights South,Grandparents,2017,Percent,0.11757,309
+Bay Ridge,Grandparents,2017,Percent,0.07008,310
+Bensonhurst,Grandparents,2017,Percent,0.0594,311
+Borough Park,Grandparents,2017,Percent,0.03309,312
+Coney Island,Grandparents,2017,Percent,0.10162,313
+Flatbush/Midwood,Grandparents,2017,Percent,0.0908,314
+Sheepshead Bay,Grandparents,2017,Percent,0.05012,315
+Brownsville,Grandparents,2017,Percent,0.13171,316
+East Flatbush,Grandparents,2017,Percent,0.17246,317
+Canarsie,Grandparents,2017,Percent,0.11447,318
+Astoria,Grandparents,2017,Percent,0.08953,401
+Sunnyside/Woodside,Grandparents,2017,Percent,0.04576,402
+Jackson Heights,Grandparents,2017,Percent,0.10001,403
+Elmhurst/Corona,Grandparents,2017,Percent,0.07018,404
+Ridgewood/Glendale,Grandparents,2017,Percent,0.06325,405
+Rego Park/Forest Hills,Grandparents,2017,Percent,0.04891,406
+Flushing,Grandparents,2017,Percent,0.07819,407
+Fresh Meadows/Briarwood,Grandparents,2017,Percent,0.06989,408
+Woodhaven,Grandparents,2017,Percent,0.09385,409
+Howard Beach,Grandparents,2017,Percent,0.11893,410
+Bayside,Grandparents,2017,Percent,0.03499,411
+Jamaica/St. Albans,Grandparents,2017,Percent,0.17785,412
+Queens Village,Grandparents,2017,Percent,0.14561,413
+The Rockaways,Grandparents,2017,Percent,0.10986,414
+St. George,Grandparents,2017,Percent,0.08963,501
+South Beach,Grandparents,2017,Percent,0.06764,502
+Tottenville,Grandparents,2017,Percent,0.05345,503
+Bronx,Grandparents,2017,Percent,0.10301,36005
+Brooklyn,Grandparents,2017,Percent,0.09376,36047
+Manhattan,Grandparents,2017,Percent,0.09456,36061
+Queens,Grandparents,2017,Percent,0.09671,36081
+Staten Island,Grandparents,2017,Percent,0.07134,36085
+New York City,Grandparents,2017,Percent,0.0952,3651000
+Battery Park/Tribeca,Other,2012,Number,88.44181,101
+Greenwich Village,Other,2012,Number,130.55819,102
+Lower East Side,Other,2012,Number,578,103
+Chelsea/Clinton,Other,2012,Number,218.59539,104
+Midtown Business District,Other,2012,Number,109.40461,105
+Murray Hill/Stuyvesant,Other,2012,Number,71,106
+Upper West Side,Other,2012,Number,575,107
+Upper East Side,Other,2012,Number,122,108
+Manhattanville,Other,2012,Number,1026,109
+Central Harlem,Other,2012,Number,1525,110
+East Harlem,Other,2012,Number,1128,111
+Washington Heights,Other,2012,Number,2856,112
+Mott Haven,Other,2012,Number,1309.98258,201
+Hunts Point,Other,2012,Number,748.01742,202
+Morrisania,Other,2012,Number,1052.86036,203
+Concourse/Highbridge,Other,2012,Number,2040,204
+University Heights,Other,2012,Number,2429,205
+East Tremont,Other,2012,Number,1099.13964,206
+Bedford Park,Other,2012,Number,1666,207
+Riverdale,Other,2012,Number,591,208
+Unionport/Soundview,Other,2012,Number,2849,209
+Throgs Neck,Other,2012,Number,754,210
+Pelham Parkway,Other,2012,Number,883,211
+Williamsbridge,Other,2012,Number,2017,212
+Williamsburg/Greenpoint,Other,2012,Number,517,301
+Fort Greene/Brooklyn Hts,Other,2012,Number,875,302
+Bedford Stuyvesant,Other,2012,Number,2302,303
+Bushwick,Other,2012,Number,2487,304
+East New York,Other,2012,Number,2412,305
+Park Slope,Other,2012,Number,446,306
+Sunset Park,Other,2012,Number,2175,307
+Crown Heights North,Other,2012,Number,2019,308
+Crown Heights South,Other,2012,Number,1499,309
+Bay Ridge,Other,2012,Number,738,310
+Bensonhurst,Other,2012,Number,1131,311
+Borough Park,Other,2012,Number,1297,312
+Coney Island,Other,2012,Number,504,313
+Flatbush/Midwood,Other,2012,Number,2193,314
+Sheepshead Bay,Other,2012,Number,722,315
+Brownsville,Other,2012,Number,1917,316
+East Flatbush,Other,2012,Number,2415,317
+Canarsie,Other,2012,Number,2705,318
+Astoria,Other,2012,Number,831,401
+Sunnyside/Woodside,Other,2012,Number,1534,402
+Jackson Heights,Other,2012,Number,4342,403
+Elmhurst/Corona,Other,2012,Number,2321,404
+Ridgewood/Glendale,Other,2012,Number,1419,405
+Rego Park/Forest Hills,Other,2012,Number,252,406
+Flushing,Other,2012,Number,1477,407
+Fresh Meadows/Briarwood,Other,2012,Number,951,408
+Woodhaven,Other,2012,Number,2410,409
+Howard Beach,Other,2012,Number,1593,410
+Bayside,Other,2012,Number,631,411
+Jamaica/St. Albans,Other,2012,Number,4691,412
+Queens Village,Other,2012,Number,3627,413
+The Rockaways,Other,2012,Number,1406,414
+St. George,Other,2012,Number,1678,501
+South Beach,Other,2012,Number,837,502
+Tottenville,Other,2012,Number,268,503
+Bronx,Other,2012,Number,17439,36005
+Brooklyn,Other,2012,Number,28354,36047
+Manhattan,Other,2012,Number,8428,36061
+Queens,Other,2012,Number,27485,36081
+Staten Island,Other,2012,Number,2783,36085
+New York City,Other,2012,Number,84489,3651000
+Battery Park/Tribeca,Other,2012,Percent,0.01364,101
+Greenwich Village,Other,2012,Percent,0.01364,102
+Lower East Side,Other,2012,Percent,0.02717,103
+Chelsea/Clinton,Other,2012,Percent,0.02971,104
+Midtown Business District,Other,2012,Percent,0.02971,105
+Murray Hill/Stuyvesant,Other,2012,Percent,0.00635,106
+Upper West Side,Other,2012,Percent,0.01915,107
+Upper East Side,Other,2012,Percent,0.004,108
+Manhattanville,Other,2012,Percent,0.04799,109
+Central Harlem,Other,2012,Percent,0.05584,110
+East Harlem,Other,2012,Percent,0.04164,111
+Washington Heights,Other,2012,Percent,0.07063,112
+Mott Haven,Other,2012,Percent,0.04617,201
+Hunts Point,Other,2012,Percent,0.04617,202
+Morrisania,Other,2012,Percent,0.04491,203
+Concourse/Highbridge,Other,2012,Percent,0.05081,204
+University Heights,Other,2012,Percent,0.06271,205
+East Tremont,Other,2012,Percent,0.04491,206
+Bedford Park,Other,2012,Percent,0.04991,207
+Riverdale,Other,2012,Percent,0.0266,208
+Unionport/Soundview,Other,2012,Percent,0.05905,209
+Throgs Neck,Other,2012,Percent,0.03392,210
+Pelham Parkway,Other,2012,Percent,0.0301,211
+Williamsbridge,Other,2012,Percent,0.05342,212
+Williamsburg/Greenpoint,Other,2012,Percent,0.01608,301
+Fort Greene/Brooklyn Hts,Other,2012,Percent,0.04402,302
+Bedford Stuyvesant,Other,2012,Percent,0.06104,303
+Bushwick,Other,2012,Percent,0.075,304
+East New York,Other,2012,Percent,0.05584,305
+Park Slope,Other,2012,Percent,0.02166,306
+Sunset Park,Other,2012,Percent,0.06275,307
+Crown Heights North,Other,2012,Percent,0.07891,308
+Crown Heights South,Other,2012,Percent,0.05675,309
+Bay Ridge,Other,2012,Percent,0.02805,310
+Bensonhurst,Other,2012,Percent,0.03193,311
+Borough Park,Other,2012,Percent,0.02337,312
+Coney Island,Other,2012,Percent,0.02773,313
+Flatbush/Midwood,Other,2012,Percent,0.05651,314
+Sheepshead Bay,Other,2012,Percent,0.02429,315
+Brownsville,Other,2012,Percent,0.05439,316
+East Flatbush,Other,2012,Percent,0.07712,317
+Canarsie,Other,2012,Percent,0.05383,318
+Astoria,Other,2012,Percent,0.03168,401
+Sunnyside/Woodside,Other,2012,Percent,0.06982,402
+Jackson Heights,Other,2012,Percent,0.11505,403
+Elmhurst/Corona,Other,2012,Percent,0.07769,404
+Ridgewood/Glendale,Other,2012,Percent,0.03915,405
+Rego Park/Forest Hills,Other,2012,Percent,0.01346,406
+Flushing,Other,2012,Percent,0.03329,407
+Fresh Meadows/Briarwood,Other,2012,Percent,0.03042,408
+Woodhaven,Other,2012,Percent,0.06872,409
+Howard Beach,Other,2012,Percent,0.05589,410
+Bayside,Other,2012,Percent,0.02689,411
+Jamaica/St. Albans,Other,2012,Percent,0.08947,412
+Queens Village,Other,2012,Percent,0.08394,413
+The Rockaways,Other,2012,Percent,0.04506,414
+St. George,Other,2012,Percent,0.03846,501
+South Beach,Other,2012,Percent,0.0301,502
+Tottenville,Other,2012,Percent,0.00727,503
+Bronx,Other,2012,Percent,0.04784,36005
+Brooklyn,Other,2012,Percent,0.04773,36047
+Manhattan,Other,2012,Percent,0.03566,36061
+Queens,Other,2012,Percent,0.05971,36081
+Staten Island,Other,2012,Percent,0.0257,36085
+New York City,Other,2012,Percent,0.04791,3651000
+Battery Park/Tribeca,Other,2013,Number,80.36493,101
+Greenwich Village,Other,2013,Number,118.63507,102
+Lower East Side,Other,2013,Number,493,103
+Chelsea/Clinton,Other,2013,Number,253.9172,104
+Midtown Business District,Other,2013,Number,127.0828,105
+Murray Hill/Stuyvesant,Other,2013,Number,72,106
+Upper West Side,Other,2013,Number,519,107
+Upper East Side,Other,2013,Number,47,108
+Manhattanville,Other,2013,Number,970,109
+Central Harlem,Other,2013,Number,1389,110
+East Harlem,Other,2013,Number,1059,111
+Washington Heights,Other,2013,Number,2986,112
+Mott Haven,Other,2013,Number,1543.58977,201
+Hunts Point,Other,2013,Number,881.41023,202
+Morrisania,Other,2013,Number,1069.98402,203
+Concourse/Highbridge,Other,2013,Number,2149,204
+University Heights,Other,2013,Number,2227,205
+East Tremont,Other,2013,Number,1117.01598,206
+Bedford Park,Other,2013,Number,2212,207
+Riverdale,Other,2013,Number,513,208
+Unionport/Soundview,Other,2013,Number,2746,209
+Throgs Neck,Other,2013,Number,802,210
+Pelham Parkway,Other,2013,Number,1098,211
+Williamsbridge,Other,2013,Number,2059,212
+Williamsburg/Greenpoint,Other,2013,Number,632,301
+Fort Greene/Brooklyn Hts,Other,2013,Number,836,302
+Bedford Stuyvesant,Other,2013,Number,2138,303
+Bushwick,Other,2013,Number,2541,304
+East New York,Other,2013,Number,2140,305
+Park Slope,Other,2013,Number,481,306
+Sunset Park,Other,2013,Number,2249,307
+Crown Heights North,Other,2013,Number,1759,308
+Crown Heights South,Other,2013,Number,1483,309
+Bay Ridge,Other,2013,Number,946,310
+Bensonhurst,Other,2013,Number,1158,311
+Borough Park,Other,2013,Number,1215,312
+Coney Island,Other,2013,Number,603,313
+Flatbush/Midwood,Other,2013,Number,2018,314
+Sheepshead Bay,Other,2013,Number,563,315
+Brownsville,Other,2013,Number,1952,316
+East Flatbush,Other,2013,Number,2365,317
+Canarsie,Other,2013,Number,2612,318
+Astoria,Other,2013,Number,763,401
+Sunnyside/Woodside,Other,2013,Number,1346,402
+Jackson Heights,Other,2013,Number,4155,403
+Elmhurst/Corona,Other,2013,Number,2434,404
+Ridgewood/Glendale,Other,2013,Number,1362,405
+Rego Park/Forest Hills,Other,2013,Number,523,406
+Flushing,Other,2013,Number,1420,407
+Fresh Meadows/Briarwood,Other,2013,Number,1113,408
+Woodhaven,Other,2013,Number,2338,409
+Howard Beach,Other,2013,Number,1591,410
+Bayside,Other,2013,Number,557,411
+Jamaica/St. Albans,Other,2013,Number,5234,412
+Queens Village,Other,2013,Number,3383,413
+The Rockaways,Other,2013,Number,1420,414
+St. George,Other,2013,Number,1732,501
+South Beach,Other,2013,Number,599,502
+Tottenville,Other,2013,Number,421,503
+Bronx,Other,2013,Number,18418,36005
+Brooklyn,Other,2013,Number,27691,36047
+Manhattan,Other,2013,Number,8115,36061
+Queens,Other,2013,Number,27639,36081
+Staten Island,Other,2013,Number,2752,36085
+New York City,Other,2013,Number,84615,3651000
+Battery Park/Tribeca,Other,2013,Percent,0.01166,101
+Greenwich Village,Other,2013,Percent,0.01166,102
+Lower East Side,Other,2013,Percent,0.0228,103
+Chelsea/Clinton,Other,2013,Percent,0.03299,104
+Midtown Business District,Other,2013,Percent,0.03299,105
+Murray Hill/Stuyvesant,Other,2013,Percent,0.00622,106
+Upper West Side,Other,2013,Percent,0.01737,107
+Upper East Side,Other,2013,Percent,0.00157,108
+Manhattanville,Other,2013,Percent,0.04685,109
+Central Harlem,Other,2013,Percent,0.05079,110
+East Harlem,Other,2013,Percent,0.04077,111
+Washington Heights,Other,2013,Percent,0.07594,112
+Mott Haven,Other,2013,Percent,0.05469,201
+Hunts Point,Other,2013,Percent,0.05469,202
+Morrisania,Other,2013,Percent,0.04533,203
+Concourse/Highbridge,Other,2013,Percent,0.05566,204
+University Heights,Other,2013,Percent,0.05882,205
+East Tremont,Other,2013,Percent,0.04533,206
+Bedford Park,Other,2013,Percent,0.06595,207
+Riverdale,Other,2013,Percent,0.02366,208
+Unionport/Soundview,Other,2013,Percent,0.05725,209
+Throgs Neck,Other,2013,Percent,0.03484,210
+Pelham Parkway,Other,2013,Percent,0.037,211
+Williamsbridge,Other,2013,Percent,0.0553,212
+Williamsburg/Greenpoint,Other,2013,Percent,0.02005,301
+Fort Greene/Brooklyn Hts,Other,2013,Percent,0.03916,302
+Bedford Stuyvesant,Other,2013,Percent,0.05634,303
+Bushwick,Other,2013,Percent,0.07622,304
+East New York,Other,2013,Percent,0.05054,305
+Park Slope,Other,2013,Percent,0.02286,306
+Sunset Park,Other,2013,Percent,0.06419,307
+Crown Heights North,Other,2013,Percent,0.06664,308
+Crown Heights South,Other,2013,Percent,0.05624,309
+Bay Ridge,Other,2013,Percent,0.03462,310
+Bensonhurst,Other,2013,Percent,0.03299,311
+Borough Park,Other,2013,Percent,0.02152,312
+Coney Island,Other,2013,Percent,0.03211,313
+Flatbush/Midwood,Other,2013,Percent,0.05296,314
+Sheepshead Bay,Other,2013,Percent,0.01801,315
+Brownsville,Other,2013,Percent,0.05557,316
+East Flatbush,Other,2013,Percent,0.07678,317
+Canarsie,Other,2013,Percent,0.05388,318
+Astoria,Other,2013,Percent,0.02915,401
+Sunnyside/Woodside,Other,2013,Percent,0.05979,402
+Jackson Heights,Other,2013,Percent,0.10926,403
+Elmhurst/Corona,Other,2013,Percent,0.07904,404
+Ridgewood/Glendale,Other,2013,Percent,0.03809,405
+Rego Park/Forest Hills,Other,2013,Percent,0.02737,406
+Flushing,Other,2013,Percent,0.03276,407
+Fresh Meadows/Briarwood,Other,2013,Percent,0.03459,408
+Woodhaven,Other,2013,Percent,0.06597,409
+Howard Beach,Other,2013,Percent,0.05622,410
+Bayside,Other,2013,Percent,0.02349,411
+Jamaica/St. Albans,Other,2013,Percent,0.0962,412
+Queens Village,Other,2013,Percent,0.08008,413
+The Rockaways,Other,2013,Percent,0.04534,414
+St. George,Other,2013,Percent,0.03897,501
+South Beach,Other,2013,Percent,0.02182,502
+Tottenville,Other,2013,Percent,0.01172,503
+Bronx,Other,2013,Percent,0.05085,36005
+Brooklyn,Other,2013,Percent,0.0464,36047
+Manhattan,Other,2013,Percent,0.03453,36061
+Queens,Other,2013,Percent,0.05965,36081
+Staten Island,Other,2013,Percent,0.02552,36085
+New York City,Other,2013,Percent,0.04794,3651000
+Battery Park/Tribeca,Other,2014,Number,106.21094,101
+Greenwich Village,Other,2014,Number,156.78906,102
+Lower East Side,Other,2014,Number,419,103
+Chelsea/Clinton,Other,2014,Number,177.27553,104
+Midtown Business District,Other,2014,Number,88.72447,105
+Murray Hill/Stuyvesant,Other,2014,Number,39,106
+Upper West Side,Other,2014,Number,533,107
+Upper East Side,Other,2014,Number,112,108
+Manhattanville,Other,2014,Number,1138,109
+Central Harlem,Other,2014,Number,1513,110
+East Harlem,Other,2014,Number,1101,111
+Washington Heights,Other,2014,Number,3124,112
+Mott Haven,Other,2014,Number,1460.2041,201
+Hunts Point,Other,2014,Number,833.7959,202
+Morrisania,Other,2014,Number,1420.28514,203
+Concourse/Highbridge,Other,2014,Number,2757,204
+University Heights,Other,2014,Number,2058,205
+East Tremont,Other,2014,Number,1482.71486,206
+Bedford Park,Other,2014,Number,1756,207
+Riverdale,Other,2014,Number,566,208
+Unionport/Soundview,Other,2014,Number,3036,209
+Throgs Neck,Other,2014,Number,655,210
+Pelham Parkway,Other,2014,Number,1282,211
+Williamsbridge,Other,2014,Number,1882,212
+Williamsburg/Greenpoint,Other,2014,Number,713,301
+Fort Greene/Brooklyn Hts,Other,2014,Number,714,302
+Bedford Stuyvesant,Other,2014,Number,2266,303
+Bushwick,Other,2014,Number,2351,304
+East New York,Other,2014,Number,1936,305
+Park Slope,Other,2014,Number,413,306
+Sunset Park,Other,2014,Number,2546,307
+Crown Heights North,Other,2014,Number,1780,308
+Crown Heights South,Other,2014,Number,1662,309
+Bay Ridge,Other,2014,Number,1039,310
+Bensonhurst,Other,2014,Number,1405,311
+Borough Park,Other,2014,Number,1365,312
+Coney Island,Other,2014,Number,653,313
+Flatbush/Midwood,Other,2014,Number,1863,314
+Sheepshead Bay,Other,2014,Number,690,315
+Brownsville,Other,2014,Number,2149,316
+East Flatbush,Other,2014,Number,2094,317
+Canarsie,Other,2014,Number,2667,318
+Astoria,Other,2014,Number,843,401
+Sunnyside/Woodside,Other,2014,Number,1204,402
+Jackson Heights,Other,2014,Number,4038,403
+Elmhurst/Corona,Other,2014,Number,2563,404
+Ridgewood/Glendale,Other,2014,Number,1414,405
+Rego Park/Forest Hills,Other,2014,Number,548,406
+Flushing,Other,2014,Number,1521,407
+Fresh Meadows/Briarwood,Other,2014,Number,1242,408
+Woodhaven,Other,2014,Number,2481,409
+Howard Beach,Other,2014,Number,1755,410
+Bayside,Other,2014,Number,490,411
+Jamaica/St. Albans,Other,2014,Number,5259,412
+Queens Village,Other,2014,Number,3151,413
+The Rockaways,Other,2014,Number,1730,414
+St. George,Other,2014,Number,1624,501
+South Beach,Other,2014,Number,652,502
+Tottenville,Other,2014,Number,690,503
+Bronx,Other,2014,Number,19189,36005
+Brooklyn,Other,2014,Number,28306,36047
+Manhattan,Other,2014,Number,8508,36061
+Queens,Other,2014,Number,28239,36081
+Staten Island,Other,2014,Number,2966,36085
+New York City,Other,2014,Number,87208,3651000
+Battery Park/Tribeca,Other,2014,Percent,0.01504,101
+Greenwich Village,Other,2014,Percent,0.01504,102
+Lower East Side,Other,2014,Percent,0.02025,103
+Chelsea/Clinton,Other,2014,Percent,0.02136,104
+Midtown Business District,Other,2014,Percent,0.02136,105
+Murray Hill/Stuyvesant,Other,2014,Percent,0.00332,106
+Upper West Side,Other,2014,Percent,0.01769,107
+Upper East Side,Other,2014,Percent,0.0036,108
+Manhattanville,Other,2014,Percent,0.05467,109
+Central Harlem,Other,2014,Percent,0.05527,110
+East Harlem,Other,2014,Percent,0.04298,111
+Washington Heights,Other,2014,Percent,0.08073,112
+Mott Haven,Other,2014,Percent,0.05118,201
+Hunts Point,Other,2014,Percent,0.05118,202
+Morrisania,Other,2014,Percent,0.05838,203
+Concourse/Highbridge,Other,2014,Percent,0.06891,204
+University Heights,Other,2014,Percent,0.05554,205
+East Tremont,Other,2014,Percent,0.05838,206
+Bedford Park,Other,2014,Percent,0.05417,207
+Riverdale,Other,2014,Percent,0.02493,208
+Unionport/Soundview,Other,2014,Percent,0.06555,209
+Throgs Neck,Other,2014,Percent,0.02773,210
+Pelham Parkway,Other,2014,Percent,0.04168,211
+Williamsbridge,Other,2014,Percent,0.05369,212
+Williamsburg/Greenpoint,Other,2014,Percent,0.02261,301
+Fort Greene/Brooklyn Hts,Other,2014,Percent,0.03255,302
+Bedford Stuyvesant,Other,2014,Percent,0.0612,303
+Bushwick,Other,2014,Percent,0.07374,304
+East New York,Other,2014,Percent,0.04614,305
+Park Slope,Other,2014,Percent,0.01944,306
+Sunset Park,Other,2014,Percent,0.07079,307
+Crown Heights North,Other,2014,Percent,0.06889,308
+Crown Heights South,Other,2014,Percent,0.06552,309
+Bay Ridge,Other,2014,Percent,0.03787,310
+Bensonhurst,Other,2014,Percent,0.03778,311
+Borough Park,Other,2014,Percent,0.02299,312
+Coney Island,Other,2014,Percent,0.0333,313
+Flatbush/Midwood,Other,2014,Percent,0.04821,314
+Sheepshead Bay,Other,2014,Percent,0.02181,315
+Brownsville,Other,2014,Percent,0.06066,316
+East Flatbush,Other,2014,Percent,0.06967,317
+Canarsie,Other,2014,Percent,0.05532,318
+Astoria,Other,2014,Percent,0.0321,401
+Sunnyside/Woodside,Other,2014,Percent,0.05197,402
+Jackson Heights,Other,2014,Percent,0.10561,403
+Elmhurst/Corona,Other,2014,Percent,0.08243,404
+Ridgewood/Glendale,Other,2014,Percent,0.04005,405
+Rego Park/Forest Hills,Other,2014,Percent,0.02871,406
+Flushing,Other,2014,Percent,0.03542,407
+Fresh Meadows/Briarwood,Other,2014,Percent,0.0382,408
+Woodhaven,Other,2014,Percent,0.07232,409
+Howard Beach,Other,2014,Percent,0.0602,410
+Bayside,Other,2014,Percent,0.02061,411
+Jamaica/St. Albans,Other,2014,Percent,0.09114,412
+Queens Village,Other,2014,Percent,0.07748,413
+The Rockaways,Other,2014,Percent,0.05408,414
+St. George,Other,2014,Percent,0.03714,501
+South Beach,Other,2014,Percent,0.02416,502
+Tottenville,Other,2014,Percent,0.01904,503
+Bronx,Other,2014,Percent,0.05294,36005
+Brooklyn,Other,2014,Percent,0.04715,36047
+Manhattan,Other,2014,Percent,0.03602,36061
+Queens,Other,2014,Percent,0.06057,36081
+Staten Island,Other,2014,Percent,0.02773,36085
+New York City,Other,2014,Percent,0.04921,3651000
+Battery Park/Tribeca,Other,2015,Number,110.65322,101
+Greenwich Village,Other,2015,Number,163.34678,102
+Lower East Side,Other,2015,Number,459,103
+Chelsea/Clinton,Other,2015,Number,103.29965,104
+Midtown Business District,Other,2015,Number,51.70035,105
+Murray Hill/Stuyvesant,Other,2015,Number,9,106
+Upper West Side,Other,2015,Number,372,107
+Upper East Side,Other,2015,Number,95,108
+Manhattanville,Other,2015,Number,1076,109
+Central Harlem,Other,2015,Number,1308,110
+East Harlem,Other,2015,Number,1206,111
+Washington Heights,Other,2015,Number,3183,112
+Mott Haven,Other,2015,Number,1394.64132,201
+Hunts Point,Other,2015,Number,796.35868,202
+Morrisania,Other,2015,Number,1314.11846,203
+Concourse/Highbridge,Other,2015,Number,2314,204
+University Heights,Other,2015,Number,2215,205
+East Tremont,Other,2015,Number,1371.88154,206
+Bedford Park,Other,2015,Number,1886,207
+Riverdale,Other,2015,Number,638,208
+Unionport/Soundview,Other,2015,Number,2787,209
+Throgs Neck,Other,2015,Number,950,210
+Pelham Parkway,Other,2015,Number,1313,211
+Williamsbridge,Other,2015,Number,1818,212
+Williamsburg/Greenpoint,Other,2015,Number,896,301
+Fort Greene/Brooklyn Hts,Other,2015,Number,693,302
+Bedford Stuyvesant,Other,2015,Number,2065,303
+Bushwick,Other,2015,Number,2310,304
+East New York,Other,2015,Number,2031,305
+Park Slope,Other,2015,Number,388,306
+Sunset Park,Other,2015,Number,2712,307
+Crown Heights North,Other,2015,Number,1849,308
+Crown Heights South,Other,2015,Number,1673,309
+Bay Ridge,Other,2015,Number,1183,310
+Bensonhurst,Other,2015,Number,1743,311
+Borough Park,Other,2015,Number,1613,312
+Coney Island,Other,2015,Number,686,313
+Flatbush/Midwood,Other,2015,Number,1876,314
+Sheepshead Bay,Other,2015,Number,699,315
+Brownsville,Other,2015,Number,2178,316
+East Flatbush,Other,2015,Number,2042,317
+Canarsie,Other,2015,Number,2628,318
+Astoria,Other,2015,Number,874,401
+Sunnyside/Woodside,Other,2015,Number,1265,402
+Jackson Heights,Other,2015,Number,3880,403
+Elmhurst/Corona,Other,2015,Number,2434,404
+Ridgewood/Glendale,Other,2015,Number,1560,405
+Rego Park/Forest Hills,Other,2015,Number,749,406
+Flushing,Other,2015,Number,1456,407
+Fresh Meadows/Briarwood,Other,2015,Number,1316,408
+Woodhaven,Other,2015,Number,2647,409
+Howard Beach,Other,2015,Number,1783,410
+Bayside,Other,2015,Number,658,411
+Jamaica/St. Albans,Other,2015,Number,4829,412
+Queens Village,Other,2015,Number,2918,413
+The Rockaways,Other,2015,Number,1942,414
+St. George,Other,2015,Number,1688,501
+South Beach,Other,2015,Number,669,502
+Tottenville,Other,2015,Number,663,503
+Bronx,Other,2015,Number,18798,36005
+Brooklyn,Other,2015,Number,29265,36047
+Manhattan,Other,2015,Number,8137,36061
+Queens,Other,2015,Number,28311,36081
+Staten Island,Other,2015,Number,3020,36085
+New York City,Other,2015,Number,87531,3651000
+Battery Park/Tribeca,Other,2015,Percent,0.0152,101
+Greenwich Village,Other,2015,Percent,0.0152,102
+Lower East Side,Other,2015,Percent,0.02267,103
+Chelsea/Clinton,Other,2015,Percent,0.01175,104
+Midtown Business District,Other,2015,Percent,0.01175,105
+Murray Hill/Stuyvesant,Other,2015,Percent,0.00079,106
+Upper West Side,Other,2015,Percent,0.01262,107
+Upper East Side,Other,2015,Percent,0.00294,108
+Manhattanville,Other,2015,Percent,0.05144,109
+Central Harlem,Other,2015,Percent,0.04661,110
+East Harlem,Other,2015,Percent,0.04767,111
+Washington Heights,Other,2015,Percent,0.08411,112
+Mott Haven,Other,2015,Percent,0.04883,201
+Hunts Point,Other,2015,Percent,0.04883,202
+Morrisania,Other,2015,Percent,0.05391,203
+Concourse/Highbridge,Other,2015,Percent,0.0587,204
+University Heights,Other,2015,Percent,0.05839,205
+East Tremont,Other,2015,Percent,0.05391,206
+Bedford Park,Other,2015,Percent,0.05605,207
+Riverdale,Other,2015,Percent,0.02714,208
+Unionport/Soundview,Other,2015,Percent,0.06111,209
+Throgs Neck,Other,2015,Percent,0.04034,210
+Pelham Parkway,Other,2015,Percent,0.04383,211
+Williamsbridge,Other,2015,Percent,0.05334,212
+Williamsburg/Greenpoint,Other,2015,Percent,0.02735,301
+Fort Greene/Brooklyn Hts,Other,2015,Percent,0.03124,302
+Bedford Stuyvesant,Other,2015,Percent,0.0548,303
+Bushwick,Other,2015,Percent,0.07506,304
+East New York,Other,2015,Percent,0.04935,305
+Park Slope,Other,2015,Percent,0.01789,306
+Sunset Park,Other,2015,Percent,0.07339,307
+Crown Heights North,Other,2015,Percent,0.07292,308
+Crown Heights South,Other,2015,Percent,0.06457,309
+Bay Ridge,Other,2015,Percent,0.04421,310
+Bensonhurst,Other,2015,Percent,0.04516,311
+Borough Park,Other,2015,Percent,0.02732,312
+Coney Island,Other,2015,Percent,0.03397,313
+Flatbush/Midwood,Other,2015,Percent,0.04666,314
+Sheepshead Bay,Other,2015,Percent,0.02145,315
+Brownsville,Other,2015,Percent,0.06313,316
+East Flatbush,Other,2015,Percent,0.06902,317
+Canarsie,Other,2015,Percent,0.05528,318
+Astoria,Other,2015,Percent,0.03376,401
+Sunnyside/Woodside,Other,2015,Percent,0.05169,402
+Jackson Heights,Other,2015,Percent,0.09948,403
+Elmhurst/Corona,Other,2015,Percent,0.07828,404
+Ridgewood/Glendale,Other,2015,Percent,0.0429,405
+Rego Park/Forest Hills,Other,2015,Percent,0.03742,406
+Flushing,Other,2015,Percent,0.03347,407
+Fresh Meadows/Briarwood,Other,2015,Percent,0.03954,408
+Woodhaven,Other,2015,Percent,0.07439,409
+Howard Beach,Other,2015,Percent,0.06159,410
+Bayside,Other,2015,Percent,0.02833,411
+Jamaica/St. Albans,Other,2015,Percent,0.08659,412
+Queens Village,Other,2015,Percent,0.07277,413
+The Rockaways,Other,2015,Percent,0.0603,414
+St. George,Other,2015,Percent,0.0392,501
+South Beach,Other,2015,Percent,0.02435,502
+Tottenville,Other,2015,Percent,0.01861,503
+Bronx,Other,2015,Percent,0.05187,36005
+Brooklyn,Other,2015,Percent,0.0485,36047
+Manhattan,Other,2015,Percent,0.03437,36061
+Queens,Other,2015,Percent,0.06031,36081
+Staten Island,Other,2015,Percent,0.02845,36085
+New York City,Other,2015,Percent,0.04922,3651000
+Battery Park/Tribeca,Other,2016,Number,101.76888,101
+Greenwich Village,Other,2016,Number,150.23112,102
+Lower East Side,Other,2016,Number,427,103
+Chelsea/Clinton,Other,2016,Number,163.28027,104
+Midtown Business District,Other,2016,Number,81.71973,105
+Murray Hill/Stuyvesant,Other,2016,Number,292,106
+Upper West Side,Other,2016,Number,352,107
+Upper East Side,Other,2016,Number,132,108
+Manhattanville,Other,2016,Number,1138,109
+Central Harlem,Other,2016,Number,1507,110
+East Harlem,Other,2016,Number,1179,111
+Washington Heights,Other,2016,Number,3466,112
+Mott Haven,Other,2016,Number,1433.46978,201
+Hunts Point,Other,2016,Number,818.53022,202
+Morrisania,Other,2016,Number,1173.21493,203
+Concourse/Highbridge,Other,2016,Number,2175,204
+University Heights,Other,2016,Number,1957,205
+East Tremont,Other,2016,Number,1224.78507,206
+Bedford Park,Other,2016,Number,2082,207
+Riverdale,Other,2016,Number,737,208
+Unionport/Soundview,Other,2016,Number,2608,209
+Throgs Neck,Other,2016,Number,1140,210
+Pelham Parkway,Other,2016,Number,1269,211
+Williamsbridge,Other,2016,Number,1962,212
+Williamsburg/Greenpoint,Other,2016,Number,1026,301
+Fort Greene/Brooklyn Hts,Other,2016,Number,765,302
+Bedford Stuyvesant,Other,2016,Number,1876,303
+Bushwick,Other,2016,Number,1864,304
+East New York,Other,2016,Number,2064,305
+Park Slope,Other,2016,Number,369,306
+Sunset Park,Other,2016,Number,2655,307
+Crown Heights North,Other,2016,Number,1710,308
+Crown Heights South,Other,2016,Number,1667,309
+Bay Ridge,Other,2016,Number,1193,310
+Bensonhurst,Other,2016,Number,1897,311
+Borough Park,Other,2016,Number,1724,312
+Coney Island,Other,2016,Number,788,313
+Flatbush/Midwood,Other,2016,Number,2051,314
+Sheepshead Bay,Other,2016,Number,889,315
+Brownsville,Other,2016,Number,2388,316
+East Flatbush,Other,2016,Number,2441,317
+Canarsie,Other,2016,Number,2926,318
+Astoria,Other,2016,Number,1030,401
+Sunnyside/Woodside,Other,2016,Number,1346,402
+Jackson Heights,Other,2016,Number,3457,403
+Elmhurst/Corona,Other,2016,Number,2347,404
+Ridgewood/Glendale,Other,2016,Number,1631,405
+Rego Park/Forest Hills,Other,2016,Number,847,406
+Flushing,Other,2016,Number,1267,407
+Fresh Meadows/Briarwood,Other,2016,Number,1219,408
+Woodhaven,Other,2016,Number,2620,409
+Howard Beach,Other,2016,Number,2020,410
+Bayside,Other,2016,Number,611,411
+Jamaica/St. Albans,Other,2016,Number,4900,412
+Queens Village,Other,2016,Number,3089,413
+The Rockaways,Other,2016,Number,1574,414
+St. George,Other,2016,Number,1475,501
+South Beach,Other,2016,Number,789,502
+Tottenville,Other,2016,Number,818,503
+Bronx,Other,2016,Number,18580,36005
+Brooklyn,Other,2016,Number,30293,36047
+Manhattan,Other,2016,Number,8990,36061
+Queens,Other,2016,Number,27958,36081
+Staten Island,Other,2016,Number,3082,36085
+New York City,Other,2016,Number,88903,3651000
+Battery Park/Tribeca,Other,2016,Percent,0.01345,101
+Greenwich Village,Other,2016,Percent,0.01345,102
+Lower East Side,Other,2016,Percent,0.02292,103
+Chelsea/Clinton,Other,2016,Percent,0.01977,104
+Midtown Business District,Other,2016,Percent,0.01977,105
+Murray Hill/Stuyvesant,Other,2016,Percent,0.0234,106
+Upper West Side,Other,2016,Percent,0.01198,107
+Upper East Side,Other,2016,Percent,0.00407,108
+Manhattanville,Other,2016,Percent,0.05624,109
+Central Harlem,Other,2016,Percent,0.05166,110
+East Harlem,Other,2016,Percent,0.04619,111
+Washington Heights,Other,2016,Percent,0.08921,112
+Mott Haven,Other,2016,Percent,0.04897,201
+Hunts Point,Other,2016,Percent,0.04897,202
+Morrisania,Other,2016,Percent,0.04877,203
+Concourse/Highbridge,Other,2016,Percent,0.05596,204
+University Heights,Other,2016,Percent,0.05103,205
+East Tremont,Other,2016,Percent,0.04877,206
+Bedford Park,Other,2016,Percent,0.06115,207
+Riverdale,Other,2016,Percent,0.03148,208
+Unionport/Soundview,Other,2016,Percent,0.05605,209
+Throgs Neck,Other,2016,Percent,0.04982,210
+Pelham Parkway,Other,2016,Percent,0.04323,211
+Williamsbridge,Other,2016,Percent,0.05895,212
+Williamsburg/Greenpoint,Other,2016,Percent,0.03025,301
+Fort Greene/Brooklyn Hts,Other,2016,Percent,0.03286,302
+Bedford Stuyvesant,Other,2016,Percent,0.0503,303
+Bushwick,Other,2016,Percent,0.06323,304
+East New York,Other,2016,Percent,0.0509,305
+Park Slope,Other,2016,Percent,0.01599,306
+Sunset Park,Other,2016,Percent,0.07283,307
+Crown Heights North,Other,2016,Percent,0.06805,308
+Crown Heights South,Other,2016,Percent,0.06613,309
+Bay Ridge,Other,2016,Percent,0.04755,310
+Bensonhurst,Other,2016,Percent,0.04855,311
+Borough Park,Other,2016,Percent,0.02924,312
+Coney Island,Other,2016,Percent,0.03726,313
+Flatbush/Midwood,Other,2016,Percent,0.05026,314
+Sheepshead Bay,Other,2016,Percent,0.02664,315
+Brownsville,Other,2016,Percent,0.07291,316
+East Flatbush,Other,2016,Percent,0.07935,317
+Canarsie,Other,2016,Percent,0.06064,318
+Astoria,Other,2016,Percent,0.04121,401
+Sunnyside/Woodside,Other,2016,Percent,0.0553,402
+Jackson Heights,Other,2016,Percent,0.0882,403
+Elmhurst/Corona,Other,2016,Percent,0.07403,404
+Ridgewood/Glendale,Other,2016,Percent,0.0444,405
+Rego Park/Forest Hills,Other,2016,Percent,0.04211,406
+Flushing,Other,2016,Percent,0.02883,407
+Fresh Meadows/Briarwood,Other,2016,Percent,0.03691,408
+Woodhaven,Other,2016,Percent,0.0739,409
+Howard Beach,Other,2016,Percent,0.06884,410
+Bayside,Other,2016,Percent,0.02666,411
+Jamaica/St. Albans,Other,2016,Percent,0.08761,412
+Queens Village,Other,2016,Percent,0.07834,413
+The Rockaways,Other,2016,Percent,0.04676,414
+St. George,Other,2016,Percent,0.03535,501
+South Beach,Other,2016,Percent,0.02795,502
+Tottenville,Other,2016,Percent,0.02295,503
+Bronx,Other,2016,Percent,0.05134,36005
+Brooklyn,Other,2016,Percent,0.0501,36047
+Manhattan,Other,2016,Percent,0.03779,36061
+Queens,Other,2016,Percent,0.05938,36081
+Staten Island,Other,2016,Percent,0.02919,36085
+New York City,Other,2016,Percent,0.04992,3651000
+Battery Park/Tribeca,Other,2017,Number,69.46114,101
+Greenwich Village,Other,2017,Number,102.53886,102
+Lower East Side,Other,2017,Number,496,103
+Chelsea/Clinton,Other,2017,Number,123.95958,104
+Midtown Business District,Other,2017,Number,62.04042,105
+Murray Hill/Stuyvesant,Other,2017,Number,300,106
+Upper West Side,Other,2017,Number,269,107
+Upper East Side,Other,2017,Number,202,108
+Manhattanville,Other,2017,Number,1241,109
+Central Harlem,Other,2017,Number,1612,110
+East Harlem,Other,2017,Number,1350,111
+Washington Heights,Other,2017,Number,3458,112
+Mott Haven,Other,2017,Number,1315.71137,201
+Hunts Point,Other,2017,Number,751.28863,202
+Morrisania,Other,2017,Number,1212.84425,203
+Concourse/Highbridge,Other,2017,Number,2346,204
+University Heights,Other,2017,Number,1837,205
+East Tremont,Other,2017,Number,1266.15575,206
+Bedford Park,Other,2017,Number,2127,207
+Riverdale,Other,2017,Number,974,208
+Unionport/Soundview,Other,2017,Number,2599,209
+Throgs Neck,Other,2017,Number,1181,210
+Pelham Parkway,Other,2017,Number,1430,211
+Williamsbridge,Other,2017,Number,1968,212
+Williamsburg/Greenpoint,Other,2017,Number,1131,301
+Fort Greene/Brooklyn Hts,Other,2017,Number,695,302
+Bedford Stuyvesant,Other,2017,Number,1668,303
+Bushwick,Other,2017,Number,1722,304
+East New York,Other,2017,Number,2280,305
+Park Slope,Other,2017,Number,661,306
+Sunset Park,Other,2017,Number,2678,307
+Crown Heights North,Other,2017,Number,1553,308
+Crown Heights South,Other,2017,Number,1447,309
+Bay Ridge,Other,2017,Number,1295,310
+Bensonhurst,Other,2017,Number,2083,311
+Borough Park,Other,2017,Number,1595,312
+Coney Island,Other,2017,Number,812,313
+Flatbush/Midwood,Other,2017,Number,2016,314
+Sheepshead Bay,Other,2017,Number,814,315
+Brownsville,Other,2017,Number,2930,316
+East Flatbush,Other,2017,Number,2117,317
+Canarsie,Other,2017,Number,2921,318
+Astoria,Other,2017,Number,1058,401
+Sunnyside/Woodside,Other,2017,Number,1100,402
+Jackson Heights,Other,2017,Number,3562,403
+Elmhurst/Corona,Other,2017,Number,2537,404
+Ridgewood/Glendale,Other,2017,Number,1921,405
+Rego Park/Forest Hills,Other,2017,Number,989,406
+Flushing,Other,2017,Number,1514,407
+Fresh Meadows/Briarwood,Other,2017,Number,1304,408
+Woodhaven,Other,2017,Number,2484,409
+Howard Beach,Other,2017,Number,2091,410
+Bayside,Other,2017,Number,773,411
+Jamaica/St. Albans,Other,2017,Number,4665,412
+Queens Village,Other,2017,Number,3326,413
+The Rockaways,Other,2017,Number,1566,414
+St. George,Other,2017,Number,1435,501
+South Beach,Other,2017,Number,1017,502
+Tottenville,Other,2017,Number,851,503
+Bronx,Other,2017,Number,19008,36005
+Brooklyn,Other,2017,Number,30418,36047
+Manhattan,Other,2017,Number,9286,36061
+Queens,Other,2017,Number,28890,36081
+Staten Island,Other,2017,Number,3303,36085
+New York City,Other,2017,Number,90905,3651000
+Battery Park/Tribeca,Other,2017,Percent,0.0086,101
+Greenwich Village,Other,2017,Percent,0.0086,102
+Lower East Side,Other,2017,Percent,0.02701,103
+Chelsea/Clinton,Other,2017,Percent,0.01512,104
+Midtown Business District,Other,2017,Percent,0.01512,105
+Murray Hill/Stuyvesant,Other,2017,Percent,0.02333,106
+Upper West Side,Other,2017,Percent,0.00912,107
+Upper East Side,Other,2017,Percent,0.00616,108
+Manhattanville,Other,2017,Percent,0.0617,109
+Central Harlem,Other,2017,Percent,0.05752,110
+East Harlem,Other,2017,Percent,0.05253,111
+Washington Heights,Other,2017,Percent,0.08982,112
+Mott Haven,Other,2017,Percent,0.0466,201
+Hunts Point,Other,2017,Percent,0.0466,202
+Morrisania,Other,2017,Percent,0.05058,203
+Concourse/Highbridge,Other,2017,Percent,0.06025,204
+University Heights,Other,2017,Percent,0.04652,205
+East Tremont,Other,2017,Percent,0.05058,206
+Bedford Park,Other,2017,Percent,0.06041,207
+Riverdale,Other,2017,Percent,0.04134,208
+Unionport/Soundview,Other,2017,Percent,0.05662,209
+Throgs Neck,Other,2017,Percent,0.05097,210
+Pelham Parkway,Other,2017,Percent,0.04945,211
+Williamsbridge,Other,2017,Percent,0.06001,212
+Williamsburg/Greenpoint,Other,2017,Percent,0.03332,301
+Fort Greene/Brooklyn Hts,Other,2017,Percent,0.0285,302
+Bedford Stuyvesant,Other,2017,Percent,0.04493,303
+Bushwick,Other,2017,Percent,0.06114,304
+East New York,Other,2017,Percent,0.05562,305
+Park Slope,Other,2017,Percent,0.02662,306
+Sunset Park,Other,2017,Percent,0.07469,307
+Crown Heights North,Other,2017,Percent,0.0613,308
+Crown Heights South,Other,2017,Percent,0.06065,309
+Bay Ridge,Other,2017,Percent,0.05323,310
+Bensonhurst,Other,2017,Percent,0.05201,311
+Borough Park,Other,2017,Percent,0.02674,312
+Coney Island,Other,2017,Percent,0.03597,313
+Flatbush/Midwood,Other,2017,Percent,0.04861,314
+Sheepshead Bay,Other,2017,Percent,0.02399,315
+Brownsville,Other,2017,Percent,0.09768,316
+East Flatbush,Other,2017,Percent,0.07029,317
+Canarsie,Other,2017,Percent,0.06013,318
+Astoria,Other,2017,Percent,0.04169,401
+Sunnyside/Woodside,Other,2017,Percent,0.04799,402
+Jackson Heights,Other,2017,Percent,0.08943,403
+Elmhurst/Corona,Other,2017,Percent,0.0798,404
+Ridgewood/Glendale,Other,2017,Percent,0.04992,405
+Rego Park/Forest Hills,Other,2017,Percent,0.04809,406
+Flushing,Other,2017,Percent,0.03442,407
+Fresh Meadows/Briarwood,Other,2017,Percent,0.03862,408
+Woodhaven,Other,2017,Percent,0.07258,409
+Howard Beach,Other,2017,Percent,0.07213,410
+Bayside,Other,2017,Percent,0.03433,411
+Jamaica/St. Albans,Other,2017,Percent,0.08439,412
+Queens Village,Other,2017,Percent,0.08247,413
+The Rockaways,Other,2017,Percent,0.04667,414
+St. George,Other,2017,Percent,0.03529,501
+South Beach,Other,2017,Percent,0.03535,502
+Tottenville,Other,2017,Percent,0.02387,503
+Bronx,Other,2017,Percent,0.0526,36005
+Brooklyn,Other,2017,Percent,0.05026,36047
+Manhattan,Other,2017,Percent,0.039,36061
+Queens,Other,2017,Percent,0.06126,36081
+Staten Island,Other,2017,Percent,0.03143,36085
+New York City,Other,2017,Percent,0.05103,3651000
+Battery Park/Tribeca,Married Couples,2018,Number,6697.75044,101
+Greenwich Village,Married Couples,2018,Number,9887.24956,102
+Lower East Side,Married Couples,2018,Number,7233,103
+Chelsea/Clinton,Married Couples,2018,Number,5436.22733,104
+Midtown Business District,Married Couples,2018,Number,2720.77267,105
+Murray Hill/Stuyvesant,Married Couples,2018,Number,10445,106
+Upper West Side,Married Couples,2018,Number,23437,107
+Upper East Side,Married Couples,2018,Number,26933,108
+Manhattanville,Married Couples,2018,Number,8648,109
+Central Harlem,Married Couples,2018,Number,9633,110
+East Harlem,Married Couples,2018,Number,7904,111
+Washington Heights,Married Couples,2018,Number,15393,112
+Mott Haven,Married Couples,2018,Number,7388.8619,201
+Hunts Point,Married Couples,2018,Number,4219.1381,202
+Morrisania,Married Couples,2018,Number,6290.74278,203
+Concourse/Highbridge,Married Couples,2018,Number,12540,204
+University Heights,Married Couples,2018,Number,10999,205
+East Tremont,Married Couples,2018,Number,6567.25722,206
+Bedford Park,Married Couples,2018,Number,12823,207
+Riverdale,Married Couples,2018,Number,11396,208
+Unionport/Soundview,Married Couples,2018,Number,17207,209
+Throgs Neck,Married Couples,2018,Number,10578,210
+Pelham Parkway,Married Couples,2018,Number,14171,211
+Williamsbridge,Married Couples,2018,Number,12536,212
+Williamsburg/Greenpoint,Married Couples,2018,Number,27827,301
+Fort Greene/Brooklyn Hts,Married Couples,2018,Number,15700,302
+Bedford Stuyvesant,Married Couples,2018,Number,19299,303
+Bushwick,Married Couples,2018,Number,9419,304
+East New York,Married Couples,2018,Number,14100,305
+Park Slope,Married Couples,2018,Number,18975,306
+Sunset Park,Married Couples,2018,Number,22351,307
+Crown Heights North,Married Couples,2018,Number,9534,308
+Crown Heights South,Married Couples,2018,Number,11186,309
+Bay Ridge,Married Couples,2018,Number,17604,310
+Bensonhurst,Married Couples,2018,Number,27801,311
+Borough Park,Married Couples,2018,Number,50648,312
+Coney Island,Married Couples,2018,Number,12149,313
+Flatbush/Midwood,Married Couples,2018,Number,26107,314
+Sheepshead Bay,Married Couples,2018,Number,25119,315
+Brownsville,Married Couples,2018,Number,6441,316
+East Flatbush,Married Couples,2018,Number,9694,317
+Canarsie,Married Couples,2018,Number,25914,318
+Astoria,Married Couples,2018,Number,14344,401
+Sunnyside/Woodside,Married Couples,2018,Number,16684,402
+Jackson Heights,Married Couples,2018,Number,19985,403
+Elmhurst/Corona,Married Couples,2018,Number,18273,404
+Ridgewood/Glendale,Married Couples,2018,Number,25600,405
+Rego Park/Forest Hills,Married Couples,2018,Number,15187,406
+Flushing,Married Couples,2018,Number,31905,407
+Fresh Meadows/Briarwood,Married Couples,2018,Number,24469,408
+Woodhaven,Married Couples,2018,Number,19618,409
+Howard Beach,Married Couples,2018,Number,16497,410
+Bayside,Married Couples,2018,Number,16774,411
+Jamaica/St. Albans,Married Couples,2018,Number,22502,412
+Queens Village,Married Couples,2018,Number,21783,413
+The Rockaways,Married Couples,2018,Number,17610,414
+St. George,Married Couples,2018,Number,22056,501
+South Beach,Married Couples,2018,Number,21362,502
+Tottenville,Married Couples,2018,Number,27272,503
+Bronx,Married Couples,2018,Number,126716,36005
+Brooklyn,Married Couples,2018,Number,349868,36047
+Manhattan,Married Couples,2018,Number,134368,36061
+Queens,Married Couples,2018,Number,281231,36081
+Staten Island,Married Couples,2018,Number,70690,36085
+New York City,Married Couples,2018,Number,962873,3651000
+Battery Park/Tribeca,Single Parents,2018,Number,1035.45566,101
+Greenwich Village,Single Parents,2018,Number,1528.54434,102
+Lower East Side,Single Parents,2018,Number,6907,103
+Chelsea/Clinton,Single Parents,2018,Number,2452.5336,104
+Midtown Business District,Single Parents,2018,Number,1227.4664,105
+Murray Hill/Stuyvesant,Single Parents,2018,Number,1770,106
+Upper West Side,Single Parents,2018,Number,5561,107
+Upper East Side,Single Parents,2018,Number,3795,108
+Manhattanville,Single Parents,2018,Number,6403,109
+Central Harlem,Single Parents,2018,Number,13101,110
+East Harlem,Single Parents,2018,Number,12914,111
+Washington Heights,Single Parents,2018,Number,12430,112
+Mott Haven,Single Parents,2018,Number,15703.87766,201
+Hunts Point,Single Parents,2018,Number,8967.12234,202
+Morrisania,Single Parents,2018,Number,13563.8943,203
+Concourse/Highbridge,Single Parents,2018,Number,19387,204
+University Heights,Single Parents,2018,Number,22452,205
+East Tremont,Single Parents,2018,Number,14160.1057,206
+Bedford Park,Single Parents,2018,Number,16630,207
+Riverdale,Single Parents,2018,Number,8702,208
+Unionport/Soundview,Single Parents,2018,Number,20769,209
+Throgs Neck,Single Parents,2018,Number,9246,210
+Pelham Parkway,Single Parents,2018,Number,10476,211
+Williamsbridge,Single Parents,2018,Number,14039,212
+Williamsburg/Greenpoint,Single Parents,2018,Number,4968,301
+Fort Greene/Brooklyn Hts,Single Parents,2018,Number,6560,302
+Bedford Stuyvesant,Single Parents,2018,Number,12174,303
+Bushwick,Single Parents,2018,Number,11735,304
+East New York,Single Parents,2018,Number,17968,305
+Park Slope,Single Parents,2018,Number,4002,306
+Sunset Park,Single Parents,2018,Number,6543,307
+Crown Heights North,Single Parents,2018,Number,10899,308
+Crown Heights South,Single Parents,2018,Number,7938,309
+Bay Ridge,Single Parents,2018,Number,3664,310
+Bensonhurst,Single Parents,2018,Number,7949,311
+Borough Park,Single Parents,2018,Number,4005,312
+Coney Island,Single Parents,2018,Number,7477,313
+Flatbush/Midwood,Single Parents,2018,Number,9095,314
+Sheepshead Bay,Single Parents,2018,Number,5355,315
+Brownsville,Single Parents,2018,Number,14728,316
+East Flatbush,Single Parents,2018,Number,12229,317
+Canarsie,Single Parents,2018,Number,13683,318
+Astoria,Single Parents,2018,Number,6473,401
+Sunnyside/Woodside,Single Parents,2018,Number,4279,402
+Jackson Heights,Single Parents,2018,Number,11225,403
+Elmhurst/Corona,Single Parents,2018,Number,8043,404
+Ridgewood/Glendale,Single Parents,2018,Number,9817,405
+Rego Park/Forest Hills,Single Parents,2018,Number,3157,406
+Flushing,Single Parents,2018,Number,6416,407
+Fresh Meadows/Briarwood,Single Parents,2018,Number,5192,408
+Woodhaven,Single Parents,2018,Number,7609,409
+Howard Beach,Single Parents,2018,Number,6206,410
+Bayside,Single Parents,2018,Number,3292,411
+Jamaica/St. Albans,Single Parents,2018,Number,16054,412
+Queens Village,Single Parents,2018,Number,8207,413
+The Rockaways,Single Parents,2018,Number,11085,414
+St. George,Single Parents,2018,Number,12170,501
+South Beach,Single Parents,2018,Number,4804,502
+Tottenville,Single Parents,2018,Number,5040,503
+Bronx,Single Parents,2018,Number,174096,36005
+Brooklyn,Single Parents,2018,Number,160972,36047
+Manhattan,Single Parents,2018,Number,69125,36061
+Queens,Single Parents,2018,Number,107055,36081
+Staten Island,Single Parents,2018,Number,22014,36085
+New York City,Single Parents,2018,Number,533262,3651000
+Battery Park/Tribeca,Grandparents,2018,Number,82.38415,101
+Greenwich Village,Grandparents,2018,Number,121.61585,102
+Lower East Side,Grandparents,2018,Number,2674,103
+Chelsea/Clinton,Grandparents,2018,Number,313.23119,104
+Midtown Business District,Grandparents,2018,Number,156.76881,105
+Murray Hill/Stuyvesant,Grandparents,2018,Number,374,106
+Upper West Side,Grandparents,2018,Number,895,107
+Upper East Side,Grandparents,2018,Number,367,108
+Manhattanville,Grandparents,2018,Number,2873,109
+Central Harlem,Grandparents,2018,Number,3529,110
+East Harlem,Grandparents,2018,Number,2964,111
+Washington Heights,Grandparents,2018,Number,6708,112
+Mott Haven,Grandparents,2018,Number,2964.3289,201
+Hunts Point,Grandparents,2018,Number,1692.6711,202
+Morrisania,Grandparents,2018,Number,2175.19384,203
+Concourse/Highbridge,Grandparents,2018,Number,3769,204
+University Heights,Grandparents,2018,Number,4031,205
+East Tremont,Grandparents,2018,Number,2270.80616,206
+Bedford Park,Grandparents,2018,Number,3541,207
+Riverdale,Grandparents,2018,Number,1961,208
+Unionport/Soundview,Grandparents,2018,Number,4745,209
+Throgs Neck,Grandparents,2018,Number,2086,210
+Pelham Parkway,Grandparents,2018,Number,2821,211
+Williamsbridge,Grandparents,2018,Number,4328,212
+Williamsburg/Greenpoint,Grandparents,2018,Number,1723,301
+Fort Greene/Brooklyn Hts,Grandparents,2018,Number,2106,302
+Bedford Stuyvesant,Grandparents,2018,Number,4104,303
+Bushwick,Grandparents,2018,Number,3775,304
+East New York,Grandparents,2018,Number,6393,305
+Park Slope,Grandparents,2018,Number,1433,306
+Sunset Park,Grandparents,2018,Number,3021,307
+Crown Heights North,Grandparents,2018,Number,2933,308
+Crown Heights South,Grandparents,2018,Number,2829,309
+Bay Ridge,Grandparents,2018,Number,1764,310
+Bensonhurst,Grandparents,2018,Number,2117,311
+Borough Park,Grandparents,2018,Number,2077,312
+Coney Island,Grandparents,2018,Number,2320,313
+Flatbush/Midwood,Grandparents,2018,Number,3468,314
+Sheepshead Bay,Grandparents,2018,Number,1968,315
+Brownsville,Grandparents,2018,Number,3114,316
+East Flatbush,Grandparents,2018,Number,4677,317
+Canarsie,Grandparents,2018,Number,5985,318
+Astoria,Grandparents,2018,Number,2423,401
+Sunnyside/Woodside,Grandparents,2018,Number,919,402
+Jackson Heights,Grandparents,2018,Number,3441,403
+Elmhurst/Corona,Grandparents,2018,Number,2447,404
+Ridgewood/Glendale,Grandparents,2018,Number,2782,405
+Rego Park/Forest Hills,Grandparents,2018,Number,922,406
+Flushing,Grandparents,2018,Number,3280,407
+Fresh Meadows/Briarwood,Grandparents,2018,Number,2233,408
+Woodhaven,Grandparents,2018,Number,2713,409
+Howard Beach,Grandparents,2018,Number,3603,410
+Bayside,Grandparents,2018,Number,888,411
+Jamaica/St. Albans,Grandparents,2018,Number,9855,412
+Queens Village,Grandparents,2018,Number,5995,413
+The Rockaways,Grandparents,2018,Number,3908,414
+St. George,Grandparents,2018,Number,3187,501
+South Beach,Grandparents,2018,Number,2069,502
+Tottenville,Grandparents,2018,Number,2001,503
+Bronx,Grandparents,2018,Number,36385,36005
+Brooklyn,Grandparents,2018,Number,55807,36047
+Manhattan,Grandparents,2018,Number,21058,36061
+Queens,Grandparents,2018,Number,45409,36081
+Staten Island,Grandparents,2018,Number,7257,36085
+New York City,Grandparents,2018,Number,165916,3651000
+Battery Park/Tribeca,Other,2018,Number,65.42271,101
+Greenwich Village,Other,2018,Number,96.57729,102
+Lower East Side,Other,2018,Number,649,103
+Chelsea/Clinton,Other,2018,Number,119.96088,104
+Midtown Business District,Other,2018,Number,60.03912,105
+Murray Hill/Stuyvesant,Other,2018,Number,270,106
+Upper West Side,Other,2018,Number,192,107
+Upper East Side,Other,2018,Number,219,108
+Manhattanville,Other,2018,Number,1371,109
+Central Harlem,Other,2018,Number,1606,110
+East Harlem,Other,2018,Number,1373,111
+Washington Heights,Other,2018,Number,3651,112
+Mott Haven,Other,2018,Number,1137.48244,201
+Hunts Point,Other,2018,Number,649.51756,202
+Morrisania,Other,2018,Number,1114.99477,203
+Concourse/Highbridge,Other,2018,Number,2150,204
+University Heights,Other,2018,Number,1811,205
+East Tremont,Other,2018,Number,1164.00523,206
+Bedford Park,Other,2018,Number,1663,207
+Riverdale,Other,2018,Number,1038,208
+Unionport/Soundview,Other,2018,Number,2747,209
+Throgs Neck,Other,2018,Number,1410,210
+Pelham Parkway,Other,2018,Number,1368,211
+Williamsbridge,Other,2018,Number,2052,212
+Williamsburg/Greenpoint,Other,2018,Number,971,301
+Fort Greene/Brooklyn Hts,Other,2018,Number,761,302
+Bedford Stuyvesant,Other,2018,Number,1572,303
+Bushwick,Other,2018,Number,1516,304
+East New York,Other,2018,Number,2509,305
+Park Slope,Other,2018,Number,671,306
+Sunset Park,Other,2018,Number,2570,307
+Crown Heights North,Other,2018,Number,1792,308
+Crown Heights South,Other,2018,Number,1410,309
+Bay Ridge,Other,2018,Number,1038,310
+Bensonhurst,Other,2018,Number,2317,311
+Borough Park,Other,2018,Number,1634,312
+Coney Island,Other,2018,Number,752,313
+Flatbush/Midwood,Other,2018,Number,1811,314
+Sheepshead Bay,Other,2018,Number,826,315
+Brownsville,Other,2018,Number,2613,316
+East Flatbush,Other,2018,Number,2004,317
+Canarsie,Other,2018,Number,3085,318
+Astoria,Other,2018,Number,985,401
+Sunnyside/Woodside,Other,2018,Number,1017,402
+Jackson Heights,Other,2018,Number,3593,403
+Elmhurst/Corona,Other,2018,Number,2847,404
+Ridgewood/Glendale,Other,2018,Number,2009,405
+Rego Park/Forest Hills,Other,2018,Number,707,406
+Flushing,Other,2018,Number,1722,407
+Fresh Meadows/Briarwood,Other,2018,Number,1315,408
+Woodhaven,Other,2018,Number,2479,409
+Howard Beach,Other,2018,Number,1986,410
+Bayside,Other,2018,Number,1020,411
+Jamaica/St. Albans,Other,2018,Number,4520,412
+Queens Village,Other,2018,Number,3720,413
+The Rockaways,Other,2018,Number,1577,414
+St. George,Other,2018,Number,2046,501
+South Beach,Other,2018,Number,1174,502
+Tottenville,Other,2018,Number,1002,503
+Bronx,Other,2018,Number,18305,36005
+Brooklyn,Other,2018,Number,29852,36047
+Manhattan,Other,2018,Number,9673,36061
+Queens,Other,2018,Number,29497,36081
+Staten Island,Other,2018,Number,4222,36085
+New York City,Other,2018,Number,91549,3651000
+Battery Park/Tribeca,Married Couples,2018,Percent,0.84986,101
+Greenwich Village,Married Couples,2018,Percent,0.84986,102
+Lower East Side,Married Couples,2018,Percent,0.41419,103
+Chelsea/Clinton,Married Couples,2018,Percent,0.65324,104
+Midtown Business District,Married Couples,2018,Percent,0.65324,105
+Murray Hill/Stuyvesant,Married Couples,2018,Percent,0.81227,106
+Upper West Side,Married Couples,2018,Percent,0.77903,107
+Upper East Side,Married Couples,2018,Percent,0.86009,108
+Manhattanville,Married Couples,2018,Percent,0.4482,109
+Central Harlem,Married Couples,2018,Percent,0.34565,110
+East Harlem,Married Couples,2018,Percent,0.31421,111
+Washington Heights,Married Couples,2018,Percent,0.40315,112
+Mott Haven,Married Couples,2018,Percent,0.2717,201
+Hunts Point,Married Couples,2018,Percent,0.2717,202
+Morrisania,Married Couples,2018,Percent,0.2718,203
+Concourse/Highbridge,Married Couples,2018,Percent,0.33134,204
+University Heights,Married Couples,2018,Percent,0.27992,205
+East Tremont,Married Couples,2018,Percent,0.2718,206
+Bedford Park,Married Couples,2018,Percent,0.37,207
+Riverdale,Married Couples,2018,Percent,0.4934,208
+Unionport/Soundview,Married Couples,2018,Percent,0.37844,209
+Throgs Neck,Married Couples,2018,Percent,0.4536,210
+Pelham Parkway,Married Couples,2018,Percent,0.49143,211
+Williamsbridge,Married Couples,2018,Percent,0.3804,212
+Williamsburg/Greenpoint,Married Couples,2018,Percent,0.7841,301
+Fort Greene/Brooklyn Hts,Married Couples,2018,Percent,0.62483,302
+Bedford Stuyvesant,Married Couples,2018,Percent,0.5195,303
+Bushwick,Married Couples,2018,Percent,0.35617,304
+East New York,Married Couples,2018,Percent,0.34415,305
+Park Slope,Married Couples,2018,Percent,0.75655,306
+Sunset Park,Married Couples,2018,Percent,0.64814,307
+Crown Heights North,Married Couples,2018,Percent,0.37896,308
+Crown Heights South,Married Couples,2018,Percent,0.47879,309
+Bay Ridge,Married Couples,2018,Percent,0.73137,310
+Bensonhurst,Married Couples,2018,Percent,0.69184,311
+Borough Park,Married Couples,2018,Percent,0.8678,312
+Coney Island,Married Couples,2018,Percent,0.53525,313
+Flatbush/Midwood,Married Couples,2018,Percent,0.64492,314
+Sheepshead Bay,Married Couples,2018,Percent,0.75505,315
+Brownsville,Married Couples,2018,Percent,0.23948,316
+East Flatbush,Married Couples,2018,Percent,0.3389,317
+Canarsie,Married Couples,2018,Percent,0.53248,318
+Astoria,Married Couples,2018,Percent,0.59212,401
+Sunnyside/Woodside,Married Couples,2018,Percent,0.72859,402
+Jackson Heights,Married Couples,2018,Percent,0.52257,403
+Elmhurst/Corona,Married Couples,2018,Percent,0.57808,404
+Ridgewood/Glendale,Married Couples,2018,Percent,0.63669,405
+Rego Park/Forest Hills,Married Couples,2018,Percent,0.76038,406
+Flushing,Married Couples,2018,Percent,0.73644,407
+Fresh Meadows/Briarwood,Married Couples,2018,Percent,0.73682,408
+Woodhaven,Married Couples,2018,Percent,0.60514,409
+Howard Beach,Married Couples,2018,Percent,0.5831,410
+Bayside,Married Couples,2018,Percent,0.76336,411
+Jamaica/St. Albans,Married Couples,2018,Percent,0.42512,412
+Queens Village,Married Couples,2018,Percent,0.54862,413
+The Rockaways,Married Couples,2018,Percent,0.51521,414
+St. George,Married Couples,2018,Percent,0.55896,501
+South Beach,Married Couples,2018,Percent,0.72638,502
+Tottenville,Married Couples,2018,Percent,0.77225,503
+Bronx,Married Couples,2018,Percent,0.35644,36005
+Brooklyn,Married Couples,2018,Percent,0.58654,36047
+Manhattan,Married Couples,2018,Percent,0.57367,36061
+Queens,Married Couples,2018,Percent,0.60716,36081
+Staten Island,Married Couples,2018,Percent,0.67852,36085
+New York City,Married Couples,2018,Percent,0.54908,3651000
+Battery Park/Tribeca,Single Parents,2018,Percent,0.13139,101
+Greenwich Village,Single Parents,2018,Percent,0.13139,102
+Lower East Side,Single Parents,2018,Percent,0.39552,103
+Chelsea/Clinton,Single Parents,2018,Percent,0.29471,104
+Midtown Business District,Single Parents,2018,Percent,0.29471,105
+Murray Hill/Stuyvesant,Single Parents,2018,Percent,0.13765,106
+Upper West Side,Single Parents,2018,Percent,0.18484,107
+Upper East Side,Single Parents,2018,Percent,0.12119,108
+Manhattanville,Single Parents,2018,Percent,0.33185,109
+Central Harlem,Single Parents,2018,Percent,0.47009,110
+East Harlem,Single Parents,2018,Percent,0.51338,111
+Washington Heights,Single Parents,2018,Percent,0.32555,112
+Mott Haven,Single Parents,2018,Percent,0.57746,201
+Hunts Point,Single Parents,2018,Percent,0.57746,202
+Morrisania,Single Parents,2018,Percent,0.58604,203
+Concourse/Highbridge,Single Parents,2018,Percent,0.51226,204
+University Heights,Single Parents,2018,Percent,0.5714,205
+East Tremont,Single Parents,2018,Percent,0.58604,206
+Bedford Park,Single Parents,2018,Percent,0.47985,207
+Riverdale,Single Parents,2018,Percent,0.37676,208
+Unionport/Soundview,Single Parents,2018,Percent,0.45678,209
+Throgs Neck,Single Parents,2018,Percent,0.39648,210
+Pelham Parkway,Single Parents,2018,Percent,0.3633,211
+Williamsbridge,Single Parents,2018,Percent,0.42601,212
+Williamsburg/Greenpoint,Single Parents,2018,Percent,0.13999,301
+Fort Greene/Brooklyn Hts,Single Parents,2018,Percent,0.26107,302
+Bedford Stuyvesant,Single Parents,2018,Percent,0.32771,303
+Bushwick,Single Parents,2018,Percent,0.44375,304
+East New York,Single Parents,2018,Percent,0.43856,305
+Park Slope,Single Parents,2018,Percent,0.15956,306
+Sunset Park,Single Parents,2018,Percent,0.18973,307
+Crown Heights North,Single Parents,2018,Percent,0.43322,308
+Crown Heights South,Single Parents,2018,Percent,0.33977,309
+Bay Ridge,Single Parents,2018,Percent,0.15222,310
+Bensonhurst,Single Parents,2018,Percent,0.19782,311
+Borough Park,Single Parents,2018,Percent,0.06862,312
+Coney Island,Single Parents,2018,Percent,0.32941,313
+Flatbush/Midwood,Single Parents,2018,Percent,0.22467,314
+Sheepshead Bay,Single Parents,2018,Percent,0.16097,315
+Brownsville,Single Parents,2018,Percent,0.54759,316
+East Flatbush,Single Parents,2018,Percent,0.42753,317
+Canarsie,Single Parents,2018,Percent,0.28116,318
+Astoria,Single Parents,2018,Percent,0.2672,401
+Sunnyside/Woodside,Single Parents,2018,Percent,0.18686,402
+Jackson Heights,Single Parents,2018,Percent,0.29351,403
+Elmhurst/Corona,Single Parents,2018,Percent,0.25444,404
+Ridgewood/Glendale,Single Parents,2018,Percent,0.24416,405
+Rego Park/Forest Hills,Single Parents,2018,Percent,0.15806,406
+Flushing,Single Parents,2018,Percent,0.1481,407
+Fresh Meadows/Briarwood,Single Parents,2018,Percent,0.15634,408
+Woodhaven,Single Parents,2018,Percent,0.23471,409
+Howard Beach,Single Parents,2018,Percent,0.21936,410
+Bayside,Single Parents,2018,Percent,0.14981,411
+Jamaica/St. Albans,Single Parents,2018,Percent,0.3033,412
+Queens Village,Single Parents,2018,Percent,0.2067,413
+The Rockaways,Single Parents,2018,Percent,0.32431,414
+St. George,Single Parents,2018,Percent,0.30842,501
+South Beach,Single Parents,2018,Percent,0.16335,502
+Tottenville,Single Parents,2018,Percent,0.14272,503
+Bronx,Single Parents,2018,Percent,0.48972,36005
+Brooklyn,Single Parents,2018,Percent,0.26986,36047
+Manhattan,Single Parents,2018,Percent,0.29512,36061
+Queens,Single Parents,2018,Percent,0.23112,36081
+Staten Island,Single Parents,2018,Percent,0.2113,36085
+New York City,Single Parents,2018,Percent,0.3041,3651000
+Battery Park/Tribeca,Grandparents,2018,Percent,0.01045,101
+Greenwich Village,Grandparents,2018,Percent,0.01045,102
+Lower East Side,Grandparents,2018,Percent,0.15312,103
+Chelsea/Clinton,Grandparents,2018,Percent,0.03764,104
+Midtown Business District,Grandparents,2018,Percent,0.03764,105
+Murray Hill/Stuyvesant,Grandparents,2018,Percent,0.02908,106
+Upper West Side,Grandparents,2018,Percent,0.02975,107
+Upper East Side,Grandparents,2018,Percent,0.01172,108
+Manhattanville,Grandparents,2018,Percent,0.1489,109
+Central Harlem,Grandparents,2018,Percent,0.12663,110
+East Harlem,Grandparents,2018,Percent,0.11783,111
+Washington Heights,Grandparents,2018,Percent,0.17568,112
+Mott Haven,Grandparents,2018,Percent,0.109,201
+Hunts Point,Grandparents,2018,Percent,0.109,202
+Morrisania,Grandparents,2018,Percent,0.09398,203
+Concourse/Highbridge,Grandparents,2018,Percent,0.09959,204
+University Heights,Grandparents,2018,Percent,0.10259,205
+East Tremont,Grandparents,2018,Percent,0.09398,206
+Bedford Park,Grandparents,2018,Percent,0.10217,207
+Riverdale,Grandparents,2018,Percent,0.0849,208
+Unionport/Soundview,Grandparents,2018,Percent,0.10436,209
+Throgs Neck,Grandparents,2018,Percent,0.08945,210
+Pelham Parkway,Grandparents,2018,Percent,0.09783,211
+Williamsbridge,Grandparents,2018,Percent,0.13133,212
+Williamsburg/Greenpoint,Grandparents,2018,Percent,0.04855,301
+Fort Greene/Brooklyn Hts,Grandparents,2018,Percent,0.08381,302
+Bedford Stuyvesant,Grandparents,2018,Percent,0.11047,303
+Bushwick,Grandparents,2018,Percent,0.14275,304
+East New York,Grandparents,2018,Percent,0.15604,305
+Park Slope,Grandparents,2018,Percent,0.05713,306
+Sunset Park,Grandparents,2018,Percent,0.0876,307
+Crown Heights North,Grandparents,2018,Percent,0.11658,308
+Crown Heights South,Grandparents,2018,Percent,0.12109,309
+Bay Ridge,Grandparents,2018,Percent,0.07329,310
+Bensonhurst,Grandparents,2018,Percent,0.05268,311
+Borough Park,Grandparents,2018,Percent,0.03559,312
+Coney Island,Grandparents,2018,Percent,0.10221,313
+Flatbush/Midwood,Grandparents,2018,Percent,0.08567,314
+Sheepshead Bay,Grandparents,2018,Percent,0.05916,315
+Brownsville,Grandparents,2018,Percent,0.11578,316
+East Flatbush,Grandparents,2018,Percent,0.16351,317
+Canarsie,Grandparents,2018,Percent,0.12298,318
+Astoria,Grandparents,2018,Percent,0.10002,401
+Sunnyside/Woodside,Grandparents,2018,Percent,0.04013,402
+Jackson Heights,Grandparents,2018,Percent,0.08997,403
+Elmhurst/Corona,Grandparents,2018,Percent,0.07741,404
+Ridgewood/Glendale,Grandparents,2018,Percent,0.06919,405
+Rego Park/Forest Hills,Grandparents,2018,Percent,0.04616,406
+Flushing,Grandparents,2018,Percent,0.07571,407
+Fresh Meadows/Briarwood,Grandparents,2018,Percent,0.06724,408
+Woodhaven,Grandparents,2018,Percent,0.08369,409
+Howard Beach,Grandparents,2018,Percent,0.12735,410
+Bayside,Grandparents,2018,Percent,0.04041,411
+Jamaica/St. Albans,Grandparents,2018,Percent,0.18619,412
+Queens Village,Grandparents,2018,Percent,0.15099,413
+The Rockaways,Grandparents,2018,Percent,0.11434,414
+St. George,Grandparents,2018,Percent,0.08077,501
+South Beach,Grandparents,2018,Percent,0.07035,502
+Tottenville,Grandparents,2018,Percent,0.05666,503
+Bronx,Grandparents,2018,Percent,0.10235,36005
+Brooklyn,Grandparents,2018,Percent,0.09356,36047
+Manhattan,Grandparents,2018,Percent,0.08991,36061
+Queens,Grandparents,2018,Percent,0.09803,36081
+Staten Island,Grandparents,2018,Percent,0.06966,36085
+New York City,Grandparents,2018,Percent,0.09461,3651000
+Battery Park/Tribeca,Other,2018,Percent,0.0083,101
+Greenwich Village,Other,2018,Percent,0.0083,102
+Lower East Side,Other,2018,Percent,0.03716,103
+Chelsea/Clinton,Other,2018,Percent,0.01441,104
+Midtown Business District,Other,2018,Percent,0.01441,105
+Murray Hill/Stuyvesant,Other,2018,Percent,0.021,106
+Upper West Side,Other,2018,Percent,0.00638,107
+Upper East Side,Other,2018,Percent,0.00699,108
+Manhattanville,Other,2018,Percent,0.07105,109
+Central Harlem,Other,2018,Percent,0.05763,110
+East Harlem,Other,2018,Percent,0.05458,111
+Washington Heights,Other,2018,Percent,0.09562,112
+Mott Haven,Other,2018,Percent,0.04183,201
+Hunts Point,Other,2018,Percent,0.04183,202
+Morrisania,Other,2018,Percent,0.04817,203
+Concourse/Highbridge,Other,2018,Percent,0.05681,204
+University Heights,Other,2018,Percent,0.04609,205
+East Tremont,Other,2018,Percent,0.04817,206
+Bedford Park,Other,2018,Percent,0.04798,207
+Riverdale,Other,2018,Percent,0.04494,208
+Unionport/Soundview,Other,2018,Percent,0.06042,209
+Throgs Neck,Other,2018,Percent,0.06046,210
+Pelham Parkway,Other,2018,Percent,0.04744,211
+Williamsbridge,Other,2018,Percent,0.06227,212
+Williamsburg/Greenpoint,Other,2018,Percent,0.02736,301
+Fort Greene/Brooklyn Hts,Other,2018,Percent,0.03029,302
+Bedford Stuyvesant,Other,2018,Percent,0.04232,303
+Bushwick,Other,2018,Percent,0.05733,304
+East New York,Other,2018,Percent,0.06124,305
+Park Slope,Other,2018,Percent,0.02675,306
+Sunset Park,Other,2018,Percent,0.07453,307
+Crown Heights North,Other,2018,Percent,0.07123,308
+Crown Heights South,Other,2018,Percent,0.06035,309
+Bay Ridge,Other,2018,Percent,0.04312,310
+Bensonhurst,Other,2018,Percent,0.05766,311
+Borough Park,Other,2018,Percent,0.028,312
+Coney Island,Other,2018,Percent,0.03313,313
+Flatbush/Midwood,Other,2018,Percent,0.04474,314
+Sheepshead Bay,Other,2018,Percent,0.02483,315
+Brownsville,Other,2018,Percent,0.09715,316
+East Flatbush,Other,2018,Percent,0.07006,317
+Canarsie,Other,2018,Percent,0.06339,318
+Astoria,Other,2018,Percent,0.04066,401
+Sunnyside/Woodside,Other,2018,Percent,0.04441,402
+Jackson Heights,Other,2018,Percent,0.09395,403
+Elmhurst/Corona,Other,2018,Percent,0.09007,404
+Ridgewood/Glendale,Other,2018,Percent,0.04997,405
+Rego Park/Forest Hills,Other,2018,Percent,0.0354,406
+Flushing,Other,2018,Percent,0.03975,407
+Fresh Meadows/Briarwood,Other,2018,Percent,0.0396,408
+Woodhaven,Other,2018,Percent,0.07647,409
+Howard Beach,Other,2018,Percent,0.0702,410
+Bayside,Other,2018,Percent,0.04642,411
+Jamaica/St. Albans,Other,2018,Percent,0.08539,412
+Queens Village,Other,2018,Percent,0.09369,413
+The Rockaways,Other,2018,Percent,0.04614,414
+St. George,Other,2018,Percent,0.05185,501
+South Beach,Other,2018,Percent,0.03992,502
+Tottenville,Other,2018,Percent,0.02837,503
+Bronx,Other,2018,Percent,0.05149,36005
+Brooklyn,Other,2018,Percent,0.05005,36047
+Manhattan,Other,2018,Percent,0.0413,36061
+Queens,Other,2018,Percent,0.06368,36081
+Staten Island,Other,2018,Percent,0.04052,36085
+New York City,Other,2018,Percent,0.05221,3651000
