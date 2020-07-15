@@ -1,10 +1,3 @@
-"Name","Public Assistance by Age Group"
-"Description","Recipients of public assistance, also called cash assistance, by age group."
-"Source Notes","New York City Human Resources Administration,&nbsp;<em>District Resource Statement Fiscal and Service Reports</em>&nbsp;(for Fiscal Years: 2002 and 2003; 2005 and 2006;&nbsp;2006 and 2007;&nbsp;2007 and 2008;&nbsp;2009 and 2010; 2011 and 2012;&nbsp;2016 and 2017; 2017 and 2018); retrieved from&nbsp;<a href=""http://www.nyc.gov/html/hra/html/statistics/statistics.shtml"">http://www.nyc.gov/html/hra/html/statistics/statistics.shtml</a>.&nbsp;"
-"Notes","Figures represent data as of October for the given year. <br />
-Percentages presented refer to the percent of <g class=""gr_ gr_6 gr-alert gr_gramm gr_inline_cards gr_run_anim Grammar only-ins replaceWithoutSep"" id=""6"" data-gr-id=""6"">total</g> age group population, and are calculated using U.S. Census Bureau counts and estimates. See&nbsp;<a href=""http://data.cccnewyork.org/data/map/97/total-population#97/a/3/147/22/a"" target=""_blank"">Total Population</a>&nbsp;for estimates and complete citations.<br />
-*CCC is in the process of filling in data for missing years.&nbsp;"
-
 Location,Age Group,TimeFrame,DataFormat,Data,Fips
 Battery Park/Tribeca,Children Under 18 Years,2005,Number,92,101
 Greenwich Village,Children Under 18 Years,2005,Number,64,102

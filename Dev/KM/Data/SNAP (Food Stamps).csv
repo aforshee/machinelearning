@@ -1,12 +1,3 @@
-"Name","SNAP (Food Stamps)"
-"Description","Recipients of SNAP by individuals and households.&nbsp;SNAP (Supplemental Nutrition Assistance Program) is a federal program that offers nutrition assistance to low-income individuals and families. It is commonly referred to as Food Stamps.&nbsp;"
-"Source Notes","New York City Human Resources Administration,&nbsp;<em>District Resource Statement Fiscal and Service Reports</em>&nbsp;(for Fiscal Years: 2002 and 2003; 2005 and 2006;&nbsp;2006 and 2007;&nbsp;2007 and 2008;&nbsp;2009 and 2010; 2011 and 2012;&nbsp;2016 and 2017; 2017 and 2018) retrieved from&nbsp;<a href=""https://www1.nyc.gov/site/hra/about/facts.page"" target=""_blank"">https://www1.nyc.gov/site/hra/about/facts.page</a>&nbsp;<br />
-<br />
-New York City Human Resources Administration,&nbsp;Borough/Community District Report - SNAP Population (2018-2019). Retrieved from NYC Open Data:&nbsp;<a href=""https://data.cityofnewyork.us/Social-Services/Borough-Community-District-Report-SNAP-Population/jye8-w4d7"" target=""_blank"">https://data.cityofnewyork.us/Social-Services/Borough-Community-District-Report-SNAP-Population/jye8-w4d7</a><br />"
-"Notes","Figures represent data as of October for the given year, with the exception of 2018 and 2019 which represent data as of September.<br />
-Percentages presented by Recipient refer to the percent of all individuals or <g class=""gr_ gr_7 gr-alert gr_gramm gr_inline_cards gr_run_anim Punctuation only-del replaceWithoutSep"" id=""7"" data-gr-id=""7""><g class=""gr_ gr_7 gr-alert gr_gramm gr_inline_cards gr_run_anim Punctuation only-del replaceWithoutSep"" id=""7"" data-gr-id=""7"">households,</g></g> and are calculated using U.S. Census Bureau counts and estimates. See <a href=""http://data.cccnewyork.org/data/map/97/total-population#97/a/3/147/22/a"" target=""_blank"">total population</a> and <a href=""http://data.cccnewyork.org/data/map/32/households-and-families#32/a/3/56/22/a"" target=""_blank"">household</a>&nbsp;indicators for estimates and complete citations.<br />
-*CCC is in the process of filling in data for missing years.&nbsp;"
-
 Location,Recipient,TimeFrame,DataFormat,Data,Fips
 Battery Park/Tribeca,Households,2001,Number,906,101
 Battery Park/Tribeca,Households,2002,Number,935,101

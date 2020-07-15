@@ -1,8 +1,3 @@
-"Name","Uninsured"
-"Description","Individuals without health insurance. For more information on how the ACS estimates the uninsured population, see the <a href=""https://www2.census.gov/programs-surveys/acs/tech_docs/subject_definitions/2017_ACSSubjectDefinitions.pdf?#"" target=""_blank"">American Community Survey Subject Definitions</a> (page 73)."
-"Source Notes","CCC Analysis of U.S. Census Bureau, American Community Survey 1-Year Estimates, Tables B27001 (2008), C27001 (2009-2018); retrieved from&nbsp;<a href=""https://data.census.gov/cedsci/"" target=""_blank"">https://data.census.gov/cedsci/</a>"
-"Notes","Percents refer to the percent of the selected age group breakdown. In 2017, ACS changed the age categories for their health insurance tables from children below 18 to children below 19, to better align with the current health insurance landscape. Comparing 2017 data to previous years should be done with caution, for more information see <a href=""https://www.census.gov/programs-surveys/acs/technical-documentation/table-and-geography-changes/2017/1-year.html"" target=""_blank"">ACS Modified Tables</a>.&nbsp;"
-
 Location,Age Group,TimeFrame,DataFormat,Data,Fips
 Battery Park/Tribeca,Adults 19 Years and Older,2008,Number,3499.7109,101
 Greenwich Village,Adults 19 Years and Older,2008,Number,5166.2891,102

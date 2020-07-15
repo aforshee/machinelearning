@@ -1,10 +1,3 @@
-"Name","Total Population"
-"Description","Total population."
-"Source Notes","U.S. Census Bureau, American Community Survey 1-Year Estimates, Table B01003 (2005-2018); retrieved from <a href=""https://data.census.gov/"" target=""_blank"">https://data.census.gov/</a><a href=""http://factfinder2.census.gov/"" target=""_blank""></a>.&nbsp;<br />
-<strong>ZCTA Data</strong>: U.S. Census Bureau, American Community Survey 5-Year Estimates (2011-2018)<br />
-<strong>UHF Data</strong>: NYC DOHMH population estimates, modified from US Census Bureau interpolated intercensal population estimates, 2010-2018. Updated August 2019.<br />"
-"Notes","Zip Code level data from Census Bureau products represent data by Zip Coda Tabulation Area (ZCTA). ZCTAs are Census statistical areas that are designed to approximate USPS ZIP codes, through the aggregation of census blocks where a majority of addresses have the same zip code. For more information on ZCTAs, see this U.S. Census Bureau <a href=""https://www.census.gov/programs-surveys/geography/guidance/geo-areas/zctas.html"" target=""_blank"">link</a>.&nbsp;"
-
 Location,TimeFrame,DataFormat,Data,Fips
 Battery Park/Tribeca,2005,Number,51150.45963,101
 Battery Park/Tribeca,2006,Number,59445.0087,101
@@ -158,8 +151,8 @@ Mott Haven,2009,Number,96740.11298,201
 Mott Haven,2010,Number,99801.83125,201
 Mott Haven,2011,Number,96779.57796,201
 Mott Haven,2012,Number,100795.4575,201
-Mott Haven,2013,Number,103719.68489,201
-Mott Haven,2014,Number,106394.39179,201
+Mott Haven,2013,Number,103719.6849,201
+Mott Haven,2014,Number,106394.3918,201
 Mott Haven,2015,Number,105159.145,201
 Mott Haven,2016,Number,105915.264,201
 Hunts Point,2005,Number,49109.63347,202
@@ -789,7 +782,7 @@ New York City,2016,Number,8537673,3651000
 Battery Park/Tribeca,2017,Number,60165.46615,101
 Greenwich Village,2017,Number,88816.53385,102
 Lower East Side,2017,Number,160490,103
-Chelsea/Clinton,2017,Number,101603.53526,104
+Chelsea/Clinton,2017,Number,101603.5353,104
 Midtown Business District,2017,Number,50851.46474,105
 Murray Hill/Stuyvesant,2017,Number,149674,106
 Upper West Side,2017,Number,207134,107
@@ -854,7 +847,7 @@ New York City,2017,Number,8622698,3651000
 Battery Park/Tribeca,2018,Number,61375.7862,101
 Greenwich Village,2018,Number,90603.2138,102
 Lower East Side,2018,Number,155408,103
-Chelsea/Clinton,2018,Number,110265.37743,104
+Chelsea/Clinton,2018,Number,110265.3774,104
 Midtown Business District,2018,Number,55186.62257,105
 Murray Hill/Stuyvesant,2018,Number,143582,106
 Upper West Side,2018,Number,191222,107
@@ -917,383 +910,383 @@ Queens,2018,Number,2278906,36081
 Staten Island,2018,Number,476179,36085
 New York City,2018,Number,8398748,3651000
 Kingsbridge - Riverdale,2010,Number,92916.61363,uhf101
-Northeast Bronx,2010,Number,198154.50734,uhf102
-Fordham - Bronx Park,2010,Number,250675.54979,uhf103
-Pelham - Throgs Neck,2010,Number,295873.70454,uhf104
-Crotona - Tremont,2010,Number,206303.18347,uhf105
-High Bridge - Morrisania,2010,Number,208594.10461,uhf106
-Hunts Point - Mott Haven,2010,Number,134139.33663,uhf107
-Greenpoint,2010,Number,132398.36463,uhf201
-Downtown  - Heights - Slope,2010,Number,239344.35526,uhf202
-Bedford Stuyvesant - Crown Heights,2010,Number,332889.13869,uhf203
-East New York,2010,Number,192569.43482,uhf204
+Northeast Bronx,2010,Number,198154.5073,uhf102
+Fordham - Bronx Park,2010,Number,250675.5498,uhf103
+Pelham - Throgs Neck,2010,Number,295873.7045,uhf104
+Crotona - Tremont,2010,Number,206303.1835,uhf105
+High Bridge - Morrisania,2010,Number,208594.1046,uhf106
+Hunts Point - Mott Haven,2010,Number,134139.3366,uhf107
+Greenpoint,2010,Number,132398.3646,uhf201
+Downtown  - Heights - Slope,2010,Number,239344.3553,uhf202
+Bedford Stuyvesant - Crown Heights,2010,Number,332889.1387,uhf203
+East New York,2010,Number,192569.4348,uhf204
 Sunset Park,2010,Number,121507.0297,uhf205
-Borough Park,2010,Number,326133.83088,uhf206
-East Flatbush - Flatbush,2010,Number,301805.66418,uhf207
-Canarsie - Flatlands,2010,Number,210595.25662,uhf208
-Bensonhurst - Bay Ridge,2010,Number,195887.56796,uhf209
-Coney Island - Sheepshead Bay,2010,Number,283017.24827,uhf210
-Williamsburg - Bushwick,2010,Number,220429.87947,uhf211
-Washington Heights - Inwood,2010,Number,267068.19991,uhf301
-Central Harlem - Morningside Heights,2010,Number,182750.57588,uhf302
-East Harlem,2010,Number,112967.66932,uhf303
-Upper West Side,2010,Number,208876.91816,uhf304
-Upper East Side,2010,Number,211313.77716,uhf305
-Chelsea - Clinton,2010,Number,146989.62434,uhf306
+Borough Park,2010,Number,326133.8309,uhf206
+East Flatbush - Flatbush,2010,Number,301805.6642,uhf207
+Canarsie - Flatlands,2010,Number,210595.2566,uhf208
+Bensonhurst - Bay Ridge,2010,Number,195887.568,uhf209
+Coney Island - Sheepshead Bay,2010,Number,283017.2483,uhf210
+Williamsburg - Bushwick,2010,Number,220429.8795,uhf211
+Washington Heights - Inwood,2010,Number,267068.1999,uhf301
+Central Harlem - Morningside Heights,2010,Number,182750.5759,uhf302
+East Harlem,2010,Number,112967.6693,uhf303
+Upper West Side,2010,Number,208876.9182,uhf304
+Upper East Side,2010,Number,211313.7772,uhf305
+Chelsea - Clinton,2010,Number,146989.6243,uhf306
 Gramercy Park -  Murray Hill,2010,Number,126495.2492,uhf307
 Greenwich Village - Soho,2010,Number,81913.6653,uhf308
-Union Square - Lower East Side,2010,Number,183826.70169,uhf309
+Union Square - Lower East Side,2010,Number,183826.7017,uhf309
 Lower Manhattan,2010,Number,57991.45207,uhf310
 Long Island City - Astoria,2010,Number,206746.7315,uhf401
-West Queens,2010,Number,446810.15992,uhf402
-Flushing - Clearview,2010,Number,241915.72959,uhf403
+West Queens,2010,Number,446810.1599,uhf402
+Flushing - Clearview,2010,Number,241915.7296,uhf403
 Bayside - Little Neck,2010,Number,86485.79258,uhf404
-Ridgewood - Forest Hills,2010,Number,257249.68043,uhf405
+Ridgewood - Forest Hills,2010,Number,257249.6804,uhf405
 Fresh Meadows,2010,Number,98757.25123,uhf406
-Southwest Queens,2010,Number,279835.16204,uhf407
-Jamaica,2010,Number,309210.35308,uhf408
-Southeast Queens,2010,Number,208148.47475,uhf409
-Rockaway,2010,Number,124498.54037,uhf410
+Southwest Queens,2010,Number,279835.162,uhf407
+Jamaica,2010,Number,309210.3531,uhf408
+Southeast Queens,2010,Number,208148.4748,uhf409
+Rockaway,2010,Number,124498.5404,uhf410
 Port  Richmond,2010,Number,66662.5436,uhf501
-Stapleton - St. George,2010,Number,120477.99712,uhf502
+Stapleton - St. George,2010,Number,120477.9971,uhf502
 Willowbrook,2010,Number,87359.37992,uhf503
-South Beach - Tottenville,2010,Number,194870.07936,uhf504
+South Beach - Tottenville,2010,Number,194870.0794,uhf504
 Kingsbridge - Riverdale,2011,Number,92860.55806,uhf101
-Northeast Bronx,2011,Number,198244.21681,uhf102
-Fordham - Bronx Park,2011,Number,252855.40649,uhf103
-Pelham - Throgs Neck,2011,Number,297098.17254,uhf104
-Crotona - Tremont,2011,Number,208392.35697,uhf105
-High Bridge - Morrisania,2011,Number,210553.54514,uhf106
-Hunts Point - Mott Haven,2011,Number,135626.32399,uhf107
+Northeast Bronx,2011,Number,198244.2168,uhf102
+Fordham - Bronx Park,2011,Number,252855.4065,uhf103
+Pelham - Throgs Neck,2011,Number,297098.1725,uhf104
+Crotona - Tremont,2011,Number,208392.357,uhf105
+High Bridge - Morrisania,2011,Number,210553.5451,uhf106
+Hunts Point - Mott Haven,2011,Number,135626.324,uhf107
 Greenpoint,2011,Number,131575.1576,uhf201
-Downtown  - Heights - Slope,2011,Number,239991.57825,uhf202
-Bedford Stuyvesant - Crown Heights,2011,Number,331766.85038,uhf203
-East New York,2011,Number,191379.60831,uhf204
-Sunset Park,2011,Number,121126.80696,uhf205
-Borough Park,2011,Number,322874.94334,uhf206
-East Flatbush - Flatbush,2011,Number,300848.69159,uhf207
-Canarsie - Flatlands,2011,Number,209055.60556,uhf208
-Bensonhurst - Bay Ridge,2011,Number,193812.32539,uhf209
-Coney Island - Sheepshead Bay,2011,Number,279113.84167,uhf210
-Williamsburg - Bushwick,2011,Number,219274.59095,uhf211
+Downtown  - Heights - Slope,2011,Number,239991.5783,uhf202
+Bedford Stuyvesant - Crown Heights,2011,Number,331766.8504,uhf203
+East New York,2011,Number,191379.6083,uhf204
+Sunset Park,2011,Number,121126.807,uhf205
+Borough Park,2011,Number,322874.9433,uhf206
+East Flatbush - Flatbush,2011,Number,300848.6916,uhf207
+Canarsie - Flatlands,2011,Number,209055.6056,uhf208
+Bensonhurst - Bay Ridge,2011,Number,193812.3254,uhf209
+Coney Island - Sheepshead Bay,2011,Number,279113.8417,uhf210
+Williamsburg - Bushwick,2011,Number,219274.591,uhf211
 Washington Heights - Inwood,2011,Number,267375.6016,uhf301
-Central Harlem - Morningside Heights,2011,Number,182526.26619,uhf302
-East Harlem,2011,Number,113131.12073,uhf303
+Central Harlem - Morningside Heights,2011,Number,182526.2662,uhf302
+East Harlem,2011,Number,113131.1207,uhf303
 Upper West Side,2011,Number,211737.2941,uhf304
-Upper East Side,2011,Number,214721.50856,uhf305
-Chelsea - Clinton,2011,Number,148625.12099,uhf306
+Upper East Side,2011,Number,214721.5086,uhf305
+Chelsea - Clinton,2011,Number,148625.121,uhf306
 Gramercy Park -  Murray Hill,2011,Number,127988.9144,uhf307
 Greenwich Village - Soho,2011,Number,82989.34593,uhf308
-Union Square - Lower East Side,2011,Number,185130.17088,uhf309
+Union Square - Lower East Side,2011,Number,185130.1709,uhf309
 Lower Manhattan,2011,Number,58882.33207,uhf310
-Long Island City - Astoria,2011,Number,206993.75222,uhf401
-West Queens,2011,Number,449813.84942,uhf402
-Flushing - Clearview,2011,Number,243249.55188,uhf403
+Long Island City - Astoria,2011,Number,206993.7522,uhf401
+West Queens,2011,Number,449813.8494,uhf402
+Flushing - Clearview,2011,Number,243249.5519,uhf403
 Bayside - Little Neck,2011,Number,86464.19283,uhf404
-Ridgewood - Forest Hills,2011,Number,256430.90495,uhf405
+Ridgewood - Forest Hills,2011,Number,256430.905,uhf405
 Fresh Meadows,2011,Number,98956.50993,uhf406
-Southwest Queens,2011,Number,281218.70068,uhf407
-Jamaica,2011,Number,313472.01345,uhf408
+Southwest Queens,2011,Number,281218.7007,uhf407
+Jamaica,2011,Number,313472.0135,uhf408
 Southeast Queens,2011,Number,210935.7507,uhf409
 Rockaway,2011,Number,124866.5185,uhf410
 Port  Richmond,2011,Number,67066.40079,uhf501
-Stapleton - St. George,2011,Number,121230.59308,uhf502
+Stapleton - St. George,2011,Number,121230.5931,uhf502
 Willowbrook,2011,Number,87725.24493,uhf503
 South Beach - Tottenville,2011,Number,194980.7612,uhf504
 Kingsbridge - Riverdale,2012,Number,93260.03546,uhf101
 Northeast Bronx,2012,Number,199562.5978,uhf102
-Fordham - Bronx Park,2012,Number,256005.93427,uhf103
-Pelham - Throgs Neck,2012,Number,299802.70599,uhf104
-Crotona - Tremont,2012,Number,211176.78141,uhf105
-High Bridge - Morrisania,2012,Number,213259.92904,uhf106
-Hunts Point - Mott Haven,2012,Number,137558.17602,uhf107
-Greenpoint,2012,Number,133583.73893,uhf201
-Downtown  - Heights - Slope,2012,Number,245392.67011,uhf202
-Bedford Stuyvesant - Crown Heights,2012,Number,333458.36625,uhf203
-East New York,2012,Number,191760.29654,uhf204
-Sunset Park,2012,Number,123258.80713,uhf205
-Borough Park,2012,Number,328041.07534,uhf206
-East Flatbush - Flatbush,2012,Number,302547.30748,uhf207
-Canarsie - Flatlands,2012,Number,209910.37082,uhf208
-Bensonhurst - Bay Ridge,2012,Number,197271.25757,uhf209
-Coney Island - Sheepshead Bay,2012,Number,282751.63751,uhf210
-Williamsburg - Bushwick,2012,Number,220899.47232,uhf211
-Washington Heights - Inwood,2012,Number,270384.98259,uhf301
-Central Harlem - Morningside Heights,2012,Number,183345.01887,uhf302
-East Harlem,2012,Number,114195.18185,uhf303
-Upper West Side,2012,Number,214136.76757,uhf304
-Upper East Side,2012,Number,217217.05404,uhf305
-Chelsea - Clinton,2012,Number,149929.96295,uhf306
-Gramercy Park -  Murray Hill,2012,Number,129281.69709,uhf307
+Fordham - Bronx Park,2012,Number,256005.9343,uhf103
+Pelham - Throgs Neck,2012,Number,299802.706,uhf104
+Crotona - Tremont,2012,Number,211176.7814,uhf105
+High Bridge - Morrisania,2012,Number,213259.929,uhf106
+Hunts Point - Mott Haven,2012,Number,137558.176,uhf107
+Greenpoint,2012,Number,133583.7389,uhf201
+Downtown  - Heights - Slope,2012,Number,245392.6701,uhf202
+Bedford Stuyvesant - Crown Heights,2012,Number,333458.3663,uhf203
+East New York,2012,Number,191760.2965,uhf204
+Sunset Park,2012,Number,123258.8071,uhf205
+Borough Park,2012,Number,328041.0753,uhf206
+East Flatbush - Flatbush,2012,Number,302547.3075,uhf207
+Canarsie - Flatlands,2012,Number,209910.3708,uhf208
+Bensonhurst - Bay Ridge,2012,Number,197271.2576,uhf209
+Coney Island - Sheepshead Bay,2012,Number,282751.6375,uhf210
+Williamsburg - Bushwick,2012,Number,220899.4723,uhf211
+Washington Heights - Inwood,2012,Number,270384.9826,uhf301
+Central Harlem - Morningside Heights,2012,Number,183345.0189,uhf302
+East Harlem,2012,Number,114195.1819,uhf303
+Upper West Side,2012,Number,214136.7676,uhf304
+Upper East Side,2012,Number,217217.054,uhf305
+Chelsea - Clinton,2012,Number,149929.963,uhf306
+Gramercy Park -  Murray Hill,2012,Number,129281.6971,uhf307
 Greenwich Village - Soho,2012,Number,83762.43504,uhf308
-Union Square - Lower East Side,2012,Number,186825.51717,uhf309
+Union Square - Lower East Side,2012,Number,186825.5172,uhf309
 Lower Manhattan,2012,Number,59598.7402,uhf310
-Long Island City - Astoria,2012,Number,208641.95946,uhf401
-West Queens,2012,Number,454424.17392,uhf402
+Long Island City - Astoria,2012,Number,208641.9595,uhf401
+West Queens,2012,Number,454424.1739,uhf402
 Flushing - Clearview,2012,Number,246138.0205,uhf403
 Bayside - Little Neck,2012,Number,87090.29663,uhf404
-Ridgewood - Forest Hills,2012,Number,257404.52046,uhf405
+Ridgewood - Forest Hills,2012,Number,257404.5205,uhf405
 Fresh Meadows,2012,Number,99649.53538,uhf406
-Southwest Queens,2012,Number,283624.70636,uhf407
+Southwest Queens,2012,Number,283624.7064,uhf407
 Jamaica,2012,Number,315349.7249,uhf408
-Southeast Queens,2012,Number,211940.89295,uhf409
-Rockaway,2012,Number,124931.65204,uhf410
+Southeast Queens,2012,Number,211940.893,uhf409
+Rockaway,2012,Number,124931.652,uhf410
 Port  Richmond,2012,Number,66960.82779,uhf501
-Stapleton - St. George,2012,Number,121216.13884,uhf502
+Stapleton - St. George,2012,Number,121216.1388,uhf502
 Willowbrook,2012,Number,87837.30559,uhf503
-South Beach - Tottenville,2012,Number,194643.72778,uhf504
+South Beach - Tottenville,2012,Number,194643.7278,uhf504
 Kingsbridge - Riverdale,2013,Number,93330.87785,uhf101
-Northeast Bronx,2013,Number,200810.60422,uhf102
-Fordham - Bronx Park,2013,Number,258295.96301,uhf103
-Pelham - Throgs Neck,2013,Number,301600.75046,uhf104
-Crotona - Tremont,2013,Number,213342.62943,uhf105
+Northeast Bronx,2013,Number,200810.6042,uhf102
+Fordham - Bronx Park,2013,Number,258295.963,uhf103
+Pelham - Throgs Neck,2013,Number,301600.7505,uhf104
+Crotona - Tremont,2013,Number,213342.6294,uhf105
 High Bridge - Morrisania,2013,Number,215421.6586,uhf106
-Hunts Point - Mott Haven,2013,Number,139076.16644,uhf107
-Greenpoint,2013,Number,135069.42115,uhf201
-Downtown  - Heights - Slope,2013,Number,249927.28318,uhf202
-Bedford Stuyvesant - Crown Heights,2013,Number,334161.84717,uhf203
-East New York,2013,Number,191595.02353,uhf204
-Sunset Park,2013,Number,124850.70372,uhf205
+Hunts Point - Mott Haven,2013,Number,139076.1664,uhf107
+Greenpoint,2013,Number,135069.4212,uhf201
+Downtown  - Heights - Slope,2013,Number,249927.2832,uhf202
+Bedford Stuyvesant - Crown Heights,2013,Number,334161.8472,uhf203
+East New York,2013,Number,191595.0235,uhf204
+Sunset Park,2013,Number,124850.7037,uhf205
 Borough Park,2013,Number,332092.5032,uhf206
-East Flatbush - Flatbush,2013,Number,303428.41317,uhf207
-Canarsie - Flatlands,2013,Number,210200.63561,uhf208
-Bensonhurst - Bay Ridge,2013,Number,199987.70591,uhf209
-Coney Island - Sheepshead Bay,2013,Number,285437.94952,uhf210
-Williamsburg - Bushwick,2013,Number,221749.51385,uhf211
+East Flatbush - Flatbush,2013,Number,303428.4132,uhf207
+Canarsie - Flatlands,2013,Number,210200.6356,uhf208
+Bensonhurst - Bay Ridge,2013,Number,199987.7059,uhf209
+Coney Island - Sheepshead Bay,2013,Number,285437.9495,uhf210
+Williamsburg - Bushwick,2013,Number,221749.5139,uhf211
 Washington Heights - Inwood,2013,Number,271200.1152,uhf301
-Central Harlem - Morningside Heights,2013,Number,182935.53252,uhf302
-East Harlem,2013,Number,114354.20733,uhf303
-Upper West Side,2013,Number,215023.58489,uhf304
-Upper East Side,2013,Number,218181.44772,uhf305
-Chelsea - Clinton,2013,Number,150035.74092,uhf306
-Gramercy Park -  Murray Hill,2013,Number,129679.69626,uhf307
+Central Harlem - Morningside Heights,2013,Number,182935.5325,uhf302
+East Harlem,2013,Number,114354.2073,uhf303
+Upper West Side,2013,Number,215023.5849,uhf304
+Upper East Side,2013,Number,218181.4477,uhf305
+Chelsea - Clinton,2013,Number,150035.7409,uhf306
+Gramercy Park -  Murray Hill,2013,Number,129679.6963,uhf307
 Greenwich Village - Soho,2013,Number,83887.57219,uhf308
-Union Square - Lower East Side,2013,Number,187121.40789,uhf309
+Union Square - Lower East Side,2013,Number,187121.4079,uhf309
 Lower Manhattan,2013,Number,59829.40219,uhf310
-Long Island City - Astoria,2013,Number,210117.38138,uhf401
-West Queens,2013,Number,458210.31197,uhf402
-Flushing - Clearview,2013,Number,248654.05111,uhf403
+Long Island City - Astoria,2013,Number,210117.3814,uhf401
+West Queens,2013,Number,458210.312,uhf402
+Flushing - Clearview,2013,Number,248654.0511,uhf403
 Bayside - Little Neck,2013,Number,87584.66622,uhf404
-Ridgewood - Forest Hills,2013,Number,257994.88307,uhf405
-Fresh Meadows,2013,Number,100255.51682,uhf406
-Southwest Queens,2013,Number,285671.86212,uhf407
-Jamaica,2013,Number,317538.67077,uhf408
-Southeast Queens,2013,Number,213169.10282,uhf409
-Rockaway,2013,Number,125016.19661,uhf410
+Ridgewood - Forest Hills,2013,Number,257994.8831,uhf405
+Fresh Meadows,2013,Number,100255.5168,uhf406
+Southwest Queens,2013,Number,285671.8621,uhf407
+Jamaica,2013,Number,317538.6708,uhf408
+Southeast Queens,2013,Number,213169.1028,uhf409
+Rockaway,2013,Number,125016.1966,uhf410
 Port  Richmond,2013,Number,67330.48348,uhf501
-Stapleton - St. George,2013,Number,121828.80299,uhf502
+Stapleton - St. George,2013,Number,121828.803,uhf502
 Willowbrook,2013,Number,88156.60855,uhf503
-South Beach - Tottenville,2013,Number,194582.10498,uhf504
+South Beach - Tottenville,2013,Number,194582.105,uhf504
 Kingsbridge - Riverdale,2014,Number,93464.59321,uhf101
-Northeast Bronx,2014,Number,201947.39175,uhf102
-Fordham - Bronx Park,2014,Number,260297.10241,uhf103
+Northeast Bronx,2014,Number,201947.3918,uhf102
+Fordham - Bronx Park,2014,Number,260297.1024,uhf103
 Pelham - Throgs Neck,2014,Number,303326.9519,uhf104
-Crotona - Tremont,2014,Number,215122.37749,uhf105
-High Bridge - Morrisania,2014,Number,217229.85845,uhf106
-Hunts Point - Mott Haven,2014,Number,140333.03478,uhf107
-Greenpoint,2014,Number,136251.89583,uhf201
-Downtown  - Heights - Slope,2014,Number,253710.88656,uhf202
-Bedford Stuyvesant - Crown Heights,2014,Number,334023.79556,uhf203
-East New York,2014,Number,190984.96859,uhf204
-Sunset Park,2014,Number,126200.18706,uhf205
-Borough Park,2014,Number,335633.92336,uhf206
-East Flatbush - Flatbush,2014,Number,303640.91392,uhf207
-Canarsie - Flatlands,2014,Number,210017.88825,uhf208
-Bensonhurst - Bay Ridge,2014,Number,202366.11783,uhf209
-Coney Island - Sheepshead Bay,2014,Number,287701.23745,uhf210
-Williamsburg - Bushwick,2014,Number,222148.18559,uhf211
-Washington Heights - Inwood,2014,Number,271566.54878,uhf301
-Central Harlem - Morningside Heights,2014,Number,182327.15392,uhf302
-East Harlem,2014,Number,114372.62599,uhf303
-Upper West Side,2014,Number,215781.28745,uhf304
-Upper East Side,2014,Number,218880.43625,uhf305
-Chelsea - Clinton,2014,Number,150158.56971,uhf306
-Gramercy Park -  Murray Hill,2014,Number,130171.02352,uhf307
+Crotona - Tremont,2014,Number,215122.3775,uhf105
+High Bridge - Morrisania,2014,Number,217229.8585,uhf106
+Hunts Point - Mott Haven,2014,Number,140333.0348,uhf107
+Greenpoint,2014,Number,136251.8958,uhf201
+Downtown  - Heights - Slope,2014,Number,253710.8866,uhf202
+Bedford Stuyvesant - Crown Heights,2014,Number,334023.7956,uhf203
+East New York,2014,Number,190984.9686,uhf204
+Sunset Park,2014,Number,126200.1871,uhf205
+Borough Park,2014,Number,335633.9234,uhf206
+East Flatbush - Flatbush,2014,Number,303640.9139,uhf207
+Canarsie - Flatlands,2014,Number,210017.8883,uhf208
+Bensonhurst - Bay Ridge,2014,Number,202366.1178,uhf209
+Coney Island - Sheepshead Bay,2014,Number,287701.2375,uhf210
+Williamsburg - Bushwick,2014,Number,222148.1856,uhf211
+Washington Heights - Inwood,2014,Number,271566.5488,uhf301
+Central Harlem - Morningside Heights,2014,Number,182327.1539,uhf302
+East Harlem,2014,Number,114372.626,uhf303
+Upper West Side,2014,Number,215781.2875,uhf304
+Upper East Side,2014,Number,218880.4363,uhf305
+Chelsea - Clinton,2014,Number,150158.5697,uhf306
+Gramercy Park -  Murray Hill,2014,Number,130171.0235,uhf307
 Greenwich Village - Soho,2014,Number,84045.09145,uhf308
-Union Square - Lower East Side,2014,Number,187756.10605,uhf309
+Union Square - Lower East Side,2014,Number,187756.1061,uhf309
 Lower Manhattan,2014,Number,60102.95886,uhf310
-Long Island City - Astoria,2014,Number,211426.63321,uhf401
-West Queens,2014,Number,461023.67194,uhf402
-Flushing - Clearview,2014,Number,251213.95424,uhf403
+Long Island City - Astoria,2014,Number,211426.6332,uhf401
+West Queens,2014,Number,461023.6719,uhf402
+Flushing - Clearview,2014,Number,251213.9542,uhf403
 Bayside - Little Neck,2014,Number,88110.62233,uhf404
-Ridgewood - Forest Hills,2014,Number,258389.57923,uhf405
-Fresh Meadows,2014,Number,100825.33651,uhf406
-Southwest Queens,2014,Number,287320.70006,uhf407
-Jamaica,2014,Number,318823.01883,uhf408
-Southeast Queens,2014,Number,213831.44372,uhf409
-Rockaway,2014,Number,124783.92794,uhf410
+Ridgewood - Forest Hills,2014,Number,258389.5792,uhf405
+Fresh Meadows,2014,Number,100825.3365,uhf406
+Southwest Queens,2014,Number,287320.7001,uhf407
+Jamaica,2014,Number,318823.0188,uhf408
+Southeast Queens,2014,Number,213831.4437,uhf409
+Rockaway,2014,Number,124783.9279,uhf410
 Port  Richmond,2014,Number,67529.78141,uhf501
-Stapleton - St. George,2014,Number,122160.24499,uhf502
+Stapleton - St. George,2014,Number,122160.245,uhf502
 Willowbrook,2014,Number,88376.06203,uhf503
-South Beach - Tottenville,2014,Number,194008.91157,uhf504
+South Beach - Tottenville,2014,Number,194008.9116,uhf504
 Kingsbridge - Riverdale,2015,Number,93692.75037,uhf101
-Northeast Bronx,2015,Number,203034.88421,uhf102
-Fordham - Bronx Park,2015,Number,262275.25623,uhf103
-Pelham - Throgs Neck,2015,Number,305281.75945,uhf104
-Crotona - Tremont,2015,Number,216806.68977,uhf105
-High Bridge - Morrisania,2015,Number,218940.90803,uhf106
-Hunts Point - Mott Haven,2015,Number,141499.56195,uhf107
-Greenpoint,2015,Number,137046.47316,uhf201
-Downtown  - Heights - Slope,2015,Number,256802.42099,uhf202
+Northeast Bronx,2015,Number,203034.8842,uhf102
+Fordham - Bronx Park,2015,Number,262275.2562,uhf103
+Pelham - Throgs Neck,2015,Number,305281.7595,uhf104
+Crotona - Tremont,2015,Number,216806.6898,uhf105
+High Bridge - Morrisania,2015,Number,218940.908,uhf106
+Hunts Point - Mott Haven,2015,Number,141499.562,uhf107
+Greenpoint,2015,Number,137046.4732,uhf201
+Downtown  - Heights - Slope,2015,Number,256802.421,uhf202
 Bedford Stuyvesant - Crown Heights,2015,Number,332924.2937,uhf203
-East New York,2015,Number,189838.88176,uhf204
-Sunset Park,2015,Number,127218.11173,uhf205
-Borough Park,2015,Number,338481.64932,uhf206
-East Flatbush - Flatbush,2015,Number,303040.53806,uhf207
-Canarsie - Flatlands,2015,Number,209328.84552,uhf208
-Bensonhurst - Bay Ridge,2015,Number,204400.53526,uhf209
-Coney Island - Sheepshead Bay,2015,Number,289618.51377,uhf210
-Williamsburg - Bushwick,2015,Number,221906.73674,uhf211
-Washington Heights - Inwood,2015,Number,272427.93822,uhf301
-Central Harlem - Morningside Heights,2015,Number,182161.23031,uhf302
-East Harlem,2015,Number,114665.46349,uhf303
-Upper West Side,2015,Number,216733.54554,uhf304
+East New York,2015,Number,189838.8818,uhf204
+Sunset Park,2015,Number,127218.1117,uhf205
+Borough Park,2015,Number,338481.6493,uhf206
+East Flatbush - Flatbush,2015,Number,303040.5381,uhf207
+Canarsie - Flatlands,2015,Number,209328.8455,uhf208
+Bensonhurst - Bay Ridge,2015,Number,204400.5353,uhf209
+Coney Island - Sheepshead Bay,2015,Number,289618.5138,uhf210
+Williamsburg - Bushwick,2015,Number,221906.7367,uhf211
+Washington Heights - Inwood,2015,Number,272427.9382,uhf301
+Central Harlem - Morningside Heights,2015,Number,182161.2303,uhf302
+East Harlem,2015,Number,114665.4635,uhf303
+Upper West Side,2015,Number,216733.5455,uhf304
 Upper East Side,2015,Number,219658.8965,uhf305
-Chelsea - Clinton,2015,Number,150506.74954,uhf306
-Gramercy Park -  Murray Hill,2015,Number,130847.92987,uhf307
+Chelsea - Clinton,2015,Number,150506.7495,uhf306
+Gramercy Park -  Murray Hill,2015,Number,130847.9299,uhf307
 Greenwich Village - Soho,2015,Number,84292.71813,uhf308
 Union Square - Lower East Side,2015,Number,188873.9543,uhf309
 Lower Manhattan,2015,Number,60490.71787,uhf310
-Long Island City - Astoria,2015,Number,212060.30449,uhf401
-West Queens,2015,Number,462738.52826,uhf402
-Flushing - Clearview,2015,Number,253337.05485,uhf403
+Long Island City - Astoria,2015,Number,212060.3045,uhf401
+West Queens,2015,Number,462738.5283,uhf402
+Flushing - Clearview,2015,Number,253337.0549,uhf403
 Bayside - Little Neck,2015,Number,88469.71431,uhf404
-Ridgewood - Forest Hills,2015,Number,258095.83047,uhf405
-Fresh Meadows,2015,Number,101174.25101,uhf406
-Southwest Queens,2015,Number,288376.40914,uhf407
-Jamaica,2015,Number,319867.66209,uhf408
-Southeast Queens,2015,Number,214382.29793,uhf409
-Rockaway,2015,Number,124359.99366,uhf410
+Ridgewood - Forest Hills,2015,Number,258095.8305,uhf405
+Fresh Meadows,2015,Number,101174.251,uhf406
+Southwest Queens,2015,Number,288376.4091,uhf407
+Jamaica,2015,Number,319867.6621,uhf408
+Southeast Queens,2015,Number,214382.2979,uhf409
+Rockaway,2015,Number,124359.9937,uhf410
 Port  Richmond,2015,Number,67777.50169,uhf501
-Stapleton - St. George,2015,Number,122531.33137,uhf502
+Stapleton - St. George,2015,Number,122531.3314,uhf502
 Willowbrook,2015,Number,88656.00286,uhf503
-South Beach - Tottenville,2015,Number,193556.16408,uhf504
+South Beach - Tottenville,2015,Number,193556.1641,uhf504
 Kingsbridge - Riverdale,2016,Number,93622.6398,uhf101
-Northeast Bronx,2016,Number,203437.18702,uhf102
-Fordham - Bronx Park,2016,Number,263343.66738,uhf103
-Pelham - Throgs Neck,2016,Number,306250.73491,uhf104
+Northeast Bronx,2016,Number,203437.187,uhf102
+Fordham - Bronx Park,2016,Number,263343.6674,uhf103
+Pelham - Throgs Neck,2016,Number,306250.7349,uhf104
 Crotona - Tremont,2016,Number,217744.0836,uhf105
-High Bridge - Morrisania,2016,Number,219904.56252,uhf106
-Hunts Point - Mott Haven,2016,Number,142202.68476,uhf107
-Greenpoint,2016,Number,137394.53548,uhf201
-Downtown  - Heights - Slope,2016,Number,258948.90006,uhf202
-Bedford Stuyvesant - Crown Heights,2016,Number,331122.22692,uhf203
-East New York,2016,Number,188424.72279,uhf204
-Sunset Park,2016,Number,127905.06024,uhf205
-Borough Park,2016,Number,340070.58426,uhf206
-East Flatbush - Flatbush,2016,Number,301715.09068,uhf207
-Canarsie - Flatlands,2016,Number,208143.18185,uhf208
-Bensonhurst - Bay Ridge,2016,Number,205660.56903,uhf209
-Coney Island - Sheepshead Bay,2016,Number,290593.68343,uhf210
-Williamsburg - Bushwick,2016,Number,221253.44526,uhf211
-Washington Heights - Inwood,2016,Number,271834.19937,uhf301
+High Bridge - Morrisania,2016,Number,219904.5625,uhf106
+Hunts Point - Mott Haven,2016,Number,142202.6848,uhf107
+Greenpoint,2016,Number,137394.5355,uhf201
+Downtown  - Heights - Slope,2016,Number,258948.9001,uhf202
+Bedford Stuyvesant - Crown Heights,2016,Number,331122.2269,uhf203
+East New York,2016,Number,188424.7228,uhf204
+Sunset Park,2016,Number,127905.0602,uhf205
+Borough Park,2016,Number,340070.5843,uhf206
+East Flatbush - Flatbush,2016,Number,301715.0907,uhf207
+Canarsie - Flatlands,2016,Number,208143.1819,uhf208
+Bensonhurst - Bay Ridge,2016,Number,205660.569,uhf209
+Coney Island - Sheepshead Bay,2016,Number,290593.6834,uhf210
+Williamsburg - Bushwick,2016,Number,221253.4453,uhf211
+Washington Heights - Inwood,2016,Number,271834.1994,uhf301
 Central Harlem - Morningside Heights,2016,Number,181325.1647,uhf302
-East Harlem,2016,Number,114363.31063,uhf303
-Upper West Side,2016,Number,216962.41317,uhf304
-Upper East Side,2016,Number,219785.15908,uhf305
-Chelsea - Clinton,2016,Number,150382.96784,uhf306
-Gramercy Park -  Murray Hill,2016,Number,131193.67228,uhf307
+East Harlem,2016,Number,114363.3106,uhf303
+Upper West Side,2016,Number,216962.4132,uhf304
+Upper East Side,2016,Number,219785.1591,uhf305
+Chelsea - Clinton,2016,Number,150382.9678,uhf306
+Gramercy Park -  Murray Hill,2016,Number,131193.6723,uhf307
 Greenwich Village - Soho,2016,Number,84300.94552,uhf308
 Union Square - Lower East Side,2016,Number,189254.0616,uhf309
 Lower Manhattan,2016,Number,60698.03981,uhf310
-Long Island City - Astoria,2016,Number,212083.59471,uhf401
-West Queens,2016,Number,462978.95891,uhf402
-Flushing - Clearview,2016,Number,254749.54808,uhf403
+Long Island City - Astoria,2016,Number,212083.5947,uhf401
+West Queens,2016,Number,462978.9589,uhf402
+Flushing - Clearview,2016,Number,254749.5481,uhf403
 Bayside - Little Neck,2016,Number,88611.61096,uhf404
-Ridgewood - Forest Hills,2016,Number,257153.61546,uhf405
-Fresh Meadows,2016,Number,101283.52175,uhf406
-Southwest Queens,2016,Number,288680.33097,uhf407
-Jamaica,2016,Number,320186.91047,uhf408
-Southeast Queens,2016,Number,214483.09557,uhf409
-Rockaway,2016,Number,123713.31912,uhf410
+Ridgewood - Forest Hills,2016,Number,257153.6155,uhf405
+Fresh Meadows,2016,Number,101283.5218,uhf406
+Southwest Queens,2016,Number,288680.331,uhf407
+Jamaica,2016,Number,320186.9105,uhf408
+Southeast Queens,2016,Number,214483.0956,uhf409
+Rockaway,2016,Number,123713.3191,uhf410
 Port  Richmond,2016,Number,68332.43568,uhf501
 Stapleton - St. George,2016,Number,123402.3917,uhf502
 Willowbrook,2016,Number,89229.23861,uhf503
-South Beach - Tottenville,2016,Number,193249.93401,uhf504
+South Beach - Tottenville,2016,Number,193249.934,uhf504
 Kingsbridge - Riverdale,2017,Number,93270.41339,uhf101
-Northeast Bronx,2017,Number,202666.56465,uhf102
-Fordham - Bronx Park,2017,Number,262431.44186,uhf103
-Pelham - Throgs Neck,2017,Number,305463.85152,uhf104
-Crotona - Tremont,2017,Number,216846.47541,uhf105
-High Bridge - Morrisania,2017,Number,219073.28992,uhf106
-Hunts Point - Mott Haven,2017,Number,141687.57326,uhf107
-Greenpoint,2017,Number,136611.93951,uhf201
-Downtown  - Heights - Slope,2017,Number,259005.61451,uhf202
-Bedford Stuyvesant - Crown Heights,2017,Number,328162.11356,uhf203
-East New York,2017,Number,186431.00328,uhf204
-Sunset Park,2017,Number,127364.97002,uhf205
-Borough Park,2017,Number,338791.05425,uhf206
-East Flatbush - Flatbush,2017,Number,299334.96567,uhf207
-Canarsie - Flatlands,2017,Number,206264.93102,uhf208
-Bensonhurst - Bay Ridge,2017,Number,205212.28769,uhf209
-Coney Island - Sheepshead Bay,2017,Number,289805.02265,uhf210
-Williamsburg - Bushwick,2017,Number,219401.09783,uhf211
-Washington Heights - Inwood,2017,Number,270132.13092,uhf301
-Central Harlem - Morningside Heights,2017,Number,179761.53879,uhf302
-East Harlem,2017,Number,113623.30172,uhf303
+Northeast Bronx,2017,Number,202666.5647,uhf102
+Fordham - Bronx Park,2017,Number,262431.4419,uhf103
+Pelham - Throgs Neck,2017,Number,305463.8515,uhf104
+Crotona - Tremont,2017,Number,216846.4754,uhf105
+High Bridge - Morrisania,2017,Number,219073.2899,uhf106
+Hunts Point - Mott Haven,2017,Number,141687.5733,uhf107
+Greenpoint,2017,Number,136611.9395,uhf201
+Downtown  - Heights - Slope,2017,Number,259005.6145,uhf202
+Bedford Stuyvesant - Crown Heights,2017,Number,328162.1136,uhf203
+East New York,2017,Number,186431.0033,uhf204
+Sunset Park,2017,Number,127364.97,uhf205
+Borough Park,2017,Number,338791.0543,uhf206
+East Flatbush - Flatbush,2017,Number,299334.9657,uhf207
+Canarsie - Flatlands,2017,Number,206264.931,uhf208
+Bensonhurst - Bay Ridge,2017,Number,205212.2877,uhf209
+Coney Island - Sheepshead Bay,2017,Number,289805.0227,uhf210
+Williamsburg - Bushwick,2017,Number,219401.0978,uhf211
+Washington Heights - Inwood,2017,Number,270132.1309,uhf301
+Central Harlem - Morningside Heights,2017,Number,179761.5388,uhf302
+East Harlem,2017,Number,113623.3017,uhf303
 Upper West Side,2017,Number,216363.1467,uhf304
-Upper East Side,2017,Number,219179.96551,uhf305
-Chelsea - Clinton,2017,Number,149674.98657,uhf306
-Gramercy Park -  Murray Hill,2017,Number,131094.35032,uhf307
+Upper East Side,2017,Number,219179.9655,uhf305
+Chelsea - Clinton,2017,Number,149674.9866,uhf306
+Gramercy Park -  Murray Hill,2017,Number,131094.3503,uhf307
 Greenwich Village - Soho,2017,Number,84037.67278,uhf308
-Union Square - Lower East Side,2017,Number,189025.16837,uhf309
+Union Square - Lower East Side,2017,Number,189025.1684,uhf309
 Lower Manhattan,2017,Number,60678.23843,uhf310
-Long Island City - Astoria,2017,Number,210760.49024,uhf401
-West Queens,2017,Number,460651.51431,uhf402
-Flushing - Clearview,2017,Number,254344.58945,uhf403
+Long Island City - Astoria,2017,Number,210760.4902,uhf401
+West Queens,2017,Number,460651.5143,uhf402
+Flushing - Clearview,2017,Number,254344.5895,uhf403
 Bayside - Little Neck,2017,Number,88133.92522,uhf404
-Ridgewood - Forest Hills,2017,Number,254714.25279,uhf405
-Fresh Meadows,2017,Number,100700.54804,uhf406
-Southwest Queens,2017,Number,287169.60801,uhf407
-Jamaica,2017,Number,318831.89591,uhf408
-Southeast Queens,2017,Number,213496.75429,uhf409
-Rockaway,2017,Number,122556.31161,uhf410
+Ridgewood - Forest Hills,2017,Number,254714.2528,uhf405
+Fresh Meadows,2017,Number,100700.548,uhf406
+Southwest Queens,2017,Number,287169.608,uhf407
+Jamaica,2017,Number,318831.8959,uhf408
+Southeast Queens,2017,Number,213496.7543,uhf409
+Rockaway,2017,Number,122556.3116,uhf410
 Port  Richmond,2017,Number,68692.10527,uhf501
-Stapleton - St. George,2017,Number,124098.49923,uhf502
+Stapleton - St. George,2017,Number,124098.4992,uhf502
 Willowbrook,2017,Number,89999.08872,uhf503
-South Beach - Tottenville,2017,Number,192726.30678,uhf504
+South Beach - Tottenville,2017,Number,192726.3068,uhf504
 Kingsbridge - Riverdale,2018,Number,92534.6045,uhf101
-Northeast Bronx,2018,Number,201521.85921,uhf102
-Fordham - Bronx Park,2018,Number,261272.90383,uhf103
-Pelham - Throgs Neck,2018,Number,304034.77552,uhf104
-Crotona - Tremont,2018,Number,215942.34603,uhf105
-High Bridge - Morrisania,2018,Number,218195.72238,uhf106
-Hunts Point - Mott Haven,2018,Number,141190.41853,uhf107
-Greenpoint,2018,Number,135943.83402,uhf201
-Downtown  - Heights - Slope,2018,Number,259325.02558,uhf202
-Bedford Stuyvesant - Crown Heights,2018,Number,325714.98246,uhf203
-East New York,2018,Number,184764.43328,uhf204
+Northeast Bronx,2018,Number,201521.8592,uhf102
+Fordham - Bronx Park,2018,Number,261272.9038,uhf103
+Pelham - Throgs Neck,2018,Number,304034.7755,uhf104
+Crotona - Tremont,2018,Number,215942.346,uhf105
+High Bridge - Morrisania,2018,Number,218195.7224,uhf106
+Hunts Point - Mott Haven,2018,Number,141190.4185,uhf107
+Greenpoint,2018,Number,135943.834,uhf201
+Downtown  - Heights - Slope,2018,Number,259325.0256,uhf202
+Bedford Stuyvesant - Crown Heights,2018,Number,325714.9825,uhf203
+East New York,2018,Number,184764.4333,uhf204
 Sunset Park,2018,Number,126721.0866,uhf205
-Borough Park,2018,Number,337152.76228,uhf206
-East Flatbush - Flatbush,2018,Number,297254.53109,uhf207
-Canarsie - Flatlands,2018,Number,204565.16199,uhf208
+Borough Park,2018,Number,337152.7623,uhf206
+East Flatbush - Flatbush,2018,Number,297254.5311,uhf207
+Canarsie - Flatlands,2018,Number,204565.162,uhf208
 Bensonhurst - Bay Ridge,2018,Number,204629.6616,uhf209
 Coney Island - Sheepshead Bay,2018,Number,288893.7477,uhf210
-Williamsburg - Bushwick,2018,Number,217864.77339,uhf211
-Washington Heights - Inwood,2018,Number,269141.85874,uhf301
-Central Harlem - Morningside Heights,2018,Number,179078.11471,uhf302
-East Harlem,2018,Number,113268.17302,uhf303
-Upper West Side,2018,Number,216284.08096,uhf304
-Upper East Side,2018,Number,219078.53381,uhf305
-Chelsea - Clinton,2018,Number,149437.68718,uhf306
-Gramercy Park -  Murray Hill,2018,Number,131358.22891,uhf307
+Williamsburg - Bushwick,2018,Number,217864.7734,uhf211
+Washington Heights - Inwood,2018,Number,269141.8587,uhf301
+Central Harlem - Morningside Heights,2018,Number,179078.1147,uhf302
+East Harlem,2018,Number,113268.173,uhf303
+Upper West Side,2018,Number,216284.081,uhf304
+Upper East Side,2018,Number,219078.5338,uhf305
+Chelsea - Clinton,2018,Number,149437.6872,uhf306
+Gramercy Park -  Murray Hill,2018,Number,131358.2289,uhf307
 Greenwich Village - Soho,2018,Number,84055.45177,uhf308
-Union Square - Lower East Side,2018,Number,189305.02585,uhf309
+Union Square - Lower East Side,2018,Number,189305.0259,uhf309
 Lower Manhattan,2018,Number,60936.31176,uhf310
-Long Island City - Astoria,2018,Number,208828.30622,uhf401
-West Queens,2018,Number,457315.67636,uhf402
-Flushing - Clearview,2018,Number,253235.26906,uhf403
+Long Island City - Astoria,2018,Number,208828.3062,uhf401
+West Queens,2018,Number,457315.6764,uhf402
+Flushing - Clearview,2018,Number,253235.2691,uhf403
 Bayside - Little Neck,2018,Number,87431.63278,uhf404
 Ridgewood - Forest Hills,2018,Number,251726.0752,uhf405
 Fresh Meadows,2018,Number,99867.41663,uhf406
-Southwest Queens,2018,Number,284964.02589,uhf407
-Jamaica,2018,Number,316626.59214,uhf408
-Southeast Queens,2018,Number,211954.90848,uhf409
-Rockaway,2018,Number,121153.00052,uhf410
+Southwest Queens,2018,Number,284964.0259,uhf407
+Jamaica,2018,Number,316626.5921,uhf408
+Southeast Queens,2018,Number,211954.9085,uhf409
+Rockaway,2018,Number,121153.0005,uhf410
 Port  Richmond,2018,Number,68876.59813,uhf501
-Stapleton - St. George,2018,Number,124623.25132,uhf502
+Stapleton - St. George,2018,Number,124623.2513,uhf502
 Willowbrook,2018,Number,90834.28819,uhf503
-South Beach - Tottenville,2018,Number,191844.86235,uhf504
+South Beach - Tottenville,2018,Number,191844.8624,uhf504
 Zip Code 10001,2011,Number,21097,10001
 Zip Code 10001,2012,Number,20579,10001
 Zip Code 10001,2013,Number,21966,10001

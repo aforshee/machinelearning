@@ -1,8 +1,3 @@
-"Name","Unemployment Rate "
-"Description","Individuals 16 years and older actively seeking employment (within the last four weeks) who are unemployed."
-"Source Notes","U.S. Census Bureau, American Community Survey 1-Year Estimates, Table C23001 (2005-2013), Table S2301 (2014-2018);&nbsp; retrieved from <a href=""https://data.census.gov/"" target=""_blank"">https://data.census.gov/</a><a href=""http://factfinder2.census.gov/"" target=""_blank""></a>."
-"Notes","The unemployment rates reported here are different than the official unemployment rates reported quarterly by the U.S. Bureau of Labor Statistics."
-
 Location,TimeFrame,DataFormat,Data,Fips
 Mott Haven,2005,Percent,0.176,201
 Hunts Point,2005,Percent,0.176,202

@@ -1,8 +1,3 @@
-"Name","Child Population by Age Group"
-"Description","Population for children under 18 years by age group."
-"Source Notes","U.S. Census Bureau, American Community Survey 1-Year Estimates, Tables DP01 (2005), DP05 and B01001&nbsp;(2006-2018); retrieved from <a href=""https://data.census.gov/"" target=""_blank"">https://data.census.gov/</a>."
-"Notes","Percents refer to the percent of all children under 18 years."
-
 Location,Age Group,TimeFrame,DataFormat,Data,Fips
 Battery Park/Tribeca,Under 5 Years,2005,Number,2868.50295,101
 Battery Park/Tribeca,Under 5 Years,2005,Percent,0.48872,101

@@ -1,10 +1,3 @@
-"Name","Total Population by Race/Ethnicity"
-"Description","Total population by racial/ethnic group."
-"Source Notes","<span style=""color: #333333;"">U.S. Census Bureau, American Community Survey 5-Year Estimates, Table B03002 (2009-2018); retrieved <a href=""https://data.census.gov/"" target=""_blank"">https://data.census.gov/</a>.</span>
-<div><span style=""color: #333333;""><br />
-</span></div>"
-"Notes","Percents refer to the percent of the total population. Racial/ethnic groups are defined as follows: White = non-Latino White alone, Black = non-Latino Black alone, Asian = non-Latino Asian or Pacific Islander alone, Other = other non-Latino of any race, Latino = Latino of any race.&nbsp;"
-
 Location,Race/Ethnicity,TimeFrame,DataFormat,Data,Fips
 Riverdale,Asian,2009,Number,5647,208
 Williamsbridge,Asian,2009,Number,3194,212

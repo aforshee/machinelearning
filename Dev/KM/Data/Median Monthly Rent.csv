@@ -1,9 +1,3 @@
-"Name","Median Monthly Rent"
-"Description","Median contract (or asking) rent for rental households."
-"Source Notes","U.S. Census Bureau, American Community Survey 1-Year Estimates, Table B25058 (2005-2017); retrieved from <a href=""https://data.census.gov/"" target=""_blank"">https://data.census.gov/</a>."
-"Notes","Dollar amounts for all years adjusted to constant 2018 dollars using the Consumer Price Index Research Series Using Current Methods (CPI-U-RS) for all items; retrieved from <a href=""https://www.bls.gov/cpi/research-series/home.htm"" target=""_blank"">https://www.bls.gov/cpi/research-series/home.htm</a>.&nbsp;<br />
-Some of the median rents reported by the Census have been ""top-coded"" into the highest standard deviation category; instances that fall into this category have been labeled as ""Topcoded."" The topcoded amount for median rent is $2,000 (in current year dollars). Due to adjustment for inflation, some rents displayed for prior years may exceed the topcoded amount."
-
 Location,TimeFrame,DataFormat,Data,Fips
 Battery Park/Tribeca,2005,Dollars,2191.21645,101
 Greenwich Village,2005,Dollars,2191.21645,102

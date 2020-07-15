@@ -1,8 +1,3 @@
-"Name","Home Ownership"
-"Description","Residents of occupied housing units who own their unit."
-"Source Notes","U.S. Census Bureau, American Community Survey 1-Year Estimates, Table B25003 (2005-2018); retrieved from <a href=""https://data.census.gov/"" target=""_blank"">https://data.census.gov/</a>."
-"Notes",""
-
 Location,TimeFrame,DataFormat,Data,Fips
 Bronx,2005,Percent,0.20981,36005
 Brooklyn,2005,Percent,0.30065,36047
