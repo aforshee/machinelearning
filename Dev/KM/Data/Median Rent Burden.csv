@@ -1,8 +1,3 @@
-"Name","Median Rent Burden"
-"Description","Median rent as a percentage of household income in the past year for renter occupied households.&nbsp;"
-"Source Notes","<span style=""font-size: 19px; font-family: GestaCond-Regular, GestaCond-Regular, Tahoma, Arial, sans-serif; color: #333333;""></span>U.S. Census Bureau, American Community Survey 1-Year Estimates, Table B25071&nbsp;(2005-2018); retrieved from&nbsp;<a href=""https://data.census.gov/"" target=""_blank"">https://data.census.gov/</a>."
-"Notes",""
-
 Location,TimeFrame,DataFormat,Data,Fips
 Riverdale,2017,Percent,0.34,208
 Williamsbridge,2017,Percent,0.347,212

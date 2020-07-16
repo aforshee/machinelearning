@@ -1,9 +1,3 @@
-"Name","Public Assistance by Program Type"
-"Description","Recipients of public assistance, also called cash assistance, by program type.&nbsp;<span>Family Assistance (FA) is cash assistance available for families with children under the age of 18 who meet income and other eligibility requirements. It is funded through the federal Temporary Assistance for Needy Families (TANF) block grant and follows federal eligibility guidelines. Eligible adults are limited to receiving FA benefits for 60 months in their lifetime. Safety Net Assistance (SNA) is available childless adults and others who do not qualify for FA, as well as families who have exceeded 60 months of FA benefits. Safety Net Converted refers to individuals receiving SNA because they have exceeded their 60 months of FA benefits.&nbsp;SNA is funded by the city and state.</span>"
-"Source Notes","New York City Human Resources Administration,&nbsp;<em>District Resource Statement Fiscal and Service Reports</em>&nbsp;(for Fiscal Years: 2002 and 2003; 2005 and 2006;&nbsp;2006 and 2007;&nbsp;2007 and 2008;&nbsp;2009 and 2010; 2011 and 2012;&nbsp;2016 and 2017; 2017 and 2018); retrieved from&nbsp;<a href=""http://www.nyc.gov/html/hra/html/statistics/statistics.shtml"">http://www.nyc.gov/html/hra/html/statistics/statistics.shtml</a>.&nbsp;"
-"Notes","Figures represent data as of October for the given year.&nbsp;Percentages presented by program type refer to <g class=""gr_ gr_4 gr-alert gr_gramm gr_inline_cards gr_run_anim Grammar only-ins replaceWithoutSep"" id=""4"" data-gr-id=""4"">percent</g> of all public assistance recipients.<br />
-*CCC is in the process of filling in data for missing years.&nbsp;"
-
 Location,Program Type,TimeFrame,DataFormat,Data,Fips
 Battery Park/Tribeca,Family Assistance,2005,Number,138,101
 Greenwich Village,Family Assistance,2005,Number,73,102

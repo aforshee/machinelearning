@@ -1,8 +1,3 @@
-"Name","Child Population by Race/Ethnicity"
-"Description","Population for children under 18 years by racial/ethnic group."
-"Source Notes","CCC analysis of U.S. Census Bureau, American Community Survey 1-Year Estimates, Public Use Microdata Sample File (2005-2018); retrieved from <a href=""https://data.census.gov/"" target=""_blank"">https://data.census.gov/</a><a href=""http://factfinder2.census.gov/""></a>.<br />"
-"Notes","Percents refer to the percent of all children under 18 years. Racial/ethnic groups are defined as follows: White = non-Latino White alone, Black = non-Latino Black alone, Asian = non-Latino Asian or Pacific Islander alone, Latino = Latino of any race."
-
 Location,Race/Ethnicity,TimeFrame,DataFormat,Data,Fips
 Lower East Side,White,2017,Number,2792,103
 Murray Hill/Stuyvesant,White,2017,Number,6471,106

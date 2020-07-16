@@ -1,8 +1,3 @@
-"Name","Employment Population Ratio"
-"Description","<span style=""background-color: #ffffff; color: #333333;"">The <g class=""gr_ gr_8 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del multiReplace replaceWithoutSep"" id=""8"" data-gr-id=""8"">employment population</g> ratio represents the proportion of the population aged 16 and over that are currently employed.&nbsp;</span>"
-"Source Notes","U.S. Census Bureau, American Community Survey 1-Year Estimates, Table S2301 (2005-2018); retrieved from&nbsp;<a href=""https://data.census.gov/"" target=""_blank"">https://data.census.gov/</a><a href=""http://factfinder2.census.gov/"" target=""_blank""></a>."
-"Notes","Previously, CCC calculated the employment population ratio for the working age population (aged 16 to 64). In December 2019, CCC adjusted this indicator to measure the employment population ratio of the civilian population aged 16 and older, in line with reporting from the&nbsp;<a href=""https://data.bls.gov/timeseries/LNS12300000"" target=""_blank"">Bureau of Labor Statistics</a>."
-
 Location,TimeFrame,DataFormat,Data,Fips
 Battery Park/Tribeca,2005,Percent,0.751,101
 Greenwich Village,2005,Percent,0.751,102

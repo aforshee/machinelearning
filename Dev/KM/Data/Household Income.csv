@@ -1,8 +1,3 @@
-"Name","Household Income"
-"Description","Households by income level."
-"Source Notes","U.S. Census Bureau, American Community Survey 1-Year Estimates, Summary Table B19001 (2005-2018); retrieved from&nbsp;<a href=""https://data.census.gov/"" target=""_blank"">https://data.census.gov/</a>."
-"Notes",""
-
 Location,Income Level,TimeFrame,DataFormat,Data,Fips
 Battery Park/Tribeca,"$100,000 to $199,999",2005,Number,8039.72359,101
 Greenwich Village,"$100,000 to $199,999",2005,Number,11868.27641,102

@@ -1,0 +1,391 @@
+Location,Housing Type,TimeFrame,DataFormat,Data,Fips
+Battery Park/Tribeca,All Housing,2011,Percent,0.05685,101
+Greenwich Village,All Housing,2011,Percent,0.05685,102
+Lower East Side,All Housing,2011,Percent,0.16079,103
+Chelsea/Clinton,All Housing,2011,Percent,0.1006,104
+Midtown Business District,All Housing,2011,Percent,0.1006,105
+Murray Hill/Stuyvesant,All Housing,2011,Percent,0.06777,106
+Upper West Side,All Housing,2011,Percent,0.10754,107
+Upper East Side,All Housing,2011,Percent,0.05851,108
+Manhattanville,All Housing,2011,Percent,0.23511,109
+Central Harlem,All Housing,2011,Percent,0.29592,110
+East Harlem,All Housing,2011,Percent,0.31386,111
+Washington Heights,All Housing,2011,Percent,0.27355,112
+Mott Haven,All Housing,2011,Percent,0.30535,201
+Hunts Point,All Housing,2011,Percent,0.30535,202
+Morrisania,All Housing,2011,Percent,0.33449,203
+Concourse/Highbridge,All Housing,2011,Percent,0.336,204
+University Heights,All Housing,2011,Percent,0.38068,205
+East Tremont,All Housing,2011,Percent,0.33449,206
+Bedford Park,All Housing,2011,Percent,0.30827,207
+Riverdale,All Housing,2011,Percent,0.18689,208
+Unionport/Soundview,All Housing,2011,Percent,0.23359,209
+Throgs Neck,All Housing,2011,Percent,0.10824,210
+Pelham Parkway,All Housing,2011,Percent,0.13653,211
+Williamsbridge,All Housing,2011,Percent,0.19838,212
+Williamsburg/Greenpoint,All Housing,2011,Percent,0.11381,301
+Fort Greene/Brooklyn Hts,All Housing,2011,Percent,0.12025,302
+Bedford Stuyvesant,All Housing,2011,Percent,0.23612,303
+Bushwick,All Housing,2011,Percent,0.19825,304
+East New York,All Housing,2011,Percent,0.21905,305
+Park Slope,All Housing,2011,Percent,0.15112,306
+Sunset Park,All Housing,2011,Percent,0.14771,307
+Crown Heights North,All Housing,2011,Percent,0.21863,308
+Crown Heights South,All Housing,2011,Percent,0.37747,309
+Bay Ridge,All Housing,2011,Percent,0.11639,310
+Bensonhurst,All Housing,2011,Percent,0.07593,311
+Borough Park,All Housing,2011,Percent,0.1208,312
+Coney Island,All Housing,2011,Percent,0.09166,313
+Flatbush/Midwood,All Housing,2011,Percent,0.26522,314
+Sheepshead Bay,All Housing,2011,Percent,0.0938,315
+Brownsville,All Housing,2011,Percent,0.30531,316
+East Flatbush,All Housing,2011,Percent,0.27042,317
+Canarsie,All Housing,2011,Percent,0.1143,318
+Astoria,All Housing,2011,Percent,0.12433,401
+Sunnyside/Woodside,All Housing,2011,Percent,0.14735,402
+Jackson Heights,All Housing,2011,Percent,0.10435,403
+Elmhurst/Corona,All Housing,2011,Percent,0.14981,404
+Ridgewood/Glendale,All Housing,2011,Percent,0.07744,405
+Rego Park/Forest Hills,All Housing,2011,Percent,0.10137,406
+Flushing,All Housing,2011,Percent,0.03628,407
+Fresh Meadows/Briarwood,All Housing,2011,Percent,0.06028,408
+Woodhaven,All Housing,2011,Percent,0.08488,409
+Howard Beach,All Housing,2011,Percent,0.05782,410
+Bayside,All Housing,2011,Percent,0.02065,411
+Jamaica/St. Albans,All Housing,2011,Percent,0.1246,412
+Queens Village,All Housing,2011,Percent,0.07345,413
+The Rockaways,All Housing,2011,Percent,0.11052,414
+St. George,All Housing,2011,Percent,0.06395,501
+South Beach,All Housing,2011,Percent,0.03187,502
+Tottenville,All Housing,2011,Percent,0.0075,503
+Bronx,All Housing,2011,Percent,0.25626,36005
+Brooklyn,All Housing,2011,Percent,0.17274,36047
+Manhattan,All Housing,2011,Percent,0.14238,36061
+Queens,All Housing,2011,Percent,0.08922,36081
+Staten Island,All Housing,2011,Percent,0.03487,36085
+New York City,All Housing,2011,Percent,0.15022,3651000
+Battery Park/Tribeca,Rental Housing,2011,Percent,0.07478,101
+Greenwich Village,Rental Housing,2011,Percent,0.07478,102
+Lower East Side,Rental Housing,2011,Percent,0.1721,103
+Chelsea/Clinton,Rental Housing,2011,Percent,0.11944,104
+Midtown Business District,Rental Housing,2011,Percent,0.11944,105
+Murray Hill/Stuyvesant,Rental Housing,2011,Percent,0.08444,106
+Upper West Side,Rental Housing,2011,Percent,0.14439,107
+Upper East Side,Rental Housing,2011,Percent,0.08716,108
+Manhattanville,Rental Housing,2011,Percent,0.26935,109
+Central Harlem,Rental Housing,2011,Percent,0.31356,110
+East Harlem,Rental Housing,2011,Percent,0.32766,111
+Washington Heights,Rental Housing,2011,Percent,0.29335,112
+Mott Haven,Rental Housing,2011,Percent,0.3271,201
+Hunts Point,Rental Housing,2011,Percent,0.3271,202
+Morrisania,Rental Housing,2011,Percent,0.36188,203
+Concourse/Highbridge,Rental Housing,2011,Percent,0.34917,204
+University Heights,Rental Housing,2011,Percent,0.38634,205
+East Tremont,Rental Housing,2011,Percent,0.36188,206
+Bedford Park,Rental Housing,2011,Percent,0.32812,207
+Riverdale,Rental Housing,2011,Percent,0.25942,208
+Unionport/Soundview,Rental Housing,2011,Percent,0.28455,209
+Throgs Neck,Rental Housing,2011,Percent,0.19293,210
+Pelham Parkway,Rental Housing,2011,Percent,0.15246,211
+Williamsbridge,Rental Housing,2011,Percent,0.24176,212
+Williamsburg/Greenpoint,Rental Housing,2011,Percent,0.12937,301
+Fort Greene/Brooklyn Hts,Rental Housing,2011,Percent,0.16234,302
+Bedford Stuyvesant,Rental Housing,2011,Percent,0.26554,303
+Bushwick,Rental Housing,2011,Percent,0.20727,304
+East New York,Rental Housing,2011,Percent,0.24983,305
+Park Slope,Rental Housing,2011,Percent,0.19595,306
+Sunset Park,Rental Housing,2011,Percent,0.18589,307
+Crown Heights North,Rental Housing,2011,Percent,0.24284,308
+Crown Heights South,Rental Housing,2011,Percent,0.41932,309
+Bay Ridge,Rental Housing,2011,Percent,0.13484,310
+Bensonhurst,Rental Housing,2011,Percent,0.09703,311
+Borough Park,Rental Housing,2011,Percent,0.15132,312
+Coney Island,Rental Housing,2011,Percent,0.11903,313
+Flatbush/Midwood,Rental Housing,2011,Percent,0.30834,314
+Sheepshead Bay,Rental Housing,2011,Percent,0.14157,315
+Brownsville,Rental Housing,2011,Percent,0.33515,316
+East Flatbush,Rental Housing,2011,Percent,0.34109,317
+Canarsie,Rental Housing,2011,Percent,0.14626,318
+Astoria,Rental Housing,2011,Percent,0.14604,401
+Sunnyside/Woodside,Rental Housing,2011,Percent,0.16626,402
+Jackson Heights,Rental Housing,2011,Percent,0.13984,403
+Elmhurst/Corona,Rental Housing,2011,Percent,0.14731,404
+Ridgewood/Glendale,Rental Housing,2011,Percent,0.11673,405
+Rego Park/Forest Hills,Rental Housing,2011,Percent,0.15365,406
+Flushing,Rental Housing,2011,Percent,0.06335,407
+Fresh Meadows/Briarwood,Rental Housing,2011,Percent,0.06645,408
+Woodhaven,Rental Housing,2011,Percent,0.11093,409
+Howard Beach,Rental Housing,2011,Percent,0.11056,410
+Bayside,Rental Housing,2011,Percent,0.0183,411
+Jamaica/St. Albans,Rental Housing,2011,Percent,0.15811,412
+Queens Village,Rental Housing,2011,Percent,0.10138,413
+The Rockaways,Rental Housing,2011,Percent,0.15859,414
+St. George,Rental Housing,2011,Percent,0.10471,501
+South Beach,Rental Housing,2011,Percent,0.02797,502
+Tottenville,Rental Housing,2011,Percent,0,503
+Bronx,Rental Housing,2011,Percent,0.30083,36005
+Brooklyn,Rental Housing,2011,Percent,0.21296,36047
+Manhattan,Rental Housing,2011,Percent,0.17341,36061
+Queens,Rental Housing,2011,Percent,0.12254,36081
+Staten Island,Rental Housing,2011,Percent,0.05507,36085
+New York City,Rental Housing,2011,Percent,0.196,3651000
+Battery Park/Tribeca,Rental Housing,2014,Percent,0.07984,101
+Greenwich Village,Rental Housing,2014,Percent,0.07984,102
+Lower East Side,Rental Housing,2014,Percent,0.20715,103
+Chelsea/Clinton,Rental Housing,2014,Percent,0.11559,104
+Midtown Business District,Rental Housing,2014,Percent,0.11559,105
+Murray Hill/Stuyvesant,Rental Housing,2014,Percent,0.04749,106
+Upper West Side,Rental Housing,2014,Percent,0.11904,107
+Upper East Side,Rental Housing,2014,Percent,0.08252,108
+Manhattanville,Rental Housing,2014,Percent,0.21336,109
+Central Harlem,Rental Housing,2014,Percent,0.20755,110
+East Harlem,Rental Housing,2014,Percent,0.20984,111
+Washington Heights,Rental Housing,2014,Percent,0.22785,112
+Mott Haven,Rental Housing,2014,Percent,0.3492,201
+Hunts Point,Rental Housing,2014,Percent,0.3492,202
+Morrisania,Rental Housing,2014,Percent,0.32047,203
+Concourse/Highbridge,Rental Housing,2014,Percent,0.43207,204
+University Heights,Rental Housing,2014,Percent,0.35248,205
+East Tremont,Rental Housing,2014,Percent,0.32047,206
+Bedford Park,Rental Housing,2014,Percent,0.30206,207
+Riverdale,Rental Housing,2014,Percent,0.28426,208
+Unionport/Soundview,Rental Housing,2014,Percent,0.26025,209
+Throgs Neck,Rental Housing,2014,Percent,0.17002,210
+Pelham Parkway,Rental Housing,2014,Percent,0.19786,211
+Williamsbridge,Rental Housing,2014,Percent,0.2074,212
+Williamsburg/Greenpoint,Rental Housing,2014,Percent,0.12152,301
+Fort Greene/Brooklyn Hts,Rental Housing,2014,Percent,0.21329,302
+Bedford Stuyvesant,Rental Housing,2014,Percent,0.22521,303
+Bushwick,Rental Housing,2014,Percent,0.18929,304
+East New York,Rental Housing,2014,Percent,0.15482,305
+Park Slope,Rental Housing,2014,Percent,0.18291,306
+Sunset Park,Rental Housing,2014,Percent,0.10701,307
+Crown Heights North,Rental Housing,2014,Percent,0.35198,308
+Crown Heights South,Rental Housing,2014,Percent,0.29795,309
+Bay Ridge,Rental Housing,2014,Percent,0.09753,310
+Bensonhurst,Rental Housing,2014,Percent,0.0402,311
+Borough Park,Rental Housing,2014,Percent,0.16646,312
+Coney Island,Rental Housing,2014,Percent,0.13135,313
+Flatbush/Midwood,Rental Housing,2014,Percent,0.19886,314
+Sheepshead Bay,Rental Housing,2014,Percent,0.14265,315
+Brownsville,Rental Housing,2014,Percent,0.35063,316
+East Flatbush,Rental Housing,2014,Percent,0.26654,317
+Canarsie,Rental Housing,2014,Percent,0.18533,318
+Astoria,Rental Housing,2014,Percent,0.17022,401
+Sunnyside/Woodside,Rental Housing,2014,Percent,0.1528,402
+Jackson Heights,Rental Housing,2014,Percent,0.12039,403
+Elmhurst/Corona,Rental Housing,2014,Percent,0.08543,404
+Ridgewood/Glendale,Rental Housing,2014,Percent,0.0454,405
+Rego Park/Forest Hills,Rental Housing,2014,Percent,0.12821,406
+Flushing,Rental Housing,2014,Percent,0.06955,407
+Fresh Meadows/Briarwood,Rental Housing,2014,Percent,0.08366,408
+Woodhaven,Rental Housing,2014,Percent,0.10887,409
+Howard Beach,Rental Housing,2014,Percent,0.08538,410
+Bayside,Rental Housing,2014,Percent,0.05416,411
+Jamaica/St. Albans,Rental Housing,2014,Percent,0.1118,412
+Queens Village,Rental Housing,2014,Percent,0.05641,413
+The Rockaways,Rental Housing,2014,Percent,0.17281,414
+St. George,Rental Housing,2014,Percent,0.12645,501
+South Beach,Rental Housing,2014,Percent,0.05107,502
+Tottenville,Rental Housing,2014,Percent,0.0342,503
+Bronx,Rental Housing,2014,Percent,0.29734,36005
+Brooklyn,Rental Housing,2014,Percent,0.18861,36047
+Manhattan,Rental Housing,2014,Percent,0.14481,36061
+Queens,Rental Housing,2014,Percent,0.11018,36081
+Staten Island,Rental Housing,2014,Percent,0.08536,36085
+New York City,Rental Housing,2014,Percent,0.17825,3651000
+Battery Park/Tribeca,All Housing,2014,Percent,0.07222,101
+Greenwich Village,All Housing,2014,Percent,0.07222,102
+Lower East Side,All Housing,2014,Percent,0.17904,103
+Chelsea/Clinton,All Housing,2014,Percent,0.10061,104
+Midtown Business District,All Housing,2014,Percent,0.10061,105
+Murray Hill/Stuyvesant,All Housing,2014,Percent,0.03975,106
+Upper West Side,All Housing,2014,Percent,0.08653,107
+Upper East Side,All Housing,2014,Percent,0.06726,108
+Manhattanville,All Housing,2014,Percent,0.18883,109
+Central Harlem,All Housing,2014,Percent,0.18712,110
+East Harlem,All Housing,2014,Percent,0.19999,111
+Washington Heights,All Housing,2014,Percent,0.219,112
+Mott Haven,All Housing,2014,Percent,0.32412,201
+Hunts Point,All Housing,2014,Percent,0.32412,202
+Morrisania,All Housing,2014,Percent,0.29287,203
+Concourse/Highbridge,All Housing,2014,Percent,0.39069,204
+University Heights,All Housing,2014,Percent,0.35847,205
+East Tremont,All Housing,2014,Percent,0.29287,206
+Bedford Park,All Housing,2014,Percent,0.28421,207
+Riverdale,All Housing,2014,Percent,0.18388,208
+Unionport/Soundview,All Housing,2014,Percent,0.22187,209
+Throgs Neck,All Housing,2014,Percent,0.10871,210
+Pelham Parkway,All Housing,2014,Percent,0.15433,211
+Williamsbridge,All Housing,2014,Percent,0.18005,212
+Williamsburg/Greenpoint,All Housing,2014,Percent,0.11345,301
+Fort Greene/Brooklyn Hts,All Housing,2014,Percent,0.14022,302
+Bedford Stuyvesant,All Housing,2014,Percent,0.20545,303
+Bushwick,All Housing,2014,Percent,0.16873,304
+East New York,All Housing,2014,Percent,0.15574,305
+Park Slope,All Housing,2014,Percent,0.15781,306
+Sunset Park,All Housing,2014,Percent,0.08356,307
+Crown Heights North,All Housing,2014,Percent,0.3156,308
+Crown Heights South,All Housing,2014,Percent,0.27047,309
+Bay Ridge,All Housing,2014,Percent,0.07773,310
+Bensonhurst,All Housing,2014,Percent,0.03441,311
+Borough Park,All Housing,2014,Percent,0.13996,312
+Coney Island,All Housing,2014,Percent,0.09184,313
+Flatbush/Midwood,All Housing,2014,Percent,0.17128,314
+Sheepshead Bay,All Housing,2014,Percent,0.07929,315
+Brownsville,All Housing,2014,Percent,0.3203,316
+East Flatbush,All Housing,2014,Percent,0.22326,317
+Canarsie,All Housing,2014,Percent,0.12476,318
+Astoria,All Housing,2014,Percent,0.14552,401
+Sunnyside/Woodside,All Housing,2014,Percent,0.11656,402
+Jackson Heights,All Housing,2014,Percent,0.09127,403
+Elmhurst/Corona,All Housing,2014,Percent,0.07949,404
+Ridgewood/Glendale,All Housing,2014,Percent,0.03599,405
+Rego Park/Forest Hills,All Housing,2014,Percent,0.07584,406
+Flushing,All Housing,2014,Percent,0.05059,407
+Fresh Meadows/Briarwood,All Housing,2014,Percent,0.0669,408
+Woodhaven,All Housing,2014,Percent,0.06514,409
+Howard Beach,All Housing,2014,Percent,0.04256,410
+Bayside,All Housing,2014,Percent,0.01588,411
+Jamaica/St. Albans,All Housing,2014,Percent,0.08893,412
+Queens Village,All Housing,2014,Percent,0.04301,413
+The Rockaways,All Housing,2014,Percent,0.12747,414
+St. George,All Housing,2014,Percent,0.08795,501
+South Beach,All Housing,2014,Percent,0.02554,502
+Tottenville,All Housing,2014,Percent,0.01183,503
+Bronx,All Housing,2014,Percent,0.24924,36005
+Brooklyn,All Housing,2014,Percent,0.15244,36047
+Manhattan,All Housing,2014,Percent,0.12114,36061
+Queens,All Housing,2014,Percent,0.07625,36081
+Staten Island,All Housing,2014,Percent,0.04415,36085
+New York City,All Housing,2014,Percent,0.13547,3651000
+New York City,All Housing,2017,Percent,0.11186,3651000
+New York City,Rental Housing,2017,Percent,0.14942,3651000
+Staten Island,All Housing,2017,Percent,0.03631,36085
+Staten Island,Rental Housing,2017,Percent,0.07808,36085
+Queens,All Housing,2017,Percent,0.05931,36081
+Queens,Rental Housing,2017,Percent,0.08576,36081
+Manhattan,All Housing,2017,Percent,0.1096,36061
+Manhattan,Rental Housing,2017,Percent,0.13045,36061
+Brooklyn,All Housing,2017,Percent,0.11891,36047
+Brooklyn,Rental Housing,2017,Percent,0.15307,36047
+Bronx,All Housing,2017,Percent,0.21219,36005
+Bronx,Rental Housing,2017,Percent,0.25734,36005
+Battery Park/Tribeca,All Housing,2017,Percent,0.07945,101
+Battery Park/Tribeca,Rental Housing,2017,Percent,0.09805,101
+Greenwich Village,All Housing,2017,Percent,0.07945,102
+Greenwich Village,Rental Housing,2017,Percent,0.09805,102
+Lower East Side,All Housing,2017,Percent,0.17508,103
+Lower East Side,Rental Housing,2017,Percent,0.1879,103
+Chelsea/Clinton,All Housing,2017,Percent,0.04875,104
+Chelsea/Clinton,Rental Housing,2017,Percent,0.05168,104
+Midtown Business District,All Housing,2017,Percent,0.04875,105
+Midtown Business District,Rental Housing,2017,Percent,0.05168,105
+Murray Hill/Stuyvesant,All Housing,2017,Percent,0.03167,106
+Murray Hill/Stuyvesant,Rental Housing,2017,Percent,0.04635,106
+Upper West Side,All Housing,2017,Percent,0.09449,107
+Upper West Side,Rental Housing,2017,Percent,0.10905,107
+Upper East Side,All Housing,2017,Percent,0.05749,108
+Upper East Side,Rental Housing,2017,Percent,0.07435,108
+Manhattanville,All Housing,2017,Percent,0.23217,109
+Manhattanville,Rental Housing,2017,Percent,0.23968,109
+Central Harlem,All Housing,2017,Percent,0.16106,110
+Central Harlem,Rental Housing,2017,Percent,0.17671,110
+East Harlem,All Housing,2017,Percent,0.18388,111
+East Harlem,Rental Housing,2017,Percent,0.206,111
+Washington Heights,All Housing,2017,Percent,0.15144,112
+Washington Heights,Rental Housing,2017,Percent,0.17044,112
+Mott Haven,All Housing,2017,Percent,0.23689,201
+Mott Haven,Rental Housing,2017,Percent,0.25139,201
+Hunts Point,All Housing,2017,Percent,0.23689,202
+Hunts Point,Rental Housing,2017,Percent,0.25139,202
+Morrisania,All Housing,2017,Percent,0.21166,203
+Morrisania,Rental Housing,2017,Percent,0.23516,203
+Concourse/Highbridge,All Housing,2017,Percent,0.25852,204
+Concourse/Highbridge,Rental Housing,2017,Percent,0.2686,204
+University Heights,All Housing,2017,Percent,0.33976,205
+University Heights,Rental Housing,2017,Percent,0.35047,205
+East Tremont,All Housing,2017,Percent,0.21166,206
+East Tremont,Rental Housing,2017,Percent,0.23516,206
+Bedford Park,All Housing,2017,Percent,0.28963,207
+Bedford Park,Rental Housing,2017,Percent,0.31496,207
+Riverdale,All Housing,2017,Percent,0.20534,208
+Riverdale,Rental Housing,2017,Percent,0.28927,208
+Unionport/Soundview,All Housing,2017,Percent,0.15337,209
+Unionport/Soundview,Rental Housing,2017,Percent,0.19161,209
+Throgs Neck,All Housing,2017,Percent,0.0665,210
+Throgs Neck,Rental Housing,2017,Percent,0.18471,210
+Pelham Parkway,All Housing,2017,Percent,0.19481,211
+Pelham Parkway,Rental Housing,2017,Percent,0.22546,211
+Williamsbridge,All Housing,2017,Percent,0.18894,212
+Williamsbridge,Rental Housing,2017,Percent,0.21452,212
+Williamsburg/Greenpoint,All Housing,2017,Percent,0.09204,301
+Williamsburg/Greenpoint,Rental Housing,2017,Percent,0.09678,301
+Fort Greene/Brooklyn Hts,All Housing,2017,Percent,0.07811,302
+Fort Greene/Brooklyn Hts,Rental Housing,2017,Percent,0.13145,302
+Bedford Stuyvesant,All Housing,2017,Percent,0.22953,303
+Bedford Stuyvesant,Rental Housing,2017,Percent,0.2656,303
+Bushwick,All Housing,2017,Percent,0.1462,304
+Bushwick,Rental Housing,2017,Percent,0.15485,304
+East New York,All Housing,2017,Percent,0.1783,305
+East New York,Rental Housing,2017,Percent,0.23139,305
+Park Slope,All Housing,2017,Percent,0.05533,306
+Park Slope,Rental Housing,2017,Percent,0.08194,306
+Sunset Park,All Housing,2017,Percent,0.05532,307
+Sunset Park,Rental Housing,2017,Percent,0.07948,307
+Crown Heights North,All Housing,2017,Percent,0.27076,308
+Crown Heights North,Rental Housing,2017,Percent,0.29463,308
+Crown Heights South,All Housing,2017,Percent,0.20275,309
+Crown Heights South,Rental Housing,2017,Percent,0.2183,309
+Bay Ridge,All Housing,2017,Percent,0.05383,310
+Bay Ridge,Rental Housing,2017,Percent,0.08438,310
+Bensonhurst,All Housing,2017,Percent,0.0499,311
+Bensonhurst,Rental Housing,2017,Percent,0.06838,311
+Borough Park,All Housing,2017,Percent,0.07421,312
+Borough Park,Rental Housing,2017,Percent,0.08815,312
+Coney Island,All Housing,2017,Percent,0.05863,313
+Coney Island,Rental Housing,2017,Percent,0.07467,313
+Flatbush/Midwood,All Housing,2017,Percent,0.09808,314
+Flatbush/Midwood,Rental Housing,2017,Percent,0.11058,314
+Sheepshead Bay,All Housing,2017,Percent,0.04476,315
+Sheepshead Bay,Rental Housing,2017,Percent,0.07924,315
+Brownsville,All Housing,2017,Percent,0.30205,316
+Brownsville,Rental Housing,2017,Percent,0.34414,316
+East Flatbush,All Housing,2017,Percent,0.15726,317
+East Flatbush,Rental Housing,2017,Percent,0.18502,317
+Canarsie,All Housing,2017,Percent,0.10257,318
+Canarsie,Rental Housing,2017,Percent,0.14278,318
+Astoria,All Housing,2017,Percent,0.09532,401
+Astoria,Rental Housing,2017,Percent,0.11766,401
+Sunnyside/Woodside,All Housing,2017,Percent,0.08913,402
+Sunnyside/Woodside,Rental Housing,2017,Percent,0.12358,402
+Jackson Heights,All Housing,2017,Percent,0.07073,403
+Jackson Heights,Rental Housing,2017,Percent,0.0922,403
+Elmhurst/Corona,All Housing,2017,Percent,0.10602,404
+Elmhurst/Corona,Rental Housing,2017,Percent,0.12281,404
+Ridgewood/Glendale,All Housing,2017,Percent,0.02433,405
+Ridgewood/Glendale,Rental Housing,2017,Percent,0.02984,405
+Rego Park/Forest Hills,All Housing,2017,Percent,0.04171,406
+Rego Park/Forest Hills,Rental Housing,2017,Percent,0.04722,406
+Flushing,All Housing,2017,Percent,0.03804,407
+Flushing,Rental Housing,2017,Percent,0.06655,407
+Fresh Meadows/Briarwood,All Housing,2017,Percent,0.03136,408
+Fresh Meadows/Briarwood,Rental Housing,2017,Percent,0.04459,408
+Woodhaven,All Housing,2017,Percent,0.03184,409
+Woodhaven,Rental Housing,2017,Percent,0.05804,409
+Howard Beach,All Housing,2017,Percent,0.01044,410
+Howard Beach,Rental Housing,2017,Percent,0,410
+Bayside,All Housing,2017,Percent,0.01697,411
+Bayside,Rental Housing,2017,Percent,0,411
+Jamaica/St. Albans,All Housing,2017,Percent,0.10179,412
+Jamaica/St. Albans,Rental Housing,2017,Percent,0.17223,412
+Queens Village,All Housing,2017,Percent,0.04475,413
+Queens Village,Rental Housing,2017,Percent,0.02021,413
+The Rockaways,All Housing,2017,Percent,0.09734,414
+The Rockaways,Rental Housing,2017,Percent,0.12391,414
+St. George,All Housing,2017,Percent,0.07192,501
+St. George,Rental Housing,2017,Percent,0.1201,501
+South Beach,All Housing,2017,Percent,0.01023,502
+South Beach,Rental Housing,2017,Percent,0.0293,502
+Tottenville,All Housing,2017,Percent,0.02012,503
+Tottenville,Rental Housing,2017,Percent,0.05188,503
