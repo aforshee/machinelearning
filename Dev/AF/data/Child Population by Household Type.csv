@@ -1,12 +1,3 @@
-"Name","Child Population by Household Type"
-"Description","All Household - Population under 18 years in households.<br />
-Married Couples - Children who live in married-couple families.&nbsp;<br />
-Single Parents - Children who live in single-parent families.&nbsp;<br />
-Grandparents - Children in households headed by their grandparent.<br />
-Other - Children in households for whom relationship to householder is defined as other relative, foster or unrelated child.&nbsp;"
-"Source Notes","U.S. Census Bureau, American Community Survey 5-Year Estimates, Tables B09002, B09018 (2012-2018); retrieved from <a href=""https://data.census.gov/"" target=""_blank"">https://data.census.gov/</a><a href=""http://factfinder2.census.gov/"" target=""_blank""></a>.&nbsp;"
-"Notes","Percentages refer to the population&nbsp;under 18 in households."
-
 Location,Household Type,TimeFrame,DataFormat,Data,Fips
 Battery Park/Tribeca,Married Couples,2012,Number,5268.95086,101
 Greenwich Village,Married Couples,2012,Number,7778.04914,102

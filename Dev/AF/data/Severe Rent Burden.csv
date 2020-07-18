@@ -1,8 +1,8 @@
-Name,Severe Rent Burden,,,
-Description,Renter households who spend 50% or more of their income on rent.,,,
-Source Notes,"U.S. Census Bureau, American Community Survey 1-Year Estimates, Table B25070 (2005-2018); retrieved from <a href=""https://data.census.gov/"" target=""_blank"">https://data.census.gov/</a><a href=""http://factfinder2.census.gov/"" target=""_blank""></a>.",,,
-Notes,,,,
-,,,,
+"Name","Severe Rent Burden"
+"Description","Renter households who spend 50% or more of their income on rent."
+"Source Notes","U.S. Census Bureau, American Community Survey 1-Year Estimates, Table B25070 (2005-2018); retrieved from <a href=""https://data.census.gov/"" target=""_blank"">https://data.census.gov/</a><a href=""http://factfinder2.census.gov/"" target=""_blank""></a>."
+"Notes",""
+
 Location,TimeFrame,DataFormat,Data,Fips
 New York City,2005,Percent,0.26663,3651000
 New York City,2006,Percent,0.26722,3651000
