@@ -1,8 +1,3 @@
-"Name","Total Population by Age Group"
-"Description","Total population by age group."
-"Source Notes","U.S. Census Bureau, American Community Survey 1-Year Estimates, Tables: B01003, B01001 and B09001&nbsp;(2005-2018); retrieved from&nbsp;<a href=""https://data.census.gov/"" target=""_blank"">https://data.census.gov/</a><a href=""http://factfinder2.census.gov/"" target=""_blank""></a>.&nbsp;"
-"Notes","Percents refer to the percent of the total population."
-
 Location,Age Group,TimeFrame,DataFormat,Data,Fips
 Battery Park/Tribeca,Adults 25 Years and Older,2005,Number,42296.18297,101
 Battery Park/Tribeca,Adults 25 Years and Older,2005,Percent,0.8269,101

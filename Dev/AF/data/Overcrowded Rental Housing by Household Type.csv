@@ -1,0 +1,1756 @@
+Location,Household Type,TimeFrame,DataFormat,Data,Fips
+Battery Park/Tribeca,Family Households with Children,2010,Percent,0.254,101
+Greenwich Village,Family Households with Children,2010,Percent,0.254,102
+Lower East Side,Family Households with Children,2010,Percent,0.306,103
+Chelsea/Clinton,Family Households with Children,2010,Percent,0.189,104
+Midtown Business District,Family Households with Children,2010,Percent,0.189,105
+Murray Hill/Stuyvesant,Family Households with Children,2010,Percent,0.189,106
+Upper West Side,Family Households with Children,2010,Percent,0.149,107
+Upper East Side,Family Households with Children,2010,Percent,0.157,108
+Manhattanville,Family Households with Children,2010,Percent,0.249,109
+Central Harlem,Family Households with Children,2010,Percent,0.185,110
+East Harlem,Family Households with Children,2010,Percent,0.22,111
+Washington Heights,Family Households with Children,2010,Percent,0.355,112
+Mott Haven,Family Households with Children,2010,Percent,0.235,201
+Hunts Point,Family Households with Children,2010,Percent,0.235,202
+Morrisania,Family Households with Children,2010,Percent,0.231,203
+Concourse/Highbridge,Family Households with Children,2010,Percent,0.331,204
+University Heights,Family Households with Children,2010,Percent,0.355,205
+East Tremont,Family Households with Children,2010,Percent,0.231,206
+Bedford Park,Family Households with Children,2010,Percent,0.322,207
+Riverdale,Family Households with Children,2010,Percent,0.254,208
+Unionport/Soundview,Family Households with Children,2010,Percent,0.234,209
+Throgs Neck,Family Households with Children,2010,Percent,0.114,210
+Pelham Parkway,Family Households with Children,2010,Percent,0.301,211
+Williamsbridge,Family Households with Children,2010,Percent,0.2,212
+Williamsburg/Greenpoint,Family Households with Children,2010,Percent,0.5,301
+Fort Greene/Brooklyn Hts,Family Households with Children,2010,Percent,0.142,302
+Bedford Stuyvesant,Family Households with Children,2010,Percent,0.263,303
+Bushwick,Family Households with Children,2010,Percent,0.294,304
+East New York,Family Households with Children,2010,Percent,0.275,305
+Park Slope,Family Households with Children,2010,Percent,0.142,306
+Sunset Park,Family Households with Children,2010,Percent,0.44,307
+Crown Heights North,Family Households with Children,2010,Percent,0.164,308
+Crown Heights South,Family Households with Children,2010,Percent,0.288,309
+Bay Ridge,Family Households with Children,2010,Percent,0.332,310
+Bensonhurst,Family Households with Children,2010,Percent,0.233,311
+Borough Park,Family Households with Children,2010,Percent,0.447,312
+Coney Island,Family Households with Children,2010,Percent,0.219,313
+Flatbush/Midwood,Family Households with Children,2010,Percent,0.369,314
+Sheepshead Bay,Family Households with Children,2010,Percent,0.234,315
+Brownsville,Family Households with Children,2010,Percent,0.164,316
+East Flatbush,Family Households with Children,2010,Percent,0.226,317
+Canarsie,Family Households with Children,2010,Percent,0.189,318
+Astoria,Family Households with Children,2010,Percent,0.34,401
+Sunnyside/Woodside,Family Households with Children,2010,Percent,0.373,402
+Jackson Heights,Family Households with Children,2010,Percent,0.447,403
+Elmhurst/Corona,Family Households with Children,2010,Percent,0.397,404
+Ridgewood/Glendale,Family Households with Children,2010,Percent,0.162,405
+Rego Park/Forest Hills,Family Households with Children,2010,Percent,0.177,406
+Flushing,Family Households with Children,2010,Percent,0.255,407
+Fresh Meadows/Briarwood,Family Households with Children,2010,Percent,0.254,408
+Woodhaven,Family Households with Children,2010,Percent,0.219,409
+Howard Beach,Family Households with Children,2010,Percent,0.141,410
+Bayside,Family Households with Children,2010,Percent,0.055,411
+Jamaica/St. Albans,Family Households with Children,2010,Percent,0.237,412
+Queens Village,Family Households with Children,2010,Percent,0.131,413
+The Rockaways,Family Households with Children,2010,Percent,0.265,414
+St. George,Family Households with Children,2010,Percent,0.233,501
+South Beach,Family Households with Children,2010,Percent,0.077,502
+Tottenville,Family Households with Children,2010,Percent,0.113,503
+Bronx,Family Households with Children,2010,Percent,0.303,36005
+Brooklyn,Family Households with Children,2010,Percent,0.313,36047
+Manhattan,Family Households with Children,2010,Percent,0.274,36061
+Queens,Family Households with Children,2010,Percent,0.283,36081
+Staten Island,Family Households with Children,2010,Percent,0.183,36085
+New York City,Family Households with Children,2010,Percent,0.294,3651000
+Battery Park/Tribeca,Family Households without Children,2010,Percent,0.083,101
+Greenwich Village,Family Households without Children,2010,Percent,0.083,102
+Lower East Side,Family Households without Children,2010,Percent,0.094,103
+Chelsea/Clinton,Family Households without Children,2010,Percent,0.105,104
+Midtown Business District,Family Households without Children,2010,Percent,0.105,105
+Murray Hill/Stuyvesant,Family Households without Children,2010,Percent,0.099,106
+Upper West Side,Family Households without Children,2010,Percent,0.047,107
+Upper East Side,Family Households without Children,2010,Percent,0.052,108
+Manhattanville,Family Households without Children,2010,Percent,0.056,109
+Central Harlem,Family Households without Children,2010,Percent,0.067,110
+East Harlem,Family Households without Children,2010,Percent,0.083,111
+Washington Heights,Family Households without Children,2010,Percent,0.084,112
+Mott Haven,Family Households without Children,2010,Percent,0.066,201
+Hunts Point,Family Households without Children,2010,Percent,0.066,202
+Morrisania,Family Households without Children,2010,Percent,0.051,203
+Concourse/Highbridge,Family Households without Children,2010,Percent,0.076,204
+University Heights,Family Households without Children,2010,Percent,0.078,205
+East Tremont,Family Households without Children,2010,Percent,0.051,206
+Bedford Park,Family Households without Children,2010,Percent,0.04,207
+Riverdale,Family Households without Children,2010,Percent,0.042,208
+Unionport/Soundview,Family Households without Children,2010,Percent,0.036,209
+Throgs Neck,Family Households without Children,2010,Percent,0.005,210
+Pelham Parkway,Family Households without Children,2010,Percent,0.031,211
+Williamsbridge,Family Households without Children,2010,Percent,0.056,212
+Williamsburg/Greenpoint,Family Households without Children,2010,Percent,0.171,301
+Fort Greene/Brooklyn Hts,Family Households without Children,2010,Percent,0.036,302
+Bedford Stuyvesant,Family Households without Children,2010,Percent,0.086,303
+Bushwick,Family Households without Children,2010,Percent,0.128,304
+East New York,Family Households without Children,2010,Percent,0.072,305
+Park Slope,Family Households without Children,2010,Percent,0.018,306
+Sunset Park,Family Households without Children,2010,Percent,0.152,307
+Crown Heights North,Family Households without Children,2010,Percent,0.054,308
+Crown Heights South,Family Households without Children,2010,Percent,0.168,309
+Bay Ridge,Family Households without Children,2010,Percent,0.041,310
+Bensonhurst,Family Households without Children,2010,Percent,0.06,311
+Borough Park,Family Households without Children,2010,Percent,0.087,312
+Coney Island,Family Households without Children,2010,Percent,0.068,313
+Flatbush/Midwood,Family Households without Children,2010,Percent,0.069,314
+Sheepshead Bay,Family Households without Children,2010,Percent,0.07,315
+Brownsville,Family Households without Children,2010,Percent,0.006,316
+East Flatbush,Family Households without Children,2010,Percent,0.082,317
+Canarsie,Family Households without Children,2010,Percent,0.04,318
+Astoria,Family Households without Children,2010,Percent,0.055,401
+Sunnyside/Woodside,Family Households without Children,2010,Percent,0.102,402
+Jackson Heights,Family Households without Children,2010,Percent,0.216,403
+Elmhurst/Corona,Family Households without Children,2010,Percent,0.143,404
+Ridgewood/Glendale,Family Households without Children,2010,Percent,0.039,405
+Rego Park/Forest Hills,Family Households without Children,2010,Percent,0.04,406
+Flushing,Family Households without Children,2010,Percent,0.062,407
+Fresh Meadows/Briarwood,Family Households without Children,2010,Percent,0.029,408
+Woodhaven,Family Households without Children,2010,Percent,0.045,409
+Howard Beach,Family Households without Children,2010,Percent,0.072,410
+Bayside,Family Households without Children,2010,Percent,0.025,411
+Jamaica/St. Albans,Family Households without Children,2010,Percent,0.08,412
+Queens Village,Family Households without Children,2010,Percent,0.036,413
+The Rockaways,Family Households without Children,2010,Percent,0.065,414
+St. George,Family Households without Children,2010,Percent,0.037,501
+South Beach,Family Households without Children,2010,Percent,0.027,502
+Tottenville,Family Households without Children,2010,Percent,0,503
+Bronx,Family Households without Children,2010,Percent,0.049,36005
+Brooklyn,Family Households without Children,2010,Percent,0.071,36047
+Manhattan,Family Households without Children,2010,Percent,0.087,36061
+Queens,Family Households without Children,2010,Percent,0.08,36081
+Staten Island,Family Households without Children,2010,Percent,0.043,36085
+New York City,Family Households without Children,2010,Percent,0.073,3651000
+Battery Park/Tribeca,Non-family Households,2010,Percent,0.02,101
+Greenwich Village,Non-family Households,2010,Percent,0.02,102
+Lower East Side,Non-family Households,2010,Percent,0.007,103
+Chelsea/Clinton,Non-family Households,2010,Percent,0.008,104
+Midtown Business District,Non-family Households,2010,Percent,0.008,105
+Murray Hill/Stuyvesant,Non-family Households,2010,Percent,0.007,106
+Upper West Side,Non-family Households,2010,Percent,0.012,107
+Upper East Side,Non-family Households,2010,Percent,0.007,108
+Manhattanville,Non-family Households,2010,Percent,0.011,109
+Central Harlem,Non-family Households,2010,Percent,0.006,110
+East Harlem,Non-family Households,2010,Percent,0.016,111
+Washington Heights,Non-family Households,2010,Percent,0.006,112
+Mott Haven,Non-family Households,2010,Percent,0.01,201
+Hunts Point,Non-family Households,2010,Percent,0.01,202
+Morrisania,Non-family Households,2010,Percent,0.016,203
+Concourse/Highbridge,Non-family Households,2010,Percent,0.009,204
+University Heights,Non-family Households,2010,Percent,0.02,205
+East Tremont,Non-family Households,2010,Percent,0.016,206
+Bedford Park,Non-family Households,2010,Percent,0.01,207
+Riverdale,Non-family Households,2010,Percent,0,208
+Unionport/Soundview,Non-family Households,2010,Percent,0.001,209
+Throgs Neck,Non-family Households,2010,Percent,0.005,210
+Pelham Parkway,Non-family Households,2010,Percent,0.021,211
+Williamsbridge,Non-family Households,2010,Percent,0.007,212
+Williamsburg/Greenpoint,Non-family Households,2010,Percent,0.056,301
+Fort Greene/Brooklyn Hts,Non-family Households,2010,Percent,0.008,302
+Bedford Stuyvesant,Non-family Households,2010,Percent,0.01,303
+Bushwick,Non-family Households,2010,Percent,0.022,304
+East New York,Non-family Households,2010,Percent,0.006,305
+Park Slope,Non-family Households,2010,Percent,0.003,306
+Sunset Park,Non-family Households,2010,Percent,0.022,307
+Crown Heights North,Non-family Households,2010,Percent,0.001,308
+Crown Heights South,Non-family Households,2010,Percent,0.003,309
+Bay Ridge,Non-family Households,2010,Percent,0.009,310
+Bensonhurst,Non-family Households,2010,Percent,0.006,311
+Borough Park,Non-family Households,2010,Percent,0.017,312
+Coney Island,Non-family Households,2010,Percent,0,313
+Flatbush/Midwood,Non-family Households,2010,Percent,0.007,314
+Sheepshead Bay,Non-family Households,2010,Percent,0.01,315
+Brownsville,Non-family Households,2010,Percent,0.006,316
+East Flatbush,Non-family Households,2010,Percent,0.005,317
+Canarsie,Non-family Households,2010,Percent,0,318
+Astoria,Non-family Households,2010,Percent,0.005,401
+Sunnyside/Woodside,Non-family Households,2010,Percent,0.025,402
+Jackson Heights,Non-family Households,2010,Percent,0.05,403
+Elmhurst/Corona,Non-family Households,2010,Percent,0.046,404
+Ridgewood/Glendale,Non-family Households,2010,Percent,0.009,405
+Rego Park/Forest Hills,Non-family Households,2010,Percent,0.004,406
+Flushing,Non-family Households,2010,Percent,0.042,407
+Fresh Meadows/Briarwood,Non-family Households,2010,Percent,0.021,408
+Woodhaven,Non-family Households,2010,Percent,0.011,409
+Howard Beach,Non-family Households,2010,Percent,0.006,410
+Bayside,Non-family Households,2010,Percent,0,411
+Jamaica/St. Albans,Non-family Households,2010,Percent,0.01,412
+Queens Village,Non-family Households,2010,Percent,0,413
+The Rockaways,Non-family Households,2010,Percent,0.02,414
+St. George,Non-family Households,2010,Percent,0.006,501
+South Beach,Non-family Households,2010,Percent,0,502
+Tottenville,Non-family Households,2010,Percent,0,503
+Bronx,Non-family Households,2010,Percent,0.012,36005
+Brooklyn,Non-family Households,2010,Percent,0.01,36047
+Manhattan,Non-family Households,2010,Percent,0.011,36061
+Queens,Non-family Households,2010,Percent,0.015,36081
+Staten Island,Non-family Households,2010,Percent,0,36085
+New York City,Non-family Households,2010,Percent,0.011,3651000
+Battery Park/Tribeca,Family Households with Children,2011,Percent,0.163,101
+Greenwich Village,Family Households with Children,2011,Percent,0.163,102
+Lower East Side,Family Households with Children,2011,Percent,0.336,103
+Chelsea/Clinton,Family Households with Children,2011,Percent,0.199,104
+Midtown Business District,Family Households with Children,2011,Percent,0.199,105
+Murray Hill/Stuyvesant,Family Households with Children,2011,Percent,0.151,106
+Upper West Side,Family Households with Children,2011,Percent,0.138,107
+Upper East Side,Family Households with Children,2011,Percent,0.192,108
+Manhattanville,Family Households with Children,2011,Percent,0.301,109
+Central Harlem,Family Households with Children,2011,Percent,0.202,110
+East Harlem,Family Households with Children,2011,Percent,0.253,111
+Washington Heights,Family Households with Children,2011,Percent,0.33,112
+Mott Haven,Family Households with Children,2011,Percent,0.225,201
+Hunts Point,Family Households with Children,2011,Percent,0.225,202
+Morrisania,Family Households with Children,2011,Percent,0.257,203
+Concourse/Highbridge,Family Households with Children,2011,Percent,0.346,204
+University Heights,Family Households with Children,2011,Percent,0.348,205
+East Tremont,Family Households with Children,2011,Percent,0.257,206
+Bedford Park,Family Households with Children,2011,Percent,0.334,207
+Riverdale,Family Households with Children,2011,Percent,0.267,208
+Unionport/Soundview,Family Households with Children,2011,Percent,0.256,209
+Throgs Neck,Family Households with Children,2011,Percent,0.094,210
+Pelham Parkway,Family Households with Children,2011,Percent,0.262,211
+Williamsbridge,Family Households with Children,2011,Percent,0.193,212
+Williamsburg/Greenpoint,Family Households with Children,2011,Percent,0.461,301
+Fort Greene/Brooklyn Hts,Family Households with Children,2011,Percent,0.154,302
+Bedford Stuyvesant,Family Households with Children,2011,Percent,0.276,303
+Bushwick,Family Households with Children,2011,Percent,0.299,304
+East New York,Family Households with Children,2011,Percent,0.333,305
+Park Slope,Family Households with Children,2011,Percent,0.097,306
+Sunset Park,Family Households with Children,2011,Percent,0.452,307
+Crown Heights North,Family Households with Children,2011,Percent,0.187,308
+Crown Heights South,Family Households with Children,2011,Percent,0.353,309
+Bay Ridge,Family Households with Children,2011,Percent,0.341,310
+Bensonhurst,Family Households with Children,2011,Percent,0.291,311
+Borough Park,Family Households with Children,2011,Percent,0.466,312
+Coney Island,Family Households with Children,2011,Percent,0.253,313
+Flatbush/Midwood,Family Households with Children,2011,Percent,0.383,314
+Sheepshead Bay,Family Households with Children,2011,Percent,0.198,315
+Brownsville,Family Households with Children,2011,Percent,0.178,316
+East Flatbush,Family Households with Children,2011,Percent,0.238,317
+Canarsie,Family Households with Children,2011,Percent,0.227,318
+Astoria,Family Households with Children,2011,Percent,0.329,401
+Sunnyside/Woodside,Family Households with Children,2011,Percent,0.373,402
+Jackson Heights,Family Households with Children,2011,Percent,0.48,403
+Elmhurst/Corona,Family Households with Children,2011,Percent,0.397,404
+Ridgewood/Glendale,Family Households with Children,2011,Percent,0.172,405
+Rego Park/Forest Hills,Family Households with Children,2011,Percent,0.223,406
+Flushing,Family Households with Children,2011,Percent,0.262,407
+Fresh Meadows/Briarwood,Family Households with Children,2011,Percent,0.282,408
+Woodhaven,Family Households with Children,2011,Percent,0.222,409
+Howard Beach,Family Households with Children,2011,Percent,0.127,410
+Bayside,Family Households with Children,2011,Percent,0.072,411
+Jamaica/St. Albans,Family Households with Children,2011,Percent,0.244,412
+Queens Village,Family Households with Children,2011,Percent,0.155,413
+The Rockaways,Family Households with Children,2011,Percent,0.255,414
+St. George,Family Households with Children,2011,Percent,0.222,501
+South Beach,Family Households with Children,2011,Percent,0.094,502
+Tottenville,Family Households with Children,2011,Percent,0.138,503
+Bronx,Family Households with Children,2011,Percent,0.262,36005
+Brooklyn,Family Households with Children,2011,Percent,0.312,36047
+Manhattan,Family Households with Children,2011,Percent,0.242,36061
+Queens,Family Households with Children,2011,Percent,0.296,36081
+Staten Island,Family Households with Children,2011,Percent,0.194,36085
+New York City,Family Households with Children,2011,Percent,0.282,3651000
+Battery Park/Tribeca,Family Households without Children,2011,Percent,0.094,101
+Greenwich Village,Family Households without Children,2011,Percent,0.094,102
+Lower East Side,Family Households without Children,2011,Percent,0.1,103
+Chelsea/Clinton,Family Households without Children,2011,Percent,0.13,104
+Midtown Business District,Family Households without Children,2011,Percent,0.13,105
+Murray Hill/Stuyvesant,Family Households without Children,2011,Percent,0.075,106
+Upper West Side,Family Households without Children,2011,Percent,0.055,107
+Upper East Side,Family Households without Children,2011,Percent,0.032,108
+Manhattanville,Family Households without Children,2011,Percent,0.049,109
+Central Harlem,Family Households without Children,2011,Percent,0.054,110
+East Harlem,Family Households without Children,2011,Percent,0.078,111
+Washington Heights,Family Households without Children,2011,Percent,0.097,112
+Mott Haven,Family Households without Children,2011,Percent,0.068,201
+Hunts Point,Family Households without Children,2011,Percent,0.068,202
+Morrisania,Family Households without Children,2011,Percent,0.062,203
+Concourse/Highbridge,Family Households without Children,2011,Percent,0.072,204
+University Heights,Family Households without Children,2011,Percent,0.073,205
+East Tremont,Family Households without Children,2011,Percent,0.062,206
+Bedford Park,Family Households without Children,2011,Percent,0.08,207
+Riverdale,Family Households without Children,2011,Percent,0.006,208
+Unionport/Soundview,Family Households without Children,2011,Percent,0.054,209
+Throgs Neck,Family Households without Children,2011,Percent,0.005,210
+Pelham Parkway,Family Households without Children,2011,Percent,0.041,211
+Williamsbridge,Family Households without Children,2011,Percent,0.062,212
+Williamsburg/Greenpoint,Family Households without Children,2011,Percent,0.103,301
+Fort Greene/Brooklyn Hts,Family Households without Children,2011,Percent,0.034,302
+Bedford Stuyvesant,Family Households without Children,2011,Percent,0.064,303
+Bushwick,Family Households without Children,2011,Percent,0.121,304
+East New York,Family Households without Children,2011,Percent,0.074,305
+Park Slope,Family Households without Children,2011,Percent,0.042,306
+Sunset Park,Family Households without Children,2011,Percent,0.159,307
+Crown Heights North,Family Households without Children,2011,Percent,0.044,308
+Crown Heights South,Family Households without Children,2011,Percent,0.126,309
+Bay Ridge,Family Households without Children,2011,Percent,0.079,310
+Bensonhurst,Family Households without Children,2011,Percent,0.065,311
+Borough Park,Family Households without Children,2011,Percent,0.085,312
+Coney Island,Family Households without Children,2011,Percent,0.058,313
+Flatbush/Midwood,Family Households without Children,2011,Percent,0.08,314
+Sheepshead Bay,Family Households without Children,2011,Percent,0.054,315
+Brownsville,Family Households without Children,2011,Percent,0.005,316
+East Flatbush,Family Households without Children,2011,Percent,0.085,317
+Canarsie,Family Households without Children,2011,Percent,0.058,318
+Astoria,Family Households without Children,2011,Percent,0.052,401
+Sunnyside/Woodside,Family Households without Children,2011,Percent,0.089,402
+Jackson Heights,Family Households without Children,2011,Percent,0.168,403
+Elmhurst/Corona,Family Households without Children,2011,Percent,0.138,404
+Ridgewood/Glendale,Family Households without Children,2011,Percent,0.045,405
+Rego Park/Forest Hills,Family Households without Children,2011,Percent,0.066,406
+Flushing,Family Households without Children,2011,Percent,0.091,407
+Fresh Meadows/Briarwood,Family Households without Children,2011,Percent,0.036,408
+Woodhaven,Family Households without Children,2011,Percent,0.055,409
+Howard Beach,Family Households without Children,2011,Percent,0.042,410
+Bayside,Family Households without Children,2011,Percent,0.027,411
+Jamaica/St. Albans,Family Households without Children,2011,Percent,0.053,412
+Queens Village,Family Households without Children,2011,Percent,0.038,413
+The Rockaways,Family Households without Children,2011,Percent,0.092,414
+St. George,Family Households without Children,2011,Percent,0.058,501
+South Beach,Family Households without Children,2011,Percent,0.02,502
+Tottenville,Family Households without Children,2011,Percent,0,503
+Bronx,Family Households without Children,2011,Percent,0.074,36005
+Brooklyn,Family Households without Children,2011,Percent,0.064,36047
+Manhattan,Family Households without Children,2011,Percent,0.064,36061
+Queens,Family Households without Children,2011,Percent,0.085,36081
+Staten Island,Family Households without Children,2011,Percent,0.027,36085
+New York City,Family Households without Children,2011,Percent,0.07,3651000
+Battery Park/Tribeca,Non-family Households,2011,Percent,0.02,101
+Greenwich Village,Non-family Households,2011,Percent,0.02,102
+Lower East Side,Non-family Households,2011,Percent,0.008,103
+Chelsea/Clinton,Non-family Households,2011,Percent,0.01,104
+Midtown Business District,Non-family Households,2011,Percent,0.01,105
+Murray Hill/Stuyvesant,Non-family Households,2011,Percent,0.004,106
+Upper West Side,Non-family Households,2011,Percent,0.006,107
+Upper East Side,Non-family Households,2011,Percent,0.004,108
+Manhattanville,Non-family Households,2011,Percent,0.012,109
+Central Harlem,Non-family Households,2011,Percent,0.006,110
+East Harlem,Non-family Households,2011,Percent,0.008,111
+Washington Heights,Non-family Households,2011,Percent,0.009,112
+Mott Haven,Non-family Households,2011,Percent,0.011,201
+Hunts Point,Non-family Households,2011,Percent,0.011,202
+Morrisania,Non-family Households,2011,Percent,0.006,203
+Concourse/Highbridge,Non-family Households,2011,Percent,0.008,204
+University Heights,Non-family Households,2011,Percent,0.025,205
+East Tremont,Non-family Households,2011,Percent,0.006,206
+Bedford Park,Non-family Households,2011,Percent,0.014,207
+Riverdale,Non-family Households,2011,Percent,0,208
+Unionport/Soundview,Non-family Households,2011,Percent,0.003,209
+Throgs Neck,Non-family Households,2011,Percent,0.005,210
+Pelham Parkway,Non-family Households,2011,Percent,0.018,211
+Williamsbridge,Non-family Households,2011,Percent,0.011,212
+Williamsburg/Greenpoint,Non-family Households,2011,Percent,0.027,301
+Fort Greene/Brooklyn Hts,Non-family Households,2011,Percent,0.009,302
+Bedford Stuyvesant,Non-family Households,2011,Percent,0.003,303
+Bushwick,Non-family Households,2011,Percent,0.022,304
+East New York,Non-family Households,2011,Percent,0.006,305
+Park Slope,Non-family Households,2011,Percent,0.003,306
+Sunset Park,Non-family Households,2011,Percent,0.023,307
+Crown Heights North,Non-family Households,2011,Percent,0.005,308
+Crown Heights South,Non-family Households,2011,Percent,0.009,309
+Bay Ridge,Non-family Households,2011,Percent,0.009,310
+Bensonhurst,Non-family Households,2011,Percent,0.003,311
+Borough Park,Non-family Households,2011,Percent,0.023,312
+Coney Island,Non-family Households,2011,Percent,0.005,313
+Flatbush/Midwood,Non-family Households,2011,Percent,0.007,314
+Sheepshead Bay,Non-family Households,2011,Percent,0.01,315
+Brownsville,Non-family Households,2011,Percent,0.006,316
+East Flatbush,Non-family Households,2011,Percent,0.003,317
+Canarsie,Non-family Households,2011,Percent,0.005,318
+Astoria,Non-family Households,2011,Percent,0.007,401
+Sunnyside/Woodside,Non-family Households,2011,Percent,0.025,402
+Jackson Heights,Non-family Households,2011,Percent,0.045,403
+Elmhurst/Corona,Non-family Households,2011,Percent,0.038,404
+Ridgewood/Glendale,Non-family Households,2011,Percent,0.01,405
+Rego Park/Forest Hills,Non-family Households,2011,Percent,0.01,406
+Flushing,Non-family Households,2011,Percent,0.038,407
+Fresh Meadows/Briarwood,Non-family Households,2011,Percent,0.015,408
+Woodhaven,Non-family Households,2011,Percent,0.01,409
+Howard Beach,Non-family Households,2011,Percent,0.006,410
+Bayside,Non-family Households,2011,Percent,0,411
+Jamaica/St. Albans,Non-family Households,2011,Percent,0.014,412
+Queens Village,Non-family Households,2011,Percent,0,413
+The Rockaways,Non-family Households,2011,Percent,0.022,414
+St. George,Non-family Households,2011,Percent,0,501
+South Beach,Non-family Households,2011,Percent,0,502
+Tottenville,Non-family Households,2011,Percent,0,503
+Bronx,Non-family Households,2011,Percent,0.008,36005
+Brooklyn,Non-family Households,2011,Percent,0.009,36047
+Manhattan,Non-family Households,2011,Percent,0.007,36061
+Queens,Non-family Households,2011,Percent,0.014,36081
+Staten Island,Non-family Households,2011,Percent,0,36085
+New York City,Non-family Households,2011,Percent,0.009,3651000
+Battery Park/Tribeca,Family Households with Children,2012,Percent,0.154,101
+Greenwich Village,Family Households with Children,2012,Percent,0.154,102
+Lower East Side,Family Households with Children,2012,Percent,0.297,103
+Chelsea/Clinton,Family Households with Children,2012,Percent,0.197,104
+Midtown Business District,Family Households with Children,2012,Percent,0.197,105
+Murray Hill/Stuyvesant,Family Households with Children,2012,Percent,0.19,106
+Upper West Side,Family Households with Children,2012,Percent,0.138,107
+Upper East Side,Family Households with Children,2012,Percent,0.173,108
+Manhattanville,Family Households with Children,2012,Percent,0.292,109
+Central Harlem,Family Households with Children,2012,Percent,0.186,110
+East Harlem,Family Households with Children,2012,Percent,0.282,111
+Washington Heights,Family Households with Children,2012,Percent,0.336,112
+Mott Haven,Family Households with Children,2012,Percent,0.233,201
+Hunts Point,Family Households with Children,2012,Percent,0.233,202
+Morrisania,Family Households with Children,2012,Percent,0.314,203
+Concourse/Highbridge,Family Households with Children,2012,Percent,0.35,204
+University Heights,Family Households with Children,2012,Percent,0.358,205
+East Tremont,Family Households with Children,2012,Percent,0.314,206
+Bedford Park,Family Households with Children,2012,Percent,0.362,207
+Riverdale,Family Households with Children,2012,Percent,0.267,208
+Unionport/Soundview,Family Households with Children,2012,Percent,0.254,209
+Throgs Neck,Family Households with Children,2012,Percent,0.101,210
+Pelham Parkway,Family Households with Children,2012,Percent,0.278,211
+Williamsbridge,Family Households with Children,2012,Percent,0.214,212
+Williamsburg/Greenpoint,Family Households with Children,2012,Percent,0.394,301
+Fort Greene/Brooklyn Hts,Family Households with Children,2012,Percent,0.168,302
+Bedford Stuyvesant,Family Households with Children,2012,Percent,0.276,303
+Bushwick,Family Households with Children,2012,Percent,0.293,304
+East New York,Family Households with Children,2012,Percent,0.321,305
+Park Slope,Family Households with Children,2012,Percent,0.092,306
+Sunset Park,Family Households with Children,2012,Percent,0.477,307
+Crown Heights North,Family Households with Children,2012,Percent,0.22,308
+Crown Heights South,Family Households with Children,2012,Percent,0.371,309
+Bay Ridge,Family Households with Children,2012,Percent,0.353,310
+Bensonhurst,Family Households with Children,2012,Percent,0.342,311
+Borough Park,Family Households with Children,2012,Percent,0.472,312
+Coney Island,Family Households with Children,2012,Percent,0.307,313
+Flatbush/Midwood,Family Households with Children,2012,Percent,0.387,314
+Sheepshead Bay,Family Households with Children,2012,Percent,0.189,315
+Brownsville,Family Households with Children,2012,Percent,0.187,316
+East Flatbush,Family Households with Children,2012,Percent,0.294,317
+Canarsie,Family Households with Children,2012,Percent,0.314,318
+Astoria,Family Households with Children,2012,Percent,0.308,401
+Sunnyside/Woodside,Family Households with Children,2012,Percent,0.434,402
+Jackson Heights,Family Households with Children,2012,Percent,0.468,403
+Elmhurst/Corona,Family Households with Children,2012,Percent,0.427,404
+Ridgewood/Glendale,Family Households with Children,2012,Percent,0.202,405
+Rego Park/Forest Hills,Family Households with Children,2012,Percent,0.215,406
+Flushing,Family Households with Children,2012,Percent,0.325,407
+Fresh Meadows/Briarwood,Family Households with Children,2012,Percent,0.265,408
+Woodhaven,Family Households with Children,2012,Percent,0.233,409
+Howard Beach,Family Households with Children,2012,Percent,0.193,410
+Bayside,Family Households with Children,2012,Percent,0.083,411
+Jamaica/St. Albans,Family Households with Children,2012,Percent,0.282,412
+Queens Village,Family Households with Children,2012,Percent,0.143,413
+The Rockaways,Family Households with Children,2012,Percent,0.266,414
+St. George,Family Households with Children,2012,Percent,0.195,501
+South Beach,Family Households with Children,2012,Percent,0.095,502
+Tottenville,Family Households with Children,2012,Percent,0.118,503
+Bronx,Family Households with Children,2012,Percent,0.297,36005
+Brooklyn,Family Households with Children,2012,Percent,0.319,36047
+Manhattan,Family Households with Children,2012,Percent,0.21,36061
+Queens,Family Households with Children,2012,Percent,0.31,36081
+Staten Island,Family Households with Children,2012,Percent,0.104,36085
+New York City,Family Households with Children,2012,Percent,0.288,3651000
+Battery Park/Tribeca,Family Households without Children,2012,Percent,0.108,101
+Greenwich Village,Family Households without Children,2012,Percent,0.108,102
+Lower East Side,Family Households without Children,2012,Percent,0.103,103
+Chelsea/Clinton,Family Households without Children,2012,Percent,0.114,104
+Midtown Business District,Family Households without Children,2012,Percent,0.114,105
+Murray Hill/Stuyvesant,Family Households without Children,2012,Percent,0.04,106
+Upper West Side,Family Households without Children,2012,Percent,0.053,107
+Upper East Side,Family Households without Children,2012,Percent,0.031,108
+Manhattanville,Family Households without Children,2012,Percent,0.016,109
+Central Harlem,Family Households without Children,2012,Percent,0.038,110
+East Harlem,Family Households without Children,2012,Percent,0.058,111
+Washington Heights,Family Households without Children,2012,Percent,0.101,112
+Mott Haven,Family Households without Children,2012,Percent,0.054,201
+Hunts Point,Family Households without Children,2012,Percent,0.054,202
+Morrisania,Family Households without Children,2012,Percent,0.064,203
+Concourse/Highbridge,Family Households without Children,2012,Percent,0.069,204
+University Heights,Family Households without Children,2012,Percent,0.095,205
+East Tremont,Family Households without Children,2012,Percent,0.064,206
+Bedford Park,Family Households without Children,2012,Percent,0.094,207
+Riverdale,Family Households without Children,2012,Percent,0.014,208
+Unionport/Soundview,Family Households without Children,2012,Percent,0.051,209
+Throgs Neck,Family Households without Children,2012,Percent,0.004,210
+Pelham Parkway,Family Households without Children,2012,Percent,0.064,211
+Williamsbridge,Family Households without Children,2012,Percent,0.059,212
+Williamsburg/Greenpoint,Family Households without Children,2012,Percent,0.029,301
+Fort Greene/Brooklyn Hts,Family Households without Children,2012,Percent,0.032,302
+Bedford Stuyvesant,Family Households without Children,2012,Percent,0.065,303
+Bushwick,Family Households without Children,2012,Percent,0.113,304
+East New York,Family Households without Children,2012,Percent,0.06,305
+Park Slope,Family Households without Children,2012,Percent,0.055,306
+Sunset Park,Family Households without Children,2012,Percent,0.121,307
+Crown Heights North,Family Households without Children,2012,Percent,0.022,308
+Crown Heights South,Family Households without Children,2012,Percent,0.06,309
+Bay Ridge,Family Households without Children,2012,Percent,0.101,310
+Bensonhurst,Family Households without Children,2012,Percent,0.077,311
+Borough Park,Family Households without Children,2012,Percent,0.075,312
+Coney Island,Family Households without Children,2012,Percent,0.067,313
+Flatbush/Midwood,Family Households without Children,2012,Percent,0.071,314
+Sheepshead Bay,Family Households without Children,2012,Percent,0.048,315
+Brownsville,Family Households without Children,2012,Percent,0.004,316
+East Flatbush,Family Households without Children,2012,Percent,0.08,317
+Canarsie,Family Households without Children,2012,Percent,0.105,318
+Astoria,Family Households without Children,2012,Percent,0.068,401
+Sunnyside/Woodside,Family Households without Children,2012,Percent,0.113,402
+Jackson Heights,Family Households without Children,2012,Percent,0.165,403
+Elmhurst/Corona,Family Households without Children,2012,Percent,0.13,404
+Ridgewood/Glendale,Family Households without Children,2012,Percent,0.014,405
+Rego Park/Forest Hills,Family Households without Children,2012,Percent,0.055,406
+Flushing,Family Households without Children,2012,Percent,0.112,407
+Fresh Meadows/Briarwood,Family Households without Children,2012,Percent,0.05,408
+Woodhaven,Family Households without Children,2012,Percent,0.073,409
+Howard Beach,Family Households without Children,2012,Percent,0.044,410
+Bayside,Family Households without Children,2012,Percent,0.037,411
+Jamaica/St. Albans,Family Households without Children,2012,Percent,0.075,412
+Queens Village,Family Households without Children,2012,Percent,0.021,413
+The Rockaways,Family Households without Children,2012,Percent,0.088,414
+St. George,Family Households without Children,2012,Percent,0.04,501
+South Beach,Family Households without Children,2012,Percent,0.02,502
+Tottenville,Family Households without Children,2012,Percent,0.02,503
+Bronx,Family Households without Children,2012,Percent,0.053,36005
+Brooklyn,Family Households without Children,2012,Percent,0.064,36047
+Manhattan,Family Households without Children,2012,Percent,0.055,36061
+Queens,Family Households without Children,2012,Percent,0.081,36081
+Staten Island,Family Households without Children,2012,Percent,0.015,36085
+New York City,Family Households without Children,2012,Percent,0.063,3651000
+Battery Park/Tribeca,Non-family Households,2012,Percent,0.021,101
+Greenwich Village,Non-family Households,2012,Percent,0.021,102
+Lower East Side,Non-family Households,2012,Percent,0.008,103
+Chelsea/Clinton,Non-family Households,2012,Percent,0.007,104
+Midtown Business District,Non-family Households,2012,Percent,0.007,105
+Murray Hill/Stuyvesant,Non-family Households,2012,Percent,0.005,106
+Upper West Side,Non-family Households,2012,Percent,0.016,107
+Upper East Side,Non-family Households,2012,Percent,0.005,108
+Manhattanville,Non-family Households,2012,Percent,0.013,109
+Central Harlem,Non-family Households,2012,Percent,0.006,110
+East Harlem,Non-family Households,2012,Percent,0.004,111
+Washington Heights,Non-family Households,2012,Percent,0.011,112
+Mott Haven,Non-family Households,2012,Percent,0.012,201
+Hunts Point,Non-family Households,2012,Percent,0.012,202
+Morrisania,Non-family Households,2012,Percent,0.014,203
+Concourse/Highbridge,Non-family Households,2012,Percent,0.023,204
+University Heights,Non-family Households,2012,Percent,0.028,205
+East Tremont,Non-family Households,2012,Percent,0.014,206
+Bedford Park,Non-family Households,2012,Percent,0.014,207
+Riverdale,Non-family Households,2012,Percent,0.003,208
+Unionport/Soundview,Non-family Households,2012,Percent,0.004,209
+Throgs Neck,Non-family Households,2012,Percent,0,210
+Pelham Parkway,Non-family Households,2012,Percent,0.002,211
+Williamsbridge,Non-family Households,2012,Percent,0.004,212
+Williamsburg/Greenpoint,Non-family Households,2012,Percent,0.012,301
+Fort Greene/Brooklyn Hts,Non-family Households,2012,Percent,0.016,302
+Bedford Stuyvesant,Non-family Households,2012,Percent,0.005,303
+Bushwick,Non-family Households,2012,Percent,0.027,304
+East New York,Non-family Households,2012,Percent,0.006,305
+Park Slope,Non-family Households,2012,Percent,0.002,306
+Sunset Park,Non-family Households,2012,Percent,0.011,307
+Crown Heights North,Non-family Households,2012,Percent,0.003,308
+Crown Heights South,Non-family Households,2012,Percent,0.006,309
+Bay Ridge,Non-family Households,2012,Percent,0.008,310
+Bensonhurst,Non-family Households,2012,Percent,0.003,311
+Borough Park,Non-family Households,2012,Percent,0.016,312
+Coney Island,Non-family Households,2012,Percent,0.007,313
+Flatbush/Midwood,Non-family Households,2012,Percent,0.01,314
+Sheepshead Bay,Non-family Households,2012,Percent,0.003,315
+Brownsville,Non-family Households,2012,Percent,0.006,316
+East Flatbush,Non-family Households,2012,Percent,0.003,317
+Canarsie,Non-family Households,2012,Percent,0.014,318
+Astoria,Non-family Households,2012,Percent,0.005,401
+Sunnyside/Woodside,Non-family Households,2012,Percent,0.009,402
+Jackson Heights,Non-family Households,2012,Percent,0.039,403
+Elmhurst/Corona,Non-family Households,2012,Percent,0.027,404
+Ridgewood/Glendale,Non-family Households,2012,Percent,0.005,405
+Rego Park/Forest Hills,Non-family Households,2012,Percent,0.014,406
+Flushing,Non-family Households,2012,Percent,0.027,407
+Fresh Meadows/Briarwood,Non-family Households,2012,Percent,0.001,408
+Woodhaven,Non-family Households,2012,Percent,0.018,409
+Howard Beach,Non-family Households,2012,Percent,0,410
+Bayside,Non-family Households,2012,Percent,0,411
+Jamaica/St. Albans,Non-family Households,2012,Percent,0.009,412
+Queens Village,Non-family Households,2012,Percent,0,413
+The Rockaways,Non-family Households,2012,Percent,0.032,414
+St. George,Non-family Households,2012,Percent,0.007,501
+South Beach,Non-family Households,2012,Percent,0,502
+Tottenville,Non-family Households,2012,Percent,0.009,503
+Bronx,Non-family Households,2012,Percent,0.012,36005
+Brooklyn,Non-family Households,2012,Percent,0.007,36047
+Manhattan,Non-family Households,2012,Percent,0.011,36061
+Queens,Non-family Households,2012,Percent,0.013,36081
+Staten Island,Non-family Households,2012,Percent,0.016,36085
+New York City,Non-family Households,2012,Percent,0.011,3651000
+Battery Park/Tribeca,Family Households with Children,2013,Percent,0.109,101
+Greenwich Village,Family Households with Children,2013,Percent,0.109,102
+Lower East Side,Family Households with Children,2013,Percent,0.296,103
+Chelsea/Clinton,Family Households with Children,2013,Percent,0.231,104
+Midtown Business District,Family Households with Children,2013,Percent,0.231,105
+Murray Hill/Stuyvesant,Family Households with Children,2013,Percent,0.162,106
+Upper West Side,Family Households with Children,2013,Percent,0.157,107
+Upper East Side,Family Households with Children,2013,Percent,0.143,108
+Manhattanville,Family Households with Children,2013,Percent,0.279,109
+Central Harlem,Family Households with Children,2013,Percent,0.176,110
+East Harlem,Family Households with Children,2013,Percent,0.271,111
+Washington Heights,Family Households with Children,2013,Percent,0.347,112
+Mott Haven,Family Households with Children,2013,Percent,0.236,201
+Hunts Point,Family Households with Children,2013,Percent,0.236,202
+Morrisania,Family Households with Children,2013,Percent,0.333,203
+Concourse/Highbridge,Family Households with Children,2013,Percent,0.331,204
+University Heights,Family Households with Children,2013,Percent,0.291,205
+East Tremont,Family Households with Children,2013,Percent,0.333,206
+Bedford Park,Family Households with Children,2013,Percent,0.348,207
+Riverdale,Family Households with Children,2013,Percent,0.3,208
+Unionport/Soundview,Family Households with Children,2013,Percent,0.259,209
+Throgs Neck,Family Households with Children,2013,Percent,0.104,210
+Pelham Parkway,Family Households with Children,2013,Percent,0.267,211
+Williamsbridge,Family Households with Children,2013,Percent,0.223,212
+Williamsburg/Greenpoint,Family Households with Children,2013,Percent,0.365,301
+Fort Greene/Brooklyn Hts,Family Households with Children,2013,Percent,0.196,302
+Bedford Stuyvesant,Family Households with Children,2013,Percent,0.262,303
+Bushwick,Family Households with Children,2013,Percent,0.337,304
+East New York,Family Households with Children,2013,Percent,0.328,305
+Park Slope,Family Households with Children,2013,Percent,0.093,306
+Sunset Park,Family Households with Children,2013,Percent,0.451,307
+Crown Heights North,Family Households with Children,2013,Percent,0.198,308
+Crown Heights South,Family Households with Children,2013,Percent,0.307,309
+Bay Ridge,Family Households with Children,2013,Percent,0.389,310
+Bensonhurst,Family Households with Children,2013,Percent,0.372,311
+Borough Park,Family Households with Children,2013,Percent,0.451,312
+Coney Island,Family Households with Children,2013,Percent,0.278,313
+Flatbush/Midwood,Family Households with Children,2013,Percent,0.39,314
+Sheepshead Bay,Family Households with Children,2013,Percent,0.264,315
+Brownsville,Family Households with Children,2013,Percent,0.186,316
+East Flatbush,Family Households with Children,2013,Percent,0.291,317
+Canarsie,Family Households with Children,2013,Percent,0.274,318
+Astoria,Family Households with Children,2013,Percent,0.262,401
+Sunnyside/Woodside,Family Households with Children,2013,Percent,0.427,402
+Jackson Heights,Family Households with Children,2013,Percent,0.493,403
+Elmhurst/Corona,Family Households with Children,2013,Percent,0.464,404
+Ridgewood/Glendale,Family Households with Children,2013,Percent,0.167,405
+Rego Park/Forest Hills,Family Households with Children,2013,Percent,0.303,406
+Flushing,Family Households with Children,2013,Percent,0.317,407
+Fresh Meadows/Briarwood,Family Households with Children,2013,Percent,0.323,408
+Woodhaven,Family Households with Children,2013,Percent,0.217,409
+Howard Beach,Family Households with Children,2013,Percent,0.216,410
+Bayside,Family Households with Children,2013,Percent,0.128,411
+Jamaica/St. Albans,Family Households with Children,2013,Percent,0.319,412
+Queens Village,Family Households with Children,2013,Percent,0.171,413
+The Rockaways,Family Households with Children,2013,Percent,0.221,414
+St. George,Family Households with Children,2013,Percent,0.189,501
+South Beach,Family Households with Children,2013,Percent,0.138,502
+Tottenville,Family Households with Children,2013,Percent,0.093,503
+Bronx,Family Households with Children,2013,Percent,0.282,36005
+Brooklyn,Family Households with Children,2013,Percent,0.304,36047
+Manhattan,Family Households with Children,2013,Percent,0.258,36061
+Queens,Family Households with Children,2013,Percent,0.313,36081
+Staten Island,Family Households with Children,2013,Percent,0.19,36085
+New York City,Family Households with Children,2013,Percent,0.29,3651000
+Battery Park/Tribeca,Family Households without Children,2013,Percent,0.083,101
+Greenwich Village,Family Households without Children,2013,Percent,0.083,102
+Lower East Side,Family Households without Children,2013,Percent,0.092,103
+Chelsea/Clinton,Family Households without Children,2013,Percent,0.094,104
+Midtown Business District,Family Households without Children,2013,Percent,0.094,105
+Murray Hill/Stuyvesant,Family Households without Children,2013,Percent,0.081,106
+Upper West Side,Family Households without Children,2013,Percent,0.044,107
+Upper East Side,Family Households without Children,2013,Percent,0.015,108
+Manhattanville,Family Households without Children,2013,Percent,0.021,109
+Central Harlem,Family Households without Children,2013,Percent,0.036,110
+East Harlem,Family Households without Children,2013,Percent,0.031,111
+Washington Heights,Family Households without Children,2013,Percent,0.097,112
+Mott Haven,Family Households without Children,2013,Percent,0.059,201
+Hunts Point,Family Households without Children,2013,Percent,0.059,202
+Morrisania,Family Households without Children,2013,Percent,0.085,203
+Concourse/Highbridge,Family Households without Children,2013,Percent,0.098,204
+University Heights,Family Households without Children,2013,Percent,0.09,205
+East Tremont,Family Households without Children,2013,Percent,0.085,206
+Bedford Park,Family Households without Children,2013,Percent,0.083,207
+Riverdale,Family Households without Children,2013,Percent,0.026,208
+Unionport/Soundview,Family Households without Children,2013,Percent,0.066,209
+Throgs Neck,Family Households without Children,2013,Percent,0.005,210
+Pelham Parkway,Family Households without Children,2013,Percent,0.059,211
+Williamsbridge,Family Households without Children,2013,Percent,0.043,212
+Williamsburg/Greenpoint,Family Households without Children,2013,Percent,0.035,301
+Fort Greene/Brooklyn Hts,Family Households without Children,2013,Percent,0.025,302
+Bedford Stuyvesant,Family Households without Children,2013,Percent,0.049,303
+Bushwick,Family Households without Children,2013,Percent,0.1,304
+East New York,Family Households without Children,2013,Percent,0.063,305
+Park Slope,Family Households without Children,2013,Percent,0.06,306
+Sunset Park,Family Households without Children,2013,Percent,0.095,307
+Crown Heights North,Family Households without Children,2013,Percent,0.027,308
+Crown Heights South,Family Households without Children,2013,Percent,0.056,309
+Bay Ridge,Family Households without Children,2013,Percent,0.094,310
+Bensonhurst,Family Households without Children,2013,Percent,0.076,311
+Borough Park,Family Households without Children,2013,Percent,0.075,312
+Coney Island,Family Households without Children,2013,Percent,0.055,313
+Flatbush/Midwood,Family Households without Children,2013,Percent,0.084,314
+Sheepshead Bay,Family Households without Children,2013,Percent,0.054,315
+Brownsville,Family Households without Children,2013,Percent,0.019,316
+East Flatbush,Family Households without Children,2013,Percent,0.072,317
+Canarsie,Family Households without Children,2013,Percent,0.121,318
+Astoria,Family Households without Children,2013,Percent,0.05,401
+Sunnyside/Woodside,Family Households without Children,2013,Percent,0.121,402
+Jackson Heights,Family Households without Children,2013,Percent,0.153,403
+Elmhurst/Corona,Family Households without Children,2013,Percent,0.167,404
+Ridgewood/Glendale,Family Households without Children,2013,Percent,0.024,405
+Rego Park/Forest Hills,Family Households without Children,2013,Percent,0.064,406
+Flushing,Family Households without Children,2013,Percent,0.102,407
+Fresh Meadows/Briarwood,Family Households without Children,2013,Percent,0.054,408
+Woodhaven,Family Households without Children,2013,Percent,0.066,409
+Howard Beach,Family Households without Children,2013,Percent,0.063,410
+Bayside,Family Households without Children,2013,Percent,0.031,411
+Jamaica/St. Albans,Family Households without Children,2013,Percent,0.056,412
+Queens Village,Family Households without Children,2013,Percent,0.023,413
+The Rockaways,Family Households without Children,2013,Percent,0.066,414
+St. George,Family Households without Children,2013,Percent,0.028,501
+South Beach,Family Households without Children,2013,Percent,0.012,502
+Tottenville,Family Households without Children,2013,Percent,0.031,503
+Bronx,Family Households without Children,2013,Percent,0.071,36005
+Brooklyn,Family Households without Children,2013,Percent,0.066,36047
+Manhattan,Family Households without Children,2013,Percent,0.064,36061
+Queens,Family Households without Children,2013,Percent,0.079,36081
+Staten Island,Family Households without Children,2013,Percent,0.028,36085
+New York City,Family Households without Children,2013,Percent,0.069,3651000
+Battery Park/Tribeca,Non-family Households,2013,Percent,0.014,101
+Greenwich Village,Non-family Households,2013,Percent,0.014,102
+Lower East Side,Non-family Households,2013,Percent,0.007,103
+Chelsea/Clinton,Non-family Households,2013,Percent,0.006,104
+Midtown Business District,Non-family Households,2013,Percent,0.006,105
+Murray Hill/Stuyvesant,Non-family Households,2013,Percent,0.002,106
+Upper West Side,Non-family Households,2013,Percent,0.014,107
+Upper East Side,Non-family Households,2013,Percent,0.006,108
+Manhattanville,Non-family Households,2013,Percent,0.008,109
+Central Harlem,Non-family Households,2013,Percent,0.003,110
+East Harlem,Non-family Households,2013,Percent,0.003,111
+Washington Heights,Non-family Households,2013,Percent,0.013,112
+Mott Haven,Non-family Households,2013,Percent,0.009,201
+Hunts Point,Non-family Households,2013,Percent,0.009,202
+Morrisania,Non-family Households,2013,Percent,0.025,203
+Concourse/Highbridge,Non-family Households,2013,Percent,0.019,204
+University Heights,Non-family Households,2013,Percent,0.022,205
+East Tremont,Non-family Households,2013,Percent,0.025,206
+Bedford Park,Non-family Households,2013,Percent,0.009,207
+Riverdale,Non-family Households,2013,Percent,0.003,208
+Unionport/Soundview,Non-family Households,2013,Percent,0.003,209
+Throgs Neck,Non-family Households,2013,Percent,0,210
+Pelham Parkway,Non-family Households,2013,Percent,0.013,211
+Williamsbridge,Non-family Households,2013,Percent,0.004,212
+Williamsburg/Greenpoint,Non-family Households,2013,Percent,0.007,301
+Fort Greene/Brooklyn Hts,Non-family Households,2013,Percent,0.012,302
+Bedford Stuyvesant,Non-family Households,2013,Percent,0.005,303
+Bushwick,Non-family Households,2013,Percent,0.015,304
+East New York,Non-family Households,2013,Percent,0.02,305
+Park Slope,Non-family Households,2013,Percent,0.002,306
+Sunset Park,Non-family Households,2013,Percent,0.018,307
+Crown Heights North,Non-family Households,2013,Percent,0.005,308
+Crown Heights South,Non-family Households,2013,Percent,0.006,309
+Bay Ridge,Non-family Households,2013,Percent,0,310
+Bensonhurst,Non-family Households,2013,Percent,0.003,311
+Borough Park,Non-family Households,2013,Percent,0.019,312
+Coney Island,Non-family Households,2013,Percent,0.01,313
+Flatbush/Midwood,Non-family Households,2013,Percent,0.009,314
+Sheepshead Bay,Non-family Households,2013,Percent,0.01,315
+Brownsville,Non-family Households,2013,Percent,0,316
+East Flatbush,Non-family Households,2013,Percent,0.004,317
+Canarsie,Non-family Households,2013,Percent,0.014,318
+Astoria,Non-family Households,2013,Percent,0.008,401
+Sunnyside/Woodside,Non-family Households,2013,Percent,0.016,402
+Jackson Heights,Non-family Households,2013,Percent,0.028,403
+Elmhurst/Corona,Non-family Households,2013,Percent,0.038,404
+Ridgewood/Glendale,Non-family Households,2013,Percent,0.011,405
+Rego Park/Forest Hills,Non-family Households,2013,Percent,0.016,406
+Flushing,Non-family Households,2013,Percent,0.013,407
+Fresh Meadows/Briarwood,Non-family Households,2013,Percent,0.001,408
+Woodhaven,Non-family Households,2013,Percent,0.022,409
+Howard Beach,Non-family Households,2013,Percent,0.004,410
+Bayside,Non-family Households,2013,Percent,0,411
+Jamaica/St. Albans,Non-family Households,2013,Percent,0.013,412
+Queens Village,Non-family Households,2013,Percent,0,413
+The Rockaways,Non-family Households,2013,Percent,0.018,414
+St. George,Non-family Households,2013,Percent,0.011,501
+South Beach,Non-family Households,2013,Percent,0,502
+Tottenville,Non-family Households,2013,Percent,0.008,503
+Bronx,Non-family Households,2013,Percent,0.013,36005
+Brooklyn,Non-family Households,2013,Percent,0.01,36047
+Manhattan,Non-family Households,2013,Percent,0.005,36061
+Queens,Non-family Households,2013,Percent,0.016,36081
+Staten Island,Non-family Households,2013,Percent,0.005,36085
+New York City,Non-family Households,2013,Percent,0.009,3651000
+Battery Park/Tribeca,Family Households with Children,2014,Percent,0.164,101
+Greenwich Village,Family Households with Children,2014,Percent,0.164,102
+Lower East Side,Family Households with Children,2014,Percent,0.231,103
+Chelsea/Clinton,Family Households with Children,2014,Percent,0.338,104
+Midtown Business District,Family Households with Children,2014,Percent,0.338,105
+Murray Hill/Stuyvesant,Family Households with Children,2014,Percent,0.114,106
+Upper West Side,Family Households with Children,2014,Percent,0.14,107
+Upper East Side,Family Households with Children,2014,Percent,0.126,108
+Manhattanville,Family Households with Children,2014,Percent,0.212,109
+Central Harlem,Family Households with Children,2014,Percent,0.18,110
+East Harlem,Family Households with Children,2014,Percent,0.256,111
+Washington Heights,Family Households with Children,2014,Percent,0.412,112
+Mott Haven,Family Households with Children,2014,Percent,0.233,201
+Hunts Point,Family Households with Children,2014,Percent,0.233,202
+Morrisania,Family Households with Children,2014,Percent,0.293,203
+Concourse/Highbridge,Family Households with Children,2014,Percent,0.341,204
+University Heights,Family Households with Children,2014,Percent,0.318,205
+East Tremont,Family Households with Children,2014,Percent,0.293,206
+Bedford Park,Family Households with Children,2014,Percent,0.36,207
+Riverdale,Family Households with Children,2014,Percent,0.312,208
+Unionport/Soundview,Family Households with Children,2014,Percent,0.258,209
+Throgs Neck,Family Households with Children,2014,Percent,0.145,210
+Pelham Parkway,Family Households with Children,2014,Percent,0.26,211
+Williamsbridge,Family Households with Children,2014,Percent,0.214,212
+Williamsburg/Greenpoint,Family Households with Children,2014,Percent,0.344,301
+Fort Greene/Brooklyn Hts,Family Households with Children,2014,Percent,0.194,302
+Bedford Stuyvesant,Family Households with Children,2014,Percent,0.263,303
+Bushwick,Family Households with Children,2014,Percent,0.375,304
+East New York,Family Households with Children,2014,Percent,0.339,305
+Park Slope,Family Households with Children,2014,Percent,0.175,306
+Sunset Park,Family Households with Children,2014,Percent,0.504,307
+Crown Heights North,Family Households with Children,2014,Percent,0.182,308
+Crown Heights South,Family Households with Children,2014,Percent,0.253,309
+Bay Ridge,Family Households with Children,2014,Percent,0.417,310
+Bensonhurst,Family Households with Children,2014,Percent,0.374,311
+Borough Park,Family Households with Children,2014,Percent,0.48,312
+Coney Island,Family Households with Children,2014,Percent,0.305,313
+Flatbush/Midwood,Family Households with Children,2014,Percent,0.399,314
+Sheepshead Bay,Family Households with Children,2014,Percent,0.294,315
+Brownsville,Family Households with Children,2014,Percent,0.172,316
+East Flatbush,Family Households with Children,2014,Percent,0.242,317
+Canarsie,Family Households with Children,2014,Percent,0.222,318
+Astoria,Family Households with Children,2014,Percent,0.241,401
+Sunnyside/Woodside,Family Households with Children,2014,Percent,0.428,402
+Jackson Heights,Family Households with Children,2014,Percent,0.462,403
+Elmhurst/Corona,Family Households with Children,2014,Percent,0.491,404
+Ridgewood/Glendale,Family Households with Children,2014,Percent,0.147,405
+Rego Park/Forest Hills,Family Households with Children,2014,Percent,0.261,406
+Flushing,Family Households with Children,2014,Percent,0.318,407
+Fresh Meadows/Briarwood,Family Households with Children,2014,Percent,0.289,408
+Woodhaven,Family Households with Children,2014,Percent,0.239,409
+Howard Beach,Family Households with Children,2014,Percent,0.216,410
+Bayside,Family Households with Children,2014,Percent,0.14,411
+Jamaica/St. Albans,Family Households with Children,2014,Percent,0.324,412
+Queens Village,Family Households with Children,2014,Percent,0.168,413
+The Rockaways,Family Households with Children,2014,Percent,0.202,414
+St. George,Family Households with Children,2014,Percent,0.232,501
+South Beach,Family Households with Children,2014,Percent,0.137,502
+Tottenville,Family Households with Children,2014,Percent,0.092,503
+Bronx,Family Households with Children,2014,Percent,0.266,36005
+Brooklyn,Family Households with Children,2014,Percent,0.329,36047
+Manhattan,Family Households with Children,2014,Percent,0.246,36061
+Queens,Family Households with Children,2014,Percent,0.292,36081
+Staten Island,Family Households with Children,2014,Percent,0.254,36085
+New York City,Family Households with Children,2014,Percent,0.289,3651000
+Battery Park/Tribeca,Family Households without Children,2014,Percent,0.095,101
+Greenwich Village,Family Households without Children,2014,Percent,0.095,102
+Lower East Side,Family Households without Children,2014,Percent,0.073,103
+Chelsea/Clinton,Family Households without Children,2014,Percent,0.075,104
+Midtown Business District,Family Households without Children,2014,Percent,0.075,105
+Murray Hill/Stuyvesant,Family Households without Children,2014,Percent,0.075,106
+Upper West Side,Family Households without Children,2014,Percent,0.027,107
+Upper East Side,Family Households without Children,2014,Percent,0.018,108
+Manhattanville,Family Households without Children,2014,Percent,0.052,109
+Central Harlem,Family Households without Children,2014,Percent,0.029,110
+East Harlem,Family Households without Children,2014,Percent,0.039,111
+Washington Heights,Family Households without Children,2014,Percent,0.095,112
+Mott Haven,Family Households without Children,2014,Percent,0.05,201
+Hunts Point,Family Households without Children,2014,Percent,0.05,202
+Morrisania,Family Households without Children,2014,Percent,0.068,203
+Concourse/Highbridge,Family Households without Children,2014,Percent,0.08,204
+University Heights,Family Households without Children,2014,Percent,0.097,205
+East Tremont,Family Households without Children,2014,Percent,0.068,206
+Bedford Park,Family Households without Children,2014,Percent,0.071,207
+Riverdale,Family Households without Children,2014,Percent,0.036,208
+Unionport/Soundview,Family Households without Children,2014,Percent,0.037,209
+Throgs Neck,Family Households without Children,2014,Percent,0.007,210
+Pelham Parkway,Family Households without Children,2014,Percent,0.047,211
+Williamsbridge,Family Households without Children,2014,Percent,0.044,212
+Williamsburg/Greenpoint,Family Households without Children,2014,Percent,0.046,301
+Fort Greene/Brooklyn Hts,Family Households without Children,2014,Percent,0.027,302
+Bedford Stuyvesant,Family Households without Children,2014,Percent,0.044,303
+Bushwick,Family Households without Children,2014,Percent,0.076,304
+East New York,Family Households without Children,2014,Percent,0.075,305
+Park Slope,Family Households without Children,2014,Percent,0.044,306
+Sunset Park,Family Households without Children,2014,Percent,0.075,307
+Crown Heights North,Family Households without Children,2014,Percent,0.038,308
+Crown Heights South,Family Households without Children,2014,Percent,0.055,309
+Bay Ridge,Family Households without Children,2014,Percent,0.072,310
+Bensonhurst,Family Households without Children,2014,Percent,0.099,311
+Borough Park,Family Households without Children,2014,Percent,0.069,312
+Coney Island,Family Households without Children,2014,Percent,0.07,313
+Flatbush/Midwood,Family Households without Children,2014,Percent,0.079,314
+Sheepshead Bay,Family Households without Children,2014,Percent,0.067,315
+Brownsville,Family Households without Children,2014,Percent,0.029,316
+East Flatbush,Family Households without Children,2014,Percent,0.05,317
+Canarsie,Family Households without Children,2014,Percent,0.1,318
+Astoria,Family Households without Children,2014,Percent,0.058,401
+Sunnyside/Woodside,Family Households without Children,2014,Percent,0.146,402
+Jackson Heights,Family Households without Children,2014,Percent,0.135,403
+Elmhurst/Corona,Family Households without Children,2014,Percent,0.15,404
+Ridgewood/Glendale,Family Households without Children,2014,Percent,0.037,405
+Rego Park/Forest Hills,Family Households without Children,2014,Percent,0.074,406
+Flushing,Family Households without Children,2014,Percent,0.11,407
+Fresh Meadows/Briarwood,Family Households without Children,2014,Percent,0.064,408
+Woodhaven,Family Households without Children,2014,Percent,0.049,409
+Howard Beach,Family Households without Children,2014,Percent,0.065,410
+Bayside,Family Households without Children,2014,Percent,0.023,411
+Jamaica/St. Albans,Family Households without Children,2014,Percent,0.057,412
+Queens Village,Family Households without Children,2014,Percent,0.023,413
+The Rockaways,Family Households without Children,2014,Percent,0.044,414
+St. George,Family Households without Children,2014,Percent,0.013,501
+South Beach,Family Households without Children,2014,Percent,0.03,502
+Tottenville,Family Households without Children,2014,Percent,0.033,503
+Bronx,Family Households without Children,2014,Percent,0.046,36005
+Brooklyn,Family Households without Children,2014,Percent,0.062,36047
+Manhattan,Family Households without Children,2014,Percent,0.057,36061
+Queens,Family Households without Children,2014,Percent,0.087,36081
+Staten Island,Family Households without Children,2014,Percent,0.024,36085
+New York City,Family Households without Children,2014,Percent,0.063,3651000
+Battery Park/Tribeca,Non-family Households,2014,Percent,0.014,101
+Greenwich Village,Non-family Households,2014,Percent,0.014,102
+Lower East Side,Non-family Households,2014,Percent,0.007,103
+Chelsea/Clinton,Non-family Households,2014,Percent,0.008,104
+Midtown Business District,Non-family Households,2014,Percent,0.008,105
+Murray Hill/Stuyvesant,Non-family Households,2014,Percent,0.007,106
+Upper West Side,Non-family Households,2014,Percent,0.011,107
+Upper East Side,Non-family Households,2014,Percent,0.006,108
+Manhattanville,Non-family Households,2014,Percent,0.006,109
+Central Harlem,Non-family Households,2014,Percent,0.004,110
+East Harlem,Non-family Households,2014,Percent,0.006,111
+Washington Heights,Non-family Households,2014,Percent,0.01,112
+Mott Haven,Non-family Households,2014,Percent,0.007,201
+Hunts Point,Non-family Households,2014,Percent,0.007,202
+Morrisania,Non-family Households,2014,Percent,0.025,203
+Concourse/Highbridge,Non-family Households,2014,Percent,0.019,204
+University Heights,Non-family Households,2014,Percent,0.015,205
+East Tremont,Non-family Households,2014,Percent,0.025,206
+Bedford Park,Non-family Households,2014,Percent,0.005,207
+Riverdale,Non-family Households,2014,Percent,0.006,208
+Unionport/Soundview,Non-family Households,2014,Percent,0,209
+Throgs Neck,Non-family Households,2014,Percent,0,210
+Pelham Parkway,Non-family Households,2014,Percent,0.025,211
+Williamsbridge,Non-family Households,2014,Percent,0.008,212
+Williamsburg/Greenpoint,Non-family Households,2014,Percent,0.008,301
+Fort Greene/Brooklyn Hts,Non-family Households,2014,Percent,0.014,302
+Bedford Stuyvesant,Non-family Households,2014,Percent,0.009,303
+Bushwick,Non-family Households,2014,Percent,0.017,304
+East New York,Non-family Households,2014,Percent,0.015,305
+Park Slope,Non-family Households,2014,Percent,0.009,306
+Sunset Park,Non-family Households,2014,Percent,0.014,307
+Crown Heights North,Non-family Households,2014,Percent,0.005,308
+Crown Heights South,Non-family Households,2014,Percent,0,309
+Bay Ridge,Non-family Households,2014,Percent,0.007,310
+Bensonhurst,Non-family Households,2014,Percent,0.005,311
+Borough Park,Non-family Households,2014,Percent,0.013,312
+Coney Island,Non-family Households,2014,Percent,0.016,313
+Flatbush/Midwood,Non-family Households,2014,Percent,0.012,314
+Sheepshead Bay,Non-family Households,2014,Percent,0.017,315
+Brownsville,Non-family Households,2014,Percent,0,316
+East Flatbush,Non-family Households,2014,Percent,0.001,317
+Canarsie,Non-family Households,2014,Percent,0.009,318
+Astoria,Non-family Households,2014,Percent,0.009,401
+Sunnyside/Woodside,Non-family Households,2014,Percent,0.013,402
+Jackson Heights,Non-family Households,2014,Percent,0.023,403
+Elmhurst/Corona,Non-family Households,2014,Percent,0.049,404
+Ridgewood/Glendale,Non-family Households,2014,Percent,0.01,405
+Rego Park/Forest Hills,Non-family Households,2014,Percent,0.01,406
+Flushing,Non-family Households,2014,Percent,0.026,407
+Fresh Meadows/Briarwood,Non-family Households,2014,Percent,0.01,408
+Woodhaven,Non-family Households,2014,Percent,0.033,409
+Howard Beach,Non-family Households,2014,Percent,0.01,410
+Bayside,Non-family Households,2014,Percent,0,411
+Jamaica/St. Albans,Non-family Households,2014,Percent,0.011,412
+Queens Village,Non-family Households,2014,Percent,0,413
+The Rockaways,Non-family Households,2014,Percent,0.015,414
+St. George,Non-family Households,2014,Percent,0.01,501
+South Beach,Non-family Households,2014,Percent,0.013,502
+Tottenville,Non-family Households,2014,Percent,0.009,503
+Bronx,Non-family Households,2014,Percent,0.008,36005
+Brooklyn,Non-family Households,2014,Percent,0.011,36047
+Manhattan,Non-family Households,2014,Percent,0.009,36061
+Queens,Non-family Households,2014,Percent,0.018,36081
+Staten Island,Non-family Households,2014,Percent,0.01,36085
+New York City,Non-family Households,2014,Percent,0.011,3651000
+Battery Park/Tribeca,Family Households with Children,2015,Percent,0.196,101
+Greenwich Village,Family Households with Children,2015,Percent,0.196,102
+Lower East Side,Family Households with Children,2015,Percent,0.313,103
+Chelsea/Clinton,Family Households with Children,2015,Percent,0.323,104
+Midtown Business District,Family Households with Children,2015,Percent,0.323,105
+Murray Hill/Stuyvesant,Family Households with Children,2015,Percent,0.098,106
+Upper West Side,Family Households with Children,2015,Percent,0.165,107
+Upper East Side,Family Households with Children,2015,Percent,0.083,108
+Manhattanville,Family Households with Children,2015,Percent,0.225,109
+Central Harlem,Family Households with Children,2015,Percent,0.201,110
+East Harlem,Family Households with Children,2015,Percent,0.208,111
+Washington Heights,Family Households with Children,2015,Percent,0.429,112
+Mott Haven,Family Households with Children,2015,Percent,0.23,201
+Hunts Point,Family Households with Children,2015,Percent,0.23,202
+Morrisania,Family Households with Children,2015,Percent,0.273,203
+Concourse/Highbridge,Family Households with Children,2015,Percent,0.364,204
+University Heights,Family Households with Children,2015,Percent,0.307,205
+East Tremont,Family Households with Children,2015,Percent,0.273,206
+Bedford Park,Family Households with Children,2015,Percent,0.362,207
+Riverdale,Family Households with Children,2015,Percent,0.304,208
+Unionport/Soundview,Family Households with Children,2015,Percent,0.266,209
+Throgs Neck,Family Households with Children,2015,Percent,0.158,210
+Pelham Parkway,Family Households with Children,2015,Percent,0.291,211
+Williamsbridge,Family Households with Children,2015,Percent,0.214,212
+Williamsburg/Greenpoint,Family Households with Children,2015,Percent,0.374,301
+Fort Greene/Brooklyn Hts,Family Households with Children,2015,Percent,0.193,302
+Bedford Stuyvesant,Family Households with Children,2015,Percent,0.278,303
+Bushwick,Family Households with Children,2015,Percent,0.381,304
+East New York,Family Households with Children,2015,Percent,0.347,305
+Park Slope,Family Households with Children,2015,Percent,0.17,306
+Sunset Park,Family Households with Children,2015,Percent,0.521,307
+Crown Heights North,Family Households with Children,2015,Percent,0.207,308
+Crown Heights South,Family Households with Children,2015,Percent,0.256,309
+Bay Ridge,Family Households with Children,2015,Percent,0.395,310
+Bensonhurst,Family Households with Children,2015,Percent,0.397,311
+Borough Park,Family Households with Children,2015,Percent,0.483,312
+Coney Island,Family Households with Children,2015,Percent,0.335,313
+Flatbush/Midwood,Family Households with Children,2015,Percent,0.422,314
+Sheepshead Bay,Family Households with Children,2015,Percent,0.343,315
+Brownsville,Family Households with Children,2015,Percent,0.169,316
+East Flatbush,Family Households with Children,2015,Percent,0.241,317
+Canarsie,Family Households with Children,2015,Percent,0.176,318
+Astoria,Family Households with Children,2015,Percent,0.274,401
+Sunnyside/Woodside,Family Households with Children,2015,Percent,0.401,402
+Jackson Heights,Family Households with Children,2015,Percent,0.449,403
+Elmhurst/Corona,Family Households with Children,2015,Percent,0.483,404
+Ridgewood/Glendale,Family Households with Children,2015,Percent,0.14,405
+Rego Park/Forest Hills,Family Households with Children,2015,Percent,0.287,406
+Flushing,Family Households with Children,2015,Percent,0.277,407
+Fresh Meadows/Briarwood,Family Households with Children,2015,Percent,0.267,408
+Woodhaven,Family Households with Children,2015,Percent,0.238,409
+Howard Beach,Family Households with Children,2015,Percent,0.187,410
+Bayside,Family Households with Children,2015,Percent,0.161,411
+Jamaica/St. Albans,Family Households with Children,2015,Percent,0.325,412
+Queens Village,Family Households with Children,2015,Percent,0.179,413
+The Rockaways,Family Households with Children,2015,Percent,0.187,414
+St. George,Family Households with Children,2015,Percent,0.231,501
+South Beach,Family Households with Children,2015,Percent,0.206,502
+Tottenville,Family Households with Children,2015,Percent,0.118,503
+Bronx,Family Households with Children,2015,Percent,0.302,36005
+Brooklyn,Family Households with Children,2015,Percent,0.344,36047
+Manhattan,Family Households with Children,2015,Percent,0.23,36061
+Queens,Family Households with Children,2015,Percent,0.284,36081
+Staten Island,Family Households with Children,2015,Percent,0.176,36085
+New York City,Family Households with Children,2015,Percent,0.297,3651000
+Battery Park/Tribeca,Family Households without Children,2015,Percent,0.111,101
+Greenwich Village,Family Households without Children,2015,Percent,0.111,102
+Lower East Side,Family Households without Children,2015,Percent,0.073,103
+Chelsea/Clinton,Family Households without Children,2015,Percent,0.078,104
+Midtown Business District,Family Households without Children,2015,Percent,0.078,105
+Murray Hill/Stuyvesant,Family Households without Children,2015,Percent,0.071,106
+Upper West Side,Family Households without Children,2015,Percent,0.047,107
+Upper East Side,Family Households without Children,2015,Percent,0.033,108
+Manhattanville,Family Households without Children,2015,Percent,0.07,109
+Central Harlem,Family Households without Children,2015,Percent,0.029,110
+East Harlem,Family Households without Children,2015,Percent,0.056,111
+Washington Heights,Family Households without Children,2015,Percent,0.096,112
+Mott Haven,Family Households without Children,2015,Percent,0.059,201
+Hunts Point,Family Households without Children,2015,Percent,0.059,202
+Morrisania,Family Households without Children,2015,Percent,0.082,203
+Concourse/Highbridge,Family Households without Children,2015,Percent,0.08,204
+University Heights,Family Households without Children,2015,Percent,0.119,205
+East Tremont,Family Households without Children,2015,Percent,0.082,206
+Bedford Park,Family Households without Children,2015,Percent,0.071,207
+Riverdale,Family Households without Children,2015,Percent,0.045,208
+Unionport/Soundview,Family Households without Children,2015,Percent,0.061,209
+Throgs Neck,Family Households without Children,2015,Percent,0.031,210
+Pelham Parkway,Family Households without Children,2015,Percent,0.038,211
+Williamsbridge,Family Households without Children,2015,Percent,0.067,212
+Williamsburg/Greenpoint,Family Households without Children,2015,Percent,0.057,301
+Fort Greene/Brooklyn Hts,Family Households without Children,2015,Percent,0.054,302
+Bedford Stuyvesant,Family Households without Children,2015,Percent,0.024,303
+Bushwick,Family Households without Children,2015,Percent,0.069,304
+East New York,Family Households without Children,2015,Percent,0.083,305
+Park Slope,Family Households without Children,2015,Percent,0.036,306
+Sunset Park,Family Households without Children,2015,Percent,0.108,307
+Crown Heights North,Family Households without Children,2015,Percent,0.042,308
+Crown Heights South,Family Households without Children,2015,Percent,0.072,309
+Bay Ridge,Family Households without Children,2015,Percent,0.086,310
+Bensonhurst,Family Households without Children,2015,Percent,0.1,311
+Borough Park,Family Households without Children,2015,Percent,0.072,312
+Coney Island,Family Households without Children,2015,Percent,0.06,313
+Flatbush/Midwood,Family Households without Children,2015,Percent,0.074,314
+Sheepshead Bay,Family Households without Children,2015,Percent,0.061,315
+Brownsville,Family Households without Children,2015,Percent,0.029,316
+East Flatbush,Family Households without Children,2015,Percent,0.035,317
+Canarsie,Family Households without Children,2015,Percent,0.084,318
+Astoria,Family Households without Children,2015,Percent,0.054,401
+Sunnyside/Woodside,Family Households without Children,2015,Percent,0.128,402
+Jackson Heights,Family Households without Children,2015,Percent,0.139,403
+Elmhurst/Corona,Family Households without Children,2015,Percent,0.159,404
+Ridgewood/Glendale,Family Households without Children,2015,Percent,0.048,405
+Rego Park/Forest Hills,Family Households without Children,2015,Percent,0.084,406
+Flushing,Family Households without Children,2015,Percent,0.098,407
+Fresh Meadows/Briarwood,Family Households without Children,2015,Percent,0.059,408
+Woodhaven,Family Households without Children,2015,Percent,0.038,409
+Howard Beach,Family Households without Children,2015,Percent,0.058,410
+Bayside,Family Households without Children,2015,Percent,0.025,411
+Jamaica/St. Albans,Family Households without Children,2015,Percent,0.052,412
+Queens Village,Family Households without Children,2015,Percent,0.032,413
+The Rockaways,Family Households without Children,2015,Percent,0.088,414
+St. George,Family Households without Children,2015,Percent,0.037,501
+South Beach,Family Households without Children,2015,Percent,0.039,502
+Tottenville,Family Households without Children,2015,Percent,0.031,503
+Bronx,Family Households without Children,2015,Percent,0.089,36005
+Brooklyn,Family Households without Children,2015,Percent,0.069,36047
+Manhattan,Family Households without Children,2015,Percent,0.08,36061
+Queens,Family Households without Children,2015,Percent,0.081,36081
+Staten Island,Family Households without Children,2015,Percent,0.054,36085
+New York City,Family Households without Children,2015,Percent,0.078,3651000
+Battery Park/Tribeca,Non-family Households,2015,Percent,0.018,101
+Greenwich Village,Non-family Households,2015,Percent,0.018,102
+Lower East Side,Non-family Households,2015,Percent,0.009,103
+Chelsea/Clinton,Non-family Households,2015,Percent,0.016,104
+Midtown Business District,Non-family Households,2015,Percent,0.016,105
+Murray Hill/Stuyvesant,Non-family Households,2015,Percent,0.008,106
+Upper West Side,Non-family Households,2015,Percent,0.006,107
+Upper East Side,Non-family Households,2015,Percent,0.007,108
+Manhattanville,Non-family Households,2015,Percent,0.008,109
+Central Harlem,Non-family Households,2015,Percent,0.008,110
+East Harlem,Non-family Households,2015,Percent,0.009,111
+Washington Heights,Non-family Households,2015,Percent,0.01,112
+Mott Haven,Non-family Households,2015,Percent,0.007,201
+Hunts Point,Non-family Households,2015,Percent,0.007,202
+Morrisania,Non-family Households,2015,Percent,0.019,203
+Concourse/Highbridge,Non-family Households,2015,Percent,0.009,204
+University Heights,Non-family Households,2015,Percent,0.012,205
+East Tremont,Non-family Households,2015,Percent,0.019,206
+Bedford Park,Non-family Households,2015,Percent,0.01,207
+Riverdale,Non-family Households,2015,Percent,0.008,208
+Unionport/Soundview,Non-family Households,2015,Percent,0.004,209
+Throgs Neck,Non-family Households,2015,Percent,0.014,210
+Pelham Parkway,Non-family Households,2015,Percent,0.025,211
+Williamsbridge,Non-family Households,2015,Percent,0.018,212
+Williamsburg/Greenpoint,Non-family Households,2015,Percent,0.008,301
+Fort Greene/Brooklyn Hts,Non-family Households,2015,Percent,0.009,302
+Bedford Stuyvesant,Non-family Households,2015,Percent,0.011,303
+Bushwick,Non-family Households,2015,Percent,0.01,304
+East New York,Non-family Households,2015,Percent,0.014,305
+Park Slope,Non-family Households,2015,Percent,0.012,306
+Sunset Park,Non-family Households,2015,Percent,0.007,307
+Crown Heights North,Non-family Households,2015,Percent,0.011,308
+Crown Heights South,Non-family Households,2015,Percent,0,309
+Bay Ridge,Non-family Households,2015,Percent,0.008,310
+Bensonhurst,Non-family Households,2015,Percent,0.005,311
+Borough Park,Non-family Households,2015,Percent,0.012,312
+Coney Island,Non-family Households,2015,Percent,0.019,313
+Flatbush/Midwood,Non-family Households,2015,Percent,0.013,314
+Sheepshead Bay,Non-family Households,2015,Percent,0.03,315
+Brownsville,Non-family Households,2015,Percent,0,316
+East Flatbush,Non-family Households,2015,Percent,0.001,317
+Canarsie,Non-family Households,2015,Percent,0,318
+Astoria,Non-family Households,2015,Percent,0.015,401
+Sunnyside/Woodside,Non-family Households,2015,Percent,0.016,402
+Jackson Heights,Non-family Households,2015,Percent,0.015,403
+Elmhurst/Corona,Non-family Households,2015,Percent,0.055,404
+Ridgewood/Glendale,Non-family Households,2015,Percent,0.013,405
+Rego Park/Forest Hills,Non-family Households,2015,Percent,0.002,406
+Flushing,Non-family Households,2015,Percent,0.033,407
+Fresh Meadows/Briarwood,Non-family Households,2015,Percent,0.014,408
+Woodhaven,Non-family Households,2015,Percent,0.036,409
+Howard Beach,Non-family Households,2015,Percent,0.011,410
+Bayside,Non-family Households,2015,Percent,0,411
+Jamaica/St. Albans,Non-family Households,2015,Percent,0.018,412
+Queens Village,Non-family Households,2015,Percent,0,413
+The Rockaways,Non-family Households,2015,Percent,0,414
+St. George,Non-family Households,2015,Percent,0.004,501
+South Beach,Non-family Households,2015,Percent,0.019,502
+Tottenville,Non-family Households,2015,Percent,0,503
+Bronx,Non-family Households,2015,Percent,0.016,36005
+Brooklyn,Non-family Households,2015,Percent,0.007,36047
+Manhattan,Non-family Households,2015,Percent,0.017,36061
+Queens,Non-family Households,2015,Percent,0.017,36081
+Staten Island,Non-family Households,2015,Percent,0.005,36085
+New York City,Non-family Households,2015,Percent,0.014,3651000
+Battery Park/Tribeca,Family Households with Children,2016,Percent,0.262,101
+Greenwich Village,Family Households with Children,2016,Percent,0.262,102
+Lower East Side,Family Households with Children,2016,Percent,0.277,103
+Chelsea/Clinton,Family Households with Children,2016,Percent,0.26,104
+Midtown Business District,Family Households with Children,2016,Percent,0.26,105
+Murray Hill/Stuyvesant,Family Households with Children,2016,Percent,0.169,106
+Upper West Side,Family Households with Children,2016,Percent,0.164,107
+Upper East Side,Family Households with Children,2016,Percent,0.127,108
+Manhattanville,Family Households with Children,2016,Percent,0.221,109
+Central Harlem,Family Households with Children,2016,Percent,0.203,110
+East Harlem,Family Households with Children,2016,Percent,0.255,111
+Washington Heights,Family Households with Children,2016,Percent,0.415,112
+Mott Haven,Family Households with Children,2016,Percent,0.255,201
+Hunts Point,Family Households with Children,2016,Percent,0.255,202
+Morrisania,Family Households with Children,2016,Percent,0.275,203
+Concourse/Highbridge,Family Households with Children,2016,Percent,0.413,204
+University Heights,Family Households with Children,2016,Percent,0.36,205
+East Tremont,Family Households with Children,2016,Percent,0.275,206
+Bedford Park,Family Households with Children,2016,Percent,0.404,207
+Riverdale,Family Households with Children,2016,Percent,0.267,208
+Unionport/Soundview,Family Households with Children,2016,Percent,0.281,209
+Throgs Neck,Family Households with Children,2016,Percent,0.194,210
+Pelham Parkway,Family Households with Children,2016,Percent,0.262,211
+Williamsbridge,Family Households with Children,2016,Percent,0.217,212
+Williamsburg/Greenpoint,Family Households with Children,2016,Percent,0.387,301
+Fort Greene/Brooklyn Hts,Family Households with Children,2016,Percent,0.16,302
+Bedford Stuyvesant,Family Households with Children,2016,Percent,0.304,303
+Bushwick,Family Households with Children,2016,Percent,0.315,304
+East New York,Family Households with Children,2016,Percent,0.368,305
+Park Slope,Family Households with Children,2016,Percent,0.225,306
+Sunset Park,Family Households with Children,2016,Percent,0.513,307
+Crown Heights North,Family Households with Children,2016,Percent,0.17,308
+Crown Heights South,Family Households with Children,2016,Percent,0.297,309
+Bay Ridge,Family Households with Children,2016,Percent,0.423,310
+Bensonhurst,Family Households with Children,2016,Percent,0.419,311
+Borough Park,Family Households with Children,2016,Percent,0.481,312
+Coney Island,Family Households with Children,2016,Percent,0.338,313
+Flatbush/Midwood,Family Households with Children,2016,Percent,0.444,314
+Sheepshead Bay,Family Households with Children,2016,Percent,0.301,315
+Brownsville,Family Households with Children,2016,Percent,0.173,316
+East Flatbush,Family Households with Children,2016,Percent,0.268,317
+Canarsie,Family Households with Children,2016,Percent,0.18,318
+Astoria,Family Households with Children,2016,Percent,0.292,401
+Sunnyside/Woodside,Family Households with Children,2016,Percent,0.386,402
+Jackson Heights,Family Households with Children,2016,Percent,0.396,403
+Elmhurst/Corona,Family Households with Children,2016,Percent,0.445,404
+Ridgewood/Glendale,Family Households with Children,2016,Percent,0.194,405
+Rego Park/Forest Hills,Family Households with Children,2016,Percent,0.245,406
+Flushing,Family Households with Children,2016,Percent,0.308,407
+Fresh Meadows/Briarwood,Family Households with Children,2016,Percent,0.207,408
+Woodhaven,Family Households with Children,2016,Percent,0.275,409
+Howard Beach,Family Households with Children,2016,Percent,0.156,410
+Bayside,Family Households with Children,2016,Percent,0.16,411
+Jamaica/St. Albans,Family Households with Children,2016,Percent,0.27,412
+Queens Village,Family Households with Children,2016,Percent,0.171,413
+The Rockaways,Family Households with Children,2016,Percent,0.21,414
+St. George,Family Households with Children,2016,Percent,0.261,501
+South Beach,Family Households with Children,2016,Percent,0.254,502
+Tottenville,Family Households with Children,2016,Percent,0.146,503
+Bronx,Family Households with Children,2016,Percent,0.326,36005
+Brooklyn,Family Households with Children,2016,Percent,0.332,36047
+Manhattan,Family Households with Children,2016,Percent,0.274,36061
+Queens,Family Households with Children,2016,Percent,0.277,36081
+Staten Island,Family Households with Children,2016,Percent,0.27,36085
+New York City,Family Households with Children,2016,Percent,0.307,3651000
+Battery Park/Tribeca,Family Households without Children,2016,Percent,0.089,101
+Greenwich Village,Family Households without Children,2016,Percent,0.089,102
+Lower East Side,Family Households without Children,2016,Percent,0.094,103
+Chelsea/Clinton,Family Households without Children,2016,Percent,0.092,104
+Midtown Business District,Family Households without Children,2016,Percent,0.092,105
+Murray Hill/Stuyvesant,Family Households without Children,2016,Percent,0.05,106
+Upper West Side,Family Households without Children,2016,Percent,0.032,107
+Upper East Side,Family Households without Children,2016,Percent,0.055,108
+Manhattanville,Family Households without Children,2016,Percent,0.04,109
+Central Harlem,Family Households without Children,2016,Percent,0.052,110
+East Harlem,Family Households without Children,2016,Percent,0.061,111
+Washington Heights,Family Households without Children,2016,Percent,0.078,112
+Mott Haven,Family Households without Children,2016,Percent,0.05,201
+Hunts Point,Family Households without Children,2016,Percent,0.05,202
+Morrisania,Family Households without Children,2016,Percent,0.066,203
+Concourse/Highbridge,Family Households without Children,2016,Percent,0.106,204
+University Heights,Family Households without Children,2016,Percent,0.112,205
+East Tremont,Family Households without Children,2016,Percent,0.066,206
+Bedford Park,Family Households without Children,2016,Percent,0.107,207
+Riverdale,Family Households without Children,2016,Percent,0.044,208
+Unionport/Soundview,Family Households without Children,2016,Percent,0.058,209
+Throgs Neck,Family Households without Children,2016,Percent,0.025,210
+Pelham Parkway,Family Households without Children,2016,Percent,0.074,211
+Williamsbridge,Family Households without Children,2016,Percent,0.047,212
+Williamsburg/Greenpoint,Family Households without Children,2016,Percent,0.06,301
+Fort Greene/Brooklyn Hts,Family Households without Children,2016,Percent,0.093,302
+Bedford Stuyvesant,Family Households without Children,2016,Percent,0.025,303
+Bushwick,Family Households without Children,2016,Percent,0.078,304
+East New York,Family Households without Children,2016,Percent,0.062,305
+Park Slope,Family Households without Children,2016,Percent,0.024,306
+Sunset Park,Family Households without Children,2016,Percent,0.128,307
+Crown Heights North,Family Households without Children,2016,Percent,0.041,308
+Crown Heights South,Family Households without Children,2016,Percent,0.094,309
+Bay Ridge,Family Households without Children,2016,Percent,0.084,310
+Bensonhurst,Family Households without Children,2016,Percent,0.078,311
+Borough Park,Family Households without Children,2016,Percent,0.068,312
+Coney Island,Family Households without Children,2016,Percent,0.09,313
+Flatbush/Midwood,Family Households without Children,2016,Percent,0.081,314
+Sheepshead Bay,Family Households without Children,2016,Percent,0.078,315
+Brownsville,Family Households without Children,2016,Percent,0.011,316
+East Flatbush,Family Households without Children,2016,Percent,0.018,317
+Canarsie,Family Households without Children,2016,Percent,0.087,318
+Astoria,Family Households without Children,2016,Percent,0.057,401
+Sunnyside/Woodside,Family Households without Children,2016,Percent,0.089,402
+Jackson Heights,Family Households without Children,2016,Percent,0.146,403
+Elmhurst/Corona,Family Households without Children,2016,Percent,0.122,404
+Ridgewood/Glendale,Family Households without Children,2016,Percent,0.05,405
+Rego Park/Forest Hills,Family Households without Children,2016,Percent,0.141,406
+Flushing,Family Households without Children,2016,Percent,0.115,407
+Fresh Meadows/Briarwood,Family Households without Children,2016,Percent,0.071,408
+Woodhaven,Family Households without Children,2016,Percent,0.056,409
+Howard Beach,Family Households without Children,2016,Percent,0.042,410
+Bayside,Family Households without Children,2016,Percent,0.023,411
+Jamaica/St. Albans,Family Households without Children,2016,Percent,0.046,412
+Queens Village,Family Households without Children,2016,Percent,0.021,413
+The Rockaways,Family Households without Children,2016,Percent,0.078,414
+St. George,Family Households without Children,2016,Percent,0.038,501
+South Beach,Family Households without Children,2016,Percent,0.039,502
+Tottenville,Family Households without Children,2016,Percent,0.015,503
+Bronx,Family Households without Children,2016,Percent,0.078,36005
+Brooklyn,Family Households without Children,2016,Percent,0.07,36047
+Manhattan,Family Households without Children,2016,Percent,0.063,36061
+Queens,Family Households without Children,2016,Percent,0.079,36081
+Staten Island,Family Households without Children,2016,Percent,0.027,36085
+New York City,Family Households without Children,2016,Percent,0.071,3651000
+Battery Park/Tribeca,Non-family Households,2016,Percent,0.022,101
+Greenwich Village,Non-family Households,2016,Percent,0.022,102
+Lower East Side,Non-family Households,2016,Percent,0.011,103
+Chelsea/Clinton,Non-family Households,2016,Percent,0.018,104
+Midtown Business District,Non-family Households,2016,Percent,0.018,105
+Murray Hill/Stuyvesant,Non-family Households,2016,Percent,0.013,106
+Upper West Side,Non-family Households,2016,Percent,0.005,107
+Upper East Side,Non-family Households,2016,Percent,0.013,108
+Manhattanville,Non-family Households,2016,Percent,0.016,109
+Central Harlem,Non-family Households,2016,Percent,0.013,110
+East Harlem,Non-family Households,2016,Percent,0.01,111
+Washington Heights,Non-family Households,2016,Percent,0.005,112
+Mott Haven,Non-family Households,2016,Percent,0.009,201
+Hunts Point,Non-family Households,2016,Percent,0.009,202
+Morrisania,Non-family Households,2016,Percent,0.007,203
+Concourse/Highbridge,Non-family Households,2016,Percent,0.01,204
+University Heights,Non-family Households,2016,Percent,0.015,205
+East Tremont,Non-family Households,2016,Percent,0.007,206
+Bedford Park,Non-family Households,2016,Percent,0.01,207
+Riverdale,Non-family Households,2016,Percent,0.019,208
+Unionport/Soundview,Non-family Households,2016,Percent,0.017,209
+Throgs Neck,Non-family Households,2016,Percent,0.012,210
+Pelham Parkway,Non-family Households,2016,Percent,0.009,211
+Williamsbridge,Non-family Households,2016,Percent,0.031,212
+Williamsburg/Greenpoint,Non-family Households,2016,Percent,0.013,301
+Fort Greene/Brooklyn Hts,Non-family Households,2016,Percent,0.015,302
+Bedford Stuyvesant,Non-family Households,2016,Percent,0.02,303
+Bushwick,Non-family Households,2016,Percent,0.013,304
+East New York,Non-family Households,2016,Percent,0.001,305
+Park Slope,Non-family Households,2016,Percent,0.017,306
+Sunset Park,Non-family Households,2016,Percent,0.013,307
+Crown Heights North,Non-family Households,2016,Percent,0.015,308
+Crown Heights South,Non-family Households,2016,Percent,0.001,309
+Bay Ridge,Non-family Households,2016,Percent,0.007,310
+Bensonhurst,Non-family Households,2016,Percent,0.022,311
+Borough Park,Non-family Households,2016,Percent,0.008,312
+Coney Island,Non-family Households,2016,Percent,0.026,313
+Flatbush/Midwood,Non-family Households,2016,Percent,0.026,314
+Sheepshead Bay,Non-family Households,2016,Percent,0.03,315
+Brownsville,Non-family Households,2016,Percent,0,316
+East Flatbush,Non-family Households,2016,Percent,0.003,317
+Canarsie,Non-family Households,2016,Percent,0,318
+Astoria,Non-family Households,2016,Percent,0.009,401
+Sunnyside/Woodside,Non-family Households,2016,Percent,0.018,402
+Jackson Heights,Non-family Households,2016,Percent,0.036,403
+Elmhurst/Corona,Non-family Households,2016,Percent,0.083,404
+Ridgewood/Glendale,Non-family Households,2016,Percent,0.011,405
+Rego Park/Forest Hills,Non-family Households,2016,Percent,0,406
+Flushing,Non-family Households,2016,Percent,0.033,407
+Fresh Meadows/Briarwood,Non-family Households,2016,Percent,0.011,408
+Woodhaven,Non-family Households,2016,Percent,0.02,409
+Howard Beach,Non-family Households,2016,Percent,0.004,410
+Bayside,Non-family Households,2016,Percent,0.009,411
+Jamaica/St. Albans,Non-family Households,2016,Percent,0.013,412
+Queens Village,Non-family Households,2016,Percent,0,413
+The Rockaways,Non-family Households,2016,Percent,0,414
+St. George,Non-family Households,2016,Percent,0.004,501
+South Beach,Non-family Households,2016,Percent,0.015,502
+Tottenville,Non-family Households,2016,Percent,0,503
+Bronx,Non-family Households,2016,Percent,0.015,36005
+Brooklyn,Non-family Households,2016,Percent,0.017,36047
+Manhattan,Non-family Households,2016,Percent,0.013,36061
+Queens,Non-family Households,2016,Percent,0.017,36081
+Staten Island,Non-family Households,2016,Percent,0.004,36085
+New York City,Non-family Households,2016,Percent,0.015,3651000
+Battery Park/Tribeca,Family Households with Children,2017,Percent,0.268,101
+Greenwich Village,Family Households with Children,2017,Percent,0.268,102
+Lower East Side,Family Households with Children,2017,Percent,0.316,103
+Chelsea/Clinton,Family Households with Children,2017,Percent,0.13,104
+Midtown Business District,Family Households with Children,2017,Percent,0.13,105
+Murray Hill/Stuyvesant,Family Households with Children,2017,Percent,0.19,106
+Upper West Side,Family Households with Children,2017,Percent,0.195,107
+Upper East Side,Family Households with Children,2017,Percent,0.156,108
+Manhattanville,Family Households with Children,2017,Percent,0.224,109
+Central Harlem,Family Households with Children,2017,Percent,0.203,110
+East Harlem,Family Households with Children,2017,Percent,0.273,111
+Washington Heights,Family Households with Children,2017,Percent,0.382,112
+Mott Haven,Family Households with Children,2017,Percent,0.266,201
+Hunts Point,Family Households with Children,2017,Percent,0.266,202
+Morrisania,Family Households with Children,2017,Percent,0.299,203
+Concourse/Highbridge,Family Households with Children,2017,Percent,0.424,204
+University Heights,Family Households with Children,2017,Percent,0.369,205
+East Tremont,Family Households with Children,2017,Percent,0.299,206
+Bedford Park,Family Households with Children,2017,Percent,0.41,207
+Riverdale,Family Households with Children,2017,Percent,0.281,208
+Unionport/Soundview,Family Households with Children,2017,Percent,0.264,209
+Throgs Neck,Family Households with Children,2017,Percent,0.2,210
+Pelham Parkway,Family Households with Children,2017,Percent,0.269,211
+Williamsbridge,Family Households with Children,2017,Percent,0.26,212
+Williamsburg/Greenpoint,Family Households with Children,2017,Percent,0.361,301
+Fort Greene/Brooklyn Hts,Family Households with Children,2017,Percent,0.165,302
+Bedford Stuyvesant,Family Households with Children,2017,Percent,0.283,303
+Bushwick,Family Households with Children,2017,Percent,0.293,304
+East New York,Family Households with Children,2017,Percent,0.343,305
+Park Slope,Family Households with Children,2017,Percent,0.198,306
+Sunset Park,Family Households with Children,2017,Percent,0.503,307
+Crown Heights North,Family Households with Children,2017,Percent,0.172,308
+Crown Heights South,Family Households with Children,2017,Percent,0.313,309
+Bay Ridge,Family Households with Children,2017,Percent,0.402,310
+Bensonhurst,Family Households with Children,2017,Percent,0.413,311
+Borough Park,Family Households with Children,2017,Percent,0.479,312
+Coney Island,Family Households with Children,2017,Percent,0.31,313
+Flatbush/Midwood,Family Households with Children,2017,Percent,0.437,314
+Sheepshead Bay,Family Households with Children,2017,Percent,0.328,315
+Brownsville,Family Households with Children,2017,Percent,0.182,316
+East Flatbush,Family Households with Children,2017,Percent,0.291,317
+Canarsie,Family Households with Children,2017,Percent,0.206,318
+Astoria,Family Households with Children,2017,Percent,0.307,401
+Sunnyside/Woodside,Family Households with Children,2017,Percent,0.365,402
+Jackson Heights,Family Households with Children,2017,Percent,0.406,403
+Elmhurst/Corona,Family Households with Children,2017,Percent,0.458,404
+Ridgewood/Glendale,Family Households with Children,2017,Percent,0.181,405
+Rego Park/Forest Hills,Family Households with Children,2017,Percent,0.246,406
+Flushing,Family Households with Children,2017,Percent,0.3,407
+Fresh Meadows/Briarwood,Family Households with Children,2017,Percent,0.26,408
+Woodhaven,Family Households with Children,2017,Percent,0.265,409
+Howard Beach,Family Households with Children,2017,Percent,0.155,410
+Bayside,Family Households with Children,2017,Percent,0.185,411
+Jamaica/St. Albans,Family Households with Children,2017,Percent,0.269,412
+Queens Village,Family Households with Children,2017,Percent,0.183,413
+The Rockaways,Family Households with Children,2017,Percent,0.21,414
+St. George,Family Households with Children,2017,Percent,0.221,501
+South Beach,Family Households with Children,2017,Percent,0.289,502
+Tottenville,Family Households with Children,2017,Percent,0.104,503
+Bronx,Family Households with Children,2017,Percent,0.312,36005
+Brooklyn,Family Households with Children,2017,Percent,0.304,36047
+Manhattan,Family Households with Children,2017,Percent,0.242,36061
+Queens,Family Households with Children,2017,Percent,0.297,36081
+Staten Island,Family Households with Children,2017,Percent,0.182,36085
+New York City,Family Households with Children,2017,Percent,0.292,3651000
+Battery Park/Tribeca,Family Households without Children,2017,Percent,0.096,101
+Greenwich Village,Family Households without Children,2017,Percent,0.096,102
+Lower East Side,Family Households without Children,2017,Percent,0.105,103
+Chelsea/Clinton,Family Households without Children,2017,Percent,0.101,104
+Midtown Business District,Family Households without Children,2017,Percent,0.101,105
+Murray Hill/Stuyvesant,Family Households without Children,2017,Percent,0.079,106
+Upper West Side,Family Households without Children,2017,Percent,0.046,107
+Upper East Side,Family Households without Children,2017,Percent,0.074,108
+Manhattanville,Family Households without Children,2017,Percent,0.017,109
+Central Harlem,Family Households without Children,2017,Percent,0.058,110
+East Harlem,Family Households without Children,2017,Percent,0.056,111
+Washington Heights,Family Households without Children,2017,Percent,0.089,112
+Mott Haven,Family Households without Children,2017,Percent,0.048,201
+Hunts Point,Family Households without Children,2017,Percent,0.048,202
+Morrisania,Family Households without Children,2017,Percent,0.082,203
+Concourse/Highbridge,Family Households without Children,2017,Percent,0.119,204
+University Heights,Family Households without Children,2017,Percent,0.102,205
+East Tremont,Family Households without Children,2017,Percent,0.082,206
+Bedford Park,Family Households without Children,2017,Percent,0.11,207
+Riverdale,Family Households without Children,2017,Percent,0.048,208
+Unionport/Soundview,Family Households without Children,2017,Percent,0.074,209
+Throgs Neck,Family Households without Children,2017,Percent,0.041,210
+Pelham Parkway,Family Households without Children,2017,Percent,0.08,211
+Williamsbridge,Family Households without Children,2017,Percent,0.039,212
+Williamsburg/Greenpoint,Family Households without Children,2017,Percent,0.055,301
+Fort Greene/Brooklyn Hts,Family Households without Children,2017,Percent,0.094,302
+Bedford Stuyvesant,Family Households without Children,2017,Percent,0.029,303
+Bushwick,Family Households without Children,2017,Percent,0.077,304
+East New York,Family Households without Children,2017,Percent,0.076,305
+Park Slope,Family Households without Children,2017,Percent,0.031,306
+Sunset Park,Family Households without Children,2017,Percent,0.13,307
+Crown Heights North,Family Households without Children,2017,Percent,0.033,308
+Crown Heights South,Family Households without Children,2017,Percent,0.087,309
+Bay Ridge,Family Households without Children,2017,Percent,0.083,310
+Bensonhurst,Family Households without Children,2017,Percent,0.067,311
+Borough Park,Family Households without Children,2017,Percent,0.068,312
+Coney Island,Family Households without Children,2017,Percent,0.085,313
+Flatbush/Midwood,Family Households without Children,2017,Percent,0.094,314
+Sheepshead Bay,Family Households without Children,2017,Percent,0.074,315
+Brownsville,Family Households without Children,2017,Percent,0.009,316
+East Flatbush,Family Households without Children,2017,Percent,0.026,317
+Canarsie,Family Households without Children,2017,Percent,0.071,318
+Astoria,Family Households without Children,2017,Percent,0.052,401
+Sunnyside/Woodside,Family Households without Children,2017,Percent,0.076,402
+Jackson Heights,Family Households without Children,2017,Percent,0.158,403
+Elmhurst/Corona,Family Households without Children,2017,Percent,0.141,404
+Ridgewood/Glendale,Family Households without Children,2017,Percent,0.044,405
+Rego Park/Forest Hills,Family Households without Children,2017,Percent,0.129,406
+Flushing,Family Households without Children,2017,Percent,0.101,407
+Fresh Meadows/Briarwood,Family Households without Children,2017,Percent,0.063,408
+Woodhaven,Family Households without Children,2017,Percent,0.056,409
+Howard Beach,Family Households without Children,2017,Percent,0.039,410
+Bayside,Family Households without Children,2017,Percent,0.019,411
+Jamaica/St. Albans,Family Households without Children,2017,Percent,0.059,412
+Queens Village,Family Households without Children,2017,Percent,0.022,413
+The Rockaways,Family Households without Children,2017,Percent,0.065,414
+St. George,Family Households without Children,2017,Percent,0.033,501
+South Beach,Family Households without Children,2017,Percent,0.032,502
+Tottenville,Family Households without Children,2017,Percent,0.015,503
+Bronx,Family Households without Children,2017,Percent,0.068,36005
+Brooklyn,Family Households without Children,2017,Percent,0.059,36047
+Manhattan,Family Households without Children,2017,Percent,0.09,36061
+Queens,Family Households without Children,2017,Percent,0.076,36081
+Staten Island,Family Households without Children,2017,Percent,0.009,36085
+New York City,Family Households without Children,2017,Percent,0.072,3651000
+Battery Park/Tribeca,Non-family Households,2017,Percent,0.026,101
+Greenwich Village,Non-family Households,2017,Percent,0.026,102
+Lower East Side,Non-family Households,2017,Percent,0.009,103
+Chelsea/Clinton,Non-family Households,2017,Percent,0.019,104
+Midtown Business District,Non-family Households,2017,Percent,0.019,105
+Murray Hill/Stuyvesant,Non-family Households,2017,Percent,0.012,106
+Upper West Side,Non-family Households,2017,Percent,0.006,107
+Upper East Side,Non-family Households,2017,Percent,0.013,108
+Manhattanville,Non-family Households,2017,Percent,0.014,109
+Central Harlem,Non-family Households,2017,Percent,0.013,110
+East Harlem,Non-family Households,2017,Percent,0.007,111
+Washington Heights,Non-family Households,2017,Percent,0.007,112
+Mott Haven,Non-family Households,2017,Percent,0.007,201
+Hunts Point,Non-family Households,2017,Percent,0.007,202
+Morrisania,Non-family Households,2017,Percent,0.006,203
+Concourse/Highbridge,Non-family Households,2017,Percent,0.012,204
+University Heights,Non-family Households,2017,Percent,0.013,205
+East Tremont,Non-family Households,2017,Percent,0.006,206
+Bedford Park,Non-family Households,2017,Percent,0.014,207
+Riverdale,Non-family Households,2017,Percent,0.018,208
+Unionport/Soundview,Non-family Households,2017,Percent,0.018,209
+Throgs Neck,Non-family Households,2017,Percent,0.012,210
+Pelham Parkway,Non-family Households,2017,Percent,0,211
+Williamsbridge,Non-family Households,2017,Percent,0.029,212
+Williamsburg/Greenpoint,Non-family Households,2017,Percent,0.015,301
+Fort Greene/Brooklyn Hts,Non-family Households,2017,Percent,0.015,302
+Bedford Stuyvesant,Non-family Households,2017,Percent,0.018,303
+Bushwick,Non-family Households,2017,Percent,0.012,304
+East New York,Non-family Households,2017,Percent,0.004,305
+Park Slope,Non-family Households,2017,Percent,0.015,306
+Sunset Park,Non-family Households,2017,Percent,0.013,307
+Crown Heights North,Non-family Households,2017,Percent,0.018,308
+Crown Heights South,Non-family Households,2017,Percent,0.001,309
+Bay Ridge,Non-family Households,2017,Percent,0.001,310
+Bensonhurst,Non-family Households,2017,Percent,0.024,311
+Borough Park,Non-family Households,2017,Percent,0,312
+Coney Island,Non-family Households,2017,Percent,0.025,313
+Flatbush/Midwood,Non-family Households,2017,Percent,0.025,314
+Sheepshead Bay,Non-family Households,2017,Percent,0.027,315
+Brownsville,Non-family Households,2017,Percent,0.001,316
+East Flatbush,Non-family Households,2017,Percent,0.003,317
+Canarsie,Non-family Households,2017,Percent,0.005,318
+Astoria,Non-family Households,2017,Percent,0.009,401
+Sunnyside/Woodside,Non-family Households,2017,Percent,0.018,402
+Jackson Heights,Non-family Households,2017,Percent,0.035,403
+Elmhurst/Corona,Non-family Households,2017,Percent,0.066,404
+Ridgewood/Glendale,Non-family Households,2017,Percent,0.013,405
+Rego Park/Forest Hills,Non-family Households,2017,Percent,0,406
+Flushing,Non-family Households,2017,Percent,0.019,407
+Fresh Meadows/Briarwood,Non-family Households,2017,Percent,0.012,408
+Woodhaven,Non-family Households,2017,Percent,0.012,409
+Howard Beach,Non-family Households,2017,Percent,0,410
+Bayside,Non-family Households,2017,Percent,0.009,411
+Jamaica/St. Albans,Non-family Households,2017,Percent,0.013,412
+Queens Village,Non-family Households,2017,Percent,0,413
+The Rockaways,Non-family Households,2017,Percent,0.002,414
+St. George,Non-family Households,2017,Percent,0.013,501
+South Beach,Non-family Households,2017,Percent,0.005,502
+Tottenville,Non-family Households,2017,Percent,0,503
+Bronx,Non-family Households,2017,Percent,0.005,36005
+Brooklyn,Non-family Households,2017,Percent,0.011,36047
+Manhattan,Non-family Households,2017,Percent,0.01,36061
+Queens,Non-family Households,2017,Percent,0.009,36081
+Staten Island,Non-family Households,2017,Percent,0.018,36085
+New York City,Non-family Households,2017,Percent,0.009,3651000
+Battery Park/Tribeca,Family Households with Children,2018,Percent,0.273,101
+Greenwich Village,Family Households with Children,2018,Percent,0.273,102
+Lower East Side,Family Households with Children,2018,Percent,0.286,103
+Chelsea/Clinton,Family Households with Children,2018,Percent,0.165,104
+Midtown Business District,Family Households with Children,2018,Percent,0.165,105
+Murray Hill/Stuyvesant,Family Households with Children,2018,Percent,0.22,106
+Upper West Side,Family Households with Children,2018,Percent,0.191,107
+Upper East Side,Family Households with Children,2018,Percent,0.183,108
+Manhattanville,Family Households with Children,2018,Percent,0.229,109
+Central Harlem,Family Households with Children,2018,Percent,0.209,110
+East Harlem,Family Households with Children,2018,Percent,0.278,111
+Washington Heights,Family Households with Children,2018,Percent,0.374,112
+Mott Haven,Family Households with Children,2018,Percent,0.283,201
+Hunts Point,Family Households with Children,2018,Percent,0.283,202
+Morrisania,Family Households with Children,2018,Percent,0.294,203
+Concourse/Highbridge,Family Households with Children,2018,Percent,0.427,204
+University Heights,Family Households with Children,2018,Percent,0.375,205
+East Tremont,Family Households with Children,2018,Percent,0.294,206
+Bedford Park,Family Households with Children,2018,Percent,0.422,207
+Riverdale,Family Households with Children,2018,Percent,0.32,208
+Unionport/Soundview,Family Households with Children,2018,Percent,0.281,209
+Throgs Neck,Family Households with Children,2018,Percent,0.184,210
+Pelham Parkway,Family Households with Children,2018,Percent,0.237,211
+Williamsbridge,Family Households with Children,2018,Percent,0.283,212
+Williamsburg/Greenpoint,Family Households with Children,2018,Percent,0.332,301
+Fort Greene/Brooklyn Hts,Family Households with Children,2018,Percent,0.166,302
+Bedford Stuyvesant,Family Households with Children,2018,Percent,0.276,303
+Bushwick,Family Households with Children,2018,Percent,0.275,304
+East New York,Family Households with Children,2018,Percent,0.36,305
+Park Slope,Family Households with Children,2018,Percent,0.196,306
+Sunset Park,Family Households with Children,2018,Percent,0.486,307
+Crown Heights North,Family Households with Children,2018,Percent,0.158,308
+Crown Heights South,Family Households with Children,2018,Percent,0.299,309
+Bay Ridge,Family Households with Children,2018,Percent,0.429,310
+Bensonhurst,Family Households with Children,2018,Percent,0.393,311
+Borough Park,Family Households with Children,2018,Percent,0.461,312
+Coney Island,Family Households with Children,2018,Percent,0.293,313
+Flatbush/Midwood,Family Households with Children,2018,Percent,0.402,314
+Sheepshead Bay,Family Households with Children,2018,Percent,0.295,315
+Brownsville,Family Households with Children,2018,Percent,0.186,316
+East Flatbush,Family Households with Children,2018,Percent,0.258,317
+Canarsie,Family Households with Children,2018,Percent,0.185,318
+Astoria,Family Households with Children,2018,Percent,0.294,401
+Sunnyside/Woodside,Family Households with Children,2018,Percent,0.359,402
+Jackson Heights,Family Households with Children,2018,Percent,0.442,403
+Elmhurst/Corona,Family Households with Children,2018,Percent,0.472,404
+Ridgewood/Glendale,Family Households with Children,2018,Percent,0.181,405
+Rego Park/Forest Hills,Family Households with Children,2018,Percent,0.231,406
+Flushing,Family Households with Children,2018,Percent,0.318,407
+Fresh Meadows/Briarwood,Family Households with Children,2018,Percent,0.266,408
+Woodhaven,Family Households with Children,2018,Percent,0.263,409
+Howard Beach,Family Households with Children,2018,Percent,0.154,410
+Bayside,Family Households with Children,2018,Percent,0.184,411
+Jamaica/St. Albans,Family Households with Children,2018,Percent,0.247,412
+Queens Village,Family Households with Children,2018,Percent,0.202,413
+The Rockaways,Family Households with Children,2018,Percent,0.183,414
+St. George,Family Households with Children,2018,Percent,0.246,501
+South Beach,Family Households with Children,2018,Percent,0.303,502
+Tottenville,Family Households with Children,2018,Percent,0.105,503
+Bronx,Family Households with Children,2018,Percent,0.331,36005
+Brooklyn,Family Households with Children,2018,Percent,0.288,36047
+Manhattan,Family Households with Children,2018,Percent,0.239,36061
+Queens,Family Households with Children,2018,Percent,0.295,36081
+Staten Island,Family Households with Children,2018,Percent,0.235,36085
+New York City,Family Households with Children,2018,Percent,0.292,3651000
+Battery Park/Tribeca,Family Households without Children,2018,Percent,0.066,101
+Greenwich Village,Family Households without Children,2018,Percent,0.066,102
+Lower East Side,Family Households without Children,2018,Percent,0.103,103
+Chelsea/Clinton,Family Households without Children,2018,Percent,0.121,104
+Midtown Business District,Family Households without Children,2018,Percent,0.121,105
+Murray Hill/Stuyvesant,Family Households without Children,2018,Percent,0.086,106
+Upper West Side,Family Households without Children,2018,Percent,0.03,107
+Upper East Side,Family Households without Children,2018,Percent,0.088,108
+Manhattanville,Family Households without Children,2018,Percent,0.042,109
+Central Harlem,Family Households without Children,2018,Percent,0.069,110
+East Harlem,Family Households without Children,2018,Percent,0.061,111
+Washington Heights,Family Households without Children,2018,Percent,0.076,112
+Mott Haven,Family Households without Children,2018,Percent,0.042,201
+Hunts Point,Family Households without Children,2018,Percent,0.042,202
+Morrisania,Family Households without Children,2018,Percent,0.092,203
+Concourse/Highbridge,Family Households without Children,2018,Percent,0.128,204
+University Heights,Family Households without Children,2018,Percent,0.067,205
+East Tremont,Family Households without Children,2018,Percent,0.092,206
+Bedford Park,Family Households without Children,2018,Percent,0.12,207
+Riverdale,Family Households without Children,2018,Percent,0.046,208
+Unionport/Soundview,Family Households without Children,2018,Percent,0.07,209
+Throgs Neck,Family Households without Children,2018,Percent,0.022,210
+Pelham Parkway,Family Households without Children,2018,Percent,0.093,211
+Williamsbridge,Family Households without Children,2018,Percent,0.03,212
+Williamsburg/Greenpoint,Family Households without Children,2018,Percent,0.048,301
+Fort Greene/Brooklyn Hts,Family Households without Children,2018,Percent,0.069,302
+Bedford Stuyvesant,Family Households without Children,2018,Percent,0.034,303
+Bushwick,Family Households without Children,2018,Percent,0.054,304
+East New York,Family Households without Children,2018,Percent,0.079,305
+Park Slope,Family Households without Children,2018,Percent,0.025,306
+Sunset Park,Family Households without Children,2018,Percent,0.124,307
+Crown Heights North,Family Households without Children,2018,Percent,0.028,308
+Crown Heights South,Family Households without Children,2018,Percent,0.081,309
+Bay Ridge,Family Households without Children,2018,Percent,0.076,310
+Bensonhurst,Family Households without Children,2018,Percent,0.074,311
+Borough Park,Family Households without Children,2018,Percent,0.094,312
+Coney Island,Family Households without Children,2018,Percent,0.082,313
+Flatbush/Midwood,Family Households without Children,2018,Percent,0.098,314
+Sheepshead Bay,Family Households without Children,2018,Percent,0.072,315
+Brownsville,Family Households without Children,2018,Percent,0.014,316
+East Flatbush,Family Households without Children,2018,Percent,0.049,317
+Canarsie,Family Households without Children,2018,Percent,0.051,318
+Astoria,Family Households without Children,2018,Percent,0.059,401
+Sunnyside/Woodside,Family Households without Children,2018,Percent,0.092,402
+Jackson Heights,Family Households without Children,2018,Percent,0.147,403
+Elmhurst/Corona,Family Households without Children,2018,Percent,0.177,404
+Ridgewood/Glendale,Family Households without Children,2018,Percent,0.049,405
+Rego Park/Forest Hills,Family Households without Children,2018,Percent,0.147,406
+Flushing,Family Households without Children,2018,Percent,0.11,407
+Fresh Meadows/Briarwood,Family Households without Children,2018,Percent,0.062,408
+Woodhaven,Family Households without Children,2018,Percent,0.08,409
+Howard Beach,Family Households without Children,2018,Percent,0.031,410
+Bayside,Family Households without Children,2018,Percent,0.035,411
+Jamaica/St. Albans,Family Households without Children,2018,Percent,0.074,412
+Queens Village,Family Households without Children,2018,Percent,0.016,413
+The Rockaways,Family Households without Children,2018,Percent,0.043,414
+St. George,Family Households without Children,2018,Percent,0.026,501
+South Beach,Family Households without Children,2018,Percent,0.024,502
+Tottenville,Family Households without Children,2018,Percent,0,503
+Bronx,Family Households without Children,2018,Percent,0.078,36005
+Brooklyn,Family Households without Children,2018,Percent,0.06,36047
+Manhattan,Family Households without Children,2018,Percent,0.08,36061
+Queens,Family Households without Children,2018,Percent,0.113,36081
+Staten Island,Family Households without Children,2018,Percent,0.019,36085
+New York City,Family Households without Children,2018,Percent,0.08,3651000
+Battery Park/Tribeca,Non-family Households,2018,Percent,0.025,101
+Greenwich Village,Non-family Households,2018,Percent,0.025,102
+Lower East Side,Non-family Households,2018,Percent,0.008,103
+Chelsea/Clinton,Non-family Households,2018,Percent,0.014,104
+Midtown Business District,Non-family Households,2018,Percent,0.014,105
+Murray Hill/Stuyvesant,Non-family Households,2018,Percent,0.009,106
+Upper West Side,Non-family Households,2018,Percent,0.002,107
+Upper East Side,Non-family Households,2018,Percent,0.014,108
+Manhattanville,Non-family Households,2018,Percent,0.013,109
+Central Harlem,Non-family Households,2018,Percent,0.013,110
+East Harlem,Non-family Households,2018,Percent,0.008,111
+Washington Heights,Non-family Households,2018,Percent,0.004,112
+Mott Haven,Non-family Households,2018,Percent,0.008,201
+Hunts Point,Non-family Households,2018,Percent,0.008,202
+Morrisania,Non-family Households,2018,Percent,0.005,203
+Concourse/Highbridge,Non-family Households,2018,Percent,0.014,204
+University Heights,Non-family Households,2018,Percent,0.01,205
+East Tremont,Non-family Households,2018,Percent,0.005,206
+Bedford Park,Non-family Households,2018,Percent,0.012,207
+Riverdale,Non-family Households,2018,Percent,0.016,208
+Unionport/Soundview,Non-family Households,2018,Percent,0.015,209
+Throgs Neck,Non-family Households,2018,Percent,0,210
+Pelham Parkway,Non-family Households,2018,Percent,0,211
+Williamsbridge,Non-family Households,2018,Percent,0.026,212
+Williamsburg/Greenpoint,Non-family Households,2018,Percent,0.021,301
+Fort Greene/Brooklyn Hts,Non-family Households,2018,Percent,0.018,302
+Bedford Stuyvesant,Non-family Households,2018,Percent,0.017,303
+Bushwick,Non-family Households,2018,Percent,0.016,304
+East New York,Non-family Households,2018,Percent,0.005,305
+Park Slope,Non-family Households,2018,Percent,0.015,306
+Sunset Park,Non-family Households,2018,Percent,0.017,307
+Crown Heights North,Non-family Households,2018,Percent,0.014,308
+Crown Heights South,Non-family Households,2018,Percent,0.001,309
+Bay Ridge,Non-family Households,2018,Percent,0.001,310
+Bensonhurst,Non-family Households,2018,Percent,0.025,311
+Borough Park,Non-family Households,2018,Percent,0.014,312
+Coney Island,Non-family Households,2018,Percent,0.02,313
+Flatbush/Midwood,Non-family Households,2018,Percent,0.023,314
+Sheepshead Bay,Non-family Households,2018,Percent,0.022,315
+Brownsville,Non-family Households,2018,Percent,0.001,316
+East Flatbush,Non-family Households,2018,Percent,0.003,317
+Canarsie,Non-family Households,2018,Percent,0.007,318
+Astoria,Non-family Households,2018,Percent,0.007,401
+Sunnyside/Woodside,Non-family Households,2018,Percent,0.019,402
+Jackson Heights,Non-family Households,2018,Percent,0.042,403
+Elmhurst/Corona,Non-family Households,2018,Percent,0.065,404
+Ridgewood/Glendale,Non-family Households,2018,Percent,0.012,405
+Rego Park/Forest Hills,Non-family Households,2018,Percent,0.002,406
+Flushing,Non-family Households,2018,Percent,0.015,407
+Fresh Meadows/Briarwood,Non-family Households,2018,Percent,0.013,408
+Woodhaven,Non-family Households,2018,Percent,0.006,409
+Howard Beach,Non-family Households,2018,Percent,0,410
+Bayside,Non-family Households,2018,Percent,0.01,411
+Jamaica/St. Albans,Non-family Households,2018,Percent,0.005,412
+Queens Village,Non-family Households,2018,Percent,0,413
+The Rockaways,Non-family Households,2018,Percent,0.01,414
+St. George,Non-family Households,2018,Percent,0.015,501
+South Beach,Non-family Households,2018,Percent,0,502
+Tottenville,Non-family Households,2018,Percent,0,503
+Bronx,Non-family Households,2018,Percent,0.008,36005
+Brooklyn,Non-family Households,2018,Percent,0.011,36047
+Manhattan,Non-family Households,2018,Percent,0.01,36061
+Queens,Non-family Households,2018,Percent,0.015,36081
+Staten Island,Non-family Households,2018,Percent,0.006,36085
+New York City,Non-family Households,2018,Percent,0.011,3651000
