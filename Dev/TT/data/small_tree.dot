@@ -1,0 +1,33 @@
+digraph Tree {
+node [shape=box, style="rounded", color="black", fontname=helvetica] ;
+edge [fontname=helvetica] ;
+0 [label="Employment_Ratio <= 0.7\nmse = 144910.0\nsamples = 468\nvalue = 1273.0"] ;
+1 [label="Employment_Ratio <= 0.5\nmse = 43585.5\nsamples = 400\nvalue = 1144.2"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="Median_Income <= 36307.0\nmse = 22931.1\nsamples = 108\nvalue = 903.9"] ;
+1 -> 2 ;
+3 [label="mse = 13901.5\nsamples = 78\nvalue = 846.4"] ;
+2 -> 3 ;
+4 [label="mse = 11842.6\nsamples = 30\nvalue = 1070.3"] ;
+2 -> 4 ;
+5 [label="Employment_Ratio <= 0.6\nmse = 24642.3\nsamples = 292\nvalue = 1224.8"] ;
+1 -> 5 ;
+6 [label="mse = 18227.9\nsamples = 174\nvalue = 1162.3"] ;
+5 -> 6 ;
+7 [label="mse = 20226.8\nsamples = 118\nvalue = 1314.4"] ;
+5 -> 7 ;
+8 [label="Median_Income <= 105691.8\nmse = 77152.2\nsamples = 68\nvalue = 2021.0"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label="Median_Income <= 90427.6\nmse = 45688.5\nsamples = 34\nvalue = 1829.4"] ;
+8 -> 9 ;
+10 [label="mse = 10245.0\nsamples = 13\nvalue = 1643.0"] ;
+9 -> 10 ;
+11 [label="mse = 35231.0\nsamples = 21\nvalue = 1933.6"] ;
+9 -> 11 ;
+12 [label="Median_Income <= 125240.8\nmse = 36665.7\nsamples = 34\nvalue = 2209.0"] ;
+8 -> 12 ;
+13 [label="mse = 17408.9\nsamples = 24\nvalue = 2136.0"] ;
+12 -> 13 ;
+14 [label="mse = 27576.2\nsamples = 10\nvalue = 2439.2"] ;
+12 -> 14 ;
+}
